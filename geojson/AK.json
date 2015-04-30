@@ -1,0 +1,2540 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.442044019, 
+                    60.1043799120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEWARD MUSEUM</h3><b><a href=\"http://www.museumsusa.org/museums/info/1160173\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072243902\" target=\"_blank\">Phone</a><br>336 3RD AVE SEWARD AK 99664", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.407286465, 
+                    61.5914299680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASILLA-KNIK-WILLOW CREEK HSTR</h3><a href=\"tel:9073767755\" target=\"_blank\">Phone</a><br>KNIK RD WASILLA AK 99654", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -166.533838458, 
+                    53.8710172220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNALASKA HISTORIC PRESERVATION COMMISSION</h3><a href=\"tel:9075811483\" target=\"_blank\">Phone</a><br>CITY GOVERNMENT OFFICE UNALASKA AK 99685-0610", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.887292005, 
+                    61.2194307540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WOLF SONG OF ALASKA</h3><a href=\"tel:9076889653\" target=\"_blank\">Phone</a><br>300 C ST ANCHORAGE AK 99501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.087835585, 
+                    60.4779130770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOLDOTNA HISTORICAL SOCIETY</h3><a href=\"tel:9072623832\" target=\"_blank\">Phone</a><br>461 CENTENNIAL PARK RD SOLDOTNA AK 99669", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.313887455, 
+                    59.4561769500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SKAGWAY HISTORICAL MUSEUM & ARCHIVES</h3><a href=\"tel:9079832420\" target=\"_blank\">Phone</a><br>PO BOX 521 SKAGWAY AK 99840", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -131.633720697, 
+                    55.3420299630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TOTEM HERITAGE CENTER</h3><b><a href=\"http://www.city.ketchikan.ak.us/departments/museums/totem.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072255900\" target=\"_blank\">Phone</a><br>601 DEERMOUNT ST KETCHIKAN AK 99901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.323358117, 
+                    57.0504394290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHELDON JACKSON MUSEUM</h3><a href=\"tel:9077478981\" target=\"_blank\">Phone</a><br>104 COLLEGE DRIE SITKA AK 99835-7657", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.905796029, 
+                    61.2184912120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OSCAR ANDERSON HOUSE</h3><b><a href=\"http://www.aahp-online.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072742336\" target=\"_blank\">Phone</a><br>420 M STREET ANCHORAGE AK 99501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.883222367, 
+                    61.2162988690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RUSSIAN ORTHODOX MUSEUM</h3><a href=\"tel:9072767257\" target=\"_blank\">Phone</a><br>605 A ST ANCHORAGE AK 99501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -162.60536582, 
+                    66.8944588340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NANA MUSEUM OF THE ARCTIC</h3><a href=\"tel:9074423301\" target=\"_blank\">Phone</a><br>100 SHORE AVENUE KOTZEBUE AK 99752", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.997099947, 
+                    61.2429184510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF ALASKA TRANSPORTATION AND INDUSTRY</h3><a href=\"tel:9073761211\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.365207745, 
+                    64.7762494800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KIND HEART ALASKA MUSEUM</h3><a href=\"tel:9074900054\" target=\"_blank\">Phone</a><br>5 CHENA HOT SPRINGS RD NORTH POLE AK 99705", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.386860458, 
+                    57.7989468390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KODIAK MILITARY HISTORY MUSEUM</h3><b><a href=\"http://www.kadiak.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9074867015\" target=\"_blank\">Phone</a><br>1417 MILL BAY RD KODIAK AK 99615", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.406758208, 
+                    58.2997756050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JUNEAU DOUGLAS CITY MUSEUM</h3><a href=\"tel:9075863572\" target=\"_blank\">Phone</a><br>155 S. SEWARD JUNEAU AK 99801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.635958778, 
+                    60.9158593220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOPE AND SUNRISE MUSEUM</h3><a href=\"tel:9077823740\" target=\"_blank\">Phone</a><br>2ND ST HOPE AK 99605", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.407286465, 
+                    61.5914299680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KNIK MUSEUM</h3><a href=\"tel:9073767755\" target=\"_blank\">Phone</a><br>KNIK RD WASILLA AK 99654", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.386369782, 
+                    58.3080321240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAST CHANCE MINING MUSEUM</h3><b><a href=\"http://www.traveljuneau.com/cms/d/juneau_museums.php\" target=\"_blank\">Website</a></b><br><a href=\"tel:9075865338\" target=\"_blank\">Phone</a><br>1001 BASIN RD JUNEAU AK 99801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.717668376, 
+                    64.8436046090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAIRBANKS ICE MUSEUM</h3><b><a href=\"http://www.icemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:9074518222\" target=\"_blank\">Phone</a><br>500 2ND AVE FAIRBANKS AK 99701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.441431679, 
+                    61.5826995200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOROTHY G PAGE MUSEUM</h3><b><a href=\"http://www.cityofwasilla.com/museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:9073739071\" target=\"_blank\">Phone</a><br>323 N MAIN ST WASILLA AK 99654", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -132.387158142, 
+                    56.4728498910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE WRANGELL MUSEUM</h3><b><a href=\"http://www.wrangell.com/visitorservices/th\" target=\"_blank\">Website</a></b><br><a href=\"tel:9078742381\" target=\"_blank\">Phone</a><br>PO BOX 675 WRANGELL AK 99929-0675", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -141.200596497, 
+                    64.7780961070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EAGLE HISTORICAL SOCIETY</h3><a href=\"tel:9075472230\" target=\"_blank\">Phone</a><br>PO BOX 670573 EAGLE CITY AK 99738", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.109729491, 
+                    61.5987814330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLONY HOUSE MUSEUM</h3><b><a href=\"http://palmerhistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077451935\" target=\"_blank\">Phone</a><br>316 E ELMWOOD AVE PALMER AK 99645", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -150.986949413, 
+                    60.5012828590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN TROPHY TAXIDERMY</h3><a href=\"tel:9072627950\" target=\"_blank\">Phone</a><br>41653 STERLING HWY SOLDOTNA AK 99669", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.724366675, 
+                    64.8426771950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKALAND PIONEER AIR MUSEUM</h3><b><a href=\"http://co.fairbanks.ak.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:9074510037\" target=\"_blank\">Phone</a><br>AIRPORT WAY FAIRBANKS AK 99707-0437", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.886339733, 
+                    61.2175969820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA TROOPER MUSEUM</h3><b><a href=\"http://www.alaskatroopermuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072795050\" target=\"_blank\">Phone</a><br>245 W 5TH AVE ANCHORAGE AK 99501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.888019225, 
+                    61.1953170540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA HERITAGE MUSEUM</h3><b><a href=\"http://www.wellsfargohistory.com/museums/museum_anchorage.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072652834\" target=\"_blank\">Phone</a><br>301 W NORTHERN LIGHTS BLVD ANCHORAGE AK 99503", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.403259794, 
+                    57.7873858160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BARANOV MUSEUM</h3><a href=\"tel:9074865920\" target=\"_blank\">Phone</a><br>101 MARINE WAY KODIAK AK 99615", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.402247123, 
+                    57.7887360430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALUTIIQ MUSEUM AND ARCHAEOLOGICAL REPOSITORY</h3><a href=\"tel:9074867048\" target=\"_blank\">Phone</a><br>215 MISSION ROAD, SUITE 101 KODIAK AK 99615", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.830912918, 
+                    61.0970667270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND IGLOO FOUNDATION INC</h3>2721 CUTWATER CIRCLE ANCHORAGE AK 99516-3471", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.877798955, 
+                    61.2185220060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA VETERANS MUSEUM</h3><b><a href=\"http://www.alaskaveterans.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:9076778802\" target=\"_blank\">Phone</a><br>334 W 4TH AVENUE 227 ANCHORAGE AK 99501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.200695717, 
+                    57.7747684470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TENAKEE HISTORICAL COLLECTION</h3><a href=\"tel:9077362243\" target=\"_blank\">Phone</a><br>PO BOX 633 TENAKEE SPRINGS AK 99841", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -150.043439429, 
+                    61.7382273390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILLOW HISTORICAL AND WILDLIFE FOUNDATION</h3>PO BOX 38 WILLOW AK 99688-0038", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.701427439, 
+                    64.8395912970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAIRBANKS HOCKEY HALL OF FAME INC</h3>219 SLATER DR FAIRBANKS AK 99701-3429", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.7300873, 
+                    68.1468874960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SIMON PANEAK MEMORIAL MUSEUM INC</h3><b><a href=\"http://spmm.nsb-ihlc.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:9076613413\" target=\"_blank\">Phone</a><br>PO BOX 21085 ANAKTUVUK PASS AK 99721", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.113699631, 
+                    61.5985788990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PALMER MUSEUM OF HISTORY AND ART</h3><b><a href=\"http://palmermuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077467668\" target=\"_blank\">Phone</a><br>723 S VALLEY WAY PALMER AK 99645-6601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.227677152, 
+                    61.6891366860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PELELIO WAR HISOTIRCAL SOCIETY INC</h3>9201 N SUN VALLEY DRIVE PALMER AK 99645-9254", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.261382466, 
+                    60.5552359420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KENAI BICENTENNIAL VISITORS AND CULT. CENTER</h3><a href=\"tel:9072831991\" target=\"_blank\">Phone</a><br>11471 KENAI SPUR HWY KENAI AK 99611-7757", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -136.56157751, 
+                    58.7477585640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GUSTAVUS HISTORICAL ARCHIVES AND ANTIQUITIES</h3><b><a href=\"http://www.gustavushistory.org\" target=\"_blank\">Website</a></b><br>PO BOX 14 GUSTAVUS AK 99826", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.230885948, 
+                    60.5667791300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KENAI HISTORICAL SOCIETY INC</h3>PO BOX 1348 KENAI AK 99611-1348", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.740689336, 
+                    61.2187115110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VETERANS IN SERVICE TO ALASKANS</h3>7500 E 4TH AVE ANCHORAGE AK 99504-1310", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.930579546, 
+                    59.4157785160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN BALD EAGLE FOUNDATION</h3><b><a href=\"http://www.baldeagles.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077663094\" target=\"_blank\">Phone</a><br>PO BOX 49 HAINES AK 99827-0049", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.897259989, 
+                    61.2185764890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE JESSE LEE HOME</h3><b><a href=\"http://www.jesseleehome.net/?\" target=\"_blank\">Website</a></b><br>745 W 4TH AVENUE SUITE 250 SEWARD AK 99501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.414426076, 
+                    58.3000953960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE ALASKA STATE MUSEUM</h3><b><a href=\"http://museums.alaska.gov\" target=\"_blank\">Website</a></b><br><a href=\"tel:9074652901\" target=\"_blank\">Phone</a><br>395 WHITTIER ST JUNEAU AK 99801-1718", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.829506343, 
+                    64.8485460260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA CHILDRENS MUSEUM ASSOCIATION</h3>PO BOX 81280 COLLEGE AK 99708", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.593947901, 
+                    60.9273697420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOPE AND SUNRISE HISTORICAL SOCIETY</h3><b><a href=\"http://www.hopeandsunrisehistoricalsociety.\" target=\"_blank\">Website</a></b><br>PO BOX 88 HOPE AK 99605", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.829498425, 
+                    64.8485472970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF ALASKA FOUNDATION</h3><a href=\"tel:9074508030\" target=\"_blank\">Phone</a><br>910 YUKON DRIVE FAIRBANKS AK 99775-5080", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.123997186, 
+                    61.5969799050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OUTDOOR HERITAGE FOUNDATION</h3>PO BOX 4752 PALMER AK 99645-4752", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.829498425, 
+                    64.8485472970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEORGESON BOTANICAL GARDEN SOCIETY</h3>PO BOX 81777 FAIRBANKS AK 99708-1777", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.32344628, 
+                    57.0500182570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SITKA SOUND SCIENCE CENTER</h3><b><a href=\"http://www.sitkasoundsciencecenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077478878\" target=\"_blank\">Phone</a><br>834 LINCOLN STREET SUITE 200 SITKA AK 99835-7650", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.859349527, 
+                    61.1102075740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS MUSEUM OF ALASKA</h3>PO BOX 112772 ANCHORAGE AK 99511-9951", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.731737687, 
+                    58.3754522690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHALE PROJECT</h3>15225 POINT LOUISA RD JUNEAU AK 99801-8425", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.949652346, 
+                    61.1332409650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW YORK ALASKA HOUSE INC</h3>3806 N POINT CIR ANCHORAGE AK 99502-1516", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.392947318, 
+                    58.2756577960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TREADWELL HISTORIC PRESERVATION AND RESTORATION SOCIETY INC</h3>PO BOX 240584 DOUGLAS AK 99824-0584", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.724366675, 
+                    64.8426771950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAIRBANKS CHILDRENS MUSEUM</h3>PO BOX 72477 FAIRBANKS AK 99707-2477", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.768819063, 
+                    61.1946573380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAL HOPKINS WW II MEMORIAL INC</h3>5929 CAMDEN CIR ANCHORAGE AK 99504-3815", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.420476114, 
+                    58.3017567840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE JUNEAU-DOUGLAS CITY MUSEUM</h3><b><a href=\"http://www.juneaumuseumfriends.org\" target=\"_blank\">Website</a></b><br>PO BOX 22450 JUNEAU AK 99802", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.792539233, 
+                    61.1230964970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MIDNIGHT SUN CHAPTER OF THE AMERICAN ASSOCIATION OF ZOO KEEP</h3>4731 OMALLEY ROAD ANCHORAGE AK 99507", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.781858346, 
+                    58.4817127580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF JENSEN-OLSON ARBORETUM</h3><a href=\"tel:9077890139\" target=\"_blank\">Phone</a><br>23035 GLACIER HIGHWAY JUNEAU AK 99801", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.340518279, 
+                    57.0505658140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAPE DECISION LIGHTHOUSE SOCIETY</h3>224 KATLIAN ST SITKA AK 99835-7501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.834402189, 
+                    61.1819201980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIO GRANDE MODELING & HISTORICAL SOCIETY</h3>4231 LAUREL ST ANCHORAGE AK 99508-5336", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.430428633, 
+                    58.2931938410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STORIS MUSEUM</h3>3201 NOWELL AVE JUNEAU AK 99801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.829498425, 
+                    64.8485472970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC HALL INC</h3>PO BOX 80589 FAIRBANKS AK 99708-0589", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.230885948, 
+                    60.5667791300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUBBELL FAMILY HISTORICAL SOCIETY</h3>PO BOX 1390 KENAI AK 99611-1390", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.41480864, 
+                    58.3028527010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE ALASKA GOVERNORS MANSION FOUNDATION</h3>716 CALHOUN AVE JUNEAU AK 99801-1617", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.420476114, 
+                    58.3017567840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE MARIE DRAKE PLANETARIUM</h3><b><a href=\"http://mariedrakeplanetarium.org\" target=\"_blank\">Website</a></b><br>PO BOX 23042 JUNEAU AK 99802", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.405417606, 
+                    58.3003906420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAUDIA KELSEY DOLL MUSEUM TR DBA AUNT CLAUDIAS DOLLS A MUSE</h3>114 S FRANKLIN ST STE 103 JUNEAU AK 99801-1360", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.647341375, 
+                    64.8754267930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAIRBANKS TIRED IRON CHARITABLE FOUNDATION</h3>375 PARKLAND DR FAIRBANKS AK 99712-1650", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.631879704, 
+                    58.7783358130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRISTOL BAY HISTORICAL SOCIETY INC</h3>PO BOX 276 NAKNEK AK 99633-0276", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.930578431, 
+                    59.4157770890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILKAT VALLEY HISTORICAL SOCIETY INC</h3>BOX 623 HAINES AK 99827", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -148.680391219, 
+                    60.7739484300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITTIER MUSEUM ASSOCIATION</h3>100 WHITTIER STREET WHITTIER AK 99693", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.829328198, 
+                    64.8577965430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN HISTORY ASSOCIATION</h3><b><a href=\"http://www.westernhistoryassociation.org\" target=\"_blank\">Website</a></b><br>605 GRUENING FAIRBANKS AK 99775-0001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.829498425, 
+                    64.8485472970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA MINING HALL OF FAME FOUNDATION</h3>PO BOX 81906 FAIRBANKS AK 99708-1906", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.930579546, 
+                    59.4157785160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAMMER MUSEUM INC</h3><b><a href=\"http://www.hammermuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 702 HAINES AK 99827-0702", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.526909535, 
+                    61.3153192760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLENN HIGHWAY SCENIC BYWAY ASSOCIATION INC</h3>PO BOX 773423 EAGLE RIVER AK 99577-3423", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.592769771, 
+                    58.3735464220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRED K KOKEN FOUNDATION</h3>PO BOX 35201 JUNEAU AK 99803-5201", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.733588405, 
+                    61.1987167120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RUSSIAN ORTHODOX SACRED SITES IN ALASKA INC</h3>PO BOX 212315 ANCHORAGE AK 99521-2315", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.86103956, 
+                    61.1893973750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA JEWISH HISTORICAL MUSEUM AND CULTURAL CENTER</h3><a href=\"tel:9077707021\" target=\"_blank\">Phone</a><br>1117 E 35TH AVE ANCHORAGE AK 99508-4258", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.930579546, 
+                    59.4157785160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JILKAAT KWAAN HERITAGE CENTER</h3><a href=\"tel:9077675485\" target=\"_blank\">Phone</a><br>PO BOX 976 HAINES AK 99827-0976", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.871239695, 
+                    61.1461664260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRIBILOF ALEUTS INC</h3>615 E 82ND AVE STE 200 ANCHORAGE AK 99518-3159", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.594649387, 
+                    58.3725113810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOLDBELT HERITAGE FOUNDATION</h3><b><a href=\"http://www.goldbelt.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077901435\" target=\"_blank\">Phone</a><br>3075 VINTAGE BLVD SUITE 200 JUNEAU AK 99801-7109", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.756608985, 
+                    61.1149122270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA SPORTS HALL OF FAME INC</h3>6740 SAMUEL CT ANCHORAGE AK 99516-6908", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.879898914, 
+                    61.1806919650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCKINLEY HISTORICAL SOCIETY & MUSEUM INC</h3>240 E TUDOR RD ANCHORAGE AK 99503", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.406329935, 
+                    58.2831963800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA LIGHTHOUSE ASSOCIATION</h3>2116 B 2ND ST DOUGLAS AK 99824-5115", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.437264611, 
+                    60.1019068530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEWARD COMMUNITY LIBRARY</h3><b><a href=\"http://cityofseward.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072244082\" target=\"_blank\">Phone</a><br>239 6TH AVE SEWARD AK 99664-2389", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.710341305, 
+                    64.8442223390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAIRBANKS NATIVE ASSOCIATION</h3><b><a href=\"http://www.childrenareprecious.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9074526201\" target=\"_blank\">Phone</a><br>201 1ST AVE STE 200 FAIRBANKS AK 99701-4848", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.792539233, 
+                    61.1230964970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA ZOO</h3><b><a href=\"http://www.alaskazoo.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9073462133\" target=\"_blank\">Phone</a><br>4731 OMALLEY RD ANCHORAGE AK 99507-6573", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -131.680937112, 
+                    55.3620564130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITY OF SAXMAN</h3>ROUTE 2, BOX 1 - SAXMAN KETCHIKAN AK 99901", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.724366675, 
+                    64.8426771950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER MEMORIAL PARK INC</h3><a href=\"tel:9074568579\" target=\"_blank\">Phone</a><br>PO BOX 70176 FAIRBANKS AK 99707-0176", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.316809802, 
+                    71.0955298880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INUPIAT HERITAGE CENTER</h3><b><a href=\"http://www.nps.gov/inup\" target=\"_blank\">Website</a></b><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.868469361, 
+                    61.2135818340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA GEOGRAPHIC ASSOCIATION</h3><b><a href=\"http://www.alaskageographic.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072748440\" target=\"_blank\">Phone</a><br>810 E 9TH AVE ANCHORAGE AK 99501-3826", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.724366675, 
+                    64.8426771950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TANANA YUKON HISTORICAL SOCIETY</h3>PO BOX 71336 FAIRBANKS AK 99707-1336", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -166.533838458, 
+                    53.8710172220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OUNALASHKA CORPORATION</h3>P.O. BOX 149 UNALASKA AK 99685-0149", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.439416998, 
+                    61.5825597600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASILLA-KINK HISTORICAL SOCIETY</h3>300 N BOUNDARY ST WASILLA AK 99654-7128", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.997099947, 
+                    61.2429184510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF ALASKA TRANSPORATION AND INDUSTRY INC</h3>PO BOX 870646 WASILLA AK 99687-0646", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.850559904, 
+                    61.2175271020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA HISTORICAL MUSEUM INC</h3>1675 E 5TH AVE ANCHORAGE AK 99501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -145.301686423, 
+                    61.9609162010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COPPER VALLEY HISTORICAL SOCIETY</h3>PO BOX 84 COPPER CENTER AK 99573", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.972044793, 
+                    61.1785067290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA AVIATION HERITAGE MUSEUM</h3><b><a href=\"http://www.alaskaairmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072485325\" target=\"_blank\">Phone</a><br>4721 AIRCRAFT DR ANCHORAGE AK 99502-1080", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -144.816788155, 
+                    65.5708076000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CIRCLE DISTRICT HISTORICAL SOCIETY</h3><b><a href=\"http://www.cdhs.us\" target=\"_blank\">Website</a></b><br>PO BOX 30189 CENTRAL AK 99730", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.332722496, 
+                    57.0508500720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SITKA HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.sitkahistory.org\" target=\"_blank\">Website</a></b><br>330 HARBOR DR SITKA AK 99835-7553", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.840727498, 
+                    64.8580225870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE UNIVERSITY OF ALASKA MUSEUM INCORPORATED</h3><b><a href=\"http://www.uaf.edu/museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:9074747505\" target=\"_blank\">Phone</a><br>907 YUKON DRIVE FAIRBANKS AK 99775", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.408149535, 
+                    58.3002790760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEALASKA HERITAGE INSTITUTE</h3><a href=\"tel:9074634844\" target=\"_blank\">Phone</a><br>1 SEALASKA PLZ STE 301 JUNEAU AK 99801-1245", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.888179351, 
+                    61.2194467320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA ASSOCIATION FOR HISTORIC PRESERVATION INC</h3><b><a href=\"http://www.aahp-online.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:9079299870\" target=\"_blank\">Phone</a><br>PO BOX 102205 ANCHORAGE AK 99510-2205", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.529848387, 
+                    59.6434394180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTER FOR ALASKAN COASTAL STUDIES</h3>PO BOX 2225 HOMER AK 99603-2225", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -132.945108972, 
+                    56.8106957840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAUSEN MEMORIAL MUSEUM</h3><b><a href=\"http://www.clausenmuseum.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077723598\" target=\"_blank\">Phone</a><br>PO BOX 708 PETERSBURG AK 99833-0708", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -141.20058877, 
+                    64.7780973790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EAGLE HISTORICAL SOCIETY OF ALASKA</h3><b><a href=\"http://www.eagleak.org\" target=\"_blank\">Website</a></b><br>PO BOX 23 EAGLE AK 99738-0023", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.988596061, 
+                    61.1846983480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA MASONIC LIBRARY AND MUSEUM FOUNDATION</h3>PO BOX 190668 ANCHORAGE AK 99519", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.478828667, 
+                    59.6687693800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUMS ALASKA</h3><a href=\"tel:9073063409\" target=\"_blank\">Phone</a><br>PO BOX 3004 ANCHORAGE AK 99603", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -148.877365991, 
+                    61.7108277360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALPINE HISTORICAL SOCIETY</h3>PO BOX 266 SUTTON AK 99674-0266", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.724366675, 
+                    64.8426771950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERIOR AND ARCTIC ALASKA AERONAUTICAL FOUNDATION INC I A A</h3>PO BOX 70437 FAIRBANKS AK 99707-0437", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.103736405, 
+                    62.6245897210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TOCHAK HISTORICAL SOCIETY</h3><a href=\"tel:9075243016\" target=\"_blank\">Phone</a><br>PO BOX 236 MCGRATH AK 99627-9962", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -146.03402841, 
+                    62.5638682690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCCARTHY-KENNICOTT HISTORICAL MUSEUM</h3>PO BOX MXY GLENNALLEN AK 99588", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -148.123077403, 
+                    63.0754679180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TALKEETNA HISTORICAL SOCIETY</h3><b><a href=\"http://www.talkeetnahistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077332487\" target=\"_blank\">Phone</a><br>PO BOX 76 TALKEETNA AK 99676-0076", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.420476114, 
+                    58.3017567840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GASTINEAU CHANNEL HISTORICAL SOCIETY</h3><a href=\"tel:9075865338\" target=\"_blank\">Phone</a><br>PO BOX 21264 JUNEAU AK 99802-9980", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.323358117, 
+                    57.0504394290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF SHELDON JACKSON MUSEUM</h3><b><a href=\"http://www.museums.state.ak.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077478981\" target=\"_blank\">Phone</a><br>104 COLLEGE DR SITKA AK 99835-7657", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -146.034016198, 
+                    62.5638565710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AHTNA HERITAGE FOUNDATION</h3>PO BOX 213 GLENNALLEN AK 99588-0213", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.762553537, 
+                    61.1775331450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA BOTANICAL GARDEN INC</h3><b><a href=\"http://www.alaskabg.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077703692\" target=\"_blank\">Phone</a><br>4601 CAMPBELL AIRSTRIP RD ANCHORAGE AK 99507-1381", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.462786293, 
+                    59.0397472780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAMUEL K FOX MUSEUM ASSOC</h3><a href=\"tel:9078424831\" target=\"_blank\">Phone</a><br>PO BOX 273 DILLINGHAM AK 99576", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.123996451, 
+                    61.5969785400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PALMER HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.palmerhistoricalsociety.org\" target=\"_blank\">Website</a></b><br>PO BOX 1935 PALMER AK 99645", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.072449672, 
+                    60.4907458810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOLDOTNA HISTORICAL SOCIETY AND MUSEUM INC</h3>PO BOX 1986 SOLDOTNA AK 99669-1986", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.895189641, 
+                    61.2195571800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANCHORAGE HISTORIC PROPERTIES INC</h3><b><a href=\"http://www.anchoragehistoricproperties.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072743600\" target=\"_blank\">Phone</a><br>645 WEST 3RD AVENUE ANCHORAGE AK 99501-2174", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -145.734019648, 
+                    64.0396897860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITESTONE FARMS INC</h3>PO BOX 1229 DELTA JCT AK 99737-1229", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.720380519, 
+                    61.2327450680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA NATIVE HERITAGE CENTER</h3><b><a href=\"http://www.alaskanative.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:9073308000\" target=\"_blank\">Phone</a><br>8800 HERITAGE CENTER DRIVE ANCHORAGE AK 99504-6100", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.888179351, 
+                    61.2194467320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL GALLERY OF CONTEMPORARY ARTS INC</h3>PO BOX 100239 ANCHORAGE AK 99510-0239", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.884169895, 
+                    61.2156166490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANCHORAGE MUSEUM</h3><b><a href=\"http://www.anchoragemuseum.org\" target=\"_blank\">Website</a></b><br>121 WEST SEVENTH AVENUE ANCHORAGE AK 99501-3611", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.382189714, 
+                    60.1955187410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEWARD ASSOCIATION FOR THE ADVANCEMENT OF MARINE SCIENCE</h3><a href=\"tel:9072246885\" target=\"_blank\">Phone</a><br>ALASKA SEALIFE CENTERPO SEWARD AK 99664", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.829506343, 
+                    64.8485460260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOG MUSHING MUSEUM</h3><a href=\"tel:9074576874\" target=\"_blank\">Phone</a><br>PO BOX 80136 FAIRBANKS AK 99708", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.930579546, 
+                    59.4157785160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHELDON MUSEUM AND CULTURAL CENTER INC</h3><b><a href=\"http://www.sheldonmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077662366\" target=\"_blank\">Phone</a><br>PO BOX 269 HAINES AK 99827-0269", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.80833215, 
+                    61.2251191670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://www.alaskamuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072742400\" target=\"_blank\">Phone</a><br>201 N BRAGAW ST ANCHORAGE AK 99508-1311", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.720754375, 
+                    64.8420885860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE FAIRBANKS COMMUNITY MUSEUM</h3><b><a href=\"http://www.fairbankshistorymuseum.com\" target=\"_blank\">Website</a></b><br>410 CUSHMAN STREET FAIRBANKS AK 99701-4632", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.691988606, 
+                    61.2502688260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA NATIONAL GUARD HISTORICAL HOLDING-MUSEUM FUND INC</h3>PO BPX 5800 FORT RICHARDSON AK 99505-9950", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.883256461, 
+                    61.1855774160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANCHORAGE GENEALOGICAL SOCIETY</h3>PO BOX 242294 ANCHORAGE AK 99524-2294", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.770969951, 
+                    61.2096815730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA TERRITORIAL CAVALRY MOTORIZED</h3><a href=\"tel:9075625359\" target=\"_blank\">Phone</a><br>5910 DEBARR ROAD ANCHORAGE AK 99516-2872", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.461368749, 
+                    61.4067281290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHUGIAK-EAGLE RIVER HISTORICAL SOCIETY</h3>PO BOX 670573 CHUGIAK AK 99567", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.402247123, 
+                    57.7887360430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALUTIIQ HERITAGE FOUNDATION</h3><b><a href=\"http://www.alutiiqmuseum.com\" target=\"_blank\">Website</a></b><br>215 MISSION RD STE 101 KODIAK AK 99615-7326", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.930579546, 
+                    59.4157785160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILKAT INDIAN VILLAGE</h3><b><a href=\"http://chilkatindianvillage.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077675473\" target=\"_blank\">Phone</a><br>PO BOX 1004 HAINES AK 99827-1004", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.883256461, 
+                    61.1855774160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANCHORAGE CLAY ARTS GUILD</h3>PO BOX 241151 ANCHORAGE AK 99524-1151", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -146.354147505, 
+                    61.1260291170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VALDEZ MUSEUM AND HISTORICAL ARCHIVE ASSOCIATION INCORPORATE</h3>PO BOX 8 VALDEZ AK 99686-0008", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.744169131, 
+                    61.1203770930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA ZOO FOUNDATION</h3>11090 HIDEAWAY LAKE DR ANCHORAGE AK 99507-6141", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -166.533838458, 
+                    53.8710172220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE ALEUTIANS</h3><a href=\"tel:9075815150\" target=\"_blank\">Phone</a><br>PO BOX 648 UNALASKA AK 99685-0648", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -165.409198992, 
+                    64.4979661930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NOME HISTORICAL FOUNDATION INC</h3>PO BOX 514 NOME AK 99762-0514", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -146.35414669, 
+                    61.1260277390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VALDEZ HISTORICAL PRESERVATION AND RESTORATION COMMITTEE</h3>PO BOX 448 VALDEZ AK 99686", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.266472973, 
+                    60.5633895460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA EDUCATORS HISTORICAL SOCIETY</h3><a href=\"tel:2142472478\" target=\"_blank\">Phone</a><br>214 BIRCH STREET KENAI AK 99611", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.40496723, 
+                    57.7914590870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KODIAK MARITIME MUSEUM AND ART CENTER</h3><b><a href=\"http://www.kodiakmaritimemuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 1876 KODIAK AK 99615-1876", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -145.761167242, 
+                    60.5457666840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAPE ST ELIAS LIGHTKEEPERS ASSOCIATION</h3>PO BOX 1023 CORDOVA AK 99574-1023", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.382186096, 
+                    60.1955158010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDITAROD NATIONAL HISTORIC TRAIL INC</h3>PO BOX 2323 SEWARD AK 99664-2323", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -132.387158142, 
+                    56.4728498910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STIKINE RIVER HISTORICAL FOUNDATION</h3>PO BOX 1499 WRANGELL AK 99929-1499", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.312937031, 
+                    57.0493669290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SITKA MARITIME HERITAGE SOCIETY INC</h3>PO BOX 2153 SITKA AK 99835-2153", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.896079133, 
+                    61.2146371430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE TED STEVENS FOUNDATION</h3>701 W 8TH AVE 700 STE ANCHORAGE AK 99501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.312937031, 
+                    57.0493669290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SITKA CANCER SURVIVORS SOCIETY INC</h3>PO BOX 1624 SITKA AK 99835-1624", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.258528872, 
+                    60.3253358720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KASILOF REGIONAL HISTORICAL ASSOCIATION</h3>PO BOX 3 KASILOF AK 99610-0003", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.884506266, 
+                    61.1815696120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE ALUTIIQ HERITAGE ENDOWMENT</h3>4300 B ST STE 407 ANCHORAGE AK 99503-5946", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.216974129, 
+                    60.5622323780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA CHALLENGER CENTER FOR SPACE SCIENCE TECHNOLOGY INCORP</h3>9711 KENAI SPUR HWY KENAI AK 99611-7804", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -132.387156925, 
+                    56.4728483790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WRANGELL MUSEUM</h3><a href=\"tel:9078743770\" target=\"_blank\">Phone</a><br>296 CAMPBELL DR WRANGELL AK 99929", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -146.35414669, 
+                    61.1260277390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAXINE & JESSE WHITNEY MUSEUM</h3><b><a href=\"http://www.mjwhitneymuscuni.org\" target=\"_blank\">Website</a></b><br>PO BOX 97 VALDEZ AK 99686", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -132.387158142, 
+                    56.4728498910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA NATIVE SISTERHOOD ASSOCIATION</h3>PO BOX 2 WRANGELL AK 99929-0002", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.403259794, 
+                    57.7873858160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KODIAK HISTORICAL SOCIETY</h3><b><a href=\"http://www.baranov.us\" target=\"_blank\">Website</a></b><br>101 E MARINE WAY KODIAK AK 99615-6307", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.549058881, 
+                    59.6449379690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOMER SOCIETY OF NATURAL HISTORY INC</h3><b><a href=\"http://www.prattmuseum.org\" target=\"_blank\">Website</a></b><br>3779 BARTLETT ST HOMER AK 99603-7504", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -131.643242893, 
+                    55.3422871680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TONGASS HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.city.ketchikan.ak.us/departments/museums/index.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072255600\" target=\"_blank\">Phone</a><br>629 DOCK ST KETCHIKAN AK 99901", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.382189714, 
+                    60.1955187410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RESURRECTION BAY HISTORICAL SOCIETY INC</h3>PO BOX 55 SEWARD AK 99664", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -165.409198992, 
+                    64.4979661930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEERS OF ALASKA</h3>PO BOX 146 NOME AK 99762-0146", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.887312133, 
+                    61.2160584340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANCHORAGE MUSEUM ASSOCIATION</h3><a href=\"tel:9073434326\" target=\"_blank\">Phone</a><br>625 C ST ANCHORAGE AK 99501-3544", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -145.761167242, 
+                    60.5457666840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CORDOVA HISTORICAL SOCIETY</h3><b><a href=\"http://www.cordovamuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 391 CORDOVA AK 99574-0391", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.536989747, 
+                    59.6459115530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KACHEMAK HERITAGE LAND TRUST</h3><b><a href=\"http://kachemaklandtrust.org\" target=\"_blank\">Website</a></b><br>315 KLONDIKE AVE HOMER AK 99603-7630", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -131.693386789, 
+                    55.3559358440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC KETCHIKAN INC</h3><a href=\"tel:9072255515\" target=\"_blank\">Phone</a><br>PO BOX 23364 KETCHIKAN AK 99901-8364", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -133.430289653, 
+                    56.7838566850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAKE TRIBAL HERITAGE FOUNDATION</h3><a href=\"tel:9077853165\" target=\"_blank\">Phone</a><br>PO BOX 317 KAKE AK 99830-0317", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -131.680937112, 
+                    55.3620564130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OCEANSALASKA</h3><a href=\"tel:9072257900\" target=\"_blank\">Phone</a><br>PO BOX 6383 KETCHIKAN AK 99901", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.54458892, 
+                    59.6397869710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUNNELL STREET GALLERY</h3><a href=\"tel:9072352662\" target=\"_blank\">Phone</a><br>106 W BUNNELL AVE HOMER AK 99603-7851", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.441431679, 
+                    61.5826995200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOROTHY PAGE MUSEUM</h3><a href=\"tel:9073739071\" target=\"_blank\">Phone</a><br>323 N MAIN ST. WASILLA AK 99654", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

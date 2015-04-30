@@ -1,0 +1,2840 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.438836982, 
+                    42.1781441130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN HISTORY CENTER</h3><a href=\"tel:3078373052\" target=\"_blank\">Phone</a><br>2308 US HIGHWAY 26 LINGLE WY 82223", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.19861012, 
+                    43.6430661750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING DINOSAUR CENTER</h3><b><a href=\"http://www.wyodino.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3078645522\" target=\"_blank\">Phone</a><br>110 CARTER RANCH RD THERMOPOLIS WY 82443", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.455428108, 
+                    42.8999155030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VETRANS MEMORIAL MUSEUM</h3><b><a href=\"http://www.wvmm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3074721857\" target=\"_blank\">Phone</a><br>3740 JOURGENSEN AVE CASPER WY 82604", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.329810814, 
+                    42.8354717790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WERNER WILDLIFE MUSEUM</h3><b><a href=\"http://www.caspercollege.edu/werner\" target=\"_blank\">Website</a></b><br><a href=\"tel:3072352108\" target=\"_blank\">Phone</a><br>405 W 15TH ST CASPER WY 82601", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.5847655, 
+                    41.3205558640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING CHILDREN'S MUSEUM & NATURE CENTER</h3><b><a href=\"http://www.wcmnc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077429749\" target=\"_blank\">Phone</a><br>LABONTE PEAK 968 NORTH 9TH STREET LARAMIE WY 82072-2761", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.965338247, 
+                    41.2684712210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UINTA COUNTY MUSEUM</h3><b><a href=\"http://www.uintacounty.com/index.asp?nid=28\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077898248\" target=\"_blank\">Phone</a><br>1020 FRONT STREET EVANSTON WY 82930", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.242123194, 
+                    41.7922709880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING FRONTIER PRISON MUSEUM</h3><b><a href=\"http://wyomingfrontierprison.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3073244422\" target=\"_blank\">Phone</a><br>500 W WALNUT ST RAWLINS WY 82301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.488457511, 
+                    43.7584628690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WRIGHT CENTENNIAL MUSEUM</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.461746455, 
+                    42.8988188620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAR BIRDS MUSEUM</h3><a href=\"tel:3072595910\" target=\"_blank\">Phone</a><br>8220 FULLER ST CASPER WY 82604", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.95790739, 
+                    44.7864455210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>T REX NATURAL HISTORY MUSEUM</h3><a href=\"tel:3076553359\" target=\"_blank\">Phone</a><br>1116 BIG HORN AVE SHERIDAN WY 82801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.939367444, 
+                    44.8049765690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHERIDAN COUNTY HISTORICAL SOCIETY AND MUSEUM</h3><b><a href=\"http://www.sheridancountyhistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3076730644\" target=\"_blank\">Phone</a><br>850 SIBLEY CIR SHERIDAN WY 82801", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.44571748, 
+                    44.0340509770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TEN SLEEP MUSEUM</h3><a href=\"tel:3073662759\" target=\"_blank\">Phone</a><br>436 2ND ST TEN SLEEP WY 82442", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.895128659, 
+                    43.0461513580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHOSHONE TRIBAL CULTURAL CENTER</h3><a href=\"tel:3073323177\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.872558059, 
+                    42.9915436740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHOSHONE CULTURAL CENTER</h3><a href=\"tel:3073329106\" target=\"_blank\">Phone</a><br>90 ETHETE RD FORT WASHAKIE WY 82514", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.810372831, 
+                    42.4714698880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH PASS CITY-STATE HISTORIC SITE</h3><b><a href=\"http://www.southpasscity.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3073323684\" target=\"_blank\">Phone</a><br>125 S PASS MAIN ST SOUTH PASS CITY WY 82520", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.586013057, 
+                    41.3124474330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCKY MOUNTAIN HERBARIUM LIBR</h3><a href=\"tel:3077662236\" target=\"_blank\">Phone</a><br>1000 E UNIVERSITY AVE LARAMIE WY 82071", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.056421112, 
+                    44.5188671650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PARK COUNTY ARCHIVES</h3>1501 STAMPEDE AVE UNIT 9001 CODY WY 82414", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.219063048, 
+                    41.5857183440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCK SPRINGS HISTORICAL MUSEUM</h3><a href=\"tel:3073623138\" target=\"_blank\">Phone</a><br>212 D STREET ROCK SPRINGS WY 82901", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.211952493, 
+                    43.6452976030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD WEST WAX MUSEUM</h3><a href=\"tel:3078649396\" target=\"_blank\">Phone</a><br>119 S 6TH ST THERMOPOLIS WY 82443", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.643838509, 
+                    43.5373422250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL BIGHORN SHEEP CENTER</h3><b><a href=\"http://www.bighorn.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3074553429\" target=\"_blank\">Phone</a><br>907 W RAMSHORN DUBOIS WY 82513", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.230219573, 
+                    41.5806399130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY MUSEUM</h3><a href=\"tel:3073821666\" target=\"_blank\">Phone</a><br>WESTERN ARCHAEOLOGY SERVICES 1000 DEWER DRIVE ROCK SPRINGS WY 82901-5802", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.54967535, 
+                    43.4301471050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LUCIUS BURCH CENTER</h3><a href=\"tel:3074552353\" target=\"_blank\">Phone</a><br>704 TRAIL LAKE RD DUBOIS WY 82513", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.906919675, 
+                    42.8959923130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE MOUNTAIN MAN</h3><a href=\"tel:3073674101\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.138713438, 
+                    41.2971938060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NICI SELF HISTORICAL MUSEUM</h3><b><a href=\"http://www.cvha.qwestoffice.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077453108\" target=\"_blank\">Phone</a><br>2734 HIGHWAY 130 CENTENNIAL WY 82055", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.4848766, 
+                    44.4764809230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF FLIGHT AND AERIAL</h3><a href=\"tel:3077654322\" target=\"_blank\">Phone</a><br>2441 US HIGHWAY 20 GREYBULL WY 82426", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.789257591, 
+                    41.1319710420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MESSENGER BROTHERS CARRIAGE</h3><a href=\"tel:3076358959\" target=\"_blank\">Phone</a><br>616 CROOK AVE CHEYENNE WY 82001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.763788948, 
+                    43.4804704310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSON HOLE MUSEUM</h3><a href=\"tel:3077332414\" target=\"_blank\">Phone</a><br>105 N GLENWOOD ST JACKSON WY 83001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.755644155, 
+                    44.7528247870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOMESTEADER MUSEUM</h3><b><a href=\"http://www.homesteadermuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077549481\" target=\"_blank\">Phone</a><br>324 E 1ST ST POWELL WY 82435", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.706106198, 
+                    44.3424533340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JIM GATCHELL MUSEUM OF THE WEST</h3><a href=\"tel:3076849331\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.213821444, 
+                    43.6462123370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOT SPRINGS, THERMOPOLIS, MUSEUM CULTURAL CENTER</h3><a href=\"tel:3078645183\" target=\"_blank\">Phone</a><br>700 BROADWAY ST THERMOPOLIS WY 82443", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.325670119, 
+                    42.8340623320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDA GOODSTEIN VISUAL ARTS CENTER</h3><a href=\"tel:3072682060\" target=\"_blank\">Phone</a><br>125 COLLEGE DR CASPER WY 82601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.814609877, 
+                    41.1385172720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC GOVERNORS' MANSION</h3><a href=\"tel:3077777878\" target=\"_blank\">Phone</a><br>300 E 21ST ST CHEYENNE WY 82001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.100179224, 
+                    44.5144509030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC WYOMING TERRITORY</h3><a href=\"tel:3075875362\" target=\"_blank\">Phone</a><br>140 W YELLOWSTONE AVE CODY WY 82414", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.764469983, 
+                    43.4834373770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSON HOLE HISTORICAL</h3><b><a href=\"http://www.jacksonholehistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077339605\" target=\"_blank\">Phone</a><br>105 MERCILL AVE JACKSON WY 83001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.213821444, 
+                    43.6462123370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOT SPRINGS COUNTY MUSEUM AND CULTURAL CENTER</h3><a href=\"tel:3078645183\" target=\"_blank\">Phone</a><br>700 BROADWAY THERMOPOLIS WY 82443", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.87382024, 
+                    42.8614364060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLENROCK PALEONTOLOGICAL MSM</h3><b><a href=\"http://www.paleon.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3074362667\" target=\"_blank\">Phone</a><br>506 W BIRCH ST GLENROCK WY 82637", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.487920382, 
+                    42.8410645550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT FETTERMAN STATE HISTORIC SITE</h3><b><a href=\"http://wyoparks.state.wy.us/Site/SiteInfo.asp%3FsiteID=15\" target=\"_blank\">Website</a></b><br><a href=\"tel:3073582864\" target=\"_blank\">Phone</a><br>752 STATE HIGHWAY 93 DOUGLAS WY 82633", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.370364998, 
+                    42.8362890210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT CASPAR MUSEUM</h3><a href=\"tel:3072358462\" target=\"_blank\">Phone</a><br>4001 FORT CASPAR ROAD CASPER WY 82604", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.73759464, 
+                    42.8356660220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREMONT COUNTY PIONEER MUSEUM</h3><a href=\"tel:3073324137\" target=\"_blank\">Phone</a><br>630 LINCOLN ST. LANDER WY 82520", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.834357492, 
+                    42.8514108020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLENROCK DEER CREEK MUSEUM</h3><a href=\"tel:3074362810\" target=\"_blank\">Phone</a><br>935 W BIRCH ST GLENROCK WY 82637", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.051549705, 
+                    44.4888509330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREYBULL MUSEUM</h3><a href=\"tel:3077652444\" target=\"_blank\">Phone</a><br>325 GREYBULL AVE GREYBULL WY 82426", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.540659768, 
+                    41.7982966840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOSSIL COUNTRY FRONTIER MUSEUM</h3><b><a href=\"http://www.hamsfork.net/~museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:3078776551\" target=\"_blank\">Phone</a><br>400 PINE AVE KEMMERER WY 83101", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.644937641, 
+                    43.5376430640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DUBOIS MUSEUM</h3><b><a href=\"http://www.duboismuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3074552284\" target=\"_blank\">Phone</a><br>909 W RAMSHORN DUBOIS WY 82513", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.320515688, 
+                    44.3507218790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CROOK COUNTY MUSEUM & ART GALLERY</h3><a href=\"tel:3072833666\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.815989392, 
+                    41.1335373670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COWGIRLS OF  WEST MUSEUM</h3><b><a href=\"http://www.cowgirlsofthewestmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3076384994\" target=\"_blank\">Phone</a><br>205 W 17TH ST CHEYENNE WY 82001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.054840565, 
+                    44.4888625170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BIGHORN BASIN GEOSCIENCE CENTER</h3><b><a href=\"http://www.bbgeoscience.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077652286\" target=\"_blank\">Phone</a><br>537 GREYBULL AVE GREYBULL WY 82426", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.774971957, 
+                    43.0153458870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARAPAHO CULTURAL MUSEUM</h3><a href=\"tel:3073322660\" target=\"_blank\">Phone</a><br>636 BLUE SKY HIGHWAY ETHETE WY 82520", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.514884439, 
+                    44.2931486170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAMPBELL COUNTY ROCKPILE MUSEUM</h3><a href=\"tel:3076825723\" target=\"_blank\">Phone</a><br>900 WEST 2ND STREET GILLETTE WY 82716-4208", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.586013057, 
+                    41.3124474330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN HERITAGE CENTER</h3><a href=\"tel:3077664114\" target=\"_blank\">Phone</a><br>1000 E. UNIVERSITY AVENUE, DEPARTMENT 3924 LARAMIE WY 82071-3924", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.291991243, 
+                    41.3264984670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRIDGER VALLEY HERITAGE MUSEUM</h3><a href=\"tel:3077873525\" target=\"_blank\">Phone</a><br>100 E SAGE ST LYMAN WY 82937", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.193162093, 
+                    43.8488205320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANNA MILLER MUSEUM</h3><a href=\"tel:3077464188\" target=\"_blank\">Phone</a><br>401 DELAWARE AVE NEWCASTLE WY 82701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.332687745, 
+                    42.8601098670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CASPER PLANETARIUM</h3><b><a href=\"http://www.casperplanetarium.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3075770310\" target=\"_blank\">Phone</a><br>904 N POPLAR ST CASPER WY 82601", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.209236693, 
+                    43.6473108200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOT SPRINGS GREATER LEARNING FOUNDATION</h3><b><a href=\"http://www.dancingbear.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3078643391\" target=\"_blank\">Phone</a><br>PO BOX 1362 THERMOPOLIS WY 82443-1362", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.169746297, 
+                    44.5953084370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STORY CENTENNIAL MUSEUM</h3>PO BOX 256 STORY WY 82842-0256", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.375627045, 
+                    42.8445536970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SCIENCE ZONE</h3><a href=\"tel:3074739663\" target=\"_blank\">Phone</a><br>PO BOX 2701 MILLS WY 82644-2701", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.502437384, 
+                    44.2920618220004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC GILLETTE ALIVE</h3>1103 CHRISTINCK GILLETTE WY 82717-3002", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.871867392, 
+                    44.1571103010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MEETEETSE MUSEUM FOUNDATION INC</h3><b><a href=\"http://www.meeteetsemuseums.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3078682423\" target=\"_blank\">Phone</a><br>PO BOX 183 MEETEETSE WY 82433-0183", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.342063531, 
+                    42.8351590950004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CADOMA FOUNDATION</h3>1515 WESTRIDGE WAY CASPER WY 82604-3303", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.094249113, 
+                    44.5157991850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE OLD WEST</h3><b><a href=\"http://www.oldtrailtown.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:3073472671\" target=\"_blank\">Phone</a><br>PO BOX 546 CODY WY 82414-0546", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.219867009, 
+                    43.6582931130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING STATE HISTORICAL SOCIETY</h3>PO BOX 29 THERMOPOLIS WY 82443", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.818593046, 
+                    41.1399586990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING STATE MUSEUM VOLUNTEERS INC</h3><b><a href=\"http://wyomuseum.state.wy.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077777022\" target=\"_blank\">Phone</a><br>2301 CENTRAL AVENUE CHEYENNE WY 82001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.785466037, 
+                    41.1629825250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHEYENNE GENEALOGICAL & HISTORICAL SOCIETY</h3><b><a href=\"http://www.cghswyoming.org\" target=\"_blank\">Website</a></b><br>PO BOX 2539 CHEYENNE WY 82003", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.381620347, 
+                    43.0268166970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIVERTON MUSEUM ASSOCIATION INC</h3>700 EAST PARK AVENUE RIVERTON WY 82501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.142246144, 
+                    41.2984206910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTENNIAL VALLEY HISTORICAL ASSOCIATION</h3><a href=\"tel:3077453345\" target=\"_blank\">Phone</a><br>PO BOX 201 CENTENNIAL WY 82055", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.789257591, 
+                    41.1319710420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MESSENGERS OLD WEST MUSEUM</h3>616 CROOK AVENUE CHEYENNE WY 82001-5420", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.509317428, 
+                    43.8422929360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW PIONEER WAGON TRAIN INCORPORATED</h3>PO BOX 411 MORAN WY 83013-0411", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.765385975, 
+                    43.4784726010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEGACY FLIGHT SERVICES INC</h3>PO BOX 489 JACKSON WY 83001-0489", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.094247226, 
+                    44.5157973280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CODY HERITAGE MUSEUM</h3><b><a href=\"http://codyheritagemuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 701 CODY WY 82414", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.765385975, 
+                    43.4784726010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TETON HISTORIC AVIATION FOUNDATION INC</h3>PO BOX 489 JACKSON WY 83001-0489", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.590775688, 
+                    41.3132608320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LARAMIE RAILROAD DEPOT ASSOCIATION</h3>PO BOX 623 LARAMIE WY 82073-0623", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.957148546, 
+                    41.2503551450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC JAY EM ON THE RAWHIDE</h3>208 TROY COURT EVANSTON WY 82930-4672", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.765385975, 
+                    43.4784726010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSON HOLE CHILDRENS MUSEUM</h3>PO BOX 955 JACKSON WY 83001-0955", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.235075857, 
+                    41.7927606560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARBON COUNTY MUSEUM FOUNDATION INC</h3><b><a href=\"http://www.carboncountymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3073282740\" target=\"_blank\">Phone</a><br>PO BOX 1995 RAWLINS WY 82301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.851208986, 
+                    42.8832614460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL WYOMING ANTIQUE POWER MUSEUM AND TRAINING CENTER INC</h3><b><a href=\"http://cwapmtc.com\" target=\"_blank\">Website</a></b><br>PO BOX 1221 GLENROCK WY 82637-8263", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.281486191, 
+                    42.8535329190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALLIANCE FOR HISTORIC WYOMING</h3><b><a href=\"http://www.historicwyoming.org\" target=\"_blank\">Website</a></b><br>PO BOX 51201 CASPER WY 82605", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.991679286, 
+                    44.6806182730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRADFORD BRINTON MEMORIAL 01-26150</h3><b><a href=\"http://www.bradfordbrintonmemorial.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3076723173\" target=\"_blank\">Phone</a><br>PO BOX 460 BIG HORN WY 82833-0460", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.557326479, 
+                    41.8718243090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARBON CEMETERY ASSOCIATION</h3>PO BOX 337 HANNA WY 82327-0337", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.765385975, 
+                    43.4784726010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TETON BOTANICAL GARDEN</h3>PO BOX 2890 JACKSON WY 83001-2890", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.389988916, 
+                    44.8390588940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOVELL-KANE AREA MUSEUM</h3>PO BOX 764 LOVELL WY 82431-0764", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.991679286, 
+                    44.6806182730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MUSEUM AT THE BRADFORD BRINTON RANCH</h3>PO BOX 460 BIG HORN WY 82833-0460", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.453253438, 
+                    43.0309289660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL WYOMING CHILDREN-S CENTER FOR ART</h3>650 RAINTREE DR RIVERTON WY 82501-9312", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.785459357, 
+                    41.1629714410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHEYENNE DEPOT MUSEUM INC</h3>PO BOX 2160 CHEYENNE WY 82003-2160", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.871867392, 
+                    44.1571103010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MEETEETSE MUSEUMS</h3><b><a href=\"http://www.meeteetsemuseums.org\" target=\"_blank\">Website</a></b><br>PO BOX 53 MEETEETSE WY 82433-0053", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.809328101, 
+                    41.4556510030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SARATOGA HISTORICAL AND CULTURAL ASSOCIATION INC</h3><b><a href=\"http://www.saratoga-museum.com\" target=\"_blank\">Website</a></b><br>PO BOX 1131 SARATOGA WY 82331-1131", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.740929938, 
+                    42.8397818450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREMONT COUNTY VETERANS WAR MEMORIA</h3>865 HOBSON STREET LANDER WY 82520-2029", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.991679286, 
+                    44.6806182730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BIG HORN CITY HISTORICAL SOCIETY</h3>PO BOX 566 BIG HORN WY 82833-0566", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.763788948, 
+                    43.4804704310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HALL JACKSON MUSEUM FOUNDATION</h3><a href=\"tel:3077332414\" target=\"_blank\">Phone</a><br>105 N GLENWOOD JACKSON WY 83001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.24282699, 
+                    43.8450805540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTON COUNTY MUSEUM DISTRICT FOUNDATION</h3>PO BOX 698 NEWCASTLE WY 82701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.906917193, 
+                    42.8959942150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREEN RIVER RENDEZVOUS PAGEANT ASSOCIATION INC</h3>PO BOX 274 PINEDALE WY 82941-0274", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.954546871, 
+                    44.7972773230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHERIDAN HERTIAGE CENTER</h3>PO BOX 6393 SHERIDAN WY 82801-1793", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.809328101, 
+                    41.4556510030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF WESTERN ART</h3>PO BOX 750 SARATOGA WY 82331-0750", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.958266195, 
+                    44.8014268030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHERIDAN COUNTY LIBRARY FOUNDATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.727064704, 
+                    42.4961603260004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ATLANTIC CITY HISTORICAL SOCIETY INC</h3>240 ATLANTIC CITY ROAD ATLANTIC CITY WY 82520", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.785968265, 
+                    43.4702822660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF WILDLIFE ART OF THE UNITED STATES</h3>PO BOX 6825 JACKSON WY 83002-6825", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.069628342, 
+                    41.1819103600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TEXAS TRAIL MUSEUM</h3><a href=\"tel:3072459347\" target=\"_blank\">Phone</a><br>3RD AND MARKET STREETS PINE BLUFFS WY 82082", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.370364998, 
+                    42.8362890210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT CASPAR MUSEUM ASSOCIATION</h3>4001 FORT CASPAR RD CASPER WY 82604", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.538559314, 
+                    41.7947134980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOSSIL COUNTRY FUTURES INC</h3><a href=\"tel:3078776551\" target=\"_blank\">Phone</a><br>PO BOX 854 KEMMERER WY 83101-0854", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.949455949, 
+                    42.7250120020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING STATE HISTORICAL SOCIETY</h3><b><a href=\"http://svhs.us\" target=\"_blank\">Website</a></b><br>PO BOX 1212 AFTON WY 83110", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.814570792, 
+                    41.1459980030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING MILITIA HISTORICAL SOCIETY</h3>624 EAST PERSHING BLVD CHEYENNE WY 82001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.785459357, 
+                    41.1629714410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WARREN MLITARY HISTORICAL ASSOCIATION</h3><a href=\"tel:3077752980\" target=\"_blank\">Phone</a><br>PO BOX 9521 CHEYENNE WY 82003-9521", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.956479779, 
+                    42.0785012530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE MEDICINE BOW MUSEUM</h3>PO BOX 187 MEDICINE BOW WY 82329", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.148885926, 
+                    44.9008492160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LITTLE BLUE SCHOOLHOUSE</h3>PO BOX 666 RANCHESTER WY 82839-0666", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.382277619, 
+                    44.4044671120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CROOK COUNTY MUSEUM & ART GALLEY FOUNDATION</h3><b><a href=\"http://www.crookcountymuseum.com\" target=\"_blank\">Website</a></b><br>PO BOX 63 SUNDANCE WY 82729-0063", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.875406679, 
+                    44.1620313250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MEETEETSE MUSEUMS DISTRICT</h3><a href=\"tel:3078682423\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.923678866, 
+                    42.8748731440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE LANDER TRAIL FOUNDATION INC</h3>PO BOX 4135 BEDFORD WY 83112-0135", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.184249653, 
+                    42.0654942330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TORRINGTON MAIN ST PARTNERS</h3>PO BOX 205 TORRINGTON WY 82240-0205", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.382277619, 
+                    44.4044671120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RANCH A RESTORATION FOUNDATION</h3>PO BOX 1111 SUNDANCE WY 82729-1111", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.072030446, 
+                    44.5260020480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUFFALO BILL MEMORIAL ASSOCIATION</h3><b><a href=\"http://www.bbhc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3075874771\" target=\"_blank\">Phone</a><br>720 SHERIDAN AVE CODY WY 82414-3428", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.615287764, 
+                    43.7196942640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND TETON NATURAL HISTORY ASSOCIATION</h3><a href=\"tel:3077393606\" target=\"_blank\">Phone</a><br>PO BOX 170 MOOSE WY 83012-0170", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.32058071, 
+                    42.8354824380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF WYOMING</h3><a href=\"tel:3072352108\" target=\"_blank\">Phone</a><br>405 E 15TH ST CASPER WY 82601-4313", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.560568553, 
+                    42.2052407190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT LARAMIE HISTORICAL ASSOCIATION</h3>965 GRAY RO FORT LARAMIE WY 82212", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.788389254, 
+                    44.7537776240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOMESTEADERS MUSEUM ASSN INC</h3><b><a href=\"http://www.homesteadermuseum.com\" target=\"_blank\">Website</a></b><br>PO BOX 54 POWELL WY 82435", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.97322676, 
+                    42.0507540480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LARAMIE PEAK MUSEUM ASSOCIATION INC</h3><a href=\"tel:3073223765\" target=\"_blank\">Phone</a><br>PO BOX 451 WHEATLAND WY 82201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.246912477, 
+                    41.7911707750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARBON COUNTY MUSEUM</h3><b><a href=\"http://www.carboncountymuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3073282740\" target=\"_blank\">Phone</a><br>904 W. WALNUT STREET RAWLINS WY 82301-6556", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.3201105, 
+                    42.8476060550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NICOLAYSEN ART MUSEUM</h3><b><a href=\"http://www.thenic.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3072355247\" target=\"_blank\">Phone</a><br>400 E COLLINS DR CASPER WY 82601-2815", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.785459357, 
+                    41.1629714410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHEYENNE FRONTIER DAYS OLD WEST MUSEUM</h3><a href=\"tel:3077787290\" target=\"_blank\">Phone</a><br>PO BOX 2720 CHEYENNE WY 82003-2720", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.703829773, 
+                    43.5565417740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE DUBOIS MUSEUM ASSOCIATION</h3>PO BOX 896 DUBOIS WY 82513", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.765385975, 
+                    43.4784726010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSON HOLE HISTORICAL SOCIETY AND MUSEUM</h3><b><a href=\"http://www.jacksonholehistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077332414\" target=\"_blank\">Phone</a><br>PO BOX 1005 JACKSON WY 83001-1005", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.951777473, 
+                    44.2637410780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOORCROFT HISTORICAL SOCIETY</h3><a href=\"tel:3077563391\" target=\"_blank\">Phone</a><br>PO BOX 497 MOORCROFT WY 82721-0497", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.703829773, 
+                    43.5565417740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DUBOIS MUSEUM-WIND RIVER HISTORICAL CENTER</h3><b><a href=\"http://www.duboismuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3074552284\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.536317291, 
+                    41.7945136280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>J.C. PENNEY HOMESTEAD</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.961104364, 
+                    44.0137603250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING SECONDARY ART EDUCATORS ASSOCIATION INC</h3>601 GRACE AVE WORLAND WY 82401-3328", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.939965084, 
+                    44.0168296210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHAKIE MUSEUM</h3><b><a href=\"http://www.washakiemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3073474102\" target=\"_blank\">Phone</a><br>2200 BIG HORN AVE WORLAND WY 82401-2932", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.954546871, 
+                    44.7972773230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHERIDAN COLLEGE</h3><b><a href=\"http://www.sheridan.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:3076746446\" target=\"_blank\">Phone</a><br>PO BOX 1500 SHERIDAN WY 82801-1500", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.775376934, 
+                    41.7412115110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHUGWATER HISTORICAL UNITY GROUP</h3>PO BOX 33 CHUGWATER WY 82210", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.467096177, 
+                    41.5289756510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SWEETWATER COUNTY MUSEUM FOUNDATION</h3><b><a href=\"http://www.sweetwatermuseum.org\" target=\"_blank\">Website</a></b><br>3 EAST FLAMING GORGE WAY GREEN RIVER WY 82935", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.065929553, 
+                    44.5190685140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NORTH AMERICAN WILDLIFE</h3>1725 11TH ST CODY WY 82414", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.538559314, 
+                    41.7947134980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOSSILFEST INC</h3>PO BOX 11 KEMMERER WY 83101-0011", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.639208106, 
+                    43.7108608690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOOFPRINTS OF THE PAST</h3>PO BOX 114 KAYCEE WY 82639-0114", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.438836982, 
+                    42.1781441130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN PLAINS HISTORIC PRESERVATION ASSOCIATION INC</h3>2308 HWY 26 LINGLE WY 82223", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.067610229, 
+                    44.5260517930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUFFALO BILL DAM VISITORS CENTER INC</h3><a href=\"tel:3075276076\" target=\"_blank\">Phone</a><br>1002 SHERIDAN AVE STE 109 CODY WY 82414-3550", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.386283367, 
+                    43.0232895250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIVERTON DEPOT FOUNDATION FUND</h3>205 S BROADWAY AVE RIVERTON WY 82501-4331", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.113717724, 
+                    42.5762235450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREEN RIVER VALLEY MUSEUM INC</h3><a href=\"tel:3072765343\" target=\"_blank\">Phone</a><br>PO BOX 12 BIG PINEY WY 83113-0012", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.242123194, 
+                    41.7922709880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING FRONTIER PRISON</h3><b><a href=\"http://www.wyomingfrontierprison.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3073244422\" target=\"_blank\">Phone</a><br>500 W. WALNUT RAWLINS WY 82301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.399398569, 
+                    42.8283511720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATRONA COMMUNITY PIONEER ASSOCIATION</h3>959 OAKCREST CASPER WY 82604-0181", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.332687745, 
+                    42.8601098670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL WYOMING ASTRONOMICAL SOCIETY</h3>904 N POPLAR ST CASPER WY 82601-1348", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.785459357, 
+                    41.1629714410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING TRANSPORTATION MUSEUM CORP</h3>PO BOX 704 CHEYENNE WY 82003-0704", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.70505777, 
+                    44.3514783000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REGIONAL STATE MUSEUM FOUNDATION INC</h3>341 NORTH DESMET BUFFALO WY 82834", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.697809193, 
+                    44.3447319780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GATCHELL MUSEUM ASSOCIATION INC</h3><b><a href=\"http://www.jimgatchell.com/Jim_Gatchell_Me\" target=\"_blank\">Website</a></b><br>PO BOX 596 BUFFALO WY 82834-0596", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.225208405, 
+                    43.6397593040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOT SPRINGS HISTORICAL MUSEUM ENDOWMENT FUNDS</h3>102 SUSAN KAY THERMOPOLIS WY 82443-3122", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.626749888, 
+                    43.6252121220004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MURIE MUSEUM</h3><a href=\"tel:3077334765\" target=\"_blank\">Phone</a><br>PO BOX 68 KELLY WY 83011-0068", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.935406035, 
+                    42.7254223400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALLAIR FOUNDATION</h3>PO BOX 1491 AFTON WY 83110-1491", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.339655299, 
+                    42.8654762890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL HISTORIC TRAILS CENTER FOUNDATION INC</h3><b><a href=\"http://www.blm.gov/wy/st/en/NHTIC.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:3072617700\" target=\"_blank\">Phone</a><br>1501 N POPLAR ST CASPER WY 82601", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.05025972, 
+                    44.4949499920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF FLIGHT AND AERIAL FIREFIGHTING INC</h3>PO BOX 412 GREYBULL WY 82426", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.965687059, 
+                    44.8009561260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRAIL END STATE HISTORIC SITE</h3><b><a href=\"http://www.trailend.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3076744589\" target=\"_blank\">Phone</a><br>400 CLARENDON AVE SHERIDAN WY 82801-4053", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.83062191, 
+                    41.1554270880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE CHEYENNE BOTANIC GARDEN</h3><b><a href=\"http://www.botanic.org\" target=\"_blank\">Website</a></b><br>710 S LIONS PARK DR CHEYENNE WY 82001-7503", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.967994184, 
+                    41.2691848890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRACKS OF HERITAGE ACROSS WYOMING</h3>1200 MAIN STREET EVANSTON WY 82930-3316", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.31783988, 
+                    41.3418533660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRONA MINING MUSEUM ASSOCIATION OF BRIDGER VALLEY</h3>PO BOX 184 LYMAN WY 82937", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.875406679, 
+                    44.1620313250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHARLES J BELDEN MUSEUM</h3>16 ROAD SRV MEETEEISE WY 82433", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.237965775, 
+                    42.8452242080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC TRAILS RESOURCE CONSERVATION & DEVELOPMENT AREA</h3>5880 ENTERPRISE STE 100 CASPER WY 82609", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.876068741, 
+                    42.8613601780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PALEON FOUNDATION</h3><a href=\"tel:3074362667\" target=\"_blank\">Phone</a><br>PO BOX 1362 GLENROCK WY 82637-1362", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.281479468, 
+                    42.8535217880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MASONIC MUSEUMS OF WYOMING</h3>PO BOX 574 CASPER WY 82602-0574", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.514884439, 
+                    44.2931486170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCKPILE MUSEUM ASSOCIATION</h3><b><a href=\"http://www.rockpilemuseum.com\" target=\"_blank\">Website</a></b><br>900 W 2ND ST GILLETTE WY 82716-3405", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.827850391, 
+                    41.1505034980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KNIGHT MUSEUM FOUNDATION INC A NEBRASKA CORPORATION</h3>429 W 5TH AVE CHEYENNE WY 82001-1249", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.939658785, 
+                    44.6680512470004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEART MOUNTAIN WYOMING FOUNDATION</h3>1539 ROAD 19 POWELL WY 82435-8723", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.400429964, 
+                    43.0391317280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WIND RIVER HERITAGE CENTER</h3><a href=\"tel:3078560706\" target=\"_blank\">Phone</a><br>PO BOX 206 RIVERTON WY 82501-0039", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.785459357, 
+                    41.1629714410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COWGIRLS OF THE WEST</h3>PO BOX 525 CHEYENNE WY 82003-0525", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.576911043, 
+                    41.3228380250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING TERRITORIAL PARK HISTORIC ASSOCIATION INC</h3><b><a href=\"http://www.wyoprisonpark.org\" target=\"_blank\">Website</a></b><br>1273 N 15TH ST STE 121 LARAMIE WY 82072-7905", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.590775688, 
+                    41.3132608320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BATHS STONE RANCH INC</h3>PO BOX 789 LARAMIE WY 82073-0789", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.817428772, 
+                    41.1337334430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NELSON MUSEUM OF THE WEST</h3><b><a href=\"http://www.nelsonmuseum.com\" target=\"_blank\">Website</a></b><br>1714 CAREY AVE CHEYENNE WY 82001-4420", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.816240809, 
+                    41.1459529960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHEYENNE CHILDRENS MUSEUM</h3>515 E PERSHING CHEYENNE WY 82001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.706106198, 
+                    44.3424533340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE OCCIDENTAL HOTEL</h3>148USHIGHWAY16EAST BUFFALO WY 82834", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.965338247, 
+                    41.2684712210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNITA COUNTY MUSEUM FOUNDATION</h3>1020 FRONT ST EVANSTON WY 82930-3437", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.734116029, 
+                    42.8348724680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LANDER CHILDRENS MUSEUM</h3><a href=\"tel:3073321341\" target=\"_blank\">Phone</a><br>465 LINCOLN ST LANDER WY 82520-0533", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.332529629, 
+                    42.8290705380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NIOBRARA COUNTY HISTORIAL SOCIETY STAGECOACH MUSEUM</h3>PO BOX 367 LUSK WY 82225", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.745500574, 
+                    42.8412730170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE MUSEUM OF THE AMERICAN WEST</h3>1445 MAIN ST LANDER WY 82520-2649", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.094249113, 
+                    44.5157991850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF PARK COUNTY HISTORY INC</h3>PO BOX 361 CODY WY 82414-0361", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.615298956, 
+                    43.7197010760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE MURIE CENTER</h3><b><a href=\"http://www.muriecenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077392246\" target=\"_blank\">Phone</a><br>1 MURIE RANCH ROAD MOOSE WY 83012", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.785466037, 
+                    41.1629825250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MABEL STRICKLAND COWGIRL MUSEUM</h3>PO BOX 293 CHEYENNE WY 82003", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.322576441, 
+                    42.8487371660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING ARTIST CO</h3><a href=\"tel:3075770965\" target=\"_blank\">Phone</a><br>232 E 2ND ST CASPER WY 82601-2539", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.347948002, 
+                    44.0703318530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TEN SLEEP PIONEER MUSEUM INC</h3>PO BOX 93 TEN SLEEP WY 82442-0093", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.785459357, 
+                    41.1629714410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING HISTORIC GOVERNORS MANSION FOUNDATION</h3>PO BOX 2434 CHEYENNE WY 82003-2434", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.828656974, 
+                    41.1736101430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARRY JACKSON MUSEUM</h3><b><a href=\"http://www.harryjackson.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3075875508\" target=\"_blank\">Phone</a><br>5920 YELLOWSTONE STE 1 CHEYENNE WY 82009", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.239839923, 
+                    41.7867230340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN SHEEP HERITAGE MUSEUM</h3>PO BOX 999 RAWLINS WY 82301-0999", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.502437384, 
+                    44.2920618220004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHALLENGER LEARNING CENTER AND SCIENCE COMPLEX OF WYOMIN</h3>", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.626527751, 
+                    44.0992739340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UPTON HISTORY & HERITAGE PRESERVATION INC</h3>PO BOX 425 UPTON WY 82730-0425", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.586013057, 
+                    41.3124474330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF WYOMING ART MUSEUM</h3><b><a href=\"http://www.uwyo.edu/artmuseum\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077666622\" target=\"_blank\">Phone</a><br>1000 E. UNIVERSITY AVENUE DEPT. 3807 LARAMIE WY 82071-2000", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.325670119, 
+                    42.8340623320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TATE GEOLOGICAL MUSEUM</h3><b><a href=\"http://www.caspercollege.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:3072682110\" target=\"_blank\">Phone</a><br>125 COLLEGE DRIVE CASPER WY 82601-4612", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.952576954, 
+                    42.0563002020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING STATE HISTORICAL SOCIETY</h3>PO BOX 247 WHEATLAND WY 82201-0247", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.679167491, 
+                    44.5375285560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DEVILS TOWER NATURAL HISTORY ASSOCIATION</h3>PO BOX 37 DEVILS TOWER WY 82714-0037", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.906917193, 
+                    42.8959942150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUBLETTE COUNTY HISTORICAL SOCIETY INC A FOUNDATION</h3>PO BOX 909 PINEDALE WY 82941-0909", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.791218119, 
+                    41.2073817420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND ENCAMPMENT MUSEUM INC</h3><b><a href=\"http://www.GEMuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3073275308\" target=\"_blank\">Phone</a><br>PO BOX 43 ENCAMPMENT WY 82325-0043", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.588639291, 
+                    41.3116874260004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LARAMIE PLAINS MUSEUM ASSOCIATION INC</h3><b><a href=\"http://www.laramiemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3077424448\" target=\"_blank\">Phone</a><br>603 E IVINSON ST LARAMIE WY 82070-3243", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.954546871, 
+                    44.7972773230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING STATE HISTORICAL SOCIETY</h3><b><a href=\"http://www.sheridancountyhistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3076751150\" target=\"_blank\">Phone</a><br>PO BOX 73 SHERIDAN WY 82801-0073", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.067610229, 
+                    44.5260517930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PARK COUNTY HISTORICAL SOCIETY ARCHIVES</h3><a href=\"tel:3075872204\" target=\"_blank\">Phone</a><br>1002 SHERIDAN AVE CODY WY 82414-3598", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.469857035, 
+                    41.5144701860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING HISTORICAL FOUNDATION</h3><a href=\"tel:3078753724\" target=\"_blank\">Phone</a><br>430 ANDREWS ST GREEN RIVER WY 82935-5103", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.799030154, 
+                    41.1602879050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLORADO PERSIAN SOCIETY INC</h3>1740 DELL RANGE BLVD STE 475 CHEYENNE WY 82009-4961", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.586013057, 
+                    41.3124474330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING AVIATION HALL OF FAME</h3><a href=\"tel:3076344785\" target=\"_blank\">Phone</a><br>1000 E UNIVERSITY AVENUE DEPT 3924 LARAMIE WY 82071-2000", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.906917193, 
+                    42.8959942150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS DISCOVERY CENTER</h3>PO BOX 1572 PINEDALE WY 82941-1572", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,4445 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.601307682, 
+                    32.8336504310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HILLSBORO HISTORICAL SOCIETY</h3>PO BOX 461 HILLSBORO NM 88042", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.569137562, 
+                    36.4120122140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NONVIOLENCE WORKS INC</h3>PO BOX 2238 TAOS NM 87571-2238", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.645492679, 
+                    35.0976874060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHEELS MUSEUM</h3><b><a href=\"http://www.wheelsmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052436269\" target=\"_blank\">Phone</a><br>1501 1ST ST NW ALBUQUERQUE NM 87102", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.154220274, 
+                    32.6652429890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VILLAGE OF HATCH MUSEUM</h3><b><a href=\"http://villageofhatch.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5752673638\" target=\"_blank\">Phone</a><br>149 W HALL ST HATCH NM 87937", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.28373826, 
+                    32.7752682190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN NEW MEXICO UNIVERSITY MUSEUM</h3><b><a href=\"http://www.wnmumuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5055386386\" target=\"_blank\">Phone</a><br>1000 W COLLEGE AVE SILVER CITY NM 88062", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.642708223, 
+                    35.0937615260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNM ART MUSEUM</h3><b><a href=\"http://www.unm.edu/~artmuse\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052774001\" target=\"_blank\">Phone</a><br>CENTRAL CORNELL NE ALBUQUERQUE NM 87131", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.662247336, 
+                    35.1420636790004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNSER RACING MUSEUM</h3><b><a href=\"http://www.unserracingmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5053411776\" target=\"_blank\">Phone</a><br>1776 MONTANO RD NW LOS RANCHOS NM 87107", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.651555571, 
+                    35.0847315750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TELEPHONE PIONEER MUSEUM</h3><a href=\"tel:5058422937\" target=\"_blank\">Phone</a><br>110 4TH ST NW ALBUQUERQUE NM 87102", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.609680872, 
+                    32.4213043650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPACE MURALS MUSEUM</h3><a href=\"tel:5753820977\" target=\"_blank\">Phone</a><br>12450 E US HIGHWAY 70 LAS CRUCES NM 88011", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.57470205, 
+                    36.4070375910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TAOS PLAZA THEATER AND ARTS CENTER</h3><b><a href=\"http://www.openheartharts.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5057517733\" target=\"_blank\">Phone</a><br>116 S PLAZA TAOS NM 87571", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.375607644, 
+                    35.1721923520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TINKERTOWN MUSEUM</h3><b><a href=\"http://www.tinkertown.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052815233\" target=\"_blank\">Phone</a><br>121 SANDIA CREST RD SANDIA PARK NM 87047", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.939760252, 
+                    35.6873142380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SINGLETON BISS MUSEUM</h3><a href=\"tel:5059959713\" target=\"_blank\">Phone</a><br>112 W SAN FRANCISCO ST SANTA FE NM 87501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.570600455, 
+                    36.4104149960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TAOS ART MUSEUM</h3><b><a href=\"http://www.taosartmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5757582690\" target=\"_blank\">Phone</a><br>227 PASEO DEL PUEBLO NORTE TAOS NM 87571", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.25944085, 
+                    33.1258835550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STARRY NIGHT RETREAT</h3><b><a href=\"http://starrynightretreat.com\" target=\"_blank\">Website</a></b><br>718 VAN PATTEN ST TRUTH OR CONSEQUENCES NM 87901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.755235331, 
+                    32.2854371910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHALAM COLONY AND OAHSPE MUSEUM</h3><a href=\"tel:5755249830\" target=\"_blank\">Phone</a><br>1145 E MESA AVE LAS CRUCES NM 88001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.960528791, 
+                    32.9034527720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TULAROSA BASIN HISTORICAL SOCIETY MUSEUM</h3><a href=\"tel:5054374760\" target=\"_blank\">Phone</a><br>1301 N. WHITE SANDS BLVD. ALAMOGORDO NM 88310", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.571547051, 
+                    36.3954904150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEVERINO MARTINEZ HOUSE</h3>2 MI FROM TAOS PLZ TAOS NM 87571", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.769034887, 
+                    34.6596228710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THROUGH THE FLOWER</h3>107 BECKER AVENUE BELEN NM 87002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.681293282, 
+                    33.3344663690004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIO RUIDOSO RIVER MUSEUM</h3><b><a href=\"http://ruidosorivermuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5752570296\" target=\"_blank\">Phone</a><br>101 MECHEM DR RUIDOSO NM 88345", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.813722226, 
+                    32.9586288780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SACRAMENTO MOUNTAINS MUSEUM</h3><b><a href=\"http://cloudcroftmuseum.com/dnn\" target=\"_blank\">Website</a></b><br><a href=\"tel:5756822932\" target=\"_blank\">Phone</a><br>1000 US HIGHWAY 82 CLOUDCROFT NM 88317", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.948567524, 
+                    35.6560921390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PALACE OF  GOVERNORS</h3>PALACE AVENUE AT SANTA FE PLZ SANTA FE NM 87505", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.649473479, 
+                    35.1022663340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ONTRACK GALLERY AND ART SPACE</h3><b><a href=\"http://www.ontrackgallery.webs.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5058563489\" target=\"_blank\">Phone</a><br>1719 5TH ST NW ALBUQUERQUE NM 87102", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.01757389, 
+                    35.8862251880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POEH MUSEUM, PUEBLO OF POJOAQUE</h3><b><a href=\"http://www.poehmuseum.com/\" target=\"_blank\">Website</a></b><br>78 CITIES OF GOLD ROAD SANTA FE NM 87501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.669456838, 
+                    35.0953991270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RATTLESNAKE MUSEUM</h3><b><a href=\"http://www.rattlesnakes.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052426569\" target=\"_blank\">Phone</a><br>202 SAN FELIPE ST NW ALBUQUERQUE NM 87104", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.729432054, 
+                    35.4982089790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PUEBLO OF ZIA</h3>135 CAPITOL SQUARE DRIVE ZIA PUEBLO NM 87053-6013", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.01757389, 
+                    35.8862251880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POEH CULTURAL CENTER-MUSEUM</h3><b><a href=\"http://www.poehmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5054553334\" target=\"_blank\">Phone</a><br>78 CITIES OF GOLD RD SANTA FE NM 87506", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.029699555, 
+                    36.7035328090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SALMON RUINS MUSEUM</h3><b><a href=\"http://www.salmonruins.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5056322013\" target=\"_blank\">Phone</a><br>6131 US 64 BLOOMFIELD NM 87413", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.153079142, 
+                    35.4055036070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD COAL MINE MUSEUM</h3><b><a href=\"http://www.themineshafttavern.com/madridmuseum.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:5054383780\" target=\"_blank\">Phone</a><br>2846 STATE HIGHWAY 14 N CERRILLOS NM 87010", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.522966977, 
+                    33.4045134650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROSWELL MUSEUM AND ART CENTER</h3><a href=\"tel:5756270918\" target=\"_blank\">Phone</a><br>100 W. 11TH STREET ROSWELL NM 88201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.937406931, 
+                    35.6835195970004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLDEST HOUSE MUSEUM</h3><a href=\"tel:5059881944\" target=\"_blank\">Phone</a><br>215 E DE VARGAS ST SANTA FE NM 87501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.894064864, 
+                    35.6860547620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RANDALL DAVEY AUDUBON CENTER</h3><a href=\"tel:5059834609\" target=\"_blank\">Phone</a><br>1800 UPPER CANYON RD SANTA FE NM 87504-9314", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.746538428, 
+                    32.2837226720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO STATE UNIVERSITY MUSEUM</h3><a href=\"tel:5056463739\" target=\"_blank\">Phone</a><br>KENT HALL, MSC 3564 LAS CRUCES NM 88003-0001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NEW MEXICO TUNSTALL STORE</h3>NEW MEXICO STATE MONUMENTS SANTA FE NM 87504-2087", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.532674236, 
+                    35.0653027390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF NUCLEAR SCIENCE AND HISTORY</h3><b><a href=\"http://www.nuclearmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052452137\" target=\"_blank\">Phone</a><br>601 EUBANK BLVD SE ALBUQUERQUE NM 87123", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.927923788, 
+                    35.6635274380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF INDIAN ARTS AND CULTURE</h3><b><a href=\"http://www.indianartsandculture.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5054761250\" target=\"_blank\">Phone</a><br>710 CAMINO LEJO SANTA FE NM 87505", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.652326722, 
+                    35.0846778520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO HOLOCOUST AND INTOLERENCE MUSEUM</h3><b><a href=\"http://www.nmholocaustmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052470606\" target=\"_blank\">Phone</a><br>415 CENTRAL AVE NW ALBUQUERQUE NM 87102", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.574751102, 
+                    36.4070451370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MINERAL AND FOSSIL GALLERY</h3><a href=\"tel:5757375001\" target=\"_blank\">Phone</a><br>110 S PLAZA TAOS NM 87571", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.936811879, 
+                    35.6869915670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF CONTEMPORARY NATIVE ARTS</h3><b><a href=\"http://www.iaia.edu/museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:5059838900\" target=\"_blank\">Phone</a><br>108 CATHEDRAL PL SANTA FE NM 87501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.937103243, 
+                    35.6874274300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO MUSEUM OF ART</h3><b><a href=\"http://www.nmartmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5054765072\" target=\"_blank\">Phone</a><br>107 W PALACE AVE SANTA FE NM 87501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.855038214, 
+                    35.1533765440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO MINING MUSEUM IN GRANTS</h3><a href=\"tel:5052874802\" target=\"_blank\">Phone</a><br>100 N. IRON AVE. GRANTS NM 87020", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.66520901, 
+                    35.0971470390004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO MUSEUM OF NATURAL HISTORY</h3><a href=\"tel:5058418837\" target=\"_blank\">Phone</a><br>1801 MOUNTAIN ROAD NW ALBUQUERQUE NM 87104", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.855038214, 
+                    35.1533765440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO MINING MUSEUM</h3><b><a href=\"http://www.grants.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052874802\" target=\"_blank\">Phone</a><br>100 IRON AVE GRANTS NM 87020", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.642705834, 
+                    35.0937636540004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAXWELL MUSEUM-ANTHROPOLOGY</h3><b><a href=\"http://www.unm.edu/~maxwell\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052774405\" target=\"_blank\">Phone</a><br>1 UNIVERSITY OF NEW MEXICO ALBUQUERQUE NM 87131-0001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.896539099, 
+                    34.0602802430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO BUREAU OF MINES & MINERAL RESOURCES MINERAL MUSEU</h3><a href=\"tel:5058355140\" target=\"_blank\">Phone</a><br>NM BUREAU OF MINES & MINERAL RESOURCES NM INSTITUTE OF MINING AND TECHNOLOGY SOCORRO NM 87801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.654490077, 
+                    35.0690905320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL HISPANIC CULTURAL CENTER</h3><b><a href=\"http://www.nhccnm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052462261\" target=\"_blank\">Phone</a><br>1701 4TH ST SW ALBUQUERQUE NM 87102", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.667584286, 
+                    35.0983577820004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL ATOMIC MUSEUM</h3><b><a href=\"http://www.nuclearmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052452137\" target=\"_blank\">Phone</a><br>1905 MOUNTAIN RD NW ALBUQUERQUE NM 87104", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.63779757, 
+                    35.1099874990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MENAUL HISTORICAL LIBRARY OF THE SOUTHWEST</h3>301 MENAUL BOULEVARD, NE ALBUQUERQUE NM 87107", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.950937529, 
+                    32.9017736170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO MUSEUM OF SPACE HISTORY</h3><a href=\"tel:5054372840\" target=\"_blank\">Phone</a><br>3198 STATE ROUTE 2001 ALAMOGORDO NM 88311-0533", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.565102349, 
+                    36.4042869870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KIT CARSON HISTORIC MUSEUMS ARCHIVES</h3><a href=\"tel:5757580062\" target=\"_blank\">Phone</a><br>327 PENITENTE LN TAOS NM 87571", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938448006, 
+                    35.6906740370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL FOLK ART FOUNDATION FOR THE MUSEUM OF INTERNAT</h3><a href=\"tel:5054761206\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.368869926, 
+                    33.4909324480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN STATE MONUMENT</h3><a href=\"tel:5054765004\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.341581477, 
+                    35.4554560800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEGENDS OF NEW MEXICO MUSEUM</h3><b><a href=\"http://www.legendsmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5057718300\" target=\"_blank\">Phone</a><br>601 W FRONTAGE RD ALGODONES NM 87001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.936811879, 
+                    35.6869915670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INSTITUTE OF AMERICAN INDIAN ARTS MUSEUM</h3><a href=\"tel:5059838900\" target=\"_blank\">Phone</a><br>108 CATHEDRAL PLACE SANTA FE NM 87501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.644889415, 
+                    35.8291319820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEMEZ STATE MONUMENT</h3><a href=\"tel:5054765004\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.575907413, 
+                    36.4061084180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KIT CARSON HISTORIC MUSEUMS</h3><a href=\"tel:5057580505\" target=\"_blank\">Phone</a><br>222 LEDOUX STREET TAOS NM 87571", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.589539719, 
+                    33.3328828730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUBBARD MUSEUM OF THE AMERICAN WEST</h3><a href=\"tel:5053784042\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.522793866, 
+                    33.3936809250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL UFO MUSEUM AND RESEARCH CENTER</h3><a href=\"tel:5056259495\" target=\"_blank\">Phone</a><br>114 NORTH MAIN ROSWELL NM 88203", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.651664826, 
+                    35.2068616500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>J AND R VINTAGE AUTO MUSEUM</h3><b><a href=\"http://www.jrvintageautos.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5058672881\" target=\"_blank\">Phone</a><br>3650 STATE HIGHWAY 528 NW ALBUQUERQUE NM 87114", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.780429901, 
+                    32.3126680730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS CRUCES MUSEUM OF ART</h3><b><a href=\"http://www.museums.las-cruses.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5755412159\" target=\"_blank\">Phone</a><br>491 N WATER ST LAS CRUCES NM 88001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.01220882, 
+                    36.5086430480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOS ALAMOS HISTORICAL MUSEUM</h3><a href=\"tel:5056626272\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.055098369, 
+                    36.0894238820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOS LUCEROS FOUNDATION, INC</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.275116412, 
+                    36.1426806150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEORGIA O'KEEFFE HOME AND STUDIO</h3><b><a href=\"http://www.okeeffemuseum.org/her-houses.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:5056854539\" target=\"_blank\">Phone</a><br>US HWY ABIQUIU NM 87510", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.740357103, 
+                    35.5288469890004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GALLUP CULTURAL CENTER</h3><b><a href=\"http://www.southwestindian.com/service/center.cfm\" target=\"_blank\">Website</a></b><br><a href=\"tel:5058634131\" target=\"_blank\">Phone</a><br>201 E HISTORIC HIGHWAY 66 GALLUP NM 87301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.768408437, 
+                    34.6596904750004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARVEY HOUSE MUSEUM</h3><b><a href=\"http://belenharveyhouse.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5058610581\" target=\"_blank\">Phone</a><br>104 N 1ST ST BELEN NM 87002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.709525717, 
+                    32.1329313940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SELDEN STATE MONUMENT</h3><a href=\"tel:5054765004\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.831207596, 
+                    33.9224827390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EL CAMINO REAL INTERNATIONAL HERITAGE CENTER</h3><b><a href=\"http://www.caminorealheritage.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5058543600\" target=\"_blank\">Phone</a><br>COUNTY RD SOCORRO NM 87832", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.112061855, 
+                    35.5744537090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EL RANCHO DE LAS GOLONDRINAS</h3><a href=\"tel:5054712261\" target=\"_blank\">Phone</a><br>334 LOS PINOS RD SANTA FE NM 87507", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.488967868, 
+                    36.0315200940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLEVELAND ROLLER MILL HISTORICAL MUSEUM</h3><a href=\"tel:5053872645\" target=\"_blank\">Phone</a><br>PO BOX 287 CLEVELAND NM 87715-0287", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.164381868, 
+                    36.7456180170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FARMINGTON MUSEUM</h3><a href=\"tel:5055991179\" target=\"_blank\">Phone</a><br>3041 E. MAIN STREET FARMINGTON NM 87402", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.768408437, 
+                    34.6596904750004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BELEN HARVEY HOUSE MUSEUM</h3><a href=\"tel:5058610581\" target=\"_blank\">Phone</a><br>104 NORTH 1ST STREET BELEN NM 87002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.230614535, 
+                    32.4192109950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARLSBAD MUSEUM AND ART CENTER</h3><a href=\"tel:5058870276\" target=\"_blank\">Phone</a><br>418 WEST FOX STREET CARLSBAD NM 88220-1569", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.298259329, 
+                    35.8813484390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRADBURY SCIENCE MUSEUM</h3><b><a href=\"http://www.lanl.gov/museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:5056674444\" target=\"_blank\">Phone</a><br>1350 CENTRAL AVE LOS ALAMOS NM 87544", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.779552056, 
+                    32.3130523490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRANIGAN CULTURAL CENTER</h3><a href=\"tel:5055241422\" target=\"_blank\">Phone</a><br>501 N DOWNTOWN MALL LAS CRUCES NM 88004", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.227602054, 
+                    34.4659476980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BILLY  KID MUSEUM</h3><a href=\"tel:5753552380\" target=\"_blank\">Phone</a><br>1601 E SUMNER AVE FORT SUMNER NM 88119", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.517280439, 
+                    33.4087075290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANDERSON OIL CO.</h3><b><a href=\"http://www.roswellamoca.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5756235600\" target=\"_blank\">Phone</a><br>409 E COLLEGE BLVD ROSWELL NM 88201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.936387417, 
+                    35.6856822620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARCHDIOCESE OF SANTA FE MUSEUM AND ARCHIVE</h3><b><a href=\"http://www.archdiocesesantafe.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5059833811\" target=\"_blank\">Phone</a><br>223 CATHEDRAL PL SANTA FE NM 87501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.668213208, 
+                    35.0983731800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CASA SAN YSIDRO MUSEUM</h3><b><a href=\"http://www.cabq.gov/museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:5058983915\" target=\"_blank\">Phone</a><br>2000 MOUNTAIN RD NW ALBUQUERQUE NM 87104", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.968193224, 
+                    35.6280697480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARY SIDNEY SOCIETY</h3>7 SWEET SWAN LANE SANTA FE NM 87508-9409", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.731398475, 
+                    35.0512543380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNSER CHILDRENS DISCOVERY CENTER</h3>7625 CTRL AVE NW ALBUQUERQUE NM 87121", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.557631993, 
+                    35.3293567320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF CORONADO STATE MONUMENT INC KUAUA PUEBLO</h3><a href=\"tel:5054765004\" target=\"_blank\">Phone</a><br>485 KUAUA ROAD BERNALILLO NM 87004-7099", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.794846179, 
+                    35.5786583620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LULLABY PROJECT INC</h3>7 JESUS GONZALES RD GLORIETA NM 87535-7014", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.195009516, 
+                    35.0636701470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN MUSEUM OF VAUDEVILLE</h3>PO BOX 519 EDGEWOOD NM 87015-0519", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.641873123, 
+                    35.1355766690004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AFRICAN AMERICAN MUSEUM & CULTURAL CENTER OF NEW MEXICO</h3>5209 4TH STREET NW ALBUQUERQUE NM 87107-5102", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.164239833, 
+                    35.2255728450004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TURQUOISE TRAIL PRESERVATION TRUST</h3>1365 STATE ROAD 344 SANDIA PARK NM 87047-9631", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.569137562, 
+                    36.4120122140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MILLICENT ROGERS MUSEUM INC</h3><b><a href=\"http://www.millicentrogers.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5057582462\" target=\"_blank\">Phone</a><br>PO BOX 1210 TAOS NM 87571-1210", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.957038041, 
+                    35.6870768450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DRAGONFLY NATURE AND SCIENCE CENTER</h3>935 ALTO ST SANTA FE NM 87501-2404", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.855612624, 
+                    32.3750032480004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OAHSPE ASSOCIATION</h3>5950 SHALEM COLONY TRAIL LAS CRUCES NM 88007-5638", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.590426101, 
+                    36.7065406680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHERN NEW MEXICO HISTORICAL SOCIETY & MUSEUM</h3>GEN DELIVERY QUESTA NM 87556", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.982552591, 
+                    35.6493237900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANTIQUE BARBED WIRE SOCIETY</h3>2720 CAMINO CHUECO SANTA FE NM 87505-5250", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.135034106, 
+                    32.7255982080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEARCE MUSEUM OF ART AND ANTIQUITIES</h3>225 E BENDER HOBBS NM 88240", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.572628533, 
+                    36.4069809260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KIT CARSON HOME & MUSEUM INC</h3><b><a href=\"http://carsonhouseshop.com\" target=\"_blank\">Website</a></b><br>113 KIT CARSON RD TAOS NM 87571-5949", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.194657299, 
+                    32.1157317300004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JAL HISTORICAL SOCIETY & MUSEUM INCORPORATED</h3>PO BOX 1206 JAL NM 88252-1206", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.889563412, 
+                    35.5374480170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM DEVELOPMENT ASSOCIATES</h3><b><a href=\"http://www.museumdevelopment.org\" target=\"_blank\">Website</a></b><br>7 AVENIDA VISTA GRANDE STE B7-170 SANTA FE NM 87508-9198", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.307388735, 
+                    35.0345238500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EAST MOUNTAIN HISTORICAL SOCIETY</h3>PO BOX 106 TIJERAS NM 87059-0106", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.876529312, 
+                    33.6418323130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARRIZOZO HERITAGE MUSEUM</h3><a href=\"tel:5756481105\" target=\"_blank\">Phone</a><br>PO BOX 16 CARRIZOZO NM 88301-0016", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.039729963, 
+                    35.5973874310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EL RANCHO DE LAS GOLONDRINAS INC</h3><a href=\"tel:5054712261\" target=\"_blank\">Phone</a><br>5 BISBEE COURT 109 BOX 206 SANTA FE NM 87508-1419", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.213250951, 
+                    35.5936427660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAINSTREET LAS VEGAS INC</h3>500 RAILROAD AVE LAS VEGAS NM 87701-4507", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.49864891, 
+                    35.0681902960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE HEART GALLERY OF NEW MEXICO FOUNDATION</h3>13170-B CENTRAL AVE SE 190 ALBUQUERQUE NM 87123", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.507564632, 
+                    35.1070904340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE PENASCO MUSEUM AND ART GALLERY</h3>2211 CLEOPATRA PL NE ALBUQUERQUE NM 87112", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.777939782, 
+                    32.3115133270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOUNDATION FOR LAS CRUCES MUSEUMS</h3>PO BOX 2783 LAS CRUCES NM 88004-2783", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.726897148, 
+                    32.3450935320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PALEOZOIC TRACKWAYS FOUNDATION INC</h3>4290 VENETIAN LOOP LAS CRUCES NM 88011-4125", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.777939782, 
+                    32.3115133270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMADOR HOTEL FOUNDATION INC</h3>PO BOX 1268 LAS CRUCES NM 88004-1268", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.948567524, 
+                    35.6560921390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ACEQUIA MADRE HOUSE</h3>1464 S SAINT F SANTA FE NM 87505", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.587864821, 
+                    35.1669388520004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CULTURAL CENTER OF THE SOUTHWEST</h3>100 SUN AVE NE SUITE 100 ALBUQUERQUE NM 87109-4660", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.652968738, 
+                    35.0846739020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>516 ARTS</h3><b><a href=\"http://www.516arts.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052421445\" target=\"_blank\">Phone</a><br>516 CTRL AVE SW ALBUQUERQUE NM 87102-3114", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.672358641, 
+                    35.0953576730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF TURQUOISE</h3><b><a href=\"http://www.turquoisemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052478650\" target=\"_blank\">Phone</a><br>2107 CENTRAL AVE NW ALBUQUERQUE NM 87104-1605", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.182978596, 
+                    36.4519591990004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNION COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:5753742977\" target=\"_blank\">Phone</a><br>22 SOUTH SECOND STREET CLAYTON NM 88415-3061", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.960528791, 
+                    32.9034527720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TULAROSA BASIN HISTORICAL SOCIETY</h3><b><a href=\"http://alamogordohistorymuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5754344438\" target=\"_blank\">Phone</a><br>1301 N WHITE SANDS BLVD ALAMOGORDO NM 88310-8831", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.619027943, 
+                    35.0773634760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF ART OF THE UNIVERSITY OF NEW MEXICO ART MUSEUM IN</h3>UNIVERSITY OF NEW MEXICO ART MUSEUM ALBUQUERQUE NM 87106", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.659821074, 
+                    35.0775117580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO BIO PARK SOCIETY</h3><a href=\"tel:5057646280\" target=\"_blank\">Phone</a><br>903 10TH ST SW ALBUQUERQUE NM 87102-4029", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.991799588, 
+                    36.7113222550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN JUAN COUNTY MUSEUM ASSOCIATION</h3>PO BOX 125 BLOOMFIELD NM 87413-0125", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.610306093, 
+                    33.7497710840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITE OAKS HISTORICAL ASSOCIATION</h3>228 PATOS RD WHITE OAKS NM 88301", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.19505704, 
+                    36.4485537090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNION COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.herzsteinmuseum.com\" target=\"_blank\">Website</a></b><br>PO BOX 75 CLAYTON NM 88415-0075", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.210410037, 
+                    34.4246135110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HIGH PLAINS HISTORICAL FOUNDATION INC CLOVIS NEW MEXICO</h3>313 PRAIREVIEW CLOVIS NM 88101", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.99471046, 
+                    36.8232442190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AZTEC MUSEUM ASSOCIATION</h3><b><a href=\"http://www.aztecmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5053349829\" target=\"_blank\">Phone</a><br>125 N MAIN AVE AZTEC NM 8741 AZTEC NM 87410-1923", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.603926662, 
+                    35.2399817740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CORRALES HISTORICAL SOCIETY</h3><b><a href=\"http://www.corraleshistory.com\" target=\"_blank\">Website</a></b><br>PO BOX 1051 CORRALES NM 87048-8704", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.517109109, 
+                    35.0996815510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO WATERCOLOR SOCIETY</h3>PO BOX 11604 ALBUQUERQUE NM 87192-0604", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.957612479, 
+                    35.6952516400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GUADALUPE HISTORIC FOUNDATION</h3>208 CORONA ST SANTA FE NM 87501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.532836068, 
+                    35.1162903800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAXWELL MUSEUM ASSOCIATION</h3><b><a href=\"http://adventuresinanthropology.org\" target=\"_blank\">Website</a></b><br>POST OFFICE BOX 21598 ALBUQUERQUE NM 87154-8715", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.631728656, 
+                    35.1534636210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BATTALION TREK</h3>6608 2ND ST NW ALBUQUERQUE NM 87107-6004", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.573127624, 
+                    35.0620200970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO CONFEDERATE HISTORICAL SOCIETY INC</h3>944 FLORIDA STREET SE ALBUQUERQUE NM 87108", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.176709982, 
+                    36.7481027250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NAVAJO HERITAGE CENTER INC</h3>PO BOX 1230 FARMINGTON NM 87499-1230", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.488923211, 
+                    35.1725065590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COMMEMORATIVE AIR FORCE</h3>994 LYNX LOOP NE ALBUQUERQUE NM 87122-1314", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.522966977, 
+                    33.4045134650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROSWELL MUSEUM AND ART CENTER</h3><b><a href=\"http://www.roswellmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5756270918\" target=\"_blank\">Phone</a><br>100 W 11TH ST ROSWELL NM 88201-4910", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.525956238, 
+                    33.3966501740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WALKER AVIATION MUSEUM FOUNDATION</h3>PO BOX 4080 ROSWELL NM 88202", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.575729963, 
+                    35.0726925950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NOB HILL MAIN STREET INC</h3>122 TULANE SE ALBUQUERQUE NM 87108", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.216210446, 
+                    36.7270630560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN JUAN ONCOLOGY BOTANIC GARDENS INC</h3><a href=\"tel:5055646850\" target=\"_blank\">Phone</a><br>735 W ANIMAS ST FARMINGTON NM 87401-5616", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.590428088, 
+                    36.7065427490004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN ANTONIO DEL RIO COLORADO HISTORICAL PRESERVATION</h3>PO BOX 534 QUESTA NM 87556-0534", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.721054973, 
+                    32.2958671410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE NEW MEXICO FARM AND RANCH HERITAGE MUSEUM</h3><b><a href=\"http://www.nmfarmandranchmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5755224100\" target=\"_blank\">Phone</a><br>4100 DRIPPING SPRINGS RD LAS CRUCES NM 88011-5067", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.248138884, 
+                    33.1450417780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAINSTREET TRUTH OR CONSEQUENCES</h3>PO BOX 1602 T OR C NM 87901-4602", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.7964973, 
+                    32.2729514040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE TAYLOR FAMILY MONUMENT</h3>PO BOX 1305 MESILLA NM 88046-1305", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.65818718, 
+                    35.1778506140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANTHONY AND KATHLEEN TIANO EDUCATIONAL CORPORATION</h3>8314 CALLE PICAFLOR NW ALBUQUERQUE NM 87120-3104", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.300636597, 
+                    35.8819736990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LIVING TREASURES OF LOS ALAMOS INC</h3>PO BOX 1065 LOS ALAMOS NM 87544-1065", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.227738813, 
+                    32.4227237400004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARLSBAD TOMORROW INC</h3>PO BOX 1090 CARLSBAD NM 88221-1090", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.588613779, 
+                    35.0900704680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALBUQUERQUE SOCIETY OF HO MODULE ENGINEERS</h3>717 MANZANO ST NE ALBUQUERQUE NM 87109-4000", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.94899768, 
+                    35.6934939460004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO COMMITTEE OF THE NATIONAL MUSEUM OF WOMEN IN THE</h3>PO BOX 31314 SANTA FE NM 87594-8759", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.617621086, 
+                    34.7672229630004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUFFALO SOLDIERS SOCIETY OF NEW MEXICO</h3>02 HENDRIX LANE LOS LUNAS NM 87031-7856", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.715269212, 
+                    34.7266830420004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VALENCIA COUNTY HISTORICAL SOCIETY</h3>77 LAURA LANE LOS LUNAS NM 87031-7641", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.880545317, 
+                    35.4809955030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAMY RAILROAD AND HISTORY MUSEUM INC</h3><b><a href=\"http://www.thelegaltender.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5054661650\" target=\"_blank\">Phone</a><br>151 OLD LAMY TRL LAMY NM 87540-9515", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.850876107, 
+                    35.1555822650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CIBOLA COUNTY HISTORICAL SOCIETY</h3>POBOS 346 GRANTS NM 87020", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.666785855, 
+                    35.2416241860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLEVELAND HIGH SCHOOL BASEBALL BOOSTERS</h3>PO BOX 44034 RIO RANCHO NM 87174-4034", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.704077407, 
+                    36.0119110840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAGON MOUND BEAN DAY ASSOCIATION</h3>PO BOX 216 WAGON MOUND NM 87752-0216", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.957028124, 
+                    35.7770172850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOSQUERO MUSEUM WESTERN HERITG</h3><a href=\"tel:5756732320\" target=\"_blank\">Phone</a><br>37 MAIN ST MOSQUERO NM 87733-8009", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.524721989, 
+                    35.0594203180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE AMERICAN MILITARY FAMILY AND LEARNING CENTER</h3>1123 LOS PADRES SE ALBUQUERQUE NM 87123-5914", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE SANTA FE MUSEUM OF LANGUAGES</h3>PO BOX 1988 SANTA FE NM 87504-1988", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.789797587, 
+                    32.3148674000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE GREATER LAS CRUCES CHAMBER HERITAGE FOUNDATION</h3><b><a href=\"http://www.lascruces.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5755241968\" target=\"_blank\">Phone</a><br>760 W PICACHO AVE LAS CRUCES NM 88005-2142", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.713888683, 
+                    32.3456075660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HIDALGO COUNTY HERITAGE SOCIETY</h3>324 W RAILWAY BLVD LORDSBURG NM 88045-1808", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.573126086, 
+                    36.4076277510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PO PAY SOCIETY</h3>110A PASEO DEL PUEBLO NORTE TAOS NM 87571-6098", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.638830375, 
+                    35.0817784170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITTLESEY HOUSE PRESERVATION</h3>201 HIGHLAND PARK CIRCLE SE ALBUQUERQUE NM 87102-3632", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.140665251, 
+                    36.7810898980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FARMINGTON MUSEUM OF NAVAJO ART</h3>5703 WOODLAND CT FARMINGTON NM 87402-4832", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.639397928, 
+                    31.8274927630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OUT OF EDEN WALK</h3>PO BOX 1754 COLUMBUS NM 88029-1754", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.653046948, 
+                    35.0837136560004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TELEPHONE MUSEUM OF NEW MEXICO</h3>PO BOX 1892 ALBUQUERQUE NM 87103-1892", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.652914189, 
+                    35.1893062240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF ARCHAEOLOGY AND BIBLICAL HISTORY</h3>9833 WINDMILL CT NW ALBUQUERQUE NM 87114-5602", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.718371768, 
+                    35.1945744770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE POTATO MUSEUM</h3><b><a href=\"http://potatomuseum.com\" target=\"_blank\">Website</a></b><br>9908 LA PAZ NW ALBUQUERQUE NM 87114", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.61889955, 
+                    35.2207507810004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KIDD CONNECTION</h3>PO BOX 2212 CORRALES NM 87048-2212", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.96536444, 
+                    35.6699064590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE NEW MEXICO FILM MUSEUM</h3>1418 CERRILLOS ROAD SANTA FE NM 87505", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.639395999, 
+                    31.8275035770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTER FOR AFRO LATINO STUDIES</h3>30600 PERSHING STREET COLUMBUS NM 88029", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.665227356, 
+                    33.3586639670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUBBARD MUSEUM OF THE AMERICAN WEST FOUNDATION</h3>PO BOX 2498 RUIDOSO NM 88355-2498", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.219877339, 
+                    35.5932828510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE LAS VEGAS CITY MUSEUM AND ROUGH RIDER COLLECT</h3><b><a href=\"http://www.lasvegasmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5054541401\" target=\"_blank\">Phone</a><br>PO BOX 3311 LAS VEGAS NM 87701-6311", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.347347725, 
+                    32.9480055330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEA COUNTY MUSEUM INC</h3><b><a href=\"http://www.leacountymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5753964805\" target=\"_blank\">Phone</a><br>103 S LOVE ST LOVINGTON NM 88260-4218", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.882537495, 
+                    35.4800171810004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OUR LADY OF LIGHT HISTORIC FOUNDATION INC</h3>137 OLD LAMY TRAIL LAMY NM 87540", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.581867069, 
+                    35.0770614530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE NEW MEXICO VETERANS MEMORIAL FOUNDATION</h3><b><a href=\"http://www.nmvetsmemorial.org\" target=\"_blank\">Website</a></b><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.639397928, 
+                    31.8274927630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIRST AERO FOUNDATION</h3>PO BOX 1516 COLUMBUS NM 88029-1516", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.589537362, 
+                    33.3328807050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUBBARD MUSEUM</h3>PO BOX 449 RUIDOSO DOWNS NM 88346-0449", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.69568085, 
+                    34.9895010680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUBBELL HOUSE ALLIANCE</h3>6029 ISLETA BLVD SE ALBUQUERQUE NM 87105", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.080407283, 
+                    33.8699320600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DATIL EDUCATORS CLUB</h3>PO BOX 451 DATIL NM 87821-0451", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.371067505, 
+                    33.1953004550004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DEXTER HISTORICAL SOCIETY</h3>PO BOX 524 DEXTER NM 88230-0524", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.909930519, 
+                    35.5187331610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHIPS OF EXPLORATION AND DISCOVERY RESEARCH</h3>39 CONDESA RD SANTA FE NM 87508-8136", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.302715077, 
+                    35.8840654740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHWEST SOARING MUSEUM FOUNDATION INC</h3>1001 OPPENHEIMER DR APT 217 LOS ALAMOS NM 87544", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.892029351, 
+                    34.0864645200004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY DEV CO LLC</h3><a href=\"tel:5058350543\" target=\"_blank\">Phone</a><br>500 HAROLD DR SOCORRO NM 87801-5401", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.958458733, 
+                    35.6544822520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHEELWRIGHT MUSEUM OF THE AMERICAN INDIAN</h3><a href=\"tel:5059824636\" target=\"_blank\">Phone</a><br>PO BOX 5153 SANTA FE NM 87502-5153", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.406708225, 
+                    36.7084241360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RED RIVER COMMUNITY HOUSE INC</h3>PO BOX 213 RED RIVER NM 87558-0213", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.575907413, 
+                    36.4061084180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TAOS HISTORIC MUSEUMS INC</h3><b><a href=\"http://www.taoshistoricmuseums.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5057580505\" target=\"_blank\">Phone</a><br>222 LEDOUX ST TAOS NM 87571-5944", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.179997219, 
+                    32.7597888830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN HERITAGE MUSEUM COMPLEX</h3><b><a href=\"http://www.museumhobbsnm.org\" target=\"_blank\">Website</a></b><br>5317 LOVINGTON HWY HOBBS NM 88240", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.669766528, 
+                    35.0939200740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALBUQUERQUE MUSEUM FOUNDATION INC</h3><b><a href=\"http://albuquerquemuseum.com/\" target=\"_blank\">Website</a></b><br>PO BOX 7006 ALBUQUERQUE NM 87194-7006", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NEW MEXICO FOUNDATION</h3><b><a href=\"http://www.museumfoundation.org\" target=\"_blank\">Website</a></b><br>P.O. BOX 2065 SANTA FE NM 87504-2065", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.252771439, 
+                    33.1298963350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GERONIMO SPRINGS MUSEUM</h3><b><a href=\"http://www.geronimospringsmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5758946600\" target=\"_blank\">Phone</a><br>211 MAIN ST TRUTH OR CONSEQUENCES NM 87901-2838", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.323578155, 
+                    35.8814611240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOS ALAMOS HISTORICAL SOCIETY</h3><a href=\"tel:5056626272\" target=\"_blank\">Phone</a><br>PO BOX 43 LOS ALAMOS NM 87544", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.658334048, 
+                    35.1104257310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INDIAN PUEBLO CULTURAL CENTER INC</h3><b><a href=\"http://www.indianpueblo.com\" target=\"_blank\">Website</a></b><br>2401 12TH ST NW ALBUQUERQUE NM 87104-2302", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.596839958, 
+                    35.1075025610004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALBUQUERQUE SPORTS HALL OF FAME</h3>PO BOX 3826 ALBUQUERQUE NM 87190-3826", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.52895398, 
+                    33.3945810760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY FOR SOUTHEAST NEW MEXICO INC</h3><b><a href=\"http://hssnm.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:5756228333\" target=\"_blank\">Phone</a><br>200 N LEA AVE ROSWELL NM 88201-4655", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.018164992, 
+                    33.0733497930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TULAROSA VILLAGE HISTORICAL SOCIETY</h3>701 ST FRANCIS DRIVE TULAROSA NM 88352", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.665227356, 
+                    33.3586639670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN COUNTY HERITAGE TRUST</h3>PO BOX 123 RUIDOSO NM 88355-0123", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.757060311, 
+                    32.2667055810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LUNA COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://deminglunamimbresmuseum.com/index.h\" target=\"_blank\">Website</a></b><br>301 S SILVER AVE DEMING NM 88030-3761", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.928678538, 
+                    35.6613893700004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO NATURAL HISTORY INSTITUTE</h3>1750 CAMINO CORRALES SANTA FE NM 87505", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.274687944, 
+                    32.7716515470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MIMBRES MUSEUM RESEARCH CENTER INC</h3>PO BOX 1424 SILVER CITY NM 88062", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.896539099, 
+                    34.0602802430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOCORRO COUNTY HISTORICAL SOCIETY INCORPORATED</h3>1219 A APACHE DR SOCORRO NM 87801", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.64280577, 
+                    35.0934334330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO MUSEUM OF NATURAL HISTORY FOUNDATION</h3><b><a href=\"http://www.nmnaturalhistory.org\" target=\"_blank\">Website</a></b><br>PO BOX 25446 ALBUQUERQUE NM 87125-0446", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.179997219, 
+                    32.7597888830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEA COUNTY COWBOY HALL OF FAME AND WESTERN HERITAGE CENTER</h3>5317 N LOVINGTON HWY HOBBS NM 88240-9121", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.661716592, 
+                    32.9505202330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SACRAMENTO MOUNTAINS HISTORICAL SOCIETY INC</h3>PO BOX 435 CLOUDCROFT NM 88317-0435", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.219877339, 
+                    35.5932828510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS VEGAS CITIZENS COMMITTEE FOR HISTORIC PRESERVATION</h3><b><a href=\"http://lasvegasnmcchp.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5054258803\" target=\"_blank\">Phone</a><br>PO BOX 728 LAS VEGAS NM 87701-0728", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.070696938, 
+                    34.9679605820004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MORIARTY HISTORICAL SOCIETY</h3>PO BOX 1366 MORIARTY NM 87035", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.438499769, 
+                    36.9007781450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RATON MUSEUM</h3><a href=\"tel:5054458979\" target=\"_blank\">Phone</a><br>216 S 1ST ST RATON NM 87740-3904", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.570606174, 
+                    36.4103524230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FECHIN INSTITUTE</h3><a href=\"tel:5757581710\" target=\"_blank\">Phone</a><br>227 PASEO DEL PUEBLO NO TAOS NM 87571-7316", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.671476245, 
+                    35.5255721340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE GALLUP HISTORICAL SOCIETY</h3>3724 CINIZA DR GALLUP NM 87301", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.252717691, 
+                    32.4340095260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHEASTERN NEW MEXICO HISTORICAL SOCIETY</h3>1020 ALAMOSA STREET CARLSBAD NM 88220", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.639395999, 
+                    31.8275035770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLUMBUS NEW MEXICO HISTORICAL SOCIETY INC</h3><a href=\"tel:5755312620\" target=\"_blank\">Phone</a><br>PO BOX 562 COLUMBUS NM 88029", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.958458733, 
+                    35.6544822520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAIRVIEW CEMETERY PRESERVATION ASSOCIATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.648949608, 
+                    35.0853039290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EXPLORA SCIENCE CENTER</h3><a href=\"tel:5058426188\" target=\"_blank\">Phone</a><br>40 FIRST PLAZA CTR NW ALBUQUERQUE NM 87102-3355", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.888079016, 
+                    36.9012838150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOLSOM MUSEUM INC</h3><b><a href=\"http://www.folsommuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5752782122\" target=\"_blank\">Phone</a><br>PO BOX 454 FOLSOM NM 88419", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.406706233, 
+                    36.7084220550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RED RIVER HISTORICAL SOCIETY</h3>PO BOX 384 RED RIVER NM 87558", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.596660657, 
+                    35.1894720410004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANDERSON ABRUZZO INTERNATIONAL BALLOON MUSEUM FOUNDATION</h3><b><a href=\"http://www.balloonmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5057686020\" target=\"_blank\">Phone</a><br>9201 BALLOON MUSEUM DR NE ALBUQUERQUE NM 87113-2425", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.402449259, 
+                    32.8399831190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARTESIA HISTORICAL MUSEUM AND ART CENTER FOUNDATION</h3><b><a href=\"http://www.artesiamuseum.com\" target=\"_blank\">Website</a></b><br>505 WEST RICHARDSON AVE ARTESIA NM 88210", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.278066928, 
+                    32.7699373770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SILVER CITY MUSEUM</h3><b><a href=\"http://www.silvercitymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5055385921\" target=\"_blank\">Phone</a><br>312 W. BROADWAY SILVER CITY NM 88061", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.176709982, 
+                    36.7481027250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FARMINGTON MUSEUM FOUNDATION INC</h3>PO BOX 115 FARMINGTON NM 87499-0115", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.936534893, 
+                    35.6734096470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTA FE CHILDRENS MUSEUM INC</h3><b><a href=\"http://www.santafechildrensmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5059898359\" target=\"_blank\">Phone</a><br>1050 OLD PECOS TRL SANTA FE NM 87505-2688", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.571547051, 
+                    36.3954904150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TAOS COUNTY HISTORICAL SOCIETY INCORPORATED</h3>PO BOX 2447 TAOS NM 87571", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.592468254, 
+                    35.5713906020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE FRIENDS OF PECOS NATIONAL HISTORICAL PARK</h3><a href=\"tel:5057577200\" target=\"_blank\">Phone</a><br>PO BOX 23 PECOS NM 87552-8755", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.950939897, 
+                    32.9017714270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALAMOGORDO FRIENDS OF THE ZOO INC</h3>PO BOX 596 ALAMOGORDO NM 88311-8831", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.551411474, 
+                    35.1424237400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO JEWISH HISTORICAL SOCIETY</h3><b><a href=\"http://www.nmjhs.org\" target=\"_blank\">Website</a></b><br>5520 WYOMING BLVD NE ALBUQUERQUE NM 87109", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.059425994, 
+                    35.9930125550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN GABRIEL HISTORICAL SOCIETY</h3>PO BOX 2019 ESPANOLA NM 87532", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.488965877, 
+                    36.0315223390004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC MORA VALLEY FOUNDATION</h3>POB 287 CLEVELAND NM 87715", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.960657306, 
+                    32.9132531210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TOY TRAIN DEPOT INC</h3><b><a href=\"http://www.trains.com\" target=\"_blank\">Website</a></b><br>1991 N WHT SNDS BLVD ALAMOGORDO NM 88310-6200", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.596980481, 
+                    35.1381047980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE CUMBRESS & TOLTEC SCENIC RAILROAD INC</h3>4421 MCLEOD RD NE STE F ALBUQUERQUE NM 87109-2224", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.958458733, 
+                    35.6544822520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INSTITUTE OF AMERICAN INDIAN ARTS</h3><a href=\"tel:5059838900\" target=\"_blank\">Phone</a><br>83 AVAN NU PO RD SANTA FE NM 87502-5310", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.926869945, 
+                    35.6811145270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CREATIVE EYE</h3><a href=\"tel:5059824982\" target=\"_blank\">Phone</a><br>656 CANYON RD SANTA FE NM 87501-2795", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.958458733, 
+                    35.6544822520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTA FE BOTANICAL GARDEN</h3><b><a href=\"http://www.santafebotanicalgarden.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5054719103\" target=\"_blank\">Phone</a><br>PO BOX 23343 SANTA FE NM 87502-3343", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.368858884, 
+                    33.4909215860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN COUNTY HISTORICAL SOCIETY</h3>PO BOX 91 LINCOLN NM 88338-0091", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.290366362, 
+                    36.4048733710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAVID WESTPHALL VETERANS FOUNDATION INC</h3>PO BOX 608 ANGEL FIRE NM 87710-0608", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.76845571, 
+                    32.2980381240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO FARM & RANCH HERITAGE MUSEUM</h3><a href=\"tel:5055224100\" target=\"_blank\">Phone</a><br>715 E IDAHO AVE STE 1-A LAS CRUCES NM 88001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.18902715, 
+                    34.8147905200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TORRANCE COUNTY ARCHAEOLOGICAL SOCIETY</h3>167 MISSION HILLS RD ESTANCIA NM 87016-8066", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.008469745, 
+                    35.5853314920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INSTITUTE OF AMERICAN INDIAN ARTS FOUNDATION</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.777939782, 
+                    32.3115133270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ASOMBRO INSTITUTE FOR SCIENCE EDUCATION</h3>PO BOX 891 LAS CRUCES NM 88004-0891", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHWEST ART HISTORY COUNCIL</h3><a href=\"tel:5054765075\" target=\"_blank\">Phone</a><br>PO BOX 1891 SANTA FE NM 87504-1891", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.788557022, 
+                    32.2995710440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DONA ANA COUNTRY HISTORICAL SOCIETY</h3><b><a href=\"http://www.donaanacountyhistsoc.org\" target=\"_blank\">Website</a></b><br>PO BOX 16045 LAS CRUCES NM 88005", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.666785855, 
+                    35.2416241860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO MUSEUM OF MILITARY HISTORY INC</h3>PO BOX 44216 RIO RANCHO NM 87174-4216", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938489088, 
+                    35.6906718030004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAPITOL ART FOUNDATION</h3><a href=\"tel:5059864614\" target=\"_blank\">Phone</a><br>411 STATE CAPITOL SANTA FE NM 87503-0001", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.522793866, 
+                    33.3936809250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE INTERNATIONAL UFO MUSEUM & RESEARCH CENTER AT ROSWELL NE</h3><b><a href=\"http://www.roswellufomuseum.com\" target=\"_blank\">Website</a></b><br>114 N MAIN ST ROSWELL NM 88203-4706", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.825486598, 
+                    35.1678195650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIVE AMERICAN CULTURAL MUSEUM INC</h3>1501 ESTANCIA GRANTS NM 87020", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.571547051, 
+                    36.3954904150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TAOS ART MUSEUM & FECHIN HOUSE</h3><b><a href=\"http://www.taosartmuseum.org\" target=\"_blank\">Website</a></b><br>P.O. BOX 1848 TAOS NM 87571", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.556147024, 
+                    35.3064017510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANDOVAL COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.sandovalhistory.org\" target=\"_blank\">Website</a></b><br>PO BOX 692 BERNALILLO NM 87004", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.484069688, 
+                    32.3830103900004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITE SANDS MISSILE RANGE HISTORICAL FOUNDATION</h3><b><a href=\"http://www.wsmr.army.mil/Pages/Home.aspx\" target=\"_blank\">Website</a></b><br><a href=\"tel:5756782121\" target=\"_blank\">Phone</a><br>PO BOX 171 WHITE SANDS MISSILE NM 88002-0171", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.648636576, 
+                    35.0841803340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL ATOMIC MUSEUM FOUNDATION</h3><b><a href=\"http://www.nuclearmuseum.org/\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052452137\" target=\"_blank\">Phone</a><br>601 EUBANK ALBUQUERQUE NM 87100", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.846848851, 
+                    35.0696705990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ASHIWI A WAN MUSEUM AND HERITAGE CENTER</h3>PO BOX 1009 ZUNI NM 87327-1009", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.948937503, 
+                    35.6816947620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SITE SANTA FE</h3><b><a href=\"http://www.sitesantafe.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5059891199\" target=\"_blank\">Phone</a><br>1606 PASEO DE PERALTA SANTA FE NM 87501-3724", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.949329877, 
+                    35.6835503380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EL MUSEO CULTURAL DE SANTA FE</h3><a href=\"tel:5059920591\" target=\"_blank\">Phone</a><br>555 CAMINO FAMILIA SANTA FE NM 87501-1197", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CORNERSTONES COMMUNITY PARTNERSHIPS</h3>PO BOX 2341 SANTA FE NM 87504-2341", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.497186985, 
+                    35.1333141120004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RAMAH HISTORICAL SOCIETY</h3>PO BOX 753 RAMAH NM 87321", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.603507584, 
+                    32.4260107050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPACE MUSEUM INC</h3>PO BOX 243 LAS CRUCES NM 88052-8805", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO HERITAGE PRESERVATION ALLIANCE</h3>PO BOX 2490 SANTA FE NM 87504-2490", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.576273556, 
+                    36.4060856780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE HARWOOD MUSEUM ALLIANCE INC</h3><b><a href=\"http://www.harwoodmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5757589826\" target=\"_blank\">Phone</a><br>238 LEDOUX TAOS NM 87571", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.947548425, 
+                    36.0040205550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHIMAYO CULTURAL PRESERVATION ASSOCIATION</h3>PO BOX 727 CHIMAYO NM 87522-0727", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.503673847, 
+                    35.1264709280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE CENTER FOR MILITARY AND AVIATION HISTORY</h3>3825 SHENANDOAH PL NE ALBUQUERQUE NM 87111-4135", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.540350368, 
+                    33.4086033010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE ROSWELL ZOO INC</h3>1306 E COLLEGE BLVD ROSWELL NM 88201", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.070698912, 
+                    34.9679627130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNITED STATES SOUTHWEST SOARING MUSEUM INC</h3>PO BOX 3626 MORIARTY NM 87035-3626", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.729758018, 
+                    32.3973011130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BORDER ARTISTS INC</h3>4609 WEAVER TRAIL LAS CRUCES NM 88012-7478", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.941285394, 
+                    35.6889979570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEORGIA OKEEFFE MUSEUM</h3>217 JOHNSON ST SANTA FE NM 87501-1826", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTA FE SCOTTISH RITE TEMPLE HISTORICAL PRESERVATION FOUNDA</h3>PO BOX 2024 SANTA FE NM 87504-2024", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.664742887, 
+                    35.0969672860004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EXPLORA SCIENCE CENTER & CHILDRENS MUSEUM OF ALBUQUERQUE</h3><b><a href=\"http://www.explora.us\" target=\"_blank\">Website</a></b><br>1701 MOUNTAIN RD NW ALBUQUERQUE NM 87104-1396", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.649945972, 
+                    36.5939810400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ASOCIACION DE VECINOS DE SAN CRISTOBAL</h3>PO BOX 84 SAN CRISTOBAL NM 87564-0084", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.948999657, 
+                    35.6934830200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTA FE TEEN ARTS CENTER</h3><a href=\"tel:5059894423\" target=\"_blank\">Phone</a><br>PO BOX 33196 SANTA FE NM 87594-3196", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.571547051, 
+                    36.3954904150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM ASSOCIATION OF TAOS INC</h3><b><a href=\"http://WWW.TAOSMUSEUMS.ORG\" target=\"_blank\">Website</a></b><br>PO BOX 3149 TAOS NM 87571", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.950102138, 
+                    32.9575339490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN ARMED FORCES MUSEUM INC</h3>144 HWY 82 ALAMOGORDO NM 88310-9787", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.958458733, 
+                    35.6544822520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE ALLAN HOUSER FOUNDATION</h3>PO BOX 5217 SANTA FE NM 87502-5217", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.64280577, 
+                    35.0934334330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO STEAM LOCOMOTIVE & RAILROAD HISTORICAL SOCIETY</h3>PO BOX 27270 ALBUQUERQUE NM 87125-7270", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.6304566, 
+                    35.0819075170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO ROUTE 66 ASSOCIATION INC</h3><b><a href=\"http://www.itsatrip.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052424025\" target=\"_blank\">Phone</a><br>1415 CENTRAL AVE NE ALBUQUERQUE NM 87106-4801", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.157476968, 
+                    36.7184935300004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOLACK MUSEUM FOUNDATION</h3>3901 BLOOMFIELD HWY FARMINGTON NM 87401-2831", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.653046948, 
+                    35.0837136560004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO HOLOCAUST AND INTOLERANCE MUSEUM AND STUDY CENTE</h3>RO BOX 1762 ALBUQUERQUE NM 87103-1762", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.929217444, 
+                    35.6506740170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTA FE MASTER GARDENER ASSOCIATIO N</h3>2233 CALLE CACIQUE SANTA FE NM 87505-4944", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.596839958, 
+                    35.1075025610004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BATAAN-CORREGIDOR MEMORIAL FOUNDATION OF NEW MEXICO INC</h3>PO BOX 30966 ALBUQUERQUE NM 87190-0966", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.525949566, 
+                    33.3966436590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILSON-COBB HISTORY AND GENEALOGY RESEARCH LIBRARY</h3>301 S RICHARDSON ROSWELL NM 88202-1216", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.576757343, 
+                    35.1599424310004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHEELES MUSEUM INC</h3>PO BOX 747 ALBUQUERQUE NM 87199-5438", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.729977658, 
+                    34.7395610230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC TOME-ADELINO NEIGHBORHOOD</h3>PO BOX 458 TOME NM 87060", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.164381868, 
+                    36.7456180170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE NATURE CENTER</h3>3041 E MAIN ST FARMINGTON NM 87402", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.593218763, 
+                    35.1004695850004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAVALCADE OF WINGS INC</h3><a href=\"tel:5052567212\" target=\"_blank\">Phone</a><br>1408 JEFFERSON ST NE ALBUQUERQUE NM 87110-5049", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.661716592, 
+                    32.9505202330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO RAILS TO TRAILS ASSOCIATION</h3><b><a href=\"http://nmrailstotrails.org/home-3\" target=\"_blank\">Website</a></b><br>PO BOX 44 CLOUDCROFT NM 88317-0044", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.982736175, 
+                    35.6701587390004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO CULTURENET</h3>941 PLACITA CHACO SANTA FE NM 87505-6253", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DANCE ART MUSEUM</h3>PO BOX 118 SANTA FE NM 87504-0118", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.265517276, 
+                    36.5537506350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANGRE DE CRISTO COMMUNITIES INTERACTING</h3>PO BOX 288 EAGLE NEST NM 87718-0288", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.274676819, 
+                    32.7716407060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT BAYARD HISTORIC PRESERVATION SOCIETY</h3>PO BOX 14 SILVER CITY NM 88062-0014", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.943015816, 
+                    35.6893082720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AWAKENING MUSEUM</h3>315 JOHNSON ST SANTA FE NM 87501-1828", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.670693362, 
+                    35.1114751180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHWEST NATURAL HISTORY INSTITUTE</h3>1819 MEADOWVIEW DRIVE NW ALBUQUERQUE NM 87104", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.347306028, 
+                    32.9439940340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOVINGTON MAINSTREET CORPORATION</h3>PO BOX 1418 LOVINGTON NM 88260-1418", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.119767058, 
+                    35.4341904800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MADRID CULTURAL PROJECTS INC</h3>PO BOX 713 CERRILLOS NM 87010-0713", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.569137562, 
+                    36.4120122140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COUSE FOUNDATION</h3>PO BOX 1436 TAOS NM 87571-1436", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.015287059, 
+                    33.0791410820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RED BRICK BUILDING RESTORATION FOUNDATION</h3>PO BOX 612 TULAROSA NM 88352-0612", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.657135425, 
+                    35.0851835950004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OFFCENTER COMMUNITY ARTS PROJECT</h3><a href=\"tel:5052471172\" target=\"_blank\">Phone</a><br>808 PARK AVE SW ALBUQUERQUE NM 87102-3017", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.75346227, 
+                    35.0518554940004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMATEUR ATHLETIC WORLD HALL OF FAME MUSEUM</h3>1308 ELFEGO BACA DR SW ALBUQUERQUE NM 87121", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.648159875, 
+                    33.3493330640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER STORE MUSEUM</h3><b><a href=\"http://www.pioneerstoremuseum.com\" target=\"_blank\">Website</a></b><br>HC 30 BOX 134 WINSTON NM 87943", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.668213208, 
+                    35.0983731800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALBUQUERQUE MUSEUM OF ART AND HISTORY</h3><b><a href=\"http://www.cabq.gov\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052664227\" target=\"_blank\">Phone</a><br>2000 MOUNTAIN ROAD, NW ALBUQUERQUE NM 87104", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.777939782, 
+                    32.3115133270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITY OF LAS CRUCES</h3><b><a href=\"http://www.las-cruces.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5755223120\" target=\"_blank\">Phone</a><br>P.O. BOX 20000 LAS CRUCES NM 88004-9002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.213847267, 
+                    35.5968941990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITY OF LAS VEGAS</h3><b><a href=\"http://www.ci.las-vegas.nm.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:5054541401\" target=\"_blank\">Phone</a><br>727 GRAND AVENUE LAS VEGAS NM 87701-4731", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.522966977, 
+                    33.4045134650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITY OF ROSWELL</h3><a href=\"tel:5756246760\" target=\"_blank\">Phone</a><br>100 WEST 11TH STREET ROSWELL NM 88201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.752564341, 
+                    32.2848263870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO STATE UNIVERSITY ART GALLERY</h3><b><a href=\"http://www.nmsu.edu/~artgal\" target=\"_blank\">Website</a></b><br><a href=\"tel:5756462545\" target=\"_blank\">Phone</a><br>1309 E UNIVERSITY AVE LAS CRUCES NM 88003", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.942488754, 
+                    35.6834407070004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO DEPARTMENT OF CULTURAL AFFAI</h3><b><a href=\"http://www.museumsofnewmexico.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5053771594\" target=\"_blank\">Phone</a><br>407 GALISTEO STREET SANTE FE NM 87501-2834", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.625149461, 
+                    35.0901322990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF NEW MEXICO</h3><b><a href=\"http://www.unm.edu/~maxwell\" target=\"_blank\">Website</a></b><br><a href=\"tel:5757589826\" target=\"_blank\">Phone</a><br>1700 LOMAS BLVD. NE ALBUQUERQUE NM 87131-0001", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.929922168, 
+                    35.6821970770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC SANTA FE FOUNDATION INC</h3>545 CANYON RD APT 2 SANTA FE NM 87501-2754", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.532836068, 
+                    35.1162903800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALBUQUERQUE HISTORICAL SOCIETY</h3><b><a href=\"http://albuqhistsoc.org\" target=\"_blank\">Website</a></b><br>PO BOX 20568 ALBUQUERQUE NM 87154-8715", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY OF NEW MEXICO</h3>PO BOX 1912 SANTA FE NM 87504-1912", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.958458733, 
+                    35.6544822520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPANISH COLONIAL ARTS SOCIETY INC</h3><b><a href=\"http://www.spanishcolonial.org\" target=\"_blank\">Website</a></b><br>PO BOX 5378 SANTA FE NM 87502-5378", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.777939782, 
+                    32.3115133270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ASTRONOMICAL SOCIETY OF LAS CRUCES</h3>PO BOX 921 LAS CRUCES NM 88004-0921", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.70685245, 
+                    31.8770094730004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAR EAGLES AIR MUSEUM ENDOWMENT FUND</h3><b><a href=\"http://www.war-eagles-air-museum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5755892000\" target=\"_blank\">Phone</a><br>8012 AIRPORT RD SANTA TERESA NM 88008-9719", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.9398795, 
+                    35.6652659430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MANDELMAN-RIBAK FOUNDATION</h3>1447 SEVILLE RD SANTA FE NM 87505-4647", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE SIXTIES</h3>PO BOX 2064 SANTA FE NM 87504-2064", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.581878145, 
+                    35.0770636710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FILIPINO AMERICAN NATIONAL HISTORICAL SOCIETY</h3>PO BOX 80241 ALBUQUERQUE NM 87198", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.585977283, 
+                    35.0778580210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARCHAEOLOGICAL CONSERVANCY</h3><b><a href=\"http://www.archaeologicalconservancy.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5052661540\" target=\"_blank\">Phone</a><br>5301 CENTRAL AVE NE ALBUQUERQUE NM 87108-1513", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

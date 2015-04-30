@@ -1,0 +1,3080 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.549048864, 
+                    42.5639506850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TWIN FALLS COUNTY MUSEUM</h3><b><a href=\"http://twinfallsmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2087364675\" target=\"_blank\">Phone</a><br>21337 HIGHWAY 30 FILER ID 83328", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.938242873, 
+                    46.3811089870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEIPPE HILLTOP HERITAGE MUSEUM</h3><a href=\"tel:2084354200\" target=\"_blank\">Phone</a><br>617 N MAIN ST WEIPPE ID 83553", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.612408556, 
+                    42.5677141120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TWIN FALLS COUNTY HISTORICAL SOCIETY MUSEUM</h3><a href=\"tel:2087364675\" target=\"_blank\">Phone</a><br>21337 A US HWY 30 FILER ID 83328", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.206612796, 
+                    43.6137733580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPORTS HUMANITARIAN HALL-FAME</h3><b><a href=\"http://www.sportshumanitarian.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2083437224\" target=\"_blank\">Phone</a><br>855 W BROAD ST BOISE ID 83702", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.121919951, 
+                    47.8309279000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPRAG POLE MUSEUM</h3>ALMQUIST ST PO BOX 425 MURRAY ID 83874", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.9801187, 
+                    44.2643233370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SNAKE RIVER HERITAGE CENTER</h3><a href=\"tel:2085490205\" target=\"_blank\">Phone</a><br>2295 PADDOCK AVE WEISER ID 83672", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.111057121, 
+                    43.7230829610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TETON VALLEY HISTORICAL MUSEUM</h3><a href=\"tel:2083546000\" target=\"_blank\">Phone</a><br>137 N HIGHWAY 33 DRIGGS ID 83422", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.133693437, 
+                    47.5376961730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STAFF HOUSE MUSEUM</h3><b><a href=\"http://www.staffhousemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2087864141\" target=\"_blank\">Phone</a><br>820 MCKINLEY AVE KELLOGG ID 83837", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.923882663, 
+                    47.4736705260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHERN PACIFIC DEPOT</h3><b><a href=\"http://www.wallaceidahochamber.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2087520111\" target=\"_blank\">Phone</a><br>219 6TH ST WALLACE ID 83873", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.897706839, 
+                    48.4942786320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRIEST LAKE MUSEUM</h3><b><a href=\"http://www.plmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2084432676\" target=\"_blank\">Phone</a><br>38 W LAKESHORE RD PRIEST LAKE ID 83856", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.92346903, 
+                    47.4724269160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OASIS BORDELLO MUSEUM</h3><a href=\"tel:2087530801\" target=\"_blank\">Phone</a><br>605 CEDAR ST WALLACE ID 83873", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.164754886, 
+                    43.6021209380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD IDAHO STATE PENITENTIARY</h3><b><a href=\"http://www.history.idaho.gov/old-idaho-penitentiary\" target=\"_blank\">Website</a></b><br><a href=\"tel:2083342844\" target=\"_blank\">Phone</a><br>2445 E OLD PENITENTIARY RD BOISE ID 83712", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.010758043, 
+                    42.6192943640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM SOUTH BANNOCK COUNTY</h3><b><a href=\"http://www.lavahotsprings.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2087765254\" target=\"_blank\">Phone</a><br>110 E MAIN LAVA HOT SPRINGS ID 83246", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.648428252, 
+                    42.6195868650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MINIDOKA COUNTY MUSEUM</h3><a href=\"tel:2084360336\" target=\"_blank\">Phone</a><br>99 E BASELINE RD RUPERT ID 83350", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.691419436, 
+                    43.1308016830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOUNTAIN HOME HIST MUSEUM</h3><a href=\"tel:2085876847\" target=\"_blank\">Phone</a><br>180 S 3RD E MOUNTAIN HOME ID 83647", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.997109055, 
+                    46.7332700730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MC CONNELL MANSION</h3><a href=\"tel:2088821004\" target=\"_blank\">Phone</a><br>110 S ADAMS ST MOSCOW ID 83843", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.8003236, 
+                    47.4705567340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MULLAN MUSEUM</h3><a href=\"tel:2087441155\" target=\"_blank\">Phone</a><br>229 EARLE AVE MULLAN ID 83846", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.389858721, 
+                    46.0321884440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL MUSEUM AT ST GERTRUDE</h3><b><a href=\"http://www.stgertrudes.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2089627123\" target=\"_blank\">Phone</a><br>465 KEUTERVILLE RD COTTONWOOD ID 83522", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.799008905, 
+                    46.4910097570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>J HOWARD BRADBURY MEMORIAL LDG</h3><a href=\"tel:2084642677\" target=\"_blank\">Phone</a><br>103 S MAIN ST PIERCE ID 83546", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.565589568, 
+                    47.3162672530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUGHES HOUSE HISTORICAL SOCIETY</h3><a href=\"tel:2082451501\" target=\"_blank\">Phone</a><br>538 MAIN AVE SAINT MARIES ID 83861", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.364881987, 
+                    43.6788033650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KETCHUM/SUN VALLEY HERITAGE AND SKI MUSEUM</h3><a href=\"tel:2087268118\" target=\"_blank\">Phone</a><br>180 1ST AVE E KETCHUM ID 83340", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.833551899, 
+                    43.8292544620004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO CITY HISTORICAL MUSEUM</h3><a href=\"tel:2083924550\" target=\"_blank\">Phone</a><br>503 MONTGOMERY ST IDAHO CITY ID 83631", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.238632386, 
+                    43.5579037050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO MILITARY HISTORY MUSEUM</h3><a href=\"tel:2084224841\" target=\"_blank\">Phone</a><br>4748 S LINDBERGH ST BOISE ID 83705", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.434817655, 
+                    42.8590232530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://imnh.isu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:2082823317\" target=\"_blank\">Phone</a><br>5TH SAINT AND DILLON ST POCATELLO ID 83201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.518433776, 
+                    42.7253654440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEROME COUNTY HISTORICAL MSM</h3><b><a href=\"http://www.historicaljeromecounty.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2083245641\" target=\"_blank\">Phone</a><br>220 N LINCOLN AVE JEROME ID 83338", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.389858721, 
+                    46.0321884440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL MUSEUM AT ST. GERTRUDE'S</h3><a href=\"tel:2089627123\" target=\"_blank\">Phone</a><br>465 KEUTERVILLE ROAD COTTONWOOD ID 83522-9408", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.964616389, 
+                    44.2562136650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERMOUNTAIN CULTURAL CENTER & MUSEUM</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.205673006, 
+                    43.6103033640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO STATE HISTORICAL MUSEUM</h3><a href=\"tel:2083342120\" target=\"_blank\">Phone</a><br>610 N. JULIA DAVIS DRIVE BOISE ID 83702", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.001399863, 
+                    46.7364820010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO FOREST FIRE MUESUM</h3><b><a href=\"http://www.smokeybeargifts.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2088824767\" target=\"_blank\">Phone</a><br>310 N MAIN ST MOSCOW ID 83843", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.758821944, 
+                    42.5469654860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEYBURN ELEMENTARY SCHOOL</h3><a href=\"tel:2084342787\" target=\"_blank\">Phone</a><br>1151 7TH STREET HEYBURN ID 83336", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.013830194, 
+                    43.4937216050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLLECTORS' CORNER MUSEUM</h3><b><a href=\"http://idahofallsidaho.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:2085289900\" target=\"_blank\">Phone</a><br>900 JOHN ADAMS PKWY IDAHO FALLS ID 83401", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.041200715, 
+                    43.4916536260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELEGANCE IN ART</h3><b><a href=\"http://www.sculpturebykaren.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2085237765\" target=\"_blank\">Phone</a><br>385 W BROADWAY ST IDAHO FALLS ID 83402", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.853793043, 
+                    42.7842280950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN FALL THEATRE GUILD</h3><a href=\"tel:2082262387\" target=\"_blank\">Phone</a><br>233 IDAHO ST AMERICAN FALLS ID 83211", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.121417032, 
+                    45.9279236860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BICENTENNIAL HISTORICAL MUSEUM</h3><b><a href=\"http://www.dogbarkparkinn.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2089832573\" target=\"_blank\">Phone</a><br>305 N COLLEGE ST GRANGEVILLE ID 83530", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.558764361, 
+                    43.5794885100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CANYON COUNTY HISTORICAL MSM</h3><b><a href=\"http://www.canyoncountyhistory.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2084677611\" target=\"_blank\">Phone</a><br>1200 FRONT ST NAMPA ID 83651", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.833551899, 
+                    43.8292544620004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOISE BASIN MUSEUM</h3>503 MONTGOMERY ST IDAHO CITY ID 83631", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.603472907, 
+                    47.9519742120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRIG AT FARRAGUT STATE PARK</h3>13550 E. HWY 54 ATHOL ID 83801", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.494259686, 
+                    43.8746123230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEM COUNTY HISTORICAL VILLAGE MUSEUM</h3><b><a href=\"http://www.gemcohs.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2083659530\" target=\"_blank\">Phone</a><br>501 E 1ST ST EMMETT ID 83617-3005", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.464475886, 
+                    42.5868601180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF MINIDOKA INTERNMENT NATIONAL MONUMENT</h3>PO BOX 1085 TWIN FALLS ID 83303-1085", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.61163823, 
+                    43.9153628910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITE KNOB HISTORICAL PRESERVATION COMMITTEE INC</h3>PO BOX 509 MACKAY ID 83251-0509", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.042865213, 
+                    43.4938087520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO FALLS HISTORIC DOWNTOWN FOUNDATION INC</h3>420 MEMORIAL DR IDAHO FALLS ID 83402", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.453444856, 
+                    42.8645835450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC OLD TOWN POCATELLO FOUNDATION INC</h3><a href=\"tel:2082327545\" target=\"_blank\">Phone</a><br>420 N MAIN ST POCATELLO ID 83204-0222", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.009388984, 
+                    46.4151487640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACK OCONNOR HUNTING HERITAGE AND EDUCATION CENTER INC</h3>PO BOX 394 LEWISTON ID 83501-0394", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.29871959, 
+                    43.7355567180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TROPICAL-MARINE CONSERVATION INSTITUTE INC</h3>9600 W BROOKSIDE LN BOISE ID 83714-9642", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.248281508, 
+                    43.7222640900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DRY CREEK HISTORICAL SOCIETY INC</h3><b><a href=\"http://drycreekhistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2082294006\" target=\"_blank\">Phone</a><br>5006 W FARM CT BOISE ID 83714", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.61163823, 
+                    43.9153628910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VETERANS OF CUSTER COUNTY MEMORIAL INC</h3>PO BOX 454 MACKAY ID 83251-0454", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.202360754, 
+                    43.6149933380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO LEGAL HISTORY SOCIETY</h3>101 S CAPITOL BLVD STE 1400 BOISE ID 83702-7714", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.271255264, 
+                    43.5190108400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE ARCHIVES OF FALCONRY</h3><b><a href=\"http://www.peregrinefund.org/american_falconry.asp\" target=\"_blank\">Website</a></b><br><a href=\"tel:5205912174\" target=\"_blank\">Phone</a><br>5668 WEST FLYING HAWK LANE BOISE ID 85749", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.776887747, 
+                    47.6738273010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NORTH IDAHO INC</h3><a href=\"tel:1086643448\" target=\"_blank\">Phone</a><br>PO BOX 812 COEUR D ALENE ID 83816-0812", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.793318535, 
+                    42.5218743040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CASSIA COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://cassiacounty.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2086787172\" target=\"_blank\">Phone</a><br>PO BOX 331 BURLEY ID 83318", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.562980313, 
+                    48.2786995110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BONNER COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.bonnercountyedc.com\" target=\"_blank\">Website</a></b><br>611 S ELLA AVE SANDPOINT ID 83864-1100", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.201416172, 
+                    43.6169112810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO HISTORICAL PRESERVATION COUNCIL INC</h3><b><a href=\"http://www.preservationidaho.org\" target=\"_blank\">Website</a></b><br>PO BOX 1495 BOISE ID 83701", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.561127814, 
+                    43.5793723160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CANYON COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 595 NAMPA ID 83653-0595", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.368799918, 
+                    43.5611725450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IETERNA FOUNDATION INC</h3>2045 E AMITY RD MERIDIAN ID 83642-7013", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.68063719, 
+                    43.6452395670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALDWELL MODEL RAILROAD CLUB AND HISTORICAL SOCIETY INC</h3>2802 COLLEGE AVE CALDWELL ID 83605-5845", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.274183911, 
+                    43.6053252950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO AQUARIUM INC</h3>64 N COLE RD BOISE ID 83704-9105", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.450509409, 
+                    42.8621031730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ASLETT CLEAN WORLD FOUNDATION A NONPROFIT CORPORATION</h3>PO BOX 700 POCATELLO ID 83204-0700", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.551768673, 
+                    48.2740984830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BIRD AVIATION MUSEUM AND INVENTION CENTER INC</h3>PO BOX 817 SANDPOINT ID 83864-0817", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.333031199, 
+                    43.2000862200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIVERSIDE NURSERY AND GREENHOUSE FOUNDATION</h3>205 ARAVE LANE BLACKFOOT ID 83221-3858", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.649726819, 
+                    46.6138371700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JULIAETTA - KENDRICK HERITAGE FOUNDATION</h3>PO BOX 37 KENDRICK ID 83537-0037", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.391505818, 
+                    43.6146736030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MEDAL OF HONOR HISTORICAL SOCIETY OF THE UNITED STATES</h3><b><a href=\"http://www.mohhsus.com\" target=\"_blank\">Website</a></b><br>PO BOX 1345 MERIDIAN ID 83680", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.870766548, 
+                    43.6907220780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LIFT UP YOUR HEART AND SING</h3>4156 E 421 N RIGBY ID 83442-5516", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.312015266, 
+                    48.6977214380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOUNDARY COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.bonnersferrymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2082677720\" target=\"_blank\">Phone</a><br>7229 MAIN ST BONNERS FERRY ID 83805-0808", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.914075368, 
+                    43.9734799370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO MILITARY TRANSPORTATION MUSEUM</h3>6247 HWY 95 FRUITLAND ID 83619-3739", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.776887747, 
+                    47.6738273010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPECTACULAR SPUD MUSEUM INC</h3>PO BOX 3920 COEUR D ALENE ID 83816-2532", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.111139777, 
+                    43.7217842120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREATER YELLOWSTONE REGION GEOTOURISM CTR INC</h3>PO BOX 250 DRIGGS ID 83422-0250", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.298440898, 
+                    44.0855165800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREMONT COUNTY HISTORICAL SOCIETY INC</h3>4275 E 1400 N ASHTON ID 83420", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.620037126, 
+                    44.8518592800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UPPER LEMHI VALLEY HISTORICAL SOCIETY INC</h3>PO BOX 50 LEMHI ID 83465-0050", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.009388984, 
+                    46.4151487640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIRST TERRITORIAL CAPITAL OF IDAHO REVITALIZATION PROJECT</h3>PO BOX 2167 LEWISTON ID 83501-1420", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.240588078, 
+                    46.2349396660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEZPERCE HISTORICAL SOCIETY INC</h3>PO BOX 117 NEZPERCE ID 83543-0117", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.754198499, 
+                    47.7258988530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HYDROMANIACS UN LIMITED</h3>5984 N 17TH ST DALTON GDNS ID 83815-9613", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.691419436, 
+                    43.1308016830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELMORE COUNTY HISTORICAL FOUNDATION INC</h3>180 S 3 E MOUNTAIN HOME ID 83647", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.078258677, 
+                    44.7318198170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VALLEY COUNTY HISTORY PROJECT INC</h3>PO BOX 133 DONNELLY ID 83615-0133", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.092936105, 
+                    44.8978381270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AVIATION EDUCATOR HALL OF FAME INC</h3>PO BOX 1026 MCCALL ID 83638-1026", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.590389754, 
+                    43.5863615470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHWEST SCIENCE MUSEUM INC</h3>3933 NAMPA ID 83651", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.920446724, 
+                    47.4012998740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WORLEY HISTORICAL SOCIETY</h3>PO BOX 36 WORLEY ID 83876-0036", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.681765932, 
+                    43.6600553460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALDWELL HISTORICAL SOCIETY</h3>1424 BLAINE STREET CALDWELL ID 83605-3840", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.503771679, 
+                    43.6890544300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAGON TRAILS WEST INC</h3>308 S FERNAN LAKE WAY STAR ID 83669-5771", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.044546672, 
+                    43.4897692300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE ART MUSEUM OF EASTERN IDAHO INC</h3><b><a href=\"http://www.theartmuseum.org\" target=\"_blank\">Website</a></b><br>300 S CAPITAL AVE IDAHO FALLS ID 83402-3952", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.920909978, 
+                    44.0800236910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PAYETTE COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 696 PAYETTE ID 83661", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.948876345, 
+                    46.5778494820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LORANG FARM RESTORATION</h3>1004 LORANG RD GENESEE ID 83832-9574", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.766546634, 
+                    46.7340765030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TROY HISTORICAL SOCIETY</h3>PO BOX 351 TROY ID 83871-0351", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.798840909, 
+                    43.8220316440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REXBURG CHILDRENS MUSEUM INC</h3><a href=\"tel:2084961397\" target=\"_blank\">Phone</a><br>521 PARK ST REXBURG ID 83440-1847", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.194718851, 
+                    43.6157750570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE ALEXANDER HOUSE INC</h3>304 W STATE STREET BOISE ID 83702-6054", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.345799125, 
+                    43.1904943350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POTATO MUSEUM INC</h3><b><a href=\"http://www.potatoexpo.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2087852517\" target=\"_blank\">Phone</a><br>PO BOX 801 BLACKFOOT ID 83221-0801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.875156833, 
+                    42.0963220460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ONEIDA STAKE ACADEMY FOUNDATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.582029735, 
+                    42.6688634040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARIBOU HISTORICAL SOCIETY INC</h3>450N 730E SODA SPRINGS ID 83276-1326", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.991948132, 
+                    46.7310567250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REALMS OF AVALON INC</h3>PO BOX 3232 MOSCOW ID 83843-1908", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.919687706, 
+                    47.5130186520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WALLACE CIVIC MEMORIAL AUDITORIUM ASSOCIATION INC</h3>PO BOX 469 WALLACE ID 83873-0469", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.622566191, 
+                    46.2396670320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF WINCHESTER HISTORY</h3>PO BOX 245 WINCHESTER ID 83555-0245", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.396328821, 
+                    44.3320923570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAYTON AREA HISTORICAL ASSOCIATION INC</h3>PO BOX 1 CLAYTON ID 83227-0001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.691419436, 
+                    43.1308016830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOUNTAIN HOME HISTORICAL SOCIETY INC</h3>180 SOUTH 3RD EAST MOUNTAIN HOME ID 83647-3019", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.331921891, 
+                    42.1155259420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAMARIA COMMUNITY FOUNDATION INC</h3>4430 W 4900 S MALAD CITY ID 83252-6607", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.713916574, 
+                    42.7572910480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN MONTANA CHAPTER NATIONAL RAILWAY HISTORICAL SOCIETY</h3>PO BOX 212 WENDELL ID 83355", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.551768673, 
+                    48.2740984830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PANIDA THEATER COMMITTEE</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.206540713, 
+                    43.6101109220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOISE ART MUSEUM INCORPORATED</h3><a href=\"tel:2083458330\" target=\"_blank\">Phone</a><br>670 S JULIA DAVIS DRIVE BOISE ID 83702", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.896850484, 
+                    45.1767862030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEMHI COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.lemhicountymuseum.org\" target=\"_blank\">Website</a></b><br>210 MAIN ST SALMON ID 83467-4111", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.474300891, 
+                    42.5779406450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLLEGE OF SOUTHERN IDAHO</h3>315 FALLS AVENUE TWIN FALLS ID 83303", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.212006632, 
+                    46.4911776680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE CLEARWATER HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.clearwatermuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 1454 OROFINO ID 83544-1454", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.938359552, 
+                    44.2162414790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAWTOOTH INTERPRETIVE AND HIST</h3>PO BOX 75 STANLEY ID 83278-0075", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.193927065, 
+                    43.6152837850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO HUMANITIES COUNCIL</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.550906442, 
+                    43.2161054790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OWYHEE COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://owyheemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2084952319\" target=\"_blank\">Phone</a><br>17085 BASEY ST MURPHY ID 83650-0067", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.037811382, 
+                    46.7324495140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>APPALOOSA MUSEUM AND HERITAGE CENTER FOUNDATION INC</h3><a href=\"tel:2088825578\" target=\"_blank\">Phone</a><br>2720 W PULLMAN RD MOSCOW ID 83843-4024", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.260308377, 
+                    45.0167373570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ADAMS COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://historicpindepot.com/\" target=\"_blank\">Website</a></b><br>PO BOX 352 NEW MEADOWS ID 83654", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.653856893, 
+                    42.6341840070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MINIDOKA COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 21 RUPERT ID 83350", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.078258677, 
+                    44.7318198170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LONG VALLEY PRESERVATION SOCIETY INC</h3>PO BOX 444 DONNELLY ID 83615-0444", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.887748658, 
+                    42.7211338190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE CHESTRFIELD FOUNDATION INC</h3><a href=\"tel:2086487177\" target=\"_blank\">Phone</a><br>PO BOX 2 BANCROFT ID 83217-0002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.224999175, 
+                    44.5025276820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH CUSTER HISTORICAL SOCIETY INC</h3>PO BOX 776 CHALLIS ID 83226", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.914778936, 
+                    43.6708303340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEFFERSON COUNTY HISTORICAL SOCIETY. & FARNSWORTH TV PIONEE</h3>PO BOX 284 RIGBY ID 83442-0284", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.012346032, 
+                    42.6191217830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH BANNOCK COUNTY HISTORICAL CENTER INC</h3>PO BOX 387 LAVA HOT SPGS ID 83246-0387", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.846458309, 
+                    48.6084579440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRIEST LAKE MUSEUM ASSOCIATION INC</h3><b><a href=\"http://www.plmuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 44 COOLIN ID 83821", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.038424459, 
+                    43.4905995010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BONNEVILLE COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.museumofidaho.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2085221400\" target=\"_blank\">Phone</a><br>200 N EASTERN AVE IDAHO FALLS ID 83402-4029", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.711519857, 
+                    42.9426812980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOODING CO HISTORICAL SOCIETY INC</h3>PO BOX 580 GOODING ID 83330-0580", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.888245889, 
+                    47.8174166930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RATHDRUM-WESTWOOD HISTORICAL SOCIETY INC</h3>PO BOX 227 RATHDRUM ID 83858-0227", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.503865974, 
+                    42.7168129760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEROME COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 50 JEROME ID 83338", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.884507555, 
+                    42.8118227710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAGERMAN VALLEY HISTORICAL SOCIETY</h3><a href=\"tel:2088379178\" target=\"_blank\">Phone</a><br>PO BOX 86 HAGERMAN ID 83332-0086", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.422838783, 
+                    42.8462527570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BANNOCK COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:2082330434\" target=\"_blank\">Phone</a><br>3000 ALVORD LOOP POCATELLO ID 83204-0253", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.786710541, 
+                    47.7476694850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KOOTENAI COUNTY GENEALOGICAL SOCIETY</h3>8385 N GOVERNMENT WAY HAYDEN ID 83835-9280", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.925469499, 
+                    47.4718287900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SIERRA SILVER MINE TOUR INCORPORATED</h3><b><a href=\"http://www.silverminetour.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2087525151\" target=\"_blank\">Phone</a><br>420 5TH ST WALLACE ID 83873-0712", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.16567584, 
+                    43.6017838530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO BOTANICAL GARDENS INC</h3><b><a href=\"http://www.idahobotanicalgarden.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2083438649\" target=\"_blank\">Phone</a><br>2355 OLD PEN RD BOISE ID 83712-8252", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.660039836, 
+                    43.9495909720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH CUSTER COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 572 MACKAY ID 83251", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.243319406, 
+                    46.2638799410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEWIS COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 305 NEZPERCE ID 83543", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.44776114, 
+                    43.2262771880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BINGHAM COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:2087859906\" target=\"_blank\">Phone</a><br>764 W 200 N BLACKFOOT ID 83221-8322", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.75632986, 
+                    47.5487284820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRANE HISTORICAL SOCIETY INC</h3><b><a href=\"http://CraneHistoricalSociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2086893111\" target=\"_blank\">Phone</a><br>PO BOX 152 HARRISON ID 83833", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.332167407, 
+                    43.6787407090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ATLANTA HISTORICAL SOCIETY INC</h3>PO BOX 53 ATLANTA ID 83601", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.766489812, 
+                    47.4725866060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MULLAN HISTORICAL SOCIETY INC</h3>PO BOX 675 MULLAN ID 83846", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.115437204, 
+                    47.5366667470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHOSHONE COUNTY MINING & SMELTING MUSEUM INC</h3>PO BOX 783 KELLOGG ID 83837", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.202451965, 
+                    43.6138740330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BASQUE MUSEUM & CULTURAL CENTER INC</h3><a href=\"tel:2083432671\" target=\"_blank\">Phone</a><br>611 W GROVE ST BOISE ID 83702-5971", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.919687706, 
+                    47.5130186520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHERN PACIFIC DEPOT FOUNDATION INC</h3>PO BOX 469 WALLACE ID 83873-0469", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.473263657, 
+                    47.5381557250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROSE LK CMNTY HSTRICAL SOCIETY INC</h3>14917 S QUEEN ST CATALDO ID 83810-9772", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.392970165, 
+                    43.6101016880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERIDIAN HISTORICAL SOCIETY INC</h3>33 E BROADWAY MERIDIAN ID 83642", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.494259686, 
+                    43.8746123230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEM COUNTY HISTORICAL SOCIETY INCORPORATED</h3>501 EAST FIRST STREET EMMETT ID 83617", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.975100882, 
+                    44.1176319690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GARDEN VALLEY SENIOR INC</h3><a href=\"tel:2084623943\" target=\"_blank\">Phone</a><br>261 S MIDDLEFORK RD GARDEN VALLEY ID 83622-8075", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.904857484, 
+                    43.6700420080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEFFERSON COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 284 RIGBY ID 83442", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.021216731, 
+                    43.4943039150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS HANDS-ON MUSEUM OF EASTERN IDAHO INC</h3>PO BOX 3493 IDAHO FALLS ID 83403", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.391507494, 
+                    43.6146624500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHOS HALL OF FAME ASSOCIATION INC</h3>PO BOX 1250 MERIDIAN ID 83680-1250", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.793216006, 
+                    42.5361104550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOUNT HARRISON HERITAGE FOUNDATION</h3><a href=\"tel:2088786868\" target=\"_blank\">Phone</a><br>PO BOX 747 BURLEY ID 83318-0747", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.164668118, 
+                    43.6021489200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO MUSEUM OF MINING AND GEOLOGY</h3><b><a href=\"http://www.idahomuseum.org\" target=\"_blank\">Website</a></b><br>2455 OLD PENITENTIARY ROAD BOISE ID 83712", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.805877287, 
+                    46.5017689920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>J HOWARD BRADBURY LOGGING MEMORIAL MUSEUM INC</h3>PO BOX 307 PIERCE ID 83546", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.367399776, 
+                    43.6795420700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KETCHUM-SUN VALLEY HISTORICAL SOCIETY INC</h3>PO BOX 2746 KETCHUM ID 83340-2746", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.262209986, 
+                    42.2040730510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ONEIDA COUNTY RELIC PRESERVATION & HISTORICAL SOCIETY</h3>510 GRANDVIEW DR MALAD CITY ID 83252-5367", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.250021406, 
+                    43.6030520820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO AVIATION HALL OF FAME INC</h3>5505 WEST FRANKLIN ROAD BOISE ID 83705-1055", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.474957668, 
+                    46.2408097680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ILO-VOLLMER HISTORICAL SOCIETY INC</h3>BOX 61 CRAIGMONT ID 83523-0061", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.30698655, 
+                    42.3189123260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OREGON TRAIL CENTER INC</h3><a href=\"tel:2088473800\" target=\"_blank\">Phone</a><br>PO BOX 323 MONTPELIER ID 83254-0323", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.216729653, 
+                    43.6143235390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WORLD SPORTS HALL FAME</h3><a href=\"tel:2083437224\" target=\"_blank\">Phone</a><br>PO BOX 9324 BOISE ID 83707-3324", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.021209843, 
+                    43.4943014550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EAGLE ROCK RAILROAD HISTORICAL SOCIETY INC</h3>PO BOX 2685 IDAHO FALLS ID 83403-2685", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.231802497, 
+                    43.5573601120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO MILITARY HISTORICAL SOCIETY INC</h3>4040 W GUARD ST BOISE ID 83705-5004", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.360855926, 
+                    44.4530790320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ISLAND PARK HISTORICAL SOCIETY</h3>PO BOX 224 ISLAND PARK ID 83429-0224", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.476490179, 
+                    43.8413469950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUD LAKE HISTORICAL SOCIETY AND MUSEUM INC</h3><b><a href=\"http://mudlakemuseum.shutterfly.com\" target=\"_blank\">Website</a></b><br>1097 E 1500 N TERRETON ID 83450", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.260138973, 
+                    43.4628436170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BELLEVUE HISTORICAL SOCIETY</h3>PO BOX 474 BELLEVUE ID 83313-0474", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.419060375, 
+                    42.8436085610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POCATELLO ZOOLOGICAL SOCIETY INC</h3><b><a href=\"http://www.pocatellozoo.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2082346264\" target=\"_blank\">Phone</a><br>3101 AVENUE OF THE CHIEFS POCATELLO ID 83204-2135", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.938359552, 
+                    44.2162414790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAND OF THE YANKEE FORK HISTORICAL ASSOCIATION</h3>PO BOX 57 STANLEY ID 83278-0057", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.111139777, 
+                    43.7217842120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TETON VALLEY MUSEUM FOUNDATION INC</h3>PO BOX 363 DRIGGS ID 83422-0363", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.356198352, 
+                    43.6966135960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAWTOOTH BOTANICAL GARDEN INC</h3><b><a href=\"http://www.sbgarden.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2087269358\" target=\"_blank\">Phone</a><br>PO BOX 928 SUN VALLEY ID 83353-0928", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.44299945, 
+                    42.8470414810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD TOWN POCATELLO MODEL RAILROAD AND HISTORICAL SOCIETY IN</h3>PO BOX 2902 POCATELLO ID 83204", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.561127814, 
+                    43.5793723160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TREASURE VALLEY ANTIQUE POWER ASSOCIATION INC</h3>PO BOX 94 NAMPA ID 83653-0094", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.205910441, 
+                    43.5884329160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO CIVIL WAR VOLUNTEERS INC</h3>1701 S BUTLER ST BOISE ID 83705-3105", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.997428846, 
+                    46.7329917370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LATAH COUNTY HISTORICAL FOUNDATION INC</h3><b><a href=\"http://www.moscow.com/lchs\" target=\"_blank\">Website</a></b><br><a href=\"tel:2088821004\" target=\"_blank\">Phone</a><br>327 E 2ND ST MOSCOW ID 83843-2819", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.204438886, 
+                    43.6098414290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO BLACK HISTORY MUSEUM INC</h3><b><a href=\"http://ibhm.org\" target=\"_blank\">Website</a></b><br>508 E JULIA DAVIS DR BOISE ID 83702-7694", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.919686016, 
+                    47.5130168820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MURRAY HISTORICAL SOCIETY INC</h3>PO BOX 469 WALLACE ID 83873", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.038857454, 
+                    43.4972411390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TAUTPHAUS PARK ZOO DOCENTS INC</h3>PO BOX 50220 IDAHO FALLS ID 83405-8340", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.766489812, 
+                    47.4725866060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ST ANDREWS EPISCOPAL CHURCH HISTORICAL SOCIETY INC</h3>PO BOX 55 MULLAN ID 83846", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.213735944, 
+                    43.5675625920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARDY FOUNDATION INC</h3>PO BOX 5711 BOISE ID 83705-0711", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.819838125, 
+                    43.6694442770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENLEAF HISTORICAL SOCIETY NON- PROFIT ASSOCIATION</h3>PO BOX 34 GREENLEAF ID 83626-0034", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.353359956, 
+                    43.6951920400004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EAGLE HISTORICAL SOCIETY</h3><b><a href=\"http://cityofeagle.org\" target=\"_blank\">Website</a></b><br>67 E STATE STREET EAGLE ID 83616-5928", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.891886733, 
+                    45.1758663310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRADITIONAL COWBOY ARTS ASSOCIATION</h3>PO BOX 2002 SALMON ID 83467-2002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.274211787, 
+                    43.6309496660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLOBAL MUSEUM OF QUILTS TEXTILES</h3><a href=\"tel:2086721670\" target=\"_blank\">Phone</a><br>2816 N COLE RD BOISE ID 83704-5914", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.919687706, 
+                    47.5130186520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MINING HERITAGE EXHIBITION INC</h3>PO BOX 469 WALLACE ID 83873-0469", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.529769911, 
+                    43.3748616030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC SILVER CITY FOUNDATION INC</h3>PO BOX 185 MELBA ID 83641-0185", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.183990574, 
+                    43.6076025850004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WARM SPRINGS HISTORIC DISTRICT ASSOCIATION INC</h3>945 E WARM SPRINGS AVE BOISE ID 83712", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.301656857, 
+                    43.6369610180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO SCIENCE CENTER INC</h3>PO BOX 27 ARCO ID 83213-0027", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.787488223, 
+                    42.5614822630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OREGON TRAIL BOTANICAL GARDEN FOUNDATION INC</h3>444 E 5TH N BURLEY ID 83318", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.846497414, 
+                    47.9741175560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPIRIT LAKE HISTORICAL SOCIETY INC</h3><a href=\"tel:2086232110\" target=\"_blank\">Phone</a><br>PO BOX 1186 SPIRIT LAKE ID 83869", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.19788971, 
+                    43.9152325410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SCENIC PAYETTE RIVER HISTORICAL SOCIETY INC</h3>PO BOX 342 HORSESHOE BEND ID 83629-0342", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.930796195, 
+                    46.3758376980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEIPPE HILLTOP HERITAGE SOCIETY INC</h3>PO 279 WEIPPE ID 83553", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.67624662, 
+                    42.6184318330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RENAISSANCE ARTS CENTER  INC</h3><a href=\"tel:2084362787\" target=\"_blank\">Phone</a><br>610 FREMONT ST RUPERT ID 83350-1611", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.587966642, 
+                    42.3864901950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALBION VALLEY HISTORICAL SOCIETY INC</h3>PO BOX 532 ALBION ID 83311-0532", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.783670162, 
+                    47.7298820220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INLAND NORTHWEST GARDEN RAILROAD SOCIETY INC</h3>224 E HANLEY DALTON GARDENS ID 83815-9228", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.417929473, 
+                    43.4907515870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KUNA HISTORICAL SOCIETY</h3>PO BOX 84 KUNA ID 83634-0084", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.417929473, 
+                    43.4907515870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN HERITAGE FOUNDATION INC</h3>PO BOX 84 KUNA ID 83634-0084", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.433307533, 
+                    42.8621031730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO STATE UNIVERSITY</h3>PO BOX 8096 POCATELLO ID 83209-0001", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.206286924, 
+                    43.6274218490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO ZOOLOGICAL SOCIETY</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.204515843, 
+                    43.6028527250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHRIST CHAPEL HISTORICAL SOCIETY INC</h3><b><a href=\"http://operations.boisestate.edu/fac\" target=\"_blank\">Website</a></b><br>1910 UNIVERSITY DR BOISE ID 83725-8372", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.029890766, 
+                    46.4176384680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEZ PERCE COUNTY HISTORICAL SOCIETY INCORPORATED</h3><b><a href=\"http://www.npchistsoc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2087432535\" target=\"_blank\">Phone</a><br>0306 3RD ST LEWISTON ID 83501-1860", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.909549118, 
+                    43.8969729550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO CITY HISTORICAL FOUNDATION</h3><b><a href=\"http://idahocityhf.org\" target=\"_blank\">Website</a></b><br>PO BOX 358 IDAHO CITY ID 83631", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.465897463, 
+                    42.5631787440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TWIN FALLS COUNTY HISTORICAL SOCIETY INC</h3>691 ADDISON AVE TWIN FALLS ID 83301-8330", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.919687706, 
+                    47.5130186520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WALLACE DISTRICT MINING MUSEUM INC</h3><a href=\"tel:2085561592\" target=\"_blank\">Phone</a><br>PO BOX 469 WALLACE ID 83873-0469", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.783858127, 
+                    43.8274586090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UPPER SNAKE RIVER VALLEY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.rexcc.com/thingstodo/attractions/tetonflood.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:2083593063\" target=\"_blank\">Phone</a><br>51 N CENTER ST REXBURG ID 83440", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.125548031, 
+                    45.9319475910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO COUNTY HISTORICAL SOCIETY INC</h3>208 E S 7TH STREET GRANGEVILLE ID 83530", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.448616345, 
+                    44.0701623980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HESS HERITAGE MUSEUM</h3><a href=\"tel:2083565674\" target=\"_blank\">Phone</a><br>PO BOX 734 ASHTON ID 83420-0734", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.300647808, 
+                    43.6079898860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO FALLEN FIREFIGHTER FOUNDATION INC</h3>333 N MARK STALL PLACE BOISE ID 83704-5511", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.015097991, 
+                    46.2234887700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAMIAH VALLEY HISTORICAL SOCIETY INC</h3>PO BOX 804 KAMIAH ID 83536", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.806259221, 
+                    47.7734718470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PAPPY BOYINGTON FIELD MUSEUM INC</h3>1600 W WYOMING AVE PO BOX 892 HAYDEN ID 83835", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.224999175, 
+                    44.5025276820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE YANKEE FORK GOLD DREDGE ASSOCIATION INC</h3>PO BOX 1321 CHALLIS ID 83226", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.198422592, 
+                    43.6084810570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DISCOVERY CENTER OF IDAHO INC</h3><b><a href=\"http://www.dcidaho.org\" target=\"_blank\">Website</a></b><br>131 W MYRTLE ST BOISE ID 83702-7652", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.915739422, 
+                    47.7094067850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POST FALLS HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.postfallshistoricalsociety.webs.\" target=\"_blank\">Website</a></b><br>PO BOX 57 POST FALLS ID 83877", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.523242622, 
+                    43.5843547330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WARHAWK AIR MUSEUM INC</h3><b><a href=\"http://www.warhawkairmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2084656446\" target=\"_blank\">Phone</a><br>201 MUNICIPAL WAY NAMPA ID 83687-8582", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.683386205, 
+                    43.6636749010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OUR MEMORIES MUSEUM</h3><b><a href=\"http://www.canyoncountyhistory.com/exhibit\" target=\"_blank\">Website</a></b><br><a href=\"tel:2084591413\" target=\"_blank\">Phone</a><br>1122 MAIN ST CALDWELL ID 83605-3844", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.205673006, 
+                    43.6103033640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE HISTORICAL MUSEUM INC</h3><a href=\"tel:2083459858\" target=\"_blank\">Phone</a><br>610 N JULIA DAVIS DRIVE BOISE ID 83702", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.687736926, 
+                    43.6654816320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VAN SLYKE MUSEUM</h3>PO BOX 925 CALDWELL ID 83606-0925", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.109648612, 
+                    44.9095282910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL IDAHO HISTORICAL MUSEM INC</h3><b><a href=\"http://centralidahohistoricalmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2086344497\" target=\"_blank\">Phone</a><br>1001 STATE ST MCCALL ID 83638", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.925232765, 
+                    47.4715704270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC WALLACE PRESERVATION SOCIETY INC</h3>504 BANK STREET WALLACE ID 83873-2225", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.308368532, 
+                    43.5126330330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLAINE COUNTY HISTORICAL MUSEUM INC</h3><a href=\"tel:2087200560\" target=\"_blank\">Phone</a><br>PO BOX 124 HAILEY ID 83333-0124", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.320509173, 
+                    43.5725630120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESTO PRESERVATION ASSOCIATION INC</h3>3380 S TERRA DR BOISE ID 83709-3834", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.692934181, 
+                    43.6119235560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN COLLEGE OF ZOOLOGICAL MED</h3><b><a href=\"http://www.aczm.org\" target=\"_blank\">Website</a></b><br>16569 S 10TH AVE CALDWELL ID 83607", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

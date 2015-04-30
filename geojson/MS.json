@@ -1,0 +1,4175 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0534280989997, 
+                    33.3871041970004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BURRUS FOUNDATION INC</h3>1111 E GAMWYN DR GREENVILLE MS 38701", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3830787299997, 
+                    34.6879314610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TUNICA COUNTY MUSEUM INC</h3>1 MUSEUM BLVD TUNICA MS 38676-1914", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.2967377709996, 
+                    31.1040319880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILKINSON COUNTY MUSEUM</h3><a href=\"tel:6018883998\" target=\"_blank\">Phone</a><br>BANK ST WOODVILLE MS 39669-1055", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.2970467839997, 
+                    31.1031401280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WOODVILLE CIVIC CLUB</h3><a href=\"tel:6018883998\" target=\"_blank\">Phone</a><br>BANK ST WOODVILLE MS 39669", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.3321071209997, 
+                    31.3280369450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>USM MUSEUM OF ART</h3><a href=\"tel:6012665200\" target=\"_blank\">Phone</a><br>118 COLLEGE DR HATTIESBURG MS 39406", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.9008270269997, 
+                    30.3984012750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>W E HOSE AND FIRE CO #3 MUSEUM</h3><a href=\"tel:2284356119\" target=\"_blank\">Phone</a><br>1046 HOWARD AVE BILOXI MS 39530", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1587958119997, 
+                    32.3975031240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TOUGALOO ART COLONY</h3><a href=\"tel:6019777839\" target=\"_blank\">Phone</a><br>500 W COUNTY LINE RD TOUGALOO MS 39174", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3772526269997, 
+                    34.7254245040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TUNICA MUSEUMS</h3><b><a href=\"http://www.tunicamuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6623636631\" target=\"_blank\">Phone</a><br>4063 HIGHWAY 61 N TUNICA MS 38676", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.1900338689996, 
+                    34.8090733810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TISHOMINGO COUNTY ARCHIVES</h3><b><a href=\"http://rootsweb.ancestry.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6624233500\" target=\"_blank\">Phone</a><br>203 E QUITMAN ST IUKA MS 38852", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1873886919997, 
+                    32.3056657220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITH ROBERTSON MUSEUM AND CULTURAL CENTER</h3><a href=\"tel:6019601457\" target=\"_blank\">Phone</a><br>528 BLOOM STREET JACKSON MS 39202-4005", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4104783349997, 
+                    32.8471134500004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRIANGLE CULTURAL MUSEUM</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4136547829997, 
+                    32.8437977280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OAKES AFRICAN AMERICAN CULTURE CENTER</h3><a href=\"tel:6627465038\" target=\"_blank\">Phone</a><br>312 S MONROE ST YAZOO CITY MS 39194", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1146655809997, 
+                    32.7708211970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHILADELPHIA HISTORICAL MUSEUM</h3><b><a href=\"http://www.neshoba.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6016561284\" target=\"_blank\">Phone</a><br>303 WATER AVE S PHILADELPHIA MS 39350", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7639406989996, 
+                    34.2475530620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OREN DUNN CITY MUSEUM</h3><b><a href=\"http://www.orendunnmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6628416438\" target=\"_blank\">Phone</a><br>689 RUTHERFORD RD TUPELO MS 38801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5336581459997, 
+                    34.3667421710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROWAN OAK, HOME OF WILLIAM FAULKNER</h3><a href=\"tel:6622343284\" target=\"_blank\">Phone</a><br>UNIVERSITY OF MISSISSIPPI; ENGLISH DEPART. UNIVERSITY MS 38677", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4050359629996, 
+                    32.8500615160004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OAKES AFRICAN AMERICAN GARDENS</h3>", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5580983199997, 
+                    30.3792910830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD SPANISH FORT MUSEUM</h3><a href=\"tel:2287691505\" target=\"_blank\">Phone</a><br>4602 FORT ST PASCAGOULA MS 39567", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8740408919996, 
+                    30.3931903240004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLEASANT REED HOUSE</h3><a href=\"tel:2284363950\" target=\"_blank\">Phone</a><br>386 BEACH BLVD BILOXI MS 39530", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5211205329996, 
+                    34.9332530460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHEAST MISSISSIPPI MUSEUM</h3><a href=\"tel:6622873120\" target=\"_blank\">Phone</a><br>221 N FILMORE STREET CORINTH MS 38834-5635", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.4452066129996, 
+                    34.7684952640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARSHALL COUNTY HISTORICAL MUSEUM</h3><a href=\"tel:6622523669\" target=\"_blank\">Phone</a><br>220 E. COLLEGE AVE. HOLLY SPRINGS MS 38635", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2524764429997, 
+                    32.3286729060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MYNELLE GARDENS - ARBORETUM AND BOTANICAL CENTER</h3><a href=\"tel:6019601894\" target=\"_blank\">Phone</a><br>4736 CLINTON BLVD. JACKSON MS 39209-2402", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1808910209997, 
+                    32.3121977410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MANSHIP HOUSE MUSEUM</h3>420 EAST FORTIFICATION STREET JACKSON MS 39202-2340", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.4478135399997, 
+                    34.7674743590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARSHALL COUNTY HISTORICAL</h3><a href=\"tel:6622523669\" target=\"_blank\">Phone</a><br>111 E VAN DORN AVE HOLLY SPRINGS MS 38635", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1605127079997, 
+                    32.3233644160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI MUSEUM OF NATURAL SCIENCE</h3><b><a href=\"http://www.mdwfp.com/museum/\" target=\"_blank\">Website</a></b><br><a href=\"tel:6013547303\" target=\"_blank\">Phone</a><br>2148 RIVERSIDE DRIVE JACKSON MS 39202", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4513600229997, 
+                    31.2441761960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCCOMB RAILROAD MUSEUM</h3><b><a href=\"http://www.mcrrmuseum.com/index.php\" target=\"_blank\">Website</a></b><br><a href=\"tel:6016842291\" target=\"_blank\">Phone</a><br>108 N RAILROAD BLVD MCCOMB MS 39648", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838664939997, 
+                    32.2942006180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI STATE HISTORICAL MUSEUM</h3><a href=\"tel:6013596920\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7033578609997, 
+                    32.3638498410004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERIDIAN MUSEUM OF ART</h3><b><a href=\"http://www.meridianmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6016931501\" target=\"_blank\">Phone</a><br>628 25TH AVE MERIDIAN MS 39301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.4041646119996, 
+                    31.5607941030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATCHEZ MUSEUM OF AFRICAN AMERICAN HISTORY AND CULTURE</h3><a href=\"tel:6014450728\" target=\"_blank\">Phone</a><br>301 MAIN ST NATCHEZ MS 39120", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2114944299997, 
+                    32.2975805970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARGARET WALKER ALEXANDER NATIONAL RESEARCH CENTER</h3><b><a href=\"http://www.jsums.edu/margaretwalker\" target=\"_blank\">Website</a></b><br><a href=\"tel:6019792055\" target=\"_blank\">Phone</a><br>1400 JOHN R LYNCH ST JACKSON MS 39217", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1470773319996, 
+                    32.3630124700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE SOUTHERN JEWISH EXPERIENCE</h3><b><a href=\"http://www.msje.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6013626357\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1848253389996, 
+                    32.2962732300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI MUSEUM OF ARTS</h3><b><a href=\"http://jacksonms.gov\" target=\"_blank\">Website</a></b><br><a href=\"tel:6019733681\" target=\"_blank\">Phone</a><br>429 S WEST ST JACKSON MS 39201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8591272799997, 
+                    30.3936954400004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARITIME AND SEAFOOD INDUSTRY MUSEUM</h3><b><a href=\"http://www.maritimemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2284356320\" target=\"_blank\">Phone</a><br>115 1ST ST BILOXI MS 39530", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8707173599997, 
+                    30.3925811180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARITIME AND SEAFOOD INDTRY MUSM</h3><b><a href=\"http://www.maritimemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2284356320\" target=\"_blank\">Phone</a><br>367 BEACH BLVD BILOXI MS 39530", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1312073959996, 
+                    31.6960292100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAUREN ROGERS MUSEUM OF ART</h3><b><a href=\"http://www.lrma.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6016496374\" target=\"_blank\">Phone</a><br>565 N 5TH AVE LAUREL MS 39440", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2486789729996, 
+                    31.3737237190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL CHECKER HALL OF FAME</h3><a href=\"tel:6015827090\" target=\"_blank\">Phone</a><br>220 LYNN RAY RD PETAL MS 39465", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7185182119997, 
+                    32.3745591330004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JIMMIE RODGERS MUSEUM</h3><b><a href=\"http://www.jimmierodgers.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6014851808\" target=\"_blank\">Phone</a><br>1725 JIMMIE ROGERS DR MERIDIAN MS 39307", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8732577649997, 
+                    32.3531877870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACQUELINE HOUSE MUSEUM</h3><a href=\"tel:6016190002\" target=\"_blank\">Phone</a><br>1325 MAIN ST VICKSBURG MS 39183", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2684526899997, 
+                    31.3563401400004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL CHECKER HALL</h3><a href=\"tel:6015827090\" target=\"_blank\">Phone</a><br>111 BRENTWOOD AVE PETAL MS 39465", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.3752609149997, 
+                    31.5744973960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEFFERSON COLLEGE HISTORIC SITE</h3><a href=\"tel:6014422901\" target=\"_blank\">Phone</a><br>HIGHWAY 61 N NATCHEZ MS 39120", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7909359399997, 
+                    33.4554511320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC COSTUME COLLECTION</h3>DEPT. OF HOME EC., MS STATE UNIVERSITY MISSISSIPPI STATE MS 39762", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.2990884189996, 
+                    31.5785934750004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC JEFFERSON COLLEGE</h3><b><a href=\"http://www.mdah.state.ms.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:6014422901\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6993674229997, 
+                    32.3659910050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND OPERA HOUSE OF MISSISSIPPI, INC.</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2927117679997, 
+                    31.3282672640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HATTIESBURG AREA HISTORICAL SOCIETY MUSEUM</h3><b><a href=\"http://www.hahsmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6015825460\" target=\"_blank\">Phone</a><br>723 N MAIN ST HATTIESBURG MS 39401", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1830573059997, 
+                    32.2996276020004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOVERNOR'S MANSION</h3><a href=\"tel:6013593175\" target=\"_blank\">Phone</a><br>300 EAST CAPITOL STREET JACKSON MS 39201", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.3973341219997, 
+                    31.5717451540004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWKINS ALVIN K - HISTORICAL RESTORATION</h3><a href=\"tel:6014429738\" target=\"_blank\">Phone</a><br>759 MAPLE ST NATCHEZ MS 39120", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0532263079997, 
+                    33.4043889180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENVILLE ARTS COUNCIL</h3><b><a href=\"http://www.greenville-arts-council.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3237624678\" target=\"_blank\">Phone</a><br>323 S MAIN ST GREENVILLE MS 38701", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0973370379997, 
+                    30.3809513110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GULFPORT CENTENNIAL MUSEUM</h3><a href=\"tel:2288685849\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2097418249996, 
+                    33.5266413860004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COTTONLANDIA MUSEUM</h3><b><a href=\"http://www.cottonlandia.org/\" target=\"_blank\">Website</a></b><br><a href=\"tel:6624530925\" target=\"_blank\">Phone</a><br>1608 HWY 82 WEST GREENWOOD MS 38930", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5611864919996, 
+                    34.3268737100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAULKNER HOME</h3><a href=\"tel:6622343284\" target=\"_blank\">Phone</a><br>OLD TAYLOR RD OXFORD MS 38655", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8278120639997, 
+                    30.4138711050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOLL HOUSE</h3><a href=\"tel:2288723971\" target=\"_blank\">Phone</a><br>809 WASHINGTON AVE OCEAN SPRINGS MS 39564", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2927105829997, 
+                    31.3345031810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AFRICAN AMERICAN MILITARY HISTORY MUSEUM</h3><b><a href=\"http://www.hattiesburguso.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6014501942\" target=\"_blank\">Phone</a><br>305 E 6TH ST HATTIESBURG MS 39401", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.1902885039997, 
+                    34.8119599960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>APRON MUSEUM</h3><b><a href=\"http://www.apronmuseum.com/home.htm\" target=\"_blank\">Website</a></b><br><a href=\"tel:6624236000\" target=\"_blank\">Phone</a><br>110 E EASTPORT ST IUKA MS 38852", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4898447059996, 
+                    33.1777084080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BELZONI HUMPHREYS</h3><a href=\"tel:6622472151\" target=\"_blank\">Phone</a><br>116 W JACKSON ST BELZONI MS 39038", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.9474368749997, 
+                    34.7304933390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TIPPAH COUNTY HISTORICAL MUSEUM INC</h3>106 N SIDDALL ST RIPLEY MS 38663-2036", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6993674229997, 
+                    32.3659910050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI INDUSTRIAL HERITAGE MUSEUM INC</h3>PO BOX 5031 MERIDIAN MS 39302-5031", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1647002889997, 
+                    32.3093291580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEWTON HISTORICAL CULTURAL COMMISSION INC</h3>110 PINEWOOD DR NEWTON MS 39345-2922", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0533058579996, 
+                    33.1151003460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOLMES COUNTY ARTS COUNSIL</h3><a href=\"tel:6628343372\" target=\"_blank\">Phone</a><br>PO BOX 638 LEXINGTON MS 39095-0638", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.8346497109997, 
+                    31.9441322150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SIMPSON COUNTY HISTORICAL & GENEALOGICAL SOCIETY</h3>PO BOX 154 MENDENHALL MS 39114", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1531684739996, 
+                    30.3527327640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LONG BEACH GARDEN CLUB</h3>PO BOX 392 LONG BEACH MS 39560-0392", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838689249997, 
+                    32.2942028260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI HISTORY PROJECT INC</h3>PO BOX 1488 JACKSON MS 39215-1488", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7086787699997, 
+                    34.2574630890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLUE SUEDE CRUISE INC</h3>PO BOX 746 TUPELO MS 38802-0746", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3145971009997, 
+                    34.8197806490004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM DE SANKOFA</h3>PO BOX 205 ROBINSONVILLE MS 38664-0205", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.1903969999997, 
+                    34.8112886590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IUKA HERITAGE COMMITTEE</h3>119 E FRONT STREET IUKA MS 38852-2324", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4889996429997, 
+                    33.9854136130004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMORY HISTORIC CEMETERY CORPORATION</h3>PO BOX 465 AMORY MS 38821-0465", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5151927289997, 
+                    34.9284671210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLACK HISTORY MUSEUM CORINTH</h3><a href=\"tel:6626658500\" target=\"_blank\">Phone</a><br>1109 MEIGG ST CORINTH MS 38834-6121", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7185696309997, 
+                    33.7433707430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOCKERY FARMS FOUNDATION</h3>PO BOX 1805 CLEVELAND MS 38732-1805", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3575314939997, 
+                    31.9860847810004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROBERT JOHNSON BLUES FNDTN</h3><b><a href=\"http://www.robertjohnsonbluesfoundation.or\" target=\"_blank\">Website</a></b><br><a href=\"tel:6018927883\" target=\"_blank\">Phone</a><br>218 E MARION AVE CRYSTAL SPRIN MS 39059-2819", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1349446459997, 
+                    31.6941616410004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TIMBER MUSEUM OF THE PINE BELT INC</h3>604 CARROLL GARTIN LAUREL MS 39440", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.9113596749997, 
+                    32.1536585990004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEARL RIVER WOODCARVERS GUILD INC</h3>207 HUNTERS LANE BRANDON MS 39042-9423", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5662494929996, 
+                    34.6639426870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRENTISS COUNTY HISTORICAL PRESERVATION SOCIETY INC</h3>PO BOX 684 BOONEVILLE MS 38829-0684", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3128934669996, 
+                    32.5468304590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FLORA AREA HISTORICAL SOCIETY</h3>397 FIRST STREET FLORA MS 39071-9344", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2277969289997, 
+                    32.3066121600004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VETERANS OF THE CIVIL RIGHTS MOVEMENT</h3>PO BOX 20978 JACKSON MS 39289-1978", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0534997199996, 
+                    33.4073375680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI DELTA MUSEUM COMMITTEE INC</h3>923 WASHINGTON AVE GREENVILLE MS 38701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0752190769996, 
+                    33.5614931640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF MABEN HISTORY INC</h3>PO BOX 68 MABEN MS 39750-0068", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7086787699997, 
+                    34.2574630890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEGACY HALL OF FAME INC</h3>PO BOX 376 TUPELO MS 38802-0376", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4273483609996, 
+                    33.4951623110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TENNESSEE-TOMBIGBEE WATERWAY TRANSPORTATION MUSEUM INC</h3><b><a href=\"http://www.tenntom.org\" target=\"_blank\">Website</a></b><br>PO BOX 671 COLUMBUS MS 39703-0671", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838689249997, 
+                    32.2942028260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLANNING COMMISSION TO ESTABLISHTHE NATIONAL CIVIL RIGHTS MU</h3>PO BOX 3747 JACKSON MS 39205-0290", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5549177199997, 
+                    30.3658720600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI MARITIME & WARSHIP MUSEUM</h3>PO BOX 243 PASCAGOULA MS 39568-0243", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2138350279997, 
+                    32.2513783360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRAIL OF HONOR</h3>3509 I 55 S JACKSON MS 39212-4963", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5461886029997, 
+                    33.8253132000004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAVE ABERDEEN LANDMARKS GROUP INC</h3>PO BOX 58 ABERDEEN MS 39730-0058", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4721165809997, 
+                    31.2839239000004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUMMIT HISTORICAL SOCIETY</h3>PO BOX 177 SUMMIT MS 39666-0177", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.6326581559996, 
+                    34.1495241370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WATER VALLEY MAIN STREET ASSN INC</h3>207 MAIN ST WATER VALLEY MS 38965-0104", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2097418249996, 
+                    33.5266413860004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COTTONLANDIA EDUCATIONAL AND RECREATIONAL FOUNDATION INC</h3>1608 HIGHWAY 82 W GREENWOOD MS 38930-2725", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.4486462199997, 
+                    34.7687138020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARSHALL COUNTY HISTORICAL MUSEUM SOCIETY</h3><b><a href=\"http://www.visithollysprings.com/about/gal\" target=\"_blank\">Website</a></b><br>PO BOX 806 HOLLY SPRINGS MS 38635-0806", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.4044461089997, 
+                    31.5625908210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PILGRIMAGE HISTORICAL ASSOCIATION</h3>PO BOX 347 NATCHEZ MS 39121-0347", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2905072929997, 
+                    31.3269632890004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HATTIESBURG AREA HISTORICAL SOCIETY</h3>PO BOX 1573 HATTIESBURG MS 39403", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.4044567479997, 
+                    31.5625929370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATCHEZ HISTORICAL SOCIETY</h3><b><a href=\"http://www.natchezhistoricalsociety.org\" target=\"_blank\">Website</a></b><br>PO BOX 49 NATCHEZ MS 39121-3912", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8818186769997, 
+                    32.3517451760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VICKSBURG FOUNDATION FOR HISTORIC PRESERVATION</h3><b><a href=\"http://www.biedenharncoca-colamuseum.com\" target=\"_blank\">Website</a></b><br>1107 WASHINGTON ST VICKSBURG MS 39183-2959", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.4044461089997, 
+                    31.5625908210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC NATCHEZ FOUNDATION</h3>PO BOX 1761 NATCHEZ MS 39121-1761", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1357064529997, 
+                    31.5361405430004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAWRENCE COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 996 MONTICELLO MS 39654", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0684381539997, 
+                    31.0902539760004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAMP VAN DORN WORLD WAR II MUSEUM</h3>PO BOX 1113 CENTREVILLE MS 39631-1113", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3481163919997, 
+                    31.9863613230004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COPIAH COUNTY HISTORICAL AND GENEALOGICAL SOCIETY</h3>PO BOX 111 CRYSTAL SPRINGS MS 39059", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.4013172919996, 
+                    31.5571473050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOR NATCHEZ</h3>704 STATE STREET NATCHEZ MS 39120-3543", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8643483559997, 
+                    32.3416474750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF VICKSBURG MILITARY PARK AND CAMPAIGN INC</h3>1612 MISSION 66 VICKSBURG MS 39180-3706", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4448777419997, 
+                    31.5787803100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN COUNTY HISTORICAL AND GENEALOGICAL SOCIETY</h3>PO BOX 150 BROOKHAVEN MS 39602-0150", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8071698929996, 
+                    33.4609414630004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THEOKTIBBEHA COUNTY HERITAGE MUSEUM</h3><b><a href=\"http://oktibbehaheritagemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6623230211\" target=\"_blank\">Phone</a><br>206 FELLOWSHIP ST STARKVILLE MS 39759", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4707783199997, 
+                    31.0064040630004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OSYKA VETERANS PARK INC</h3>PO BOX 402 OSYKA MS 39657-0402", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8884100109997, 
+                    30.3947582880004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GALLERY 782</h3><b><a href=\"http://www.gallery782.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2284367782\" target=\"_blank\">Phone</a><br>782 WATER ST BILOXI MS 39530-4222", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4864835989997, 
+                    33.1856855750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DEOVELENTE HERITAGE PERSERVATION SOCIETY</h3>718 CENTRAL STREET BELZONI MS 39038-3314", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7549507409997, 
+                    32.3539469930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERIDIAN ZOOLOGICAL PARK INC</h3><a href=\"tel:6014826900\" target=\"_blank\">Phone</a><br>7404 OLD HIGHWAY 80 WEST MERIDIAN MS 39307", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6786925319997, 
+                    30.4986037650004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI MARITIME HERATAGE FOUNDATION</h3>4357 TWISTED RUN LANE VANCLEAVE MS 39565-6576", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1470797639997, 
+                    32.3630103300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COUNCIL OF AMERICAN JEWISH MUSEUMS</h3>PO BOX 12025 JACKSON MS 39236-2025", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2742172119997, 
+                    31.4830459060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN HISTORICAL & RESTORATION NETWORK</h3>493 SELLERS ROAD MOSELLE MS 39459", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4900139969997, 
+                    33.9925199010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF AMORY REGIONAL MUSEUM INC</h3><b><a href=\"http://www.amoryms.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:6622562761\" target=\"_blank\">Phone</a><br>801 3RD STREET SOUTH AMORY MS 38821", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8969757999997, 
+                    30.4399434510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DIBERVILLE HISTORICAL SOCIETY</h3>PO BOX 7676 DIBERVILLE MS 39540", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.7982488639997, 
+                    31.6420173240004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOLLOWAY-POLK HOUSE HISTORICAL AND CULTURAL CENTER</h3>6162 HWY 84E POB 712 PRENTISS MS 39474-0712", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5433535409996, 
+                    34.3749907260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COTESWORTH CULTURE AND HERITAGE CENTER</h3>213 COLONIAL RD OXFORD MS 38655-2634", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.6829571399996, 
+                    30.5275451550004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HILDA HOFFMAN MEMORIAL ARCHIVE</h3>301 WILLIAMS AVE PICAYUNE MS 39466-3905", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7462065809997, 
+                    34.2504328710004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE OREN DUNN CITY OF TUPELO MUSEUM INC</h3>PO BOX 2674 TUPELO MS 38803-3880", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.3331097789996, 
+                    30.3086492320004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALICE MOSELEY FOLK ART AND ANTIQUE MUSEUM</h3>1928 DEPOT WAY BAY ST LOUIS MS 39520-4548", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.9829675529997, 
+                    31.9638216520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PORT GIBSON HERITAGE TRUST INC</h3>PO BOX 751 PORT GIBSON MS 39150-0751", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8826702489997, 
+                    32.3524583460004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VICKSBURG BATTLEFIELD MUSEUM INC</h3>1010 LEVEE ST STE A VICKSBURG MS 39183-2569", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6633665789997, 
+                    32.7703002500004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KEMPER COUNTY HISTORICAL ASSOCIATION</h3>2709 TOWNSEND RD DEKALB MS 39328", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6961853129997, 
+                    34.2595187800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TUPELO AUTO MUSEUM INC</h3><b><a href=\"http://www.tupeloauto.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6628424242\" target=\"_blank\">Phone</a><br>1 OTIS DR TUPELO MS 38804-4015", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.6031763359996, 
+                    30.2510639830004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAST INC</h3>PO BOX 580 PEARLINGTON MS 39572-0580", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4566787769997, 
+                    31.2451707980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCCOMB CITY RAILROAD DEPOT MUSEUM INC</h3>PO BOX 7220 MCCOMB MS 39649-7220", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5747292219997, 
+                    34.2027036940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCK N ROLL MUSEUM INC</h3><b><a href=\"http://www.blues2rock.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:9016058662\" target=\"_blank\">Phone</a><br>113 E 2ND ST CLARKSDALE MS 38614-4205", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0088410569996, 
+                    34.9607065770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOUNDATION FOR THE PRESERVATION AND ADVANCEMENT OF BRIDGE</h3>6575 WINDCHASE BLVD HORN LAKE MS 38637-1523", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.6542972229997, 
+                    30.5401218970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PICAYUNE CARVER CULTURE MUSEUM INC</h3>PO BOX 402 PICAYUNE MS 39466", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3294067979997, 
+                    32.3412613720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLINTON MISSISSIPPI GENEALOGICAL AND HISTORICAL SOCIETY</h3>PO BOX 2342 CLINTON MS 39060", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8073595849997, 
+                    32.2903714410004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VICKSBURG TRANSPORTATION MUSEUM</h3>129 HOXIE RD VICKSBURG MS 39180-6340", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6993674229997, 
+                    32.3659910050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN ARTS AND ENTRMT CENTER</h3><a href=\"tel:6015811550\" target=\"_blank\">Phone</a><br>PO BOX 148 MERIDIAN MS 39302-0148", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1864069379997, 
+                    32.2978800660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL MUSEUM OF MUSLIM CULTURE</h3><b><a href=\"http://www.muslimmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6019600440\" target=\"_blank\">Phone</a><br>201 E PASCAGOULA ST JACKSON MS 39201-4101", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8805166719997, 
+                    32.3146634560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN HERITAGE AIR FOUNDATION</h3>PO BOX 821568 VICKSBURG MS 39182-1568", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.4779663159997, 
+                    32.0347625540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITH COUNTY MS GENEALOGICAL SOCIETY</h3>PO BOX 356 RALEIGH MS 39153-0356", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7764887979997, 
+                    30.4025720590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GI MUSEUM INC</h3>5800 RICHTER ROAD OCEAN SPRINGS MS 39564", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0930466349997, 
+                    30.3670625910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GULFPORT MAIN STREET ASSOCIATION</h3>PO BOX 1780 GULFPORT MS 39502-1780", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0502658669997, 
+                    33.3881663570004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENVILLE CYPRESS PRESERVE TR</h3>239 WOODLAWN DR GREENVILLE MS 38701-6370", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4552192259997, 
+                    31.2563285960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLACK HISTORY GALLERY</h3><a href=\"tel:6016841130\" target=\"_blank\">Phone</a><br>818 WALL STREET MCCOMB MS 39648-3160", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0643600359996, 
+                    33.4031096030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENVILLE NAT SUPPORT GROUP</h3>600 S BROADWAY ST GREENVILLE MS 38701-4613", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2904967139997, 
+                    31.3269611790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HATTIESBURG LANDMARK PRESERVATION INC</h3>PO BOX 150 HATTIESBURG MS 39403-0150", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8730694429997, 
+                    32.9063141580004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF MONT HELENA INC</h3>354 EAST RACE STREET ROLLING FORK MS 39159-2730", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4273483609996, 
+                    33.4951623110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RE HUNT MUSEUM AND CULTURAL CENTER INC</h3>POST OFFICE BOX 321 COLUMBUS MS 39703-0321", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7516049629997, 
+                    33.7380888270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI DELTA CHINESE HERITAGE MUSEUM INC</h3>1700 DEERING CLEVELAND MS 38732-2935", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0930466349997, 
+                    30.3670625910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY OF GULFPORT</h3>PO BOX 662 GULFPORT MS 39502-0662", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7127527969997, 
+                    33.7515496880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLEVELAND MUSIC FOUNDATION INC</h3>600 3RD ST CLEVELAND MS 38732-2363", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3981200259997, 
+                    31.8597331530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALLING PANTHER HERITAGE FOUNDATION</h3>201 DOWNING STREET HAZLEHURST MS 39083-3003", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7462065809997, 
+                    34.2504328710004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TUPELO HISTORIC PRESERVATION SOCIETY INC</h3>PO BOX 3115 TUPELO MS 38803-3115", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.6461433559996, 
+                    33.4499113780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>B B KING MUSEUM AND DELTA INTERPRETIVE CENTER</h3><b><a href=\"http://www.bbkingmuseum.org\" target=\"_blank\">Website</a></b><br>400 SECOND ST INDIANOLA MS 38751-2815", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0032663039997, 
+                    32.6082432790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE CANTON-MADISON COUNTY HISTORICAL SOCIETY</h3>1406 SUNSET DR CANTON MS 39046-4919", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8277648409997, 
+                    30.4106792930004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WALTER ANDERSON MUSEUM OF ART</h3><b><a href=\"http://www.walterandersonmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6018723164\" target=\"_blank\">Phone</a><br>510 WASHINGTON AVENUE OCEAN SPRINGS MS 39564-4632", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7086893309997, 
+                    34.2574609380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHEAST MISSISSIPPI HISTORICAL AND GENEALOGICAL SOCIETY</h3>PO BOX 434 TUPELO MS 38802", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5852694499997, 
+                    31.1478013320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENE COUNTY MUSEUM & HISTORICAL SOCIETY</h3><a href=\"tel:6013944343\" target=\"_blank\">Phone</a><br>PO BOX 841 LEAKESVILLE MS 39451", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.6896179259996, 
+                    30.5312576310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEARL RIVER COUNTY HISTORICAL SOCIETY</h3>900 GOODYEAR BOULEVARD PICAYUNE MS 39466-3224", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.8375176329997, 
+                    31.2507860700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARION COUNTY HISTORICAL SOCIETY</h3>200 SECOND STREET COLUMBIA MS 39429", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0930466349997, 
+                    30.3670625910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CEC SEABEE HISTORICAL FOUNDATION INC</h3>PO BOX 657 GULFPORT MS 39502-0657", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.7797182489996, 
+                    33.1981029840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TOWN OF WEST HISTORICAL AND PRESERVATION SOCIETY</h3>PO BOX 241 WEST MS 39192-0241", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838689249997, 
+                    32.2942028260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI HERITAGE TRUST</h3>PO BOX 577 JACKSON MS 39205-0577", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8805166719997, 
+                    32.3146634560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE MUSEUM OF AFRICAN-AMERICAN CULTURE AND THE MARKETPLACE -</h3>PO BOX 821956 VICKSBURG MS 39182-1956", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.4448227879997, 
+                    34.7716115380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDA B WELLS FAMILY ART GALLERY</h3><b><a href=\"http://www.idabwells.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6622523232\" target=\"_blank\">Phone</a><br>220 NORTH RANDOLPH ST HOLLY SPRINGS MS 38635-2412", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.6509656919997, 
+                    33.4532243190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KHAFRE INC</h3>PO BOX 64 INDIANOLA MS 38751-0064", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.3347322489997, 
+                    30.3093670960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUNDRED MEMBERS DEBATING BENEVOLENT ASSOCIATION</h3>303 UNION STREET BAY SAINT LOUIS MS 39520-4448", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2438965319997, 
+                    30.3208621500004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PASS CHRISTIAN HISTORICAL SOCIETY</h3><a href=\"tel:2284520063\" target=\"_blank\">Phone</a><br>PO BOX 58 PASS CHRIS MS 39571-0058", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1368499359997, 
+                    32.3530728990004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEIR MISSISSIPPI HISTORICAL SOCIETY INC</h3>2011 SOUTHWOOD ROAD JACKSON MS 39211-6032", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.2033068489997, 
+                    34.8315512690004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TISHOMINGO COUNTY HISTORICAL & GENEALOGICAL SOCIETY</h3><b><a href=\"http://www.tishomingohistory.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6624233500\" target=\"_blank\">Phone</a><br>PO BOX 273 IUKA MS 38852-0273", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.4047390509997, 
+                    31.5585899170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESERVATION SOCIETY OF ELLICOTT HILL</h3><b><a href=\"http://www.natchezgardenclub.com\" target=\"_blank\">Website</a></b><br>215 S PEARL ST NATCHEZ MS 39120-3420", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1587958119997, 
+                    32.3975031240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TOUGALOO COLLEGE</h3>TOUGALOO COLLEGE ART CO TOUGALOO MS 39174", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1407982439997, 
+                    31.6943922130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EASTMAN MEMORIAL FOUNDATION</h3><b><a href=\"http://www.LRMA.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6016496374\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8780644489997, 
+                    32.3525867880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VICKSBURG & WARREN COUNTY HISTORICAL SOCIETY</h3>1008 CHERRY ST VICKSBURG MS 39183-2540", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2910918029997, 
+                    31.3062676590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SARAH GILLESPIE GALLERY</h3><b><a href=\"http://www.wmcarey.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:6013186148\" target=\"_blank\">Phone</a><br>498 TUSCAN AVENUE BOX 6 HATTIESBURG MS 39401", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5160168859996, 
+                    34.9339630460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACINTO FOUNDATION INC</h3><a href=\"tel:6622868662\" target=\"_blank\">Phone</a><br>PO BOX 1174 CORINTH MS 38835-1174", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8694344909997, 
+                    32.2897733150004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>YAZOO & MISSISSIPPI VALLEY CHAPTER OF THE NATIONAL RAILWAY H</h3>103 DRUSILLA LN VICKSBURG MS 39180", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8167365829997, 
+                    30.4163326910004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>1699 HISTORICAL SOCIETY</h3><b><a href=\"http://www.1699landing.org\" target=\"_blank\">Website</a></b><br>PO BOX 713 OCEAN SPRINGS MS 39566", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838689249997, 
+                    32.2942028260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI MUSEUM OF NATURAL SCIENCE FOUNDATION</h3>PO BOX 1703 JACKSON MS 39215-1703", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0633477469997, 
+                    33.4109017910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON COUNTY HISTORICAL SOCIETY</h3>PO BOX 506 GREENVILLE MS 38702", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.9305961229996, 
+                    34.6138035290004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HERITAGE MUSEUM FOUNDATION OF TATE COUNTY INC</h3>PO BOX 375 SENATOBIA MS 38668", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5794458139997, 
+                    33.0381437700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KOSCIUSDKO ATTALA HISTORICAL SOCIETY</h3>PO BOX 127 KOSCIUSKO MS 39090", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1868081139997, 
+                    32.2962933590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GALLERY GUILD INC</h3>380 S LAMAR ST JACKSON MS 39201-4007", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0633371169997, 
+                    33.4108909320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELTA CHILDRENS MUSEUM ASSOCIATION INC</h3>PO BOX 1194 GREENVILLE MS 38702-1194", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.4082776339997, 
+                    30.3048114340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HANCOCK COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.hancockcountyhistoricalsociety.c\" target=\"_blank\">Website</a></b><br><a href=\"tel:2284674090\" target=\"_blank\">Phone</a><br>PO BOX 3356 BAY ST LOUIS MS 39520", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1855116609997, 
+                    32.3017407330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI ARTS FAIR FOR THE HANDICAPPED</h3>239 N LAMAR ST SUITE 1101 JACKSON MS 39201-1325", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0067293089997, 
+                    32.2823213730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RANKIN COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://WWW.RANKINHISTORY.COM\" target=\"_blank\">Website</a></b><br>PO BOX 841 BRANDON MS 39043", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4123445069997, 
+                    32.8495060260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>YAZOO HISTORICAL MUSEUM</h3><a href=\"tel:6627462273\" target=\"_blank\">Phone</a><br>332 N MAIN STREET332 N YAZOO CITY MS 39194", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1570452939997, 
+                    32.3340850250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISS AGRICULTURE & FORESTRY MUSEUM FOUNDATION WALTER SILLER</h3>1150 LAKELAND DRIVE JACKSON MS 39216", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5211205329996, 
+                    34.9332530460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHEAST MISSISSIPPI MUSEUM ASSOCIATION</h3><b><a href=\"http://www.missmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6622873120\" target=\"_blank\">Phone</a><br>221 N FILLMORE ST CORINTH MS 38834-5635", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.6644269249996, 
+                    30.5039130580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CROSBY ARBORETUM</h3><a href=\"tel:6017992311\" target=\"_blank\">Phone</a><br>370 RIDGE RD PICAYUNE MS 39466-8151", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6993674229997, 
+                    32.3659910050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE JIMMIE RODGERS FOUNDATION INC</h3>PO BOX 2170 MERIDIAN MS 39302-2170", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.3902739369997, 
+                    34.2243225720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SKIPWITH HISTORICAL AND GENEALOGICAL SOCIETY INC</h3>113 CR 436 OXFORD MS 38655", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8856682179997, 
+                    30.3951009110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARITIME AND SEAFOOD INDUSTRY MUSEUM OF BILOXI INC</h3>PO BOX 1907 BILOXI MS 39533-1907", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838689249997, 
+                    32.2942028260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSON MISSISSIPPI ASSOC FOR THE PRESERVATION OF SMITH ROBE</h3>PO BOX 3259 JACKSON MS 39207-3259", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.9875680789997, 
+                    34.8236010850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC DESOTO FOUNDATION</h3><b><a href=\"http://www.desotomuseum.org\" target=\"_blank\">Website</a></b><br>111 E COMMERCE ST HERNANDO MS 38632-2376", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4941981349997, 
+                    34.3298009340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ITAWAMBA HISTORICAL SOCIETY</h3><a href=\"tel:6622827664\" target=\"_blank\">Phone</a><br>PO BOX 7 MANTACHIE MS 38855", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2876424939997, 
+                    31.3207699520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HATTIESBURG HISTORIC NEIGHBORHOOD INC</h3>413 COURT STREET HATTIESBURG MS 39401", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2235996159997, 
+                    32.3191150300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSON ZOOLOGICAL PARK</h3>2918 W CAPITOL ST JACKSON MS 39209-4236", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.9811213979997, 
+                    34.7797930640004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER AMERICANS HALL FAME</h3>441 SLOCUM RD HERNANDO MS 38632-7517", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7608250239996, 
+                    30.3963607920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRANLY DANISH HISTORICAL FOUNDATION</h3>808 CANEBREAK DR OCEAN SPRINGS MS 39564-6837", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5440396929997, 
+                    33.1156325980004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NOXUBEE COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 892 MACON MS 39341-3934", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1766257999997, 
+                    32.3339639690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI MAIN STREET ASSOCIATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1506312269997, 
+                    32.3643748240004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INSTITUTE OF SOUTHERN JEWISH LIFE INC</h3>4915 I 55 N STE 100A JACKSON MS 39236-6528", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2355169039997, 
+                    31.1870236960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARMED FORCES MUSEUM FOUNDATION</h3>BUILDING 850 CAMP SHELBY MS 39407-5500", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8167365829997, 
+                    30.4163326910004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC OCEAN SPRINGS ASSOCIATION INC</h3>PO BOX 552 OCEAN SPRINGS MS 39566-3956", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0182864729996, 
+                    34.2618602350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PONTOTOC COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 141 PONTOTOC MS 38863-0141", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1172078519997, 
+                    31.5594711070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAWRENC COUNTY CIVIC CENTER REG HST</h3><a href=\"tel:6015874422\" target=\"_blank\">Phone</a><br>PO BOX 521 MONTICELLO MS 39654-0521", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.9992987989997, 
+                    34.4814611510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNION COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 657 NEW ALBANY MS 38652-0657", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7112095189997, 
+                    34.2583209100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI CHAPTER OF THE EIGHTH AIR FORCE HISTORICAL SOCIE</h3>214 N MADISON TUPELO MS 38804", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4448777419997, 
+                    31.5787803100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BROOKHAVEN TRUST FOR THE PRESERVATION OF HISTORY CULTURE AN</h3>PO BOX 615 BROOKHAVEN MS 39602-0615", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8720547149996, 
+                    30.3929081420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TULLIS-TOLEDANO MANOR</h3><a href=\"tel:2284356293\" target=\"_blank\">Phone</a><br>360 BEACH BLVD BILOXI MS 39530-4503", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0981776369997, 
+                    32.7708736310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NESHOBA COUNTY-PHILADELPHIA HISTORICAL MUSEUM INC</h3>252 MAIN ST PHILADELPHIA MS 39350", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.7957816319997, 
+                    33.7533914050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRENADA COUNTY HISTORICAL SOCIETY</h3>2101 COUNTRY CLUB ROAD GRENADA MS 38901-4834", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6713266289997, 
+                    32.0444323210004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC CLARKE COUNTY INC</h3>PO BOX 172 QUITMAN MS 39355", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1470797639997, 
+                    32.3630103300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI SPORTS HALL OF FAME AND MUSEUM</h3><a href=\"tel:6019828264\" target=\"_blank\">Phone</a><br>PO BOX 16021 JACKSON MS 39236-6021", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8290371519997, 
+                    33.4479722900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TURNERS BATTERY FIRST MS LIGHT ARTILLERY CO C</h3>519 CHESTNUT DR STARKVILLE MS 39759-3638", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0383981419997, 
+                    30.3821150340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LYNN MEADOWS DISCOVERY CENTER</h3><b><a href=\"http://www.lmdc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2288976039\" target=\"_blank\">Phone</a><br>246 DOLAN AVE GULFPORT MS 39507-1310", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.3478160249996, 
+                    31.3225901030004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HATTIESBURG ZOOLOGICAL SOCIETY INC</h3>PO BOX 18574 HATTIESBURG MS 39404-8574", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8856787859997, 
+                    30.3951029940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI COAST HISTORICAL & GENEALOGICAL SOCIETY</h3>PO BOX 513 BILOXI MS 39533", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5199650549997, 
+                    34.9386728570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE SEIGE & BATTLE OF CORINTH INC</h3><a href=\"tel:9522576678\" target=\"_blank\">Phone</a><br>1009 JACKSON ST CORINTH MS 38834-4721", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8856682179997, 
+                    30.3951009110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OHR-OKEEFE MUSEUM OF ART INC</h3><b><a href=\"http://www.georgeohr.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2283745547\" target=\"_blank\">Phone</a><br>PO BOX 248 BILOXI MS 39533-0248", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8774370819997, 
+                    32.3494310490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN CULTURAL HERITAGE FOUNDATION</h3><b><a href=\"http://www.southernculture.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6016312997\" target=\"_blank\">Phone</a><br>1302 ADAMS ST VICKSBURG MS 39180-3212", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1758393549997, 
+                    32.3344419200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI CHILDRENS MUSEUM</h3><b><a href=\"http://www.mississippichildrensmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6019815469\" target=\"_blank\">Phone</a><br>PO BOX 55409 JACKSON MS 39296-5409", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838689249997, 
+                    32.2942028260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI COMSN INTL CLTUR</h3><a href=\"tel:6019609900\" target=\"_blank\">Phone</a><br>PO BOX 2447 JACKSON MS 39225-2447", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1758971979997, 
+                    33.8771013190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALHOUN COUNTY HISTORICAL & GENEALOGICAL SOCIETY INC</h3>PO BOX 72 VARDAMAN MS 38878-0072", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.3656283019997, 
+                    34.6423352960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BURTON COMMUNITY HISTORICAL SOCIETY</h3>211 COUNTY ROAD 2229 BOONEVILLE MS 38829-8166", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1334986349997, 
+                    31.6911334600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JONES COUNTY GENEALOGY ORGANIZATION INC</h3>PO BOX 2644 LAUREL MS 39442-2644", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6334664179997, 
+                    34.5100466440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRICES CROSSROADS NATIONAL BATTLEFIELD COMMISSION INC</h3>111 W CLAYTON ST BALDWYN MS 38824-1804", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838689249997, 
+                    32.2942028260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FARISH STREET HISTORIC DIST NE</h3>PO BOX 24263 JACKSON MS 39225-4263", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8856682179997, 
+                    30.3951009110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARDI GRAS MUSEUM INC</h3><b><a href=\"http://www.biloxi.ms.us/museums/mardigras\" target=\"_blank\">Website</a></b><br><a href=\"tel:2284356245\" target=\"_blank\">Phone</a><br>PO BOX 1923 BILOXI MS 39533-1923", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.3801320629997, 
+                    34.3933202110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>YOKNAPATAWPHA HERITAGE FOUNDATION</h3>173 COUNTY ROAD 233 OXFORD MS 38655-8825", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1099282009997, 
+                    32.5625717220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOUNDATION FOR RESTORATION AND PRESERVATION OF BOLERS INN</h3>204 OLD DECATUR RD UNION MS 39365-9288", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1119049899997, 
+                    32.4151786510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL MISSISSIPPI MODEL RAILROADERS ASSOCIATION</h3>700 AVIGNON DRIVE SUITE C RIDGELAND MS 39216-4728", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5347468459997, 
+                    32.7334915590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DANCING RABBIT GENEALOGICAL SOCIETY</h3>PO BOX 166 CARTHAGE MS 39051-0166", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1638207849996, 
+                    31.6721852860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VETERANS MEMORIAL MUSEUM INC</h3><a href=\"tel:6014284008\" target=\"_blank\">Phone</a><br>920 HILLCREST DR LAUREL MS 39440-4726", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4012433139997, 
+                    31.8600031990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI MUSIC HALL OF FAME</h3>421 W GALLATIN ST HAZELHURST MS 39083-3029", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3256009969996, 
+                    32.3371982580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EAST CLINTON HISTORICAL DIST ASSC</h3>311 EAST COLLEGE STREET CLINTON MS 39056", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4202087229997, 
+                    32.2377416170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE VICKSBURG CAMPAIGN AND HISTORIC TRAIL INC</h3>PO BOX 1155 RAYMOND MS 39154", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4231266459997, 
+                    32.2593819530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF RAYMOND INC</h3><a href=\"tel:6018578942\" target=\"_blank\">Phone</a><br>PO BOX 1155 RAYMOND MS 39154-1155", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1913246619997, 
+                    33.5349513160004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AIRMEN INC</h3>1101 GRAND BOULEVARD GREENWOOD MS 38930-2209", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0206301329997, 
+                    34.5033196890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MT ZION METHODIST CEMETERY INC</h3>719 EAST SHADY LANE NEW ALBANY MS 38652-3239", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0902861979997, 
+                    32.3343637100004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI FORGE COUNCIL</h3>PO BOX 320744 FLOWOOD MS 39232-0744", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6385894879996, 
+                    30.3899433900004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI COMMITTEE-NATIONAL MUSEUM WOMEN IN THE ARTS</h3>PO BOX 275 GAUTIER MS 39553-0275", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5456060019997, 
+                    31.4159142410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LUCILE PARKER MUSEUM OF ART</h3>11 CITY HALL AVE SUMRALL MS 39482", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1110028869996, 
+                    32.3276601360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MYNELLE GARDENS BOTANICAL SOCIETY</h3>2950 LAYFAIR DR STE 103 FLOWOOD MS 39232-7667", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.9380662669997, 
+                    31.4123318450004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRANKLIN COUNTY MUSEUM INC</h3>118 HWY 556 MEADVILLE MS 39653-9124", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1758393549997, 
+                    32.3344419200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EUDORA WELTY FOUNDATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5739586659997, 
+                    34.2002280890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELTA BLUES MUSEUM</h3><a href=\"tel:6016277341\" target=\"_blank\">Phone</a><br>1 BLUES ALLEY LN BOX 45 CLARKSDALE MS 38614-4336", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4279870769997, 
+                    33.5349929760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDSHIP CEMETERY NATIONAL MEMORIAL CORPORATION</h3>PO BOX 9387 COLUMBUS MS 39705-0018", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2386600529996, 
+                    30.3192853420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PASS CHRISTIAN LIGHTHOUSE SOCIETY</h3>426 E 2ND ST PASS CHRISTIAN MS 39571-4518", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.3478160249996, 
+                    31.3225901030004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RHYTHM HERITAGE FOUNDATION INC</h3>PO BOX 18612 HATTIESBURG MS 39404-8612", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4751469719997, 
+                    33.1847616350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REV GEORGE LEE MUSEUMS OF AFRICAN AMERICAN HISTORY HERITAGE</h3>17150 HIGHWAY 49 BELZONI MS 39038", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1794967479997, 
+                    33.3438627020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHOCTAW COUNTY HISTORICAL & GENEOLOGICAL SOCIETY</h3>PO BOX 1382 ACKERMAN MS 39735", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2235996159997, 
+                    32.3191150300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSON ZOO FOUNDATION</h3><a href=\"tel:6013522580\" target=\"_blank\">Phone</a><br>2918 W CAPITOL STREET JACKSON MS 39209", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.9872383289997, 
+                    30.3985483980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHN C ROBINSON BROWN CANDOR ASSOCIATION</h3>2582 RUE PALAFOX BILOXI MS 39531-3733", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.2069783789997, 
+                    34.8190333090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IUKA BATTLEFIELD COMMISSION INC</h3>PO BOX 600 IUKA MS 38852-0600", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1518137669997, 
+                    32.2860258420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOLD COAST HISTORICAL SOCIETY</h3>103 ADAMS ST FLOWOOD MS 39232", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5510493059996, 
+                    31.6405141470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COVINGTON COUNTY GENEALOGICAL AND HISTORICAL SOCIETY</h3>PO BOX 381 COLLINS MS 39428-0381", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7275377219997, 
+                    33.8760324480004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC MOUND BAYOU FOUNDATION</h3>PO BOX 23 MOUND BAYOU MS 38762-0023", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1091974649997, 
+                    32.1633224360004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PINOLA HISTORICAL SOCIETY</h3>101 OAKVALE FLORENCE MS 39073", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838664939997, 
+                    32.2942006180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EUDORA WELTY HOUSE</h3><b><a href=\"http://mdah.state.ms.us/welty/index.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:6013537762\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.3329865219997, 
+                    31.3280604650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF SOUTHERN MISSISSIPPI</h3><b><a href=\"http://www.usm.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:6012661000\" target=\"_blank\">Phone</a><br>PO BOX 5157 HATTIESBURG MS 39406-0001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4204561419997, 
+                    33.4949512080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI UNIVERSITY FOR WOMEN ARCHIVES & MUSEUM</h3><a href=\"tel:6622416125\" target=\"_blank\">Phone</a><br>1100 COLLEGE STREET MUW COLUMBUS MS 39701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5421570399997, 
+                    30.8431429860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEARL RIVER COMMUNITY COLLEGE MUSEUM</h3><b><a href=\"http://www.prcc.edu/museum/\" target=\"_blank\">Website</a></b><br><a href=\"tel:6014031316\" target=\"_blank\">Phone</a><br>101 HIGHWAY 11 NORTH POPLARVILLE MS 39470", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5336581459997, 
+                    34.3667421710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF MISSISSIPPI</h3><b><a href=\"http://www.olemiss.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:6629157073\" target=\"_blank\">Phone</a><br>100 BARR HALL UNIVERSITY MS 38677", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.9718848279996, 
+                    30.3916373690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BEAUVOIR, JEFFERSON DAVIS HOME AND PRESIDENTIAL LIBRARY</h3><b><a href=\"http://www.beauvoir.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2283884400\" target=\"_blank\">Phone</a><br>2244 BEACH BLVD BILOXI MS 39531-5002", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4583939809997, 
+                    34.6193080980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATCHEZ TRACE CHAPTER OF DAUGHTERS OF THE AMERICAN REVOLUTIO</h3>87 COUNTY ROAD 3161 BOONEVILLE MS 38829-7844", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1865209859997, 
+                    32.2976869130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI MUSEUM OF ART INC</h3><b><a href=\"http://www.msmuseumart.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6019601515\" target=\"_blank\">Phone</a><br>308 S LAMAR ST JACKSON MS 39201-4007", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5549195869997, 
+                    30.3658828320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSON COUNTY HISTORICAL AND GENEALOGICAL SOCIETY</h3><b><a href=\"http://www.jchgs-ms.org/\" target=\"_blank\">Website</a></b><br>PO BOX 984 PASCAGOULA MS 39568", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5350683769997, 
+                    34.3813913320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OXFORD-LAFAYETTE HISTORIC HOMES INC</h3>PO BOX 351 OXFORD MS 38655-0351", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838689249997, 
+                    32.2942028260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI HISTORICAL SOCIETY 100 S STATE ST</h3>PO BOX 571 JACKSON MS 39205-0571", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7337475379996, 
+                    33.7475613030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELTA STATE UNIVERSITY</h3><b><a href=\"http://www.deltastate.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:6628464781\" target=\"_blank\">Phone</a><br>1311 SUNFLOWER ROAD CLEVELAND MS 38733-2451", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6993674229997, 
+                    32.3659910050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERIDIAN ART ASSOCIATION INC</h3>PO BOX 2090 MERIDIAN MS 39302-2090", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.4486462199997, 
+                    34.7687138020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KATE FREEMAN CLARK TRUST INC</h3>PO BOX 722 HOLLY SPRINGS MS 38635-0722", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.2033068489997, 
+                    34.8315512690004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MIDWAY SCHOOL BUILDING FUND</h3>PO BOX 54 IUKA MS 38852-0054", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7424282819997, 
+                    32.4461178240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONSTANTINE REA HISTORICAL SOCIETY</h3>6045 WINDSOR ROAD MERIDIAN MS 39305", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4889996429997, 
+                    33.9854136130004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DALRYMPLE FAMILY FOUNDATION INC</h3>PO BOX 210 AMORY MS 38821-0210", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0568598969996, 
+                    31.2835051040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WALTHALL CNTY MS TRUST/HISTORC</h3><a href=\"tel:6017311219\" target=\"_blank\">Phone</a><br>184 BETHLEHEM LOOP RD KOKOMO MS 39643-4884", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.7283282869997, 
+                    33.4769716550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF IMMANUEL INC</h3>54 WHITEHEAD DRIVE WINONA MS 38967", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.1531684739996, 
+                    30.3527327640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LONG BEACH HISTORICAL SOCIETY INC</h3>PO BOX 244 LONG BEACH MS 39560-0244", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.8135384129997, 
+                    34.1288031350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUNFLOWER CONSOLIDATED SCHOOL PRESERVATION COMMISSION INC</h3>PO BOX 104 RENA LARA MS 38767-0104", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0002373199997, 
+                    33.8978313400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHICKASAW COUNTY HISTORICAL & GENEALOGICAL SOCIETY</h3>PO BOX 42 HOUSTON MS 38851-0042", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1758393549997, 
+                    32.3344419200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OAKS HOUSE MUSEUM CORPORATION</h3><b><a href=\"http://www.theoakshousemuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 4240 JACKSON MS 39296-4240", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7937164989997, 
+                    31.1607603780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMITE COUNTY HISTORICAL AND GENEALOGICAL SOCIETY</h3>PO BOX 2 LIBERTY MS 39645-0002", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1933238439997, 
+                    32.2940944650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RESTORATION HOME INC</h3><a href=\"tel:6019488840\" target=\"_blank\">Phone</a><br>428 HOOKER ST JACKSON MS 39204-2919", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.9262099429997, 
+                    34.2897309790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PANOLA HISTORICAL AND GENEALOGICAL SOCIETY</h3>226 DOGWOOD LANE BATESVILLE MS 38606-9301", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1858098739997, 
+                    32.3914631660004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEGRO IN MISSISSIPPI HISTORICAL SOCIETY UNLIMITED</h3>6071 HOLBROOK DR JACKSON MS 39206-2006", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7808666879997, 
+                    32.1283409350004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STONEWALL HISTORICAL SOCIETY</h3>PO BOX 357 STONEWALL MS 39363-0357", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0684381539997, 
+                    31.0902539760004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUTTS-BRADLEY-WALKER-ROBINSON- KENERSON GENEALOGICAL ASSOCIA</h3>PO BOX 651 CENTREVILLE MS 39631-0651", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.4251590059997, 
+                    33.4930363050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TENNESSEE WILLIAMS TRIBUTE AND TOUR OF VICTORIAN HOMES INC</h3>305 7TH ST S COLUMBUS MS 39701-5749", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0577790379997, 
+                    33.4043464240004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENVILLE REFLECTION AND YOUTH DEVELOPMENT MUSEUM</h3>836 JOHNSON STREET GREENVILLE MS 38701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.3891384719997, 
+                    40.4423191740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TARIKO COLLEGE ALUMNI</h3>1102 MAPLE ST. TARKIO MS 64491", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

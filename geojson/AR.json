@@ -1,0 +1,4655 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1793345179997, 
+                    36.0962927170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY MUSEUM COLLECTIONS</h3><b><a href=\"http://uark.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:4795753456\" target=\"_blank\">Phone</a><br>2435 N HATCH AVE FAYETTEVILLE AR 72704", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1604372529997, 
+                    36.0664127330004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WALTON ARTS CENTER</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4214396959997, 
+                    35.3846226580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILLIAM O. DARBY RANGER MEMORIAL FOUNDATION, INC.</h3><a href=\"tel:5017823388\" target=\"_blank\">Phone</a><br>311 GENERAL DARBY STREET FORT SMITH AR 72902-1625", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.5665805109997, 
+                    36.3645484420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAUNDERS MUSEUM</h3><b><a href=\"http://berryvillear.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8704232563\" target=\"_blank\">Phone</a><br>113 E MADISON AVE BERRYVILLE AR 72616", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3585183199997, 
+                    35.4923053230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN TENANT FARMERS MUSEUM</h3><b><a href=\"http://stfm.astate.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8704872909\" target=\"_blank\">Phone</a><br>117 N MAIN ST TYRONZA AR 72386", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.9856290019997, 
+                    34.2291431140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ST LOUIS SOUTHWESTERN RAILWAY STEAM LOCOMOTIVE #336</h3>1700 PORT RD PINE BLUFF AR 71601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1318598289997, 
+                    36.1864085180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHILOH MUSEUM OF OZARK HISTORY</h3><a href=\"tel:5017508165\" target=\"_blank\">Phone</a><br>118 W. JOHNSON SPRINGDALE AR 72764", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1162445739997, 
+                    36.3323644930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POOR RICHARD'S ART</h3><b><a href=\"http://www.poorrichardsart.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4796360417\" target=\"_blank\">Phone</a><br>116 S 1ST ST ROGERS AR 72756", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2728012649997, 
+                    34.7484509850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD STATE HOUSE MUSEUM</h3><a href=\"tel:5013249685\" target=\"_blank\">Phone</a><br>300 WEST MARKHAM LITTLE ROCK AR 72201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.9236433419997, 
+                    35.1276517360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PETIT JEAN STATE PARK</h3><b><a href=\"http://www.petitjeanstatepark.com/\" target=\"_blank\">Website</a></b><br><a href=\"tel:5017275441\" target=\"_blank\">Phone</a><br>1285 PETIT JEAN MT. RD MORRILTON AR 72110-0340", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1072958149996, 
+                    34.4795878800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PROFESSIONAL BASS FISHING</h3><a href=\"tel:5016245599\" target=\"_blank\">Phone</a><br>928 AIRPORT RD HOT SPRINGS NATIONAL PARK AR 71913", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0849063349997, 
+                    34.6818636950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLANTATION AGRICULTURE MUSEUM</h3><a href=\"tel:5019611409\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0543396789997, 
+                    34.5173883110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHOEBE  UZURI PROJECT</h3><a href=\"tel:5016249400\" target=\"_blank\">Phone</a><br>210 CENTRAL AVE HOT SPRINGS NATIONAL PARK AR 71901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.9700785079997, 
+                    36.2617156470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RANDOLPH CO HERITAGE MUSEUM</h3><b><a href=\"http://www.randolphcomuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8708924056\" target=\"_blank\">Phone</a><br>106 E EVERETT ST POCAHONTAS AR 72455", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5151305569997, 
+                    34.9772024970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOWER WHITE RIVER MUSEUM</h3><b><a href=\"http://www.ArkansasStateParks.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8702563711\" target=\"_blank\">Phone</a><br>2009 MAIN ST DES ARC AR 72040", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2767705749997, 
+                    34.7408615110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOSAIC TEMPLARS CULTURAL CENTER</h3><b><a href=\"http://www.mosaictemplarscenter.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5016833593\" target=\"_blank\">Phone</a><br>501 W 9TH ST LITTLE ROCK AR 72201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2006625759997, 
+                    36.3856881890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM AND STUDY CENTER MATILDA AND KARL PFEIFFER</h3><b><a href=\"http://pfeifferfoundation.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8705983228\" target=\"_blank\">Phone</a><br>1071 HERITAGE PARK RD PIGGOTT AR 72454", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3153652339997, 
+                    36.3811716420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MINIATURE MUSEUMS-MERRITT</h3><b><a href=\"http://www.worldofminiatures.org/museums.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:8704925222\" target=\"_blank\">Phone</a><br>402 CRANFIELD RD MOUNTAIN HOME AR 72653", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1077091859997, 
+                    36.2309196390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARINE LEGACY MUSEUM</h3><a href=\"tel:8707431680\" target=\"_blank\">Phone</a><br>125 W RUSH AVE HARRISON AR 72601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1178967129997, 
+                    34.5156729790004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MID-AMERICA MUSEUM</h3>400 MID-AMERICA BLVD. HOT SPRINGS AR 71913", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4186659779997, 
+                    35.5305867320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARKED TREE DELTA AREA MUSEUM</h3><a href=\"tel:8703584998\" target=\"_blank\">Phone</a><br>106 FRISCO ST MARKED TREE AR 72365", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.8470355199997, 
+                    33.5847937460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCCOLLUM-CHIDESTER HOUSE MUSEUM</h3><b><a href=\"http://www.ouachitacountyhistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8708369243\" target=\"_blank\">Phone</a><br>926 W WASHINGTON ST CAMDEN AR 71701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0534537399997, 
+                    34.5160155810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOSEPHINE TUSSAUD WAX MUSEUM</h3><b><a href=\"http://www.waxmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5016235836\" target=\"_blank\">Phone</a><br>250 CENTRAL AVE HOT SPRINGS AR 71901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.1018611979997, 
+                    34.8651238520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSONVILLE MUSEUM OF MILITARY HISTORY</h3><b><a href=\"http://www.jaxmilitarymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5012411943\" target=\"_blank\">Phone</a><br>100 N HOSPITAL CIR JACKSONVILLE AR 72076", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4484406599997, 
+                    36.4194529430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAVETTE HISTORICAL MUSEUM</h3><a href=\"tel:4797877334\" target=\"_blank\">Phone</a><br>503 CHARLOTTE ST SE GRAVETTE AR 72736", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.6767663339997, 
+                    35.8417432940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FINE ARTS CENTER GALLERY</h3><a href=\"tel:5019723050\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2002395359997, 
+                    36.3850186040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEMINGWAY-PFEIFFER MUSEUM AND EDUCATIONAL CENTER</h3><a href=\"tel:8709108080\" target=\"_blank\">Phone</a><br>1021 W. CHERRY STREET PIGGOTT AR 72454", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5034840179997, 
+                    36.0557635090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREEN COUNTY MUSEUM</h3><a href=\"tel:8702362552\" target=\"_blank\">Phone</a><br>130 S 14TH ST PARAGOULD AR 72450", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0553650379996, 
+                    34.5182316120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GANGSTER MUSEUM OF AMERICA</h3><b><a href=\"http://www.tgmoa.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5013181717\" target=\"_blank\">Phone</a><br>113 CENTRAL AVE HOT SPRINGS AR 71901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1284500929997, 
+                    33.6738540220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GN AND A DEPOT</h3><a href=\"tel:8708982758\" target=\"_blank\">Phone</a><br>180 E WHITAKER ST ASHDOWN AR 71822", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0406444369997, 
+                    35.5701363990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAMPSON MUSEUM STATE PARK</h3><b><a href=\"http://www.arkansasstateparks.com/hampsonmuseum\" target=\"_blank\">Website</a></b><br><a href=\"tel:8706558622\" target=\"_blank\">Phone</a><br>2 LAKE DR WILSON AR 72395", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4214460779997, 
+                    35.3846335750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SMITH REGIONAL ART MUSEUM</h3><a href=\"tel:5017842787\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2002395359997, 
+                    36.3850186040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEMINGWAY MUSEUM AND CONFERENCE CENTER</h3><b><a href=\"http://www.hemingway.astate.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8705983487\" target=\"_blank\">Phone</a><br>1021 W CHERRY ST PIGGOTT AR 72454", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2326858759997, 
+                    36.1763538800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITY OF TONITOWN MUSEUM</h3><a href=\"tel:4793619800\" target=\"_blank\">Phone</a><br>237 E HENRI DE TONTI BLVD SPRINGDALE AR 72762", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2738528639997, 
+                    34.7366379180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EMOBA,  MUSEUM OF BLACK ARKANSANS</h3><a href=\"tel:5013726093\" target=\"_blank\">Phone</a><br>1224 LOUISIANA ST LITTLE ROCK AR 72202", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.8902276119996, 
+                    36.0586931810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITY OF MELBOURNE HISTORY MUSEUM</h3><a href=\"tel:8703683666\" target=\"_blank\">Phone</a><br>915 MAIN ST MELBOURNE AR 72556", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.1887489509997, 
+                    34.8744126140004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FARGO AGRICULTURAL SCHOOL MUSEUM, INC.</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4659127129997, 
+                    35.2698437530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRITTENDEN COUNTY MUSEUM</h3><a href=\"tel:8707927374\" target=\"_blank\">Phone</a><br>1112 MAIN ST EARLE AR 72331", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5859022309997, 
+                    34.5222843360004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELTA CULTURAL CENTER</h3><a href=\"tel:8703384350\" target=\"_blank\">Phone</a><br>95 MISSOURI STREET HELENA AR 72342", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1165294719997, 
+                    34.5162844410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DISCOVERY DEPOT</h3><a href=\"tel:5017673461\" target=\"_blank\">Phone</a><br>500 MID AMERICA BLVD HOT SPRINGS NATIONAL PARK AR 71913", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1122845479996, 
+                    36.2305917320004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOONE COUNTY HERITAGE MUSEUM</h3><b><a href=\"http://www.bchrs.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8707413312\" target=\"_blank\">Phone</a><br>110 S CHERRY ST HARRISON AR 72601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.5109252899996, 
+                    34.5554449670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BAUXITE HISTORICAL ASSN MUSEUM</h3><b><a href=\"http://www.bauxitemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5015579858\" target=\"_blank\">Phone</a><br>6707 BENTON RD BAUXITE AR 72011", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7362300579996, 
+                    36.4421984580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ABUNDANT MEMORIES HERITAGE VILLAGE</h3><b><a href=\"http://www.abundantmemories.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4792536764\" target=\"_blank\">Phone</a><br>2434 HIGHWAY 23 N EUREKA SPRINGS AR 72631-9372", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1165294719997, 
+                    34.5162844410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS MUSEUM AND CULTURAL COMMISSION</h3><a href=\"tel:5017673461\" target=\"_blank\">Phone</a><br>500 MID AMERICA BLVD HOT SPRINGS NATIONAL PARK AR 71913", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2691164099997, 
+                    34.7459473770004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS TERRITORIAL RESTORATION</h3>200 EAST THIRD STREET LITTLE ROCK AR 72201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1934997289997, 
+                    36.0056739010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRADLEY HOUSE MUSEUM</h3><a href=\"tel:8704466247\" target=\"_blank\">Phone</a><br>601 W CLARK JASPER AR 72641", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.7164962169996, 
+                    33.3373759830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS NATURAL RESOURCES MUSEUM</h3><b><a href=\"http://www.amnr.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8707252877\" target=\"_blank\">Phone</a><br>3853 SMACKOVER HIGHWAY SMACKOVER AR 71762-9731", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.3737755819997, 
+                    34.0320903560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS POST MUSEUM</h3><b><a href=\"http://www.ArkansasStateParks.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8705482634\" target=\"_blank\">Phone</a><br>5530 HIGHWAY 165 S GILLETT AR 72055", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0033307239997, 
+                    34.2256466400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BAND MUSEUM</h3><a href=\"tel:4237624678\" target=\"_blank\">Phone</a><br>423 S MAIN ST PINE BLUFF AR 71601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3097024769997, 
+                    35.3323935580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MANESS HISTORICAL SOCIETY INC</h3>1302 FORT STREET BARLING AR 72923-2015", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4121742699997, 
+                    35.9078423010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CANE HILL RESTORATION ASSOCIATION</h3>18781 MOCKINGBIRD LN CANEHILL AR 72717-9327", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6997677269997, 
+                    35.2272629960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOLD PILGRIM CEMETERY PRESERVATION ASSOCIATION</h3>94 GIVENS LANE MORRILTON AR 72110-9050", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5862576379997, 
+                    34.5224821330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN MUSIC MUSEUM INC</h3>105 CHERRY ST HELENA AR 72342-3501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4214460779997, 
+                    35.3846335750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JAMES K BARNES MUSEUM AND TOURIST CENTER</h3>PO BOX 3981 FORT SMITH AR 72913", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6881996719997, 
+                    36.2282315220004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARION COUNTY ARKANSAS HERITAGE SOCIETY</h3><a href=\"tel:8704452667\" target=\"_blank\">Phone</a><br>PO BOX 761 YELLVILLE AR 72687-0761", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4006593039996, 
+                    34.7664483220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAPEVINE HISTORICAL SOCIETY INC</h3>11412 HURON LN LITTLE ROCK AR 72211-1847", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.0379657619997, 
+                    33.4245537450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TEX-ARK ANTIQUE AUTO MUSEUM</h3><b><a href=\"http://texarkaam.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8707722886\" target=\"_blank\">Phone</a><br>217 LAUREL ST TEXARKANA AR 71854-6051", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4874196889997, 
+                    36.0562735900004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENE COUNTY MUSEUM INC</h3>PO BOX 991 PARAGOULD AR 72451-0991", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2029149269997, 
+                    36.3817058100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRYSTAL BRIDGES MUSEUM OF AMERICAN ART INC</h3>600 MUSEUM WAY BENTONVILLE AR 72712-4947", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2247139849997, 
+                    36.3882875740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BENTONVILLE HISTORICAL MUSEUM INC</h3>1307 NW K STREET BENTONVILLE AR 72712-4145", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.4344787869996, 
+                    33.5262030300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DERMOTT HISTORICAL MUSEUM INC</h3><a href=\"tel:8705385221\" target=\"_blank\">Phone</a><br>PO BOX 326 DERMOTT AR 71638-0326", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1256381039997, 
+                    36.3363635790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS NAUTICAL MUSEUM INC</h3>PO BOX 1214 ROGERS AR 72757", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1336589839997, 
+                    36.1020330880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHWEST ARKANSAS MUSEUM FOUNDATION</h3>PO BOX 8433 FAYETTEVILLE AR 72703", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1165294719997, 
+                    34.5162844410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MID-AMERICA SCIENCE MUSEUM</h3><a href=\"tel:5017673461\" target=\"_blank\">Phone</a><br>500 MID AMERICA BLVD HOT SPRINGS AR 71913-8412", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.8024472439997, 
+                    35.0033918870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PERRY COUNTY HISTORICAL MUSEUM</h3><a href=\"tel:5018898047\" target=\"_blank\">Phone</a><br>PO BOX 1128 PERRYVILLE AR 72126-1128", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7379269009997, 
+                    36.4045431500004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GALLERY MINT MUSEUM INC</h3><a href=\"tel:4792535055\" target=\"_blank\">Phone</a><br>PO BOX 706 EUREKA SPRING AR 72632-0706", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.9714879559997, 
+                    36.2616457670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIVE RIVERS HISTORIC PRESERVATION INC</h3>202 W BROADWAY POCAHONTAS AR 72455-3419", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1604395679997, 
+                    36.0664104870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON COUNTY ARKANSAS GENEALOGICAL SOCIETY</h3>PO BOX 41 FAYETTEVILLE AR 72702-0041", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2734689089997, 
+                    34.7323634870004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHSIDE MAIN STREET PROJECT INC</h3>PO BOX 165494 LITTLE ROCK AR 72216-5494", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2073873519997, 
+                    36.3730027560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS MUSEUM OF NORTHWESTARKANSAS</h3>902 A S WALTON BLVD SUITE 1 BENTONVILLE AR 72712-5348", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7300544259997, 
+                    35.2869016090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PARIS COALMINERS MEMORIAL AND MINI MINE</h3>804 SOUTH ELM STREET PARIS AR 72855-4714", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.1026797829996, 
+                    35.8753214950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS CRAFT GUILD</h3><a href=\"tel:4792537072\" target=\"_blank\">Phone</a><br>PO BOX 800 MOUNTAIN VIEW AR 72560-0800", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4546175869997, 
+                    34.7680538930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILSON HISTORY & RESEARCH CENTER</h3><b><a href=\"http://www.militaryheadgear.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5018217612\" target=\"_blank\">Phone</a><br>27 RAHLING CIR STE D14 LITTLE ROCK AR 72223-5999", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2242957979997, 
+                    36.3606608510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NATIVE AMERICAN HISTORY INC</h3><b><a href=\"http://www.monah.us\" target=\"_blank\">Website</a></b><br>202 SW 0 ST BENTONVILLE AR 72712", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2734689089997, 
+                    34.7323634870004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>QUAPAW QUARTER ASSOCIATION OF VILLA MARRE</h3><a href=\"tel:3710075\" target=\"_blank\">Phone</a><br>PO BOX 165023 LITTLE ROCK AR 72216-5023", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0347495439997, 
+                    35.2460039090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POTTS INN MUSEUM</h3><a href=\"tel:4799671194\" target=\"_blank\">Phone</a><br>889 EAST ASH STREET POTTSVILLE AR 72858", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2595859329997, 
+                    35.2069141600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH SEBASTIAN COUNTY HISTORICAL SOCIETY INC</h3><a href=\"tel:4799960079\" target=\"_blank\">Phone</a><br>PO BOX 523 GREENWOOD AR 72936", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4210393449997, 
+                    35.3915891640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SMITH HERITAGE FOUNDATION INC</h3>514 N 6TH ST FORT SMITH AR 72901-2006", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2655062019996, 
+                    34.7559066940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS SPORTS HALL OF FAME INC</h3><b><a href=\"http://www.ArkSportsHallOfFame.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5016634328\" target=\"_blank\">Phone</a><br>3 VERIZON ARENA WAY N LITTLE ROCK AR 72114-5681", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5415904689997, 
+                    34.4990181190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE ARKANSAS GRAND PRAIRIE INC</h3><b><a href=\"http://grandprairiemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8706737001\" target=\"_blank\">Phone</a><br>921 E 4TH ST STUTTGART AR 72160-4558", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0689066959997, 
+                    34.1191420330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLARK COUNTY HISTORICAL ASSOCIATION INC</h3>PO BOX516 ARKADELPHIA AR 71923", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.3977901199997, 
+                    33.6285149930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DESHA COUNTY HISTORICAL SOCIETY INC</h3>209 W OAK ST MCGEHEE AR 71654", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2669881219996, 
+                    34.7395498350004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS ARTS CENTER FOUNDATION</h3><b><a href=\"http://www.arkarts.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5013724000\" target=\"_blank\">Phone</a><br>501 E 9TH ST LITTLE ROCK AR 72202", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4947861029997, 
+                    34.7767303370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILDWOOD PARK FOR THE PERFORMING ARTS</h3>", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1450385529997, 
+                    36.0480029450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS HISTORICAL ASSOCIATION</h3>416 OLD MAINUNIV OF ARKANSAS FAYETTEVILLE AR 72701", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7957977559997, 
+                    35.2281112200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CROSS COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:8702393815\" target=\"_blank\">Phone</a><br>PO BOX 943 WYNNE AR 72396-0943", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.1030076279997, 
+                    33.9350615300004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLEVELAND COUNTY HISTORICAL SOCIETY INCORPORATED</h3>PO BOX 192 RISON AR 71665", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3242683429997, 
+                    34.7576623160004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PULASKI COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.pulaskicountyarkhistory.org\" target=\"_blank\">Website</a></b><br>PO BOX 251903 LITTLE ROCK AR 72225", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3532294919997, 
+                    35.4359915400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRAWFORD COUNTY HISTORICAL SOCIETY</h3>PO BOX 1317 VAN BUREN AR 72957", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6611085639997, 
+                    33.2118201660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNION COUNTY GIFT FOUNDATION</h3>PO BOX 148 EL DORADO AR 71731-0148", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.1985189249997, 
+                    35.7319406630004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRAILS TO TUCKERMAN HISTORICAL SOCIETY INC</h3>PO BOX 976 TUCKERMAN AR 72473-0976", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1738601759997, 
+                    36.0630735820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLINTON HOUSE MUSEUM</h3><b><a href=\"http://www.clintonhousemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4794440066\" target=\"_blank\">Phone</a><br>930 W CLINTON DR FAYETTEVILLE AR 72701-4912", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7534978259997, 
+                    36.4944544940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE BARN</h3>77 TABLE ROCK DRIVE EUREKA SPRINGS AR 72631-4549", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.1428903779997, 
+                    36.1167915010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALICO ROCK MUSEUM FOUNDATION</h3>104 MAIN ST CALICO ROCK AR 72519-8882", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1266768529997, 
+                    36.4400202150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEA RIDGE HISTORICAL SOCIETY INC</h3>344 HALLECK LN PEA RIDGE AR 72751-3900", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6478041719997, 
+                    35.2753051520004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PILGRIM CEMETERY PRESERVATION ASSOCIATION</h3>20 WARD DRIVE SOLGOHACHIA AR 72156-9561", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3849022129997, 
+                    35.3689788800004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIVER VALLEY BOTANICAL GARDENS</h3>4300 ROGERS AVE SUITE 26 FORT SMITH AR 72903-3152", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7070165329997, 
+                    34.9019316660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOURCHE VALLEY CULTURAL PRESERVATION AND RESTORATION</h3>10678 S AND G CIRCLE LANE HARVEY AR 72841-8001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.5070897999997, 
+                    34.0317400600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH EAST PIKE COUNTY ALLIANCE</h3>PO BOX 133 DELIGHT AR 71940-0133", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2968750649997, 
+                    35.3149266160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHAFFEE CROSSING HISTORIC PRESERVATION ORGANIZATION</h3>7020 TAYLOR AVENUE FORT SMITH AR 72916", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1677711269997, 
+                    36.0683832900004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE WASHINGTON COUNTY HISTORIC PRESERVATION ASSOCIATION INC</h3>617 W LAFAYETTE ST FAYETTEVILLE AR 72701-7270", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.9043608269997, 
+                    35.9274905130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELTA GATEWAY MUSEUM</h3><b><a href=\"http://www.deltagatewaymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8707633602\" target=\"_blank\">Phone</a><br>210 WEST MAIN BLYTHEVILLE AR 72315", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4362769639997, 
+                    35.5303628790004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEPANTO AREA CITIZENS FOR PROGRESS INC</h3>231 WEST RIVERSIDE DRIVE MARKED TREE AR 72365-2017", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0539273339997, 
+                    34.5133382760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF CONTEMPORARY ART OF HOT SPRINGS INC</h3><b><a href=\"http://museumofcontemporaryart.com\" target=\"_blank\">Website</a></b><br>425 CENTRAL AVE HOT SPRINGS AR 71913-2303", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4274789799996, 
+                    35.3895993550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>US MARSHALS MUSEUM INC</h3><b><a href=\"http://usmarshalsmuseum.com\" target=\"_blank\">Website</a></b><br>14 N 3RD ST STE D FORT SMITH AR 72901-1476", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1255966709997, 
+                    36.0919175080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHWEST ARKANSAS AFRICAN AMERICAN HERITAGE ASSOCIATION INC</h3>2240 N EAST OAKS DR FAYETTEVILLE AR 72703-6103", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3312661709997, 
+                    34.7476101110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS ZOOLOGICAL FOUNDATION</h3><b><a href=\"http://www.littlerockzoo.com/\" target=\"_blank\">Website</a></b><br>1 Z00 DR LITTLE ROCK AR 72205-5403", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1534280879997, 
+                    33.9189219960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL CONCATENATED ORDER OF HOO-HOO</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2728012649997, 
+                    34.7484509850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD STATES HOUSE MUSEUM 1836 CLUB INC</h3><b><a href=\"http://www.oldstatehouse.com\" target=\"_blank\">Website</a></b><br>300 W MARKHAM ST LITTLE ROCK AR 72201-1406", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.8107451729996, 
+                    33.6605781450004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS FORESTRY MUSEUM AND EDUCATIONAL CENTER INC</h3>135 GATESWAY DR MONTICELLO AR 71655", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2650656689997, 
+                    34.7433824200004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PARK CENTRAL LITTLE ROCK</h3>PO BOX 567 LITTLE ROCK AR 72203-0567", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1934997289997, 
+                    36.0056739010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MT SHERMAN HISTORICAL COMMUNITY CENTER</h3>HC 70 BOX 207 JASPER AR 72641", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3409164279997, 
+                    34.7612230120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRAIL OF TEARS ASSOCIATION</h3>623 SPRING CREEK STREET LOWELL AR 72207-6344", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2677069629997, 
+                    34.7565596870004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS INLAND MARITIME MUSEUM ASSOCIATION</h3>300 MAIN ST N LITTLE ROCK AR 72114-5326", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1801920299997, 
+                    36.4157611390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS REENACTOR EDUCATIONAL ASSOCIATION AREA INC</h3>12674 GOOSEBERRY SPUR BENTONVILLE AR 72712-8915", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2650656689997, 
+                    34.7433824200004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS HISTORIC PRESERVATION FOUNDATION</h3>POST OFFICE BOX 305 LITTLE ROCK AR 72203-0305", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6723296939996, 
+                    33.2456368370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNION COUNTY SPORTS HALL OF FAME INC</h3>209 CHULA VISTA EL DORADO AR 71730-2945", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.9185749089997, 
+                    36.3668450230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLADE COMMUNITY HISTORICAL SOCIETY INC</h3>20916 SLATE GAP RD E GARFIELD AR 72732", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2074291729997, 
+                    35.0828924500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF VETERANS AND MILITARY HISTORY</h3>PO BOX 668 VILONIA AR 72173-0668", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7320559759997, 
+                    36.3926921790004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREATER EUREKA SPRINGS VISITOR EDUCATION CENTER INC</h3>516 VILLAGE CIRCLE EUREKA SPRINGS AR 72632-8810", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0642277689997, 
+                    33.6159401170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRADLEY COUNTY VETERANS INC</h3><b><a href=\"http://www.bradleycountyveterans.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8702262329\" target=\"_blank\">Phone</a><br>210 N MAIN ST WARREN AR 71671-2717", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7315907409996, 
+                    35.2937836890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOGAN COUNTY MUSEUM ASSOCIATION INC</h3>204 NORTH VINE ST PARIS AR 72855", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2174069339997, 
+                    35.4870127100004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRAWFORD COUNTY GENEALOGICAL SOCIETY INC</h3>PO BOX 276 ALMA AR 72921-0276", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5309742519997, 
+                    36.3113644020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHEROKEE VILLAGE HISTORICAL SOCIETY</h3>10 AKOKISA DR CHEROKEE VILLAGE AR 72529-2143", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3567747139997, 
+                    34.9116235900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BATES SCHOOLHOUSE COMMUNITY CENTER</h3>1516 LOOKOUT LANE WALDRON AR 72958-7891", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3242663669997, 
+                    34.7576514170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOGS ONLY INC</h3>PO BOX 251412 LITTLE ROCK AR 72225-1412", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1534280879997, 
+                    33.9189219960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GURDON HISTORICAL PRESERVATION ASSOCIATION</h3>PO BOX 193 GURDON AR 71743-0193", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1734587799997, 
+                    36.0120008400004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS AIR MUSEUM</h3><a href=\"tel:4795214947\" target=\"_blank\">Phone</a><br>4290 S SCHOOL AVE FAYETTEVILLE AR 72701-8008", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.5762288839996, 
+                    34.5773423850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SALINE COUNTY HISTORY HERITAGE SOCIETY</h3><a href=\"tel:5017783770\" target=\"_blank\">Phone</a><br>PO BOX 1712 BENTON AR 72018-1712", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.0921360839997, 
+                    34.8978343260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SCOTT COUNTY HISTORICAL GENEALOGICAL SOCIETY</h3><a href=\"tel:4796372466\" target=\"_blank\">Phone</a><br>PO BOX 1560 WALDRON AR 72958-1560", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3312661709997, 
+                    34.7476101110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LITTLE ROCK ZOOLOGICAL GARDENS</h3><a href=\"tel:5016662406\" target=\"_blank\">Phone</a><br>1 JONESBORO DR LITTLE ROCK AR 72205-5403", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3532187669996, 
+                    35.4359806220004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VAN BUREN HISTORIC DISTRICT VAN BUREN HISTORIC DEVELOPMENT I</h3>PO BOX 245 VAN BUREN AR 72957-0245", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.5609996399997, 
+                    35.8301725450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OZARK HERITAGE ART CENTER & MUSEUM</h3><a href=\"tel:8704472500\" target=\"_blank\">Phone</a><br>PO BOX 217 LESLIE AR 72645-0217", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1313063079997, 
+                    36.1820006650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS BOSTON MOUNTAINS CHAPTER NATIONAL RAILWAY HISTORICA</h3>PO BOX 1303 SPRINGDALE AR 72765-1303", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3005885669997, 
+                    36.2126335880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WOLF HOUSE MEMORIAL FOUNDATION</h3><a href=\"tel:8704999653\" target=\"_blank\">Phone</a><br>450 COUNTY ROAD 107 NORFORK AR 72658-9082", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.9615583539997, 
+                    33.1322804970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE CROSSETT ZOO</h3>PO BOX 560 CROSSETT AR 71635-0560", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.1195557839997, 
+                    34.8671238280004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LITTLE ROCK AIR FORCE BASE HISTORICAL FOUNDATION INC</h3>PO BOX 252 JACKSONVILLE AR 72078-0252", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4233418369997, 
+                    35.3908512760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSIC FORT SMITH</h3>323 NORTH 5TH STREET FORT SMITH AR 72901-1433", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7619006889997, 
+                    35.2218630650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EVANS MUSEUM</h3>6335 N HWY 109 MAGAZINE AR 72943", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4014597319997, 
+                    34.3047019870004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRANT COUNTY MUSEUM FOUNDATION INC</h3><b><a href=\"http://www.grantcountymuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8709424496\" target=\"_blank\">Phone</a><br>PO BOX 309 SHERIDAN AR 72150-0309", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2326175499996, 
+                    35.6156770840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIVERGLEN TIGER SHELTER</h3><b><a href=\"http://www.riverglentigers.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4793692805\" target=\"_blank\">Phone</a><br>12501 HAGGARD SPRINGS TRL MOUNTAINBURG AR 72946-3386", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.1627796829997, 
+                    36.1653115490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLOVER BEND HISTORICAL AND PRESERVATION DISTRICT</h3>4679 HIGHWAY 63 BLACK ROCK AR 72415-9117", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3849022129997, 
+                    35.3689788800004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BASS REEVES LEGACY INITIATIVE INC</h3>4300 ROGERS AVE SUITE 20 208 FORT SMITH AR 72903-3143", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5499299239997, 
+                    36.4957535030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEORGE D HAY COUNTRY MUSIC HALL OF FAME & MUSEUM</h3>PO BOX 772 MAMMOTH SPRING AR 72554-0772", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3616673579997, 
+                    34.6717903110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS FALLEN FIREFIGHTERS MEMORIAL</h3>8619 CHICOT RD LITTLE ROCK AR 72209-4445", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.1921187639996, 
+                    34.8871974680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL DELTA HISTORICAL SOCIETY INC</h3><a href=\"tel:8705892124\" target=\"_blank\">Phone</a><br>100 W CYPRESS ST BRINKLEY AR 72021-2809", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0980760469997, 
+                    35.8512828200004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC CEMETERY OF MOUNTAIN VIEW INC</h3>PO BOX 2411 MOUNTAIN VIEW AR 72560", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5519369959997, 
+                    36.0618367160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHEAST ARKANSAS LIVING HISTORIANS</h3>5000 W KINGSHIGHWAY PARAGOULD AR 72450-3425", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4442580359997, 
+                    35.1009024980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HENDRIX COLLEGE</h3>", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3419066689997, 
+                    34.7242904480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF ARKANSAS</h3>2801 S UNIVERSITY AVE LITTLE ROCK AR 72204", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4391656899997, 
+                    35.0897141090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAULKNER COUNTY MUSEUM</h3><b><a href=\"http://www.faulknercountymuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 2442 CONWAY AR 72033-2442", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.6819675759997, 
+                    33.7754108130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER WASHINGTON RESTORATION FOUNDATION INC</h3><a href=\"tel:8709832828\" target=\"_blank\">Phone</a><br>PO BOX 127 WASHINGTON AR 71862-0127", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2655392749997, 
+                    34.7474927950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF DISCOVERY</h3><b><a href=\"http://www.amod.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5013967050\" target=\"_blank\">Phone</a><br>500 PRES CLINTON AVE STE 150 LITTLE ROCK AR 72201-1757", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1313063079997, 
+                    36.1820006650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARTS CENTER OF THE OZARKS</h3><a href=\"tel:4797515441\" target=\"_blank\">Phone</a><br>PO BOX 725 SPRINGDALE AR 72765-0725", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1569195669996, 
+                    36.0662975450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON COUNTY HISTORICAL SOCIETY-INC</h3><b><a href=\"http://www.washcohistoricalsociety.org\" target=\"_blank\">Website</a></b><br>118 E DICKSON ST FAYETTEVILLE AR 72701-4207", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3681594589997, 
+                    35.8768644250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUFFALO ISLAND MUSEUM</h3><a href=\"tel:8704862012\" target=\"_blank\">Phone</a><br>HIGHWAY 18 MONETTE AR 72447", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.8682357009997, 
+                    33.9520553340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOWARD COUNTY CHILDRENS CENTER INC</h3><b><a href=\"http://howardcountychildrenscenter.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8708451211\" target=\"_blank\">Phone</a><br>1577 HIGHWAY 371 W NASHVILLE AR 71852-7598", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.7916335399997, 
+                    33.6230903980004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DREW COUNTY HISTORICAL MUSEUM</h3><a href=\"tel:8703677446\" target=\"_blank\">Phone</a><br>404 S MAIN ST MONTICELLO AR 71655-4818", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2691164099997, 
+                    34.7459473770004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC ARKANSAS MUSEUM FOUNDATION INC</h3><b><a href=\"http://www.historicarkansas.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5013249351\" target=\"_blank\">Phone</a><br>200 E 3RD ST LITTLE ROCK AR 72201-1608", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.8910537269996, 
+                    35.1294145620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF AUTOMOBILES INC</h3><b><a href=\"http://www.museumofautos.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5017275427\" target=\"_blank\">Phone</a><br>8 JONES LN MORRILTON AR 72110-9353", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.5667597589997, 
+                    36.3645126160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARROLL COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:8706543948\" target=\"_blank\">Phone</a><br>PO BOX 249 BERRYVILLE AR 72616-0249", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5020586069997, 
+                    33.8900516180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DESHA COUNTY MUSEUM SOCIETY</h3>PO BOX 141 DUMAS AR 71639", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7027774659996, 
+                    35.8398511120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRAIGHEAD COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://CRAIGHEADHISTORICAL.ORG\" target=\"_blank\">Website</a></b><br>PO BOX 1011 JONESBORO AR 72403", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.4634145469997, 
+                    35.4711832170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHNSON COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.jchs64093.org\" target=\"_blank\">Website</a></b><br>131 W MAIN ST CLARKSVILLE AR 72830-3007", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1323978589997, 
+                    33.6725973470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LITTLE RIVER COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:8708987202\" target=\"_blank\">Phone</a><br>310 NORTH 2ND STREET ASHDOWN AR 71822", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6611085639997, 
+                    33.2118201660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH ARKANSAS HISTORICAL FOUNDATION</h3><a href=\"tel:8708629890\" target=\"_blank\">Phone</a><br>PO BOX 144 EL DORADO AR 71731-0144", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7414976349997, 
+                    36.3980339290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EUREKA SPRINGS HISTORICAL MUSEUM INC</h3><b><a href=\"http://www.eurekaspringshistoricalmuseum.o\" target=\"_blank\">Website</a></b><br><a href=\"tel:4792539417\" target=\"_blank\">Phone</a><br>95 S MAIN ST EUREKA SPGS AR 72632-3600", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4214460779997, 
+                    35.3846335750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SMITH HISTORICAL SOCIETY INC</h3>PO BOX 3676 FORT SMITH AR 72913-7291", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.7432485339997, 
+                    35.1594623550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONWAY COUNTY HISTORICAL PRESERVATION ASSOCIATION INC</h3>PO BOX 417 MORRILTON AR 72110", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1177598209997, 
+                    36.3307630750004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE ROGERS HISTORICAL MUSEUM</h3><b><a href=\"http://www.rogersarkansas.com/museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:4796211154\" target=\"_blank\">Phone</a><br>322 SOUTH SECOND STREET ROGERS AR 72756-4546", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0173458439997, 
+                    35.4764305060004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLEBURNE COUNTY HISTORICAL SOCIETY INC TERM</h3><b><a href=\"http://www.cleburnehistory.info\" target=\"_blank\">Website</a></b><br>PO BOX 794 HEBER SPRINGS AR 72543", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.7931479059997, 
+                    33.2276338040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ASHLEY COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:8708532244\" target=\"_blank\">Phone</a><br>PO BOX 27 HAMBURG AR 71646", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1317682369997, 
+                    36.2496437090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOONE COUNTY HISTORICAL & RAILROAD SOCIETY INC 211 WEST RUSH</h3>PO BOX 1094 HARRISON AR 72602-1094", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3729367499997, 
+                    36.3508411380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BAXTER COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.baxtercountyhistory.org\" target=\"_blank\">Website</a></b><br>PO BOX 2125 MOUNTAIN HOME AR 72654", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2444805969997, 
+                    36.4615480430004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BELLA VISTA HISTORICAL SOCIETY</h3><b><a href=\"http://www.BellaVistaMuseum.org\" target=\"_blank\">Website</a></b><br>1885 BELLA VISTA WAY BELLA VISTA AR 72714-7271", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5884867379997, 
+                    34.5283916280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHILLIPS COUNTY ARKANSAS HISTORICAL SOCIETY</h3>623 PECAN ST HELENA AR 72342", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4245186759996, 
+                    34.9588208220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS AVIATION HISTORICAL SOCIETY</h3>PO BOX 99 MAYFLOWER AR 72106-0099", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.7254494039997, 
+                    33.3639127340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS MUSEUM OF NATURAL RESOURCES FOUNDATION INC</h3><b><a href=\"http://www.arkansasstateparks.com/museumof\" target=\"_blank\">Website</a></b><br><a href=\"tel:8707252877\" target=\"_blank\">Phone</a><br>PO BOX 556 SMACKOVER AR 71762-0556", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.3672087029997, 
+                    33.7948438580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA COUNTY DEPOT AND MUSEUM</h3><b><a href=\"http://www.depotmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8708875821\" target=\"_blank\">Phone</a><br>PO BOX 592 PRESCOTT AR 71857", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2242957979997, 
+                    36.3606608510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BENTON COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.bentoncountyarhistoricalwsociety\" target=\"_blank\">Website</a></b><br><a href=\"tel:4792733890\" target=\"_blank\">Phone</a><br>PO BOX 1034 BENTONVILLE AR 72712", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4295718309997, 
+                    35.3860413890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SMITH STREET CAR RESTORATION ASSOCIATION INC</h3><b><a href=\"http://www.fstm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4797830205\" target=\"_blank\">Phone</a><br>100 S 4TH ST FORT SMITH AR 72901-1947", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.5762395569997, 
+                    34.5773402430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GANN MUSEUM OF SALINE COUNTY</h3>PO BOX 1923 BENTON AR 72018", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.6819675759997, 
+                    33.7754108130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHWEST ARK REGIONAL ARCHIVES</h3><b><a href=\"http://www.southwestarchives.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8709832633\" target=\"_blank\">Phone</a><br>PO BOX 134 WASHINGTON AR 71862-0134", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.9319664859997, 
+                    34.8167326660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE LONOKE COUNTY HISTORICAL SOCIETY</h3>BOX 193 LONOKE AR 72086", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.5886258389997, 
+                    33.6695208640004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEMPSTEAD COUNTY HISTORICAL SOCIETYINC</h3>PO BOX 1257 HOPE AR 71802-7180", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.3719387269996, 
+                    34.1170911900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND PRAIRIE HISTORICAL SOCIETY INC</h3>POST OFFICE BOX 355 GILLETT AR 72055", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0047100039997, 
+                    34.2261585820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PINE BLUFF JEFFERSON COUNTY HISTORICAL MUSEUM</h3><b><a href=\"http://www.pbark.com/jcmuseum\" target=\"_blank\">Website</a></b><br>201 E 4TH AVE PINE BLUFF AR 71601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.8057211869997, 
+                    34.3315799590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOT SPRING COUNTY MUSEUM COMMISSION</h3>106 COUNTRY OAKS DRIVE MALVERN AR 72104", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1934997289997, 
+                    36.0056739010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEWTON COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.newtoncountyar.com\" target=\"_blank\">Website</a></b><br>PO BOX 360 JASPER AR 72641", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.5502560709997, 
+                    36.1774601340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SILOAM SPRINGS MUSEUM SOCIETY</h3>PO BOX 1164 SILOAM SPGS AR 72761-1164", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1011308399997, 
+                    34.8893515340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORESTER HISTORICAL SOCIETY INC</h3>655 CHURCHILL ST WALDRON AR 72958", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7590015829996, 
+                    34.7734684200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARIANNA LEE COUNTY MUSEUM ASSOCIATION</h3>67 WEST MAIN MARIANNA AR 72360", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2650656689997, 
+                    34.7433824200004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC PRESERVATION ALLIANCE OF ARKANSAS INC</h3>PO BOX 305 LITTLE ROCK AR 72203-0305", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3167889019996, 
+                    35.6130418240004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM LEPANTO USA INC</h3><a href=\"tel:8704756166\" target=\"_blank\">Phone</a><br>PO BOX 404 LEPANTO AR 72354", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1532195279997, 
+                    35.2204031800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>YELL COUNTY HISTORICAL & GENEALOGICAL SOCIETY</h3>PO BOX 622 DARDANELLE AR 72834-0622", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1534280879997, 
+                    33.9189219960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOO-HOO MUSEUM</h3>PO BOX 118 GURDON AR 71743-0118", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0540969199997, 
+                    34.5114243090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MELTING POT GENEALOGICAL SOCIETY</h3>PO BOX 936 HOT SPRINGS AR 71902-0936", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3200881009997, 
+                    35.9756216000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEBBNELSONMURPHY MEMORIAL FOUNDATION</h3>PO BOX 1010 PRAIRIE GROVE AR 72753-1010", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4249966269996, 
+                    33.8125736440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DALLAS COUNTY MUSEUM INC</h3>PO BOX 703 FORDYCE AR 71742-0703", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2706490009997, 
+                    35.6004434210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAIRFIELD BAY LOG CABIN MUSEUM INC</h3>PO BOX 1549 FAIRFIELD BAY AR 72088-1549", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0266995649997, 
+                    35.7421829380004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STONE COUNTY HISTORICAL SOCIETY</h3>PO BOX 210 MOUNTAIN VIEW AR 72560", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3419498569997, 
+                    34.0387333610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEVIER COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.seviercounty-ar.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8706426642\" target=\"_blank\">Phone</a><br>717 WALTER J LEEPER DRIVE DE QUEEN AR 71832", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7384265769996, 
+                    36.0865322070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MADISON COUNTY GENEALOGICAL AND HISTORICAL SOCIETY</h3><a href=\"tel:4797386408\" target=\"_blank\">Phone</a><br>PO BOX 427 HUNTSVILLE AR 72740-0427", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0289493869997, 
+                    34.2006434540004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COTTON BELT RAIL HISTORICAL SOCIETY INC</h3>PO BOX 2044 PINE BLUFF AR 71613-2044", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2754245749996, 
+                    34.7447238830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS GOVERNORS MANSION ASSOCIATION</h3>425 W CAPITOL AVE STE 3300 LITTLE ROCK AR 72201-3485", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.9679193299997, 
+                    36.2635360840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOOD EARTH ASSOCIATION INC</h3><a href=\"tel:8708929545\" target=\"_blank\">Phone</a><br>202 E CHURCH ST POCAHONTAS AR 72455-2819", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.9057095389996, 
+                    35.9275879390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARTS COUNCIL OF MISSISSIPPI COUNTY</h3><a href=\"tel:8707621744\" target=\"_blank\">Phone</a><br>306 W MAIN ST BLYTHEVILLE AR 72315-3318", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.9684570219997, 
+                    35.7029058960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OSCEOLA HISTORIC RESTORATION PRESERVATION & CVC IMPROV COMM</h3>106 WEST HALE STREET OSCEOLA AR 72370", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.8116389199997, 
+                    34.3729207690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOT SPRING COUNTY ARKANSAS HISTORICAL SOCIETY</h3>PO BOX 674 MALVERN AR 72104", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0033635519997, 
+                    34.2231413390004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARTS AND SCIENCE CENTER FOR SOUTHEAST ARKANSAS</h3><b><a href=\"http://artssciencecenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8705363375\" target=\"_blank\">Phone</a><br>701 S MAIN STREET PINE BLUFF AR 71601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1733124829997, 
+                    36.0114157040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OZARK MILITARY MUSEUM ASSOCIATION INC</h3><b><a href=\"http://www.ozarkmilitarymuseum.org\" target=\"_blank\">Website</a></b><br>4360 S SCHOOL AVE FAYETTEVILLE AR 72701-8033", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.4874259579997, 
+                    36.0562714900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENE COUNTY HISTORICAL AND GENEALOGICAL SOCIETY</h3><a href=\"tel:8702408944\" target=\"_blank\">Phone</a><br>PO BOX 121 PARAGOULD AR 72451", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1317789249997, 
+                    36.2496503050004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC HARRISON BUSINESS ASSOCIATION INC</h3>PO BOX 237 HARRISON AR 72602", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0631238999997, 
+                    33.6168307930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRADLEY COUNTY HISTORICAL MUSEUM INC</h3>311 NORTH MYRTLE STREET WARREN AR 71671", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6611085639997, 
+                    33.2118201660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAIN STREET ELDORADO</h3><a href=\"tel:8708624747\" target=\"_blank\">Phone</a><br>PO BOX 1325 EL DORADO AR 71731-1325", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2773790449997, 
+                    34.8218026040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS NATIONAL GUARD MUSEUM INCORPORATED</h3><b><a href=\"http://www.arngmuseum.com\" target=\"_blank\">Website</a></b><br>CAMP ROBINSON NORTH LITTLE ROCK AR 72199-7219", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5873765389996, 
+                    34.5282612040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SONNY BOY BLUES SOCIETY  INC</h3><a href=\"tel:8709956569\" target=\"_blank\">Phone</a><br>PO BOX 118 HELENA AR 72342-0118", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5873765389996, 
+                    34.5282612040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS COMMITTEE OF THE NATIONAL MUSEUM OF WOMEN IN THE AR</h3>PO BOX 655 HELENA AR 72342-0655", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.8820961999997, 
+                    33.2937908590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MILLER COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 343 FOUKE AR 71837-7183", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.8253428099997, 
+                    35.4850980180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OZARK AREA MUSEUM</h3><a href=\"tel:4796675015\" target=\"_blank\">Phone</a><br>103 E RIVER ST OZARK AR 72949-3200", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7034754729997, 
+                    36.2560683820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OZARK NATURAL SCIENCE CENTER</h3><b><a href=\"http://onsc.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:4797892754\" target=\"_blank\">Phone</a><br>1905 MADISON 1305 HUNTSVILLE AR 72740", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2217541459997, 
+                    36.3692008150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEEL HOUSE FOUNDATION</h3><b><a href=\"http://peelcompton.org/peel\" target=\"_blank\">Website</a></b><br><a href=\"tel:4792739664\" target=\"_blank\">Phone</a><br>400 S WALTON BLVD BENTONVILLE AR 72712-5705", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2647269879997, 
+                    34.7473580090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS MUSEUM OF ARKANSAS INC</h3>500 PRESIDENT CLLINTON AVE LITTLE ROCK AR 72201", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3872304689997, 
+                    34.7857198500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PASS IT DOWN ORG</h3><a href=\"tel:5012277488\" target=\"_blank\">Phone</a><br>707 PLEASANT VALLEY DR UNIT 5 LITTLE ROCK AR 72227-2162", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0094970779996, 
+                    35.6978041920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI COUNTY HISTORICAL AND GENEALOGICAL SOCIETY</h3>PO BOX 483 OSCEOLA AR 72370", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4930280049996, 
+                    36.2676103060004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TIRED IRON OF THE OZARKS INC</h3>PO BOX 57 GENTRY AR 72734-0057", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2523783339997, 
+                    34.8198663780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS MUSEUM OF AVIATION INC</h3>1208 NORTH POINT NORTH LITTLE ROCK AR 72118", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3575056579997, 
+                    34.7158524670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ERNIES MUSEUM OF BLACK ARKANSANS HALL OF FAME AND MUSIC THEA</h3>PO BOX 46754 LITTLE ROCK AR 72214-6754", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3963385999997, 
+                    33.7218021370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW ROCKY COMFORT MUSEUM</h3><a href=\"tel:8705427887\" target=\"_blank\">Phone</a><br>PO BOX 268 FOREMAN AR 71836-0268", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3200881009997, 
+                    35.9756216000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE PRAIRIE GROVE BATTLEFIELD PARK INC</h3>PO BOX 7 PRAIRIE GROVE AR 72753-0007", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.5886194809997, 
+                    33.6695230320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLINTON BIRTHPLACE FOUNDATION</h3><a href=\"tel:8707226929\" target=\"_blank\">Phone</a><br>PO BOX 1925 HOPE AR 71802-1925", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1371068899997, 
+                    36.1201842730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOTANICAL GARDEN SOCIETY OF THE OZARKS INC</h3>PO BOX 10407 FAYETTEVILLE AR 72703-0042", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4259367769997, 
+                    35.9480308160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS COUNTRY DOCTOR MUSEUM</h3><b><a href=\"http://www.drmuseum.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:4798244307\" target=\"_blank\">Phone</a><br>PO BOX 1004 LINCOLN AR 72744-1004", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.6440879919997, 
+                    35.7724921590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD INDEPENDENCE REGIONAL MUSEUM INC</h3><b><a href=\"http://www.oirm.org\" target=\"_blank\">Website</a></b><br>380 S 9TH ST BATESVILLE AR 72501-5703", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7918327259997, 
+                    35.2987050440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS HISTORIC WINE MUSEUM</h3>101 N CARBON CITY RD PARIS AR 72855-4630", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.9174212939997, 
+                    36.3315531720004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCKY BRANCH SCHOOL PRESERVATION ASSOCIATES INC</h3>21063 LOW GAP LANE ROGERS AR 72756-7943", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7607077639997, 
+                    35.4458741990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALTUS HISTORICAL SOCIETY</h3>PO BOX 197 ALTUS AR 72821-0197", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.5670301549997, 
+                    36.1766528100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENE COUNTY COURTHOUSE PRESERVATION SOCIETY INC</h3>750 GREENE ROAD 131 PARAGOULD AR 72450-9029", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4526482409997, 
+                    35.5654835070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VAN BUREN COUNTY HISTORICAL MUSEUM INC BERT STARK & GARNIE J</h3>PO BOX 1023 CLINTON AR 72031-1023", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.5799398269997, 
+                    34.5742127280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BENTON ATHLETIC MEMORIAL MUSEUM INC</h3>1106 MILITARY RD BENTON AR 72015-2909", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1480175439997, 
+                    36.3156252330004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHWEST ARKANSAS HISTORICAL EDUCATION ASSOCIATION INC</h3>1801 BETH DR ROGERS AR 72758-7275", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1159597479997, 
+                    36.4444911300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEA RIDGE NATIONAL MILITARY PARK FOUNDATION</h3>PO BOX 925 PEA RIDGE AR 72751-0925", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.2813260369996, 
+                    35.6073302540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD KIA KIMA PRESERVATION ASSOCIATION INC</h3>PO BOX 490 NEWPORT AR 72112-0490", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2179173299997, 
+                    36.4657013580004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUGAR CREEK MODEL RAILROAD & HISTORICAL SOCIETY INC</h3><b><a href=\"http://railroadclubsugarcreek.org\" target=\"_blank\">Website</a></b><br>PO BOX 5452 BELLA VISTA AR 72714", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6323359379996, 
+                    35.9098642880004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEARCY COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 133 MARSHALL AR 72650-0133", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.6993850019996, 
+                    36.4348386020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AVIATION CADET MUSEUM INC</h3><b><a href=\"http://www.aviationcadet.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4792535008\" target=\"_blank\">Phone</a><br>542 COUNTY ROAD 2073 EUREKA SPGS AR 72632-9630", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2969971129997, 
+                    34.7377817080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL HIGH MUSEUM INC</h3><b><a href=\"http://www.nps.gov/chsc\" target=\"_blank\">Website</a></b><br><a href=\"tel:5013741957\" target=\"_blank\">Phone</a><br>2120 DAISY BATES DRIVE LITTLE ROCK AR 72202-5212", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.3263766899997, 
+                    34.7733688280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRANCES L HOPKINS MEMORIAL FOUNDATION INC</h3>2329 N SPRUCE ST LITTLE ROCK AR 72207-3727", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.9252384529997, 
+                    36.0441206090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IZARD COUNTY HISTORICAL AND GENEALOGICAL SOCIETY</h3>PO BOX 877 MELBOURNE AR 72556-0877", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2088961959997, 
+                    36.3677700470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHWEST ARKANSAS GENEALOGICAL SOCIETY INC</h3>405 S MAIN ST BELLA VISTA AR 72712-5904", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.5886194809997, 
+                    33.6695230320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SENTIMENTAL JOURNEY TO SOUTHWESTERN</h3>PO BOX 2252 HOPE AR 71802-2252", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.9547492399997, 
+                    33.1326133700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CROSSETT CULTURAL AND HISTORICAL SOCIETY INC</h3>601 EAST THIRD AVENUE CROSSETT AR 71635", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2109589459997, 
+                    36.3536631370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BENTON COUNTY CEMETERY PRESERVATION GROUP</h3>PO BOX 1234 BENTONVILLE AR 72712-1234", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.8950884609997, 
+                    34.7842211260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LONOKE COUNTY MUSEUM</h3><a href=\"tel:5016766618\" target=\"_blank\">Phone</a><br>PO873 LONOKE AR 72086-0873", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.6339465769997, 
+                    34.5590629470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HERITAGE HOUSE MUSEUM OF MONTGOMERY COUNTY INC</h3><a href=\"tel:8708674422\" target=\"_blank\">Phone</a><br>PO BOX 1362 MOUNT IDA AR 71957-1362", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.1095574919997, 
+                    34.8718595890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REEDS BRIDGE BATTLEFIELD PRESERVATION SOCIETY INC</h3>511 N 1ST ST STE 8 JACKSONVILLE AR 72076-4134", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4014597319997, 
+                    34.3047019870004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL ARKANSAS ANTIQUE MACHINERY AND HISTORICAL SOCIETY IN</h3>PO BOX 579 SHERIDAN AR 72150-0579", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6611085639997, 
+                    33.2118201660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNION COUNTY GENEALOGICAL SOCIETY</h3>PO BOX 967 EL DORADO AR 71731-0967", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.4932884339997, 
+                    33.8906316660004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAIN STREET DUMAS</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1318598289997, 
+                    36.1864085180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF ARKANSAS, UNIVERSITY MUSEUM</h3><b><a href=\"http://www.shilohmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4797508165\" target=\"_blank\">Phone</a><br>118 W JOHNSON AVE SPRINGDALE AR 72764-4313", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0027829529997, 
+                    34.9447847650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EARLY ARKANSAW REENACTORS ASSOCIATION</h3>331 MARK LYNN CIR CABOT AR 72023-9497", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4007187149997, 
+                    34.7663740530004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>L C & DAISY BATES MUSEUM FOUNDATION</h3>PO BOX 26108 LITTLE ROCK AR 72221", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.9278056069996, 
+                    36.1226397490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WALNUT RIDGE ARMY FLYING SCHOOL MUSEUM INC</h3>70 BEACON RD WALNUT RIDGE AR 72476-8091", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0500338839997, 
+                    34.6708500360004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VILLAGE GENEALOGICAL SOCIETY INC</h3>34 LA CANADA WAY HOT SPRINGS VILLAGE AR 71909-2658", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.2273237459997, 
+                    36.2802290390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOUNTAIN MEADOWS MONUMENT FOUNDATION INC</h3>8002 WIND ROCK LANE HARRISON AR 72601-7768", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0931194129997, 
+                    34.4938009660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BASS FISHING HALL OF FAME INC</h3>PO BOX 2654 HOT SPRINGS AR 71914-2654", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.5864199049997, 
+                    36.3812127260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BULL SHOALS HISTORICAL SOCIETY</h3>PO BOX 5 BULL SHOAL AR 72619", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2669650819997, 
+                    34.7395491260004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MACARTHUR MUSEUM OF ARKANSAS MILITARY HISTORY</h3><a href=\"tel:5013764602\" target=\"_blank\">Phone</a><br>503 E 9TH ST LITTLE ROCK AR 72202-3997", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4081635589997, 
+                    35.3551068580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SMITH AIR MUSEUM</h3><a href=\"tel:4797851839\" target=\"_blank\">Phone</a><br>3 GLEN HAVEN DRIVE FORT SMITH AR 72901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.6675274949997, 
+                    35.2312613490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KENSETT AREA MUSEUM PARK</h3><a href=\"tel:5017423904\" target=\"_blank\">Phone</a><br>PO BOX 672 KENSETT AR 72082-0672", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.6834217879997, 
+                    34.7354970490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARIANNA HISTORIC TRUST</h3>3307 LEE ROAD 225 MARIANNA AR 72360", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3561299199997, 
+                    35.4765325570004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIVER VALLEY MUSEUM OF VAN BUREN</h3>PO BOX 6572 VAN BUREN AR 72956-0482", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2913320199997, 
+                    34.7452269620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS SUPREME COURT HISTORICAL SOCIETY INC</h3>JUSTICE BLDG 625 MARSHALL STREET LITTLE ROCK AR 72201", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2728012649997, 
+                    34.7484509850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DEPARTMENT OF ARKANSAS HERITAGE</h3>300 WEST MARKHAM STREET LITTLE ROCK AR 72201-1406", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.9798117789996, 
+                    36.2583340150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EDDIE MAE HERRON CENTER</h3><b><a href=\"http://www.herroncenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8708924433\" target=\"_blank\">Phone</a><br>1613 W MARR POCAHONTAS AR 72455-3623", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1165294719997, 
+                    34.5162844410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MID-AMERICA SCIENCE MUSEUM VOLUNTEER ASSOCIATION</h3><b><a href=\"http://www.midamericamuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5017673461\" target=\"_blank\">Phone</a><br>500 MID AMERICA BLVD HOT SPRINGS AR 71913-8412", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.5886779859997, 
+                    33.6666716820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>YERGER SCHOOL MUSEUM</h3>316 E 4TH ST HOPE AR 72206-4218", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3907338579997, 
+                    35.3613618470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN ARKANSAS NATURE CENTER PARTNERS INC</h3>2204 HENDRICKS BLVD FORT SMITH AR 72903-7290", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.7365771999997, 
+                    35.2508016780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITE COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.whitecounty.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:5012785010\" target=\"_blank\">Phone</a><br>112 WEST RACE AVE SEARCY AR 72143-4215", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.9222159589997, 
+                    35.1373527480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOONEVILLE HISTORICAL PRESERVATION SOCIETY</h3>PO BOX 1402 BOONEVILLE AR 72927-0405", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.6767663339997, 
+                    35.8417432940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARKANSAS STATE UNIVERSITY MUSEUM</h3><b><a href=\"http://museum.astate.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8709722074\" target=\"_blank\">Phone</a><br>P.O. BOX 2760 STATE UNIVERS AR 72467-0490", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.2317859149996, 
+                    33.2811230010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLUMBIA COUNTY COURTHOUSE RESTORATION PROJECT</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6632117209997, 
+                    33.2220137180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH ARKANSAS ARTS CENTER</h3><b><a href=\"http://www.saac-arts.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8625474\" target=\"_blank\">Phone</a><br>110 E 5TH ST EL DORADO AR 71730-3822", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4282370019997, 
+                    35.3877765490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SMITH MUSEUM OF HISTORY</h3><b><a href=\"http://www.fortsmithmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4797837841\" target=\"_blank\">Phone</a><br>320 ROGERS AVE FORT SMITH AR 72901-1937", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.2813260369996, 
+                    35.6073302540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JACKSON COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.jchdonline.org\" target=\"_blank\">Website</a></b><br>PO BOX 430 NEWPORT AR 72112-0430", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0718593019997, 
+                    34.4648415060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GARLAND COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:5013212159\" target=\"_blank\">Phone</a><br>PO BOX 21335 HOT SPRINGS AR 71903-1335", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5548180549997, 
+                    34.5095038160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ART CENTER OF GRAND PRAIRIE</h3><a href=\"tel:8706731781\" target=\"_blank\">Phone</a><br>PO BOX 65 STUTTGART AR 72160-0065", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2375396159997, 
+                    34.5858230010004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MENA AREA HISTORIC MUSEUM TRUST</h3>500 MENA ST MENA AR 71953", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0242624899997, 
+                    33.7007773830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHIDESTER MUSEUM AND HISTORIAL ASSOCIATION</h3>132 WILLOW STREET / PO BOX 351 CHIDESTER AR 71726-0351", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7050263169997, 
+                    35.8382492870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRAIGHEAD COUNTY VETERANS MONUMENT FOUNDATION</h3>511 S MAIN ST ROOM 103 JONESBORO AR 72401-2857", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7172577099997, 
+                    34.4669922830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORMAN HISTORIC PRESERVATION PROGRAM INC</h3>PO BOX 226 NORMAN AR 71960-0226", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2186995529997, 
+                    36.4061342580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD PATHS HISTORICAL LIBRARY INC</h3>3207 NW AVIGNON WAY BENTONVILLE AR 72712", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0686532689997, 
+                    34.4491438170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF ROCK</h3>200 LAKELAND DRIVE APT H-2 HOT SPRINGS AR 71913", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1161166579997, 
+                    36.0997334260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SONS CHAPEL RURAL BUILDERS ASSOCIATION INC</h3>2700 BROOKBURY CROSSING FAYETTEVILLE AR 72703-4386", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2565841719997, 
+                    34.7429200270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOSTELLING ARKANSAS</h3>400 SHALL ST LITTLE ROCK AR 72202-2730", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1175829559997, 
+                    36.3331236990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAISY AIRGUN MUSEUM</h3>202 W WALNUT ST ROGERS AR 72756", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.7427990089997, 
+                    35.1569617570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONWAY COUNTY GENEALOGICAL ASSOCIATION</h3>PO BOX 865 MORRILTON AR 72110-0865", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.6496063039997, 
+                    35.7713043040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ETHEL O MILLER HISTORICAL PRESERVATION ASSOCIATION</h3>PO BOX 2272 BATESVILLE AR 72503", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7360545769997, 
+                    35.8250285790004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RECTOR HIGH SCHOOL SPORTS HALL OF FAME INC</h3>1703 LOBERG LN JONESBORO AR 72401-4670", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.4176661469997, 
+                    35.2862063230004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE HARDWOOD TREE</h3><a href=\"tel:4797824220\" target=\"_blank\">Phone</a><br>1708 RANNOCH TRCE FORT SMITH AR 72908-0969", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.2842261019996, 
+                    33.3328133520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF CHICOT COUNTY ARKANSAS</h3><b><a href=\"http://www.chicotcountymuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8702652868\" target=\"_blank\">Phone</a><br>PO BOX 762 LAKE VILLAGE AR 71653", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2650656689997, 
+                    34.7433824200004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF MOSAIC TEMPLARS CULTURAL CENTER INC</h3>PO BOX 3195 LITTLE ROCK AR 72203-3195", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1311515519997, 
+                    36.1850428940004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC SPRINGDALE</h3>107 W EMMA AVENUE SPRINGDALE AR 72764-4364", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5338967279997, 
+                    36.3245137760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>99TH BOMBARDMENT GROUP HISTORICAL SOCIETY</h3><b><a href=\"http://99bombgroup.org\" target=\"_blank\">Website</a></b><br>20 FLATHEAD DRIVE CHEROKEE VILLAGE AR 72529", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.8939001999997, 
+                    35.0738381350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COVENANT FARM INC</h3>906 W LOUISIANA BEEBE AR 72012-2626", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0209459019997, 
+                    34.1853366220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SULPHUR SPRINGS HISTORIC PRESERVATION ASSOC</h3>8 SOUTHERN PINES DR PINE BLUFF AR 71603", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2580740839996, 
+                    34.9361479550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CATO HISTORIC CHURCH AND CEMETERY INCORPORATED</h3>149 CATO ROAD SHERWOOD AR 72120", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0878372449997, 
+                    35.1094621590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OZARK ARTS SCIENCES CONSERVATORY</h3><a href=\"tel:5018493321\" target=\"_blank\">Phone</a><br>PO BOX 83 EL PASO AR 72045-0083", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4201570549997, 
+                    35.1284074370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN ROSE SOCIETY</h3>3 TANAGER TRL CONWAY AR 72032-8838", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.4391763579997, 
+                    35.0897119820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAULKNER COUNTY MUSEUM FOUNDATION INC</h3>PO BOX 2442 CONWAY AR 72033-7203", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

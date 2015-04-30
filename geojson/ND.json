@@ -1,0 +1,2690 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.252426079, 
+                    46.2667780600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EMMONS COUNTY HISTORICAL SOCIETY</h3>PO BOX 862 LINTON ND 58552", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.950499365, 
+                    46.1944684780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARMARTH HISTORICAL SOCIETY INC</h3>BOX 93 MARMARTH ND 58643", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7897587419997, 
+                    46.8780395660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VETERANS MEMORIAL CENTER</h3>PO BOX 7 FARGO ND 58107-0007", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.3731080899997, 
+                    48.2934076070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WALSH COUNTY HISTORICAL MUSEUM</h3><a href=\"tel:7012483237\" target=\"_blank\">Phone</a><br>323 3RD ST MINTO ND 58261", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3450794169997, 
+                    47.8752067060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STUMP LAKE VILLAGE</h3><a href=\"tel:7012964599\" target=\"_blank\">Phone</a><br>10441 32ND ST NE LAKOTA ND 58344", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8453610819997, 
+                    46.8615522880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROGER MARIS MUSEUM</h3><b><a href=\"http://www.rogermarismuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7012822222\" target=\"_blank\">Phone</a><br>3902 13TH AVE S FARGO ND 58103", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.393410789, 
+                    46.1823881580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER TRAILS REGIONAL MUSEUM</h3><a href=\"tel:7015233600\" target=\"_blank\">Phone</a><br>12 FIRST AVE. NE BOWMAN ND 58623", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6011974199997, 
+                    46.2699669540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RICHLAND COUNTY HISTORICAL SOC</h3><b><a href=\"http://www.rootsweb.ancestry.com/~ndrichla/hissoc.htm\" target=\"_blank\">Website</a></b><br><a href=\"tel:7016423075\" target=\"_blank\">Phone</a><br>11 7TH AVE N WAHPETON ND 58075", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.393410789, 
+                    46.1823881580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER TRAILS MUSEUM</h3><b><a href=\"http://www.ptrm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7015233600\" target=\"_blank\">Phone</a><br>12 1ST AVE NE BOWMAN ND 58623", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.78299192, 
+                    47.2769900710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PFENNIG WILDLIFE MUSEUM</h3><a href=\"tel:7018734889\" target=\"_blank\">Phone</a><br>1313 HIGHWAY 49 N BEULAH ND 58523", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6054411589997, 
+                    46.2644795840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RODGER EHNSTROM NATURE CENTER</h3>120 4TH STREET WAHPETON ND 58075", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9297469029997, 
+                    46.4774282710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RANSOM COUNTY HISTORICAL SOCIETY MUSEUM</h3><a href=\"tel:7018450561\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2533889409997, 
+                    48.9732674820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEMBINA STATE MUSEUM</h3><b><a href=\"http://history.nd.gov/historicsites/pembina/index.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:7018256840\" target=\"_blank\">Phone</a><br>805 HIGHWAY 59 PEMBINA ND 58271", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.284580132, 
+                    47.8014795800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MC KENZIE COUNTY PIONEER</h3><a href=\"tel:7014442990\" target=\"_blank\">Phone</a><br>100 2ND ST SW WATFORD CITY ND 58854", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.030042646, 
+                    47.2894850030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MC LEAN COUNTY MUSEUM</h3><a href=\"tel:7014623660\" target=\"_blank\">Phone</a><br>602 MAIN ST WASHBURN ND 58577", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.8582698669996, 
+                    48.1158668850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>N D MARITIME MUSEUM</h3><b><a href=\"http://www.tristateveterans.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7016627031\" target=\"_blank\">Phone</a><br>503 8TH ST NE DEVILS LAKE ND 58301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.78683083, 
+                    46.8941863240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM SOUTHWEST ND JOACHIM REGIONAL</h3><a href=\"tel:7014566225\" target=\"_blank\">Phone</a><br>188 E MUSEUM DR DICKINSON ND 58601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.78265579, 
+                    46.8168079610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM DIVISION - SHSND</h3>NORTH DAKOTA HERITAGE CENTER BISMARCK ND 58505", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.202926863, 
+                    46.1455521540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LUDWIG AND CHRISTINA WELK HOMESTEAD</h3>845 88TH ST SE STRASBURG ND 58573", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.782991502, 
+                    46.8054122000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCLEAN COUNTY MUSEUM</h3><a href=\"tel:7014623660\" target=\"_blank\">Phone</a><br>602 E MAIN AVE BISMARCK ND 58501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.930126963, 
+                    48.3910164890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORSEMAN MUSEUM</h3><a href=\"tel:7016642702\" target=\"_blank\">Phone</a><br>17 E 2ND ST TIOGA ND 58852", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.782603303, 
+                    46.8167721740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA HERITAGE CENTER</h3><b><a href=\"http://www.nd.gov/hist\" target=\"_blank\">Website</a></b><br><a href=\"tel:7013282666\" target=\"_blank\">Phone</a><br>612 E BOULEVARD AVE BISMARCK ND 58505", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.641631053, 
+                    47.8450871710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEWIS AND CLARK TRAIL MUSEUM</h3><b><a href=\"http://www.alexandermuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7018283595\" target=\"_blank\">Phone</a><br>102 INDIANA AVE ALEXANDER ND 58831", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0289102159997, 
+                    47.8967380880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND FORKS COUNTY HSTRCL SCTY</h3><b><a href=\"http://www.grandforkshistory.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7017752216\" target=\"_blank\">Phone</a><br>2405 BELMONT RD GRAND FORKS ND 58201", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.4635582289997, 
+                    47.6392175670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HATTON-EIELSON MUSEUM</h3><a href=\"tel:7015433726\" target=\"_blank\">Phone</a><br>405 EIELSON ST HATTON ND 58240", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.815360983, 
+                    46.8250890550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GATEWAY TO SCIENCE</h3><b><a href=\"http://gatewaytoscience.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7012581975\" target=\"_blank\">Phone</a><br>1810 SCHAFER ST BISMARCK ND 58501", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9186367249997, 
+                    48.9150371870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GINGRAS HOUSE AND TRADING POST</h3>HISTORIC PL WALHALLA ND 58282", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.004998904, 
+                    47.9853663760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT BUFORD STATE HISTORIC SITE</h3><b><a href=\"http://history.nd.gov/historicsites/buford/index.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:7015729034\" target=\"_blank\">Phone</a><br>15349 39TH LN NW WILLISTON ND 58801", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7210500969997, 
+                    46.9137669840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SEWARD INTERPERTIVE CENTER</h3><b><a href=\"http://tourjamestown.com/what-to-see\" target=\"_blank\">Website</a></b><br><a href=\"tel:7012511875\" target=\"_blank\">Phone</a><br>602 10TH AVE NW JAMESTOWN ND 58401", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.6503885429997, 
+                    48.5449819330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWK DALE AND MARTHA MUSEUM</h3><b><a href=\"http://www.hawkmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7015832381\" target=\"_blank\">Phone</a><br>4839 78TH ST WOLFORD ND 58385", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.6267913, 
+                    48.1759549980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRONTIER MUSEUM</h3><a href=\"tel:7017749041\" target=\"_blank\">Phone</a><br>212 AIRPORT ROAD WILLISTON ND 58801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.300682233, 
+                    48.2450963680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CYRIL MOORE SCIENCE CENTER</h3><a href=\"tel:7018583076\" target=\"_blank\">Phone</a><br>500 UNIVERSITY AVENUE WEST MINOT ND 58707", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8865524429997, 
+                    46.8765600320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DINOSAURS AND MORE</h3><a href=\"tel:7012770809\" target=\"_blank\">Phone</a><br>705 MAIN AVE E WEST FARGO ND 58078", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.738846602, 
+                    46.7981368250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUCKSTOP JUNCTION</h3><b><a href=\"http://www.buckstopjunction.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7012508575\" target=\"_blank\">Phone</a><br>E BISMARCK EXPY BISMARCK ND 58501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.7067854169997, 
+                    48.3099378640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MIDWEST HISTORICAL PRESERVATION FOUNDATION</h3>119 CLEMENT ST PISEK ND 58273", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2091082449997, 
+                    46.9004858640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CASSELTON HERITAGE CENTER INC</h3><a href=\"tel:7013474797\" target=\"_blank\">Phone</a><br>PO BOX 802 CASSELTON ND 58012-0802", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.6982750859997, 
+                    46.8916647160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOUIS L AMOUR HERITAGE FOUNDATION INC</h3>1703 ELMWOOD PLACE JAMESTOWN ND 58401-5747", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.417919427, 
+                    47.6524759440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA FIREFIGHTERS MUSEUM</h3><b><a href=\"http://www.ndfm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7014632345\" target=\"_blank\">Phone</a><br>PO BOX 1000 GARRISON ND 58540-1000", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.39336743, 
+                    46.1820175000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PI0NEER TRAILS REGIONAL FOUNDATION</h3>PO BOX 78 BOWMAN ND 58623-0078", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0295901339996, 
+                    47.9239999920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>3D STREET GALLERY</h3><b><a href=\"http://www.thethirdstreetgallery.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7017573333\" target=\"_blank\">Phone</a><br>310 KITTSON AVE GRAND FORKS ND 62918", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9156191539997, 
+                    48.9225166710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GORGE ARTS AND HERITAGE COUNCIL</h3>PO BOX 917 WALHALLA ND 58282-0917", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.4140773059997, 
+                    48.4160176500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC ELMWOOD A NORTH DAKOTA NON-PROFIT CORPORATION</h3>PO BOX 263 GRAFTON ND 58237", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4352665689997, 
+                    47.1534459520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WIMBLEDON COMMUNITY MUSEUM</h3><a href=\"tel:7014352333\" target=\"_blank\">Phone</a><br>PO BOX 223 WIMBLEDON ND 58492", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.9944174549997, 
+                    48.3687587700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEOGRAPHICAL CENTER HISTORICAL SOCIETY</h3><b><a href=\"http://prairievillagemuseum.com\" target=\"_blank\">Website</a></b><br>PO BOX 232 RUGBY ND 58368-0232", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0627684639997, 
+                    47.8920899560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND FORKS COUNTY HISTORICAL SOCIETY</h3>PO BOX 5095 GRAND FORKS ND 58206-5095", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.35623529, 
+                    46.8039209540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW SALEM HISTORICAL SOCIETY</h3>4260 42ND STREET NEW SALEM ND 58563", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.782603303, 
+                    46.8167721740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STATE HISTORICAL SOCIETY OF NORTH DAKOTA FOUND</h3><b><a href=\"http://history.nd.gov/?\" target=\"_blank\">Website</a></b><br>612 EAST BOULEVARD AVE BISMARCK ND 58505", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.601205702, 
+                    46.0241399180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAKOTA BUTTES HISTORICAL SOCIETY</h3>PO BOX 1273 HETTINGER ND 58639", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.4635582289997, 
+                    47.6392175670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HATTON-EIELSON MUSEUM & HISTORICAL ASSOCIATION</h3><b><a href=\"http://www.eielson.org\" target=\"_blank\">Website</a></b><br>PO BOX 278 405 EIELSON STREET HATTON ND 58240", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.889027554, 
+                    46.0881462210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SITTING BULL COLLEGE LIBRARY</h3>1341 92ND STREET FORT YATES ND 58538", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.788806098, 
+                    46.8086498310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAKOTA ZOOLOGICAL SOCIETY INC</h3>PO BOX 711 BISMARCK ND 58502-0711", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.8552091859997, 
+                    48.1106567610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAKE REGION HERITAGE CENTER INC</h3><b><a href=\"http://www.lrhcmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7016623701\" target=\"_blank\">Phone</a><br>PO BOX 245 DEVILS LAKE ND 58301-0245", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0975631599997, 
+                    47.6022868220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUXTON IN BLOOM</h3>PO BOX 147 429 BROADWAY BUXTON ND 58218-0147", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8138510489997, 
+                    46.8021802060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA HEART GALLERY</h3>5201 BISHOPS BLVD S STE B FARGO ND 58104-7605", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8741410499997, 
+                    46.8686018940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DISCOVER MUSEUM</h3>843 HOMESTEAD CT WEST FARGO ND 58078", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.788806098, 
+                    46.8086498310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BISMARCK HISTORICAL SOCIETY</h3>PO BOX 1097 BISMARCK ND 58502-1097", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.894425444, 
+                    46.8257562530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MANDAN HERITAGE PLAZA FOUNDATION</h3>411 WEST MAIN STREET MANDAN ND 58554-3164", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0691990719997, 
+                    47.9222095330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA MUSEUM OF ART FOUNDATION</h3>PO BOX 7305 GRAND FORKS ND 58202-7305", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.236787075, 
+                    46.4661660170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FLASHER HISTORICAL SOCIETY</h3>PO 181 FLASHER ND 58535", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.2961077479997, 
+                    48.0933966470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MINNEWAUKAN HISTORICAL SOCIETY INC</h3>PO BOX 183 MINNEWAUKAN ND 58351", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.6223527229997, 
+                    47.6510889200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WELLS COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:7015473415\" target=\"_blank\">Phone</a><br>903 4TH ST NE FESSENDEN ND 58438", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.6220488659997, 
+                    47.9046557120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LARIMORE COMMUNITY MUSEUM AND HISTORICAL ASSOCIATION</h3>PO BOX 524 LARIMORE ND 58251-0524", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.1723472699996, 
+                    46.0782091660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LIDGERWOOD COMMUNITY MUSEUM INC</h3>PO BOX 36 LIDGERWOOD ND 58053", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.139608011, 
+                    47.4948591040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER HISTORICAL SOCIETY FOR SHERIDAN COUNTY</h3>PO BOX 23 GOODRICH ND 58444-5844", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.294829769, 
+                    48.2315695710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAKOTA TERRITORY AIR MUSEUM INC</h3>PO BOX 195 MINOT ND 58702-0195", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8760766179997, 
+                    46.2684874530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BAGG BONANZA FARM HISTORIC PRS</h3><a href=\"tel:7012748989\" target=\"_blank\">Phone</a><br>PO BOX 702 MOORETON ND 58061-0702", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.8096656729997, 
+                    48.8313784510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TURTLE MOUNTAIN INDIAN HISTORICAL SOCIETY</h3><b><a href=\"http://www.chippewaheritage.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7014772639\" target=\"_blank\">Phone</a><br>PO BOX 257 BELCOURT ND 58316", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.782303809, 
+                    46.8943703760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAKOTA DINOSAUR MUSEUM</h3><b><a href=\"http://Www.Dakotadino.Com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7012253466\" target=\"_blank\">Phone</a><br>200 E MUSEUM DR DICKINSON ND 58601-4000", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.294829769, 
+                    48.2315695710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EASTWOOD PARK HISTORIC DISTRICT NEIGHBORHOOD ASSOCIATION INC</h3>PO BOX 1351 MINOT ND 58702-5870", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.1194019939997, 
+                    47.4495695910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PUTNAM HOUSE</h3><b><a href=\"http://www.carringtonnd.com/website/atthep\" target=\"_blank\">Website</a></b><br><a href=\"tel:7016521213\" target=\"_blank\">Phone</a><br>533 MAIN ST CARRINGTON ND 58421-1660", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8539544849997, 
+                    46.8439787520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RED RIVER ZOOLOGICAL SOCIETY</h3>4255 23RD AVE S FARGO ND 58104-8786", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.6817579289997, 
+                    46.4425787830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LISBON OPERA HOUSE FOUNDATION</h3>PO BOX 922 LISBON ND 58054-0922", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7897587419997, 
+                    46.8780395660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLAINS ART MUSEUM</h3><a href=\"tel:7012930903\" target=\"_blank\">Phone</a><br>PO BOX 2338 FARGO ND 58108-2338", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.4488395719997, 
+                    48.6197784210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ST THOMAS PRESERVATION SOCIETY</h3>BOX 13 SAINT THOMAS ND 58276-0013", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7777502459997, 
+                    46.9090518490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GUDBRANDSDALSLAGET</h3>86 24TH AVE N FARGO ND 58102-2031", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.294829769, 
+                    48.2315695710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOURIS RIVER BOTANICAL CONSERVATORY</h3>", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.486447493, 
+                    47.9797069890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THREE AFFILIATED TRIBES MUSEUM INC</h3>PO BOX 147 NEWTOWN ND 58763-0147", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7101772519997, 
+                    46.9076768490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRONTIER VILLAGE ASSOCIATION</h3><a href=\"tel:7012526307\" target=\"_blank\">Phone</a><br>PO BOX 324 JAMESTOWN ND 58402-0324", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.6223182559997, 
+                    48.7928095700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEMBINA COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:7012654941\" target=\"_blank\">Phone</a><br>PO BOX 146 CAVALIER ND 58220-0146", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.9286294579996, 
+                    46.8767099950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CASS COUNTY NORTH DAKOTA HISTORICAL SOCIETY</h3>PO BOX 719 WEST FARGO ND 58078-1321", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.357668866, 
+                    48.2792560050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUFFALO TRAILS MUSEUM</h3><b><a href=\"http://buffalotrails.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7018594361\" target=\"_blank\">Phone</a><br>PO BOX 22 EPPING ND 58843-0022", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.293988468, 
+                    48.9238896920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DIVIDE COUNTY MUSEUM AND HISTORICAL SOCIETY INCORPORATED</h3><a href=\"tel:7019656705\" target=\"_blank\">Phone</a><br>PO BOX 130 CROSBY ND 58730-0130", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.0824077, 
+                    48.6965963810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAKE COUNTY HISTORICAL SOCIETY</h3>PO BOX 727 KENMARE ND 58746", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.614825858, 
+                    48.1660847330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER TRAILS HISTORICAL SOCIETY</h3>2310 UNIVERSITY AVENUE WILLISTON ND 58801", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5876062499997, 
+                    48.3981410620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WALSH COUNTY HISTORICAL SOCIETY</h3>14160 68TH ST NE GRAFTON ND 58237-9152", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.294829769, 
+                    48.2315695710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREATER MINOT ZOOLOGICAL SOCIETY</h3>PO BOX 538 MINOT ND 58702-0538", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.785157923, 
+                    46.8797688790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STARK COUNTY HISTORICAL SOCIETY</h3>PO BOX 146 DICKINSON ND 58602-0146", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0031768499997, 
+                    46.9254768580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BARNES COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:7018450966\" target=\"_blank\">Phone</a><br>315 CENTRAL AVE N VALLEY CITY ND 58072-2954", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7101772519997, 
+                    46.9076768490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JAMESTOWN FINE ARTS ASSOCIATION</h3><a href=\"tel:7012512496\" target=\"_blank\">Phone</a><br>PO BOX 363 JAMESTOWN ND 58402-0363", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.8818537089997, 
+                    46.5582575590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RANSOM COUNTY HISTORICAL SOCIETY</h3>12128 59 ST SE NOME ND 58062", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.282848478, 
+                    48.2114069960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WARD COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:7018390785\" target=\"_blank\">Phone</a><br>PO BOX 994 MINOT ND 58701", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.310739069, 
+                    48.2558259880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA ART GALLERY ASSOCIATION</h3>211THAVENW MINOT ND 58703", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.834446926, 
+                    46.8178290370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLEN ULLIN HISTORICAL SOCIETY</h3>PO BOX 209 GLEN ULLIN ND 58631", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.8454703749996, 
+                    48.1149150410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAKE REGION CHAPTER OF THE PIONEER DAUGHTERS OF NORTH DAKOTA</h3>715 13TH AVE NE 107 DEVILS LAKE ND 58301-9007", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.976039308, 
+                    46.9627089010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOLDEN VALLEY COUNTY HISTORICAL SOCIETY INC</h3><a href=\"tel:7018724123\" target=\"_blank\">Phone</a><br>PO BOX 384 BEACH ND 58621", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.781300277, 
+                    46.7496469040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MORTON COUNTY HISTORICAL SOCIETY</h3>6285 46TH ST GLEN ULLIN ND 58631-5863", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7101772519997, 
+                    46.9076768490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STUTSMAN COUNTY MEMORIAL MUSEUM</h3>PO BOX 2002 JAMESTOWN ND 58402-1002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2567794169997, 
+                    48.9623890570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT PEMBINA HISTORICAL SOCIETY</h3>PO BOX 324 PEMBINA ND 58271", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.986908825, 
+                    48.0745262880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLAZA CONGREGATIONAL CHURCH MUSEUM INC</h3>PO BOX 65 PLAZA ND 58771", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.2976472089996, 
+                    48.2095994740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FINNISH-AMERICAN HISTORICAL SOCIETY OF NORTH DAKOTA INC</h3>PO BOX 173 BROCKET ND 58321-5832", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.047358934, 
+                    46.8955720830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEBRON HISTORICAL AND ART SOCIETY</h3>425 S ELK ST HEBRON ND 58638-5863", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.788806098, 
+                    46.8086498310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAKOTA WEST ARTS COUNCIL</h3><a href=\"tel:7012226640\" target=\"_blank\">Phone</a><br>PO BOX 606 BISMARCK ND 58502-0606", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.523708902, 
+                    46.9147896220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BILLINGS COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 364 MEDORA ND 58645-0364", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.623523255, 
+                    47.3549358560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DUNN COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.dunncountymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7015484579\" target=\"_blank\">Phone</a><br>153 MUSEUM TRAIL DUNN CENTER ND 58626", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.6174044669997, 
+                    48.8643841070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROLETTE COUNTY HISTORICAL SOCIETY</h3>119 6TH AVE NE PO BOX 274 ROLLA ND 58367-5836", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.3581370469997, 
+                    46.0335859600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCINTOSH COUNTY HISTORICAL SOCIETY</h3>PO BOX 181 ASHLEY ND 58413", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.6336646069997, 
+                    46.1138407670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SARGENT COUNTY HISTORICAL SOCIETY</h3>8987 HWY 32 FORMAN ND 58032", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.387506907, 
+                    48.3126869090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FLICKERTAIL VILLAGE AND MUSEUM</h3><a href=\"tel:7016282802\" target=\"_blank\">Phone</a><br>PO BOX 385 STANLEY ND 58784", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.785890439, 
+                    46.8041887210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BISMARCK ART AND GALLERIES ASSOCIATION INC</h3><b><a href=\"http://www.bismarck-art.org\" target=\"_blank\">Website</a></b><br>422 E FRONT AVE BISMARCK ND 58504-5641", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.516718399, 
+                    47.6428195760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA FISHING HALL OF FAME AND MUSEUM</h3><a href=\"tel:7014637429\" target=\"_blank\">Phone</a><br>PO BOX 445 GARRISON ND 58540", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0627684639997, 
+                    47.4033072670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRAILL COUNTY NORTH DAKOTA HISTORICAL SOCIETY</h3>PO BOX 173 HILLSBORO ND 58045-0173", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.894298525, 
+                    46.8257742240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT ABRAHAM LINCOLN FOUNDATION</h3><a href=\"tel:7016639571\" target=\"_blank\">Phone</a><br>401 W MAIN ST MANDAN ND 58554-3164", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.387506907, 
+                    48.3126869090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOUNTRAIL COUNTY HISTORICAL</h3>PO BOX 582 STANLEY ND 58784", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.6376309019997, 
+                    46.6160018620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ENDERLIN HISTORICAL SOCIETY & MUSEUM INC</h3>13296 55TH ST SE ENDERLIN ND 58027-9765", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.7442977239997, 
+                    48.3982769930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH EAST NORTH DAKOTA PIONEER MACHINERY ASSOCIATION</h3>1343569TH ST NE PARK RIVERF ND 58270", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.535197365, 
+                    46.0816423990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRANT COUNTY NORTH DAKOTA HISTORICAL SOCIETY</h3>9260 56TH AVE SW CARSON ND 58529-9596", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.1226709109997, 
+                    47.4495252390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOSTER COUNTY HISTORICAL SOCIETY INC</h3>756 MAIN ST CARRINGTON ND 58421-2105", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.784523689, 
+                    46.7496342870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLEN ULLIN MUSEUM AND AUXILIARY</h3>6315 46TH ST GLEN ULLIN ND 58631", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0709438899997, 
+                    47.9218259350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA MUSEUM OF ART</h3><b><a href=\"http://www.ndmoa.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7017774195\" target=\"_blank\">Phone</a><br>261 CENTENNIAL DRIVE STOP 7305 GRAND FORKS ND 58202", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.39336743, 
+                    46.1820175000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOWMAN COUNTY HISTORICAL & GENEOLOGICAL SOCIETY</h3><a href=\"tel:7015233600\" target=\"_blank\">Phone</a><br>PO BOX 78 BOWMAN ND 58623-0078", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6069204869997, 
+                    46.2615280360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHAHINKAPA ZOO SUSTAINING FUND</h3>304 5TH ST S WAHPETON ND 58075", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7101772519997, 
+                    46.9076768490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SEWARD INC</h3>PO BOX 244 JAMESTOWN ND 58402-0244", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.89670784, 
+                    46.8265277390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA STATE RAILROAD MUSEUM</h3><b><a href=\"http://www.ndrailroading.com/rrmuseum/inde\" target=\"_blank\">Website</a></b><br>PO BOX 1001 MANDAN ND 58554", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.7352507839997, 
+                    48.7727816840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHEASTERN NORTH DAKOTA HERITAGE ASSOCIATION</h3>13571 HIGHWAY 5 CAVALIER ND 58220-9545", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.523708902, 
+                    46.9147896220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THEODORE ROOSEVELT MEDORA FOUNDATION</h3>PO BOX 198 MEDORA ND 58645-0198", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.1191758199997, 
+                    47.4434095770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRIGGS COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.cooperstownnd.com/index.php\" target=\"_blank\">Website</a></b><br>203 12TH ST SE COOPERSTOWN ND 58425", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9271985939997, 
+                    46.5202587890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT RANSOM SODBUSTERS ASSOCIATION</h3>PO BOX 56 FORT RANSOM ND 58033-0056", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4543563699997, 
+                    48.4110356730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EDMORE HISTORICAL SOCIETY</h3>PO BOX 8 EDMORE ND 58330-0008", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.4296087489997, 
+                    47.9335634780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MADDOCK COMMUNITY HISTORICAL SOCIETY</h3>5316 36TH ST NE MADDOCK ND 58348-9630", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0349199099997, 
+                    47.8977424670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDREN'S MUSEUM OF GREATER GRAND FORKS</h3>623 23RD AVE S GRAND FORKS ND 58201-7411", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.5692340599997, 
+                    48.5436474680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRAIRIE WINDS & PIONEER POWER ASSOC</h3>9647 78TH ST NE HAMPDEN ND 58338-9364", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7968808299997, 
+                    46.9120969660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS MUSEUM AT YUNKER FARM</h3>1201 28TH AVE N FARGO ND 58102-1337", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.9171821999997, 
+                    46.8795013730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KIDDER COUNTY HISTORICAL SOCIETY</h3>2571 37TH ST SE STEELE ND 58482", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7153305829997, 
+                    46.8919169960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA BUFFALO FOUNDATION INC</h3><b><a href=\"http://www.buffalomuseum.com\" target=\"_blank\">Website</a></b><br>500 17TH ST SE JAMESTOWN ND 58401-6456", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.788817008, 
+                    46.8086480410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSOURI VALLEY HISTORICAL SOCIETY</h3><b><a href=\"http://www.buckstopjunction.org\" target=\"_blank\">Website</a></b><br>PO BOX 941 BISMARCK ND 58502", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.624656411, 
+                    48.1463466360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JAMES MEMORIAL PRESERVATION SOCIETY LTD</h3>PO BOX 1714 WILLISTON ND 58802-1714", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.5265486339997, 
+                    46.0025991930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>O P E R A INC</h3>PO BOX 429 ELLENDALE ND 58436-0429", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.032455732, 
+                    48.0010468230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT UNION ASSOCIATION</h3>15550 HIGHWAY 1804 WILLISTON ND 58801-8680", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0627684639997, 
+                    47.8920899560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAKOTA SCIENCE CENTER INC</h3>PO BOX 5023 GRAND FORKS ND 58206-5023", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9143102049997, 
+                    48.0629818140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH AMERICAN WILDLIFE ENFORCEMENT MEMORIAL MUSEUM AND EDUC</h3>7928 45TH ST NE DEVILS LAKE ND 58301-8501", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3440497189997, 
+                    48.0414886200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NELSON COUNTY HISTORICAL SOCIETY</h3>PO BOX 442 LAKOTA ND 58344-0442", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.787710941, 
+                    46.8063706460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA COWB</h3><b><a href=\"http://www.northdakotacowboy.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7012501833\" target=\"_blank\">Phone</a><br>120 N 3RD ST STE 85 BISMARCK ND 58501-3860", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2390257239997, 
+                    46.4206781550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCLEOD HISTORICAL PRESERVATION SOCIETY</h3>209 3RD ST MCLEOD ND 58057", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.8681768459997, 
+                    48.1091690170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT TOTTEN STATE HISTORIC SITE FOUNDATION</h3>PO BOX 554 DEVILS LAKE ND 58301", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.815360983, 
+                    46.8250890550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GATEWAY TO SCIENCE CENTER INC</h3><b><a href=\"http://www.gscience.org\" target=\"_blank\">Website</a></b><br>1810 SCHAFER ST STE 1 BISMARCK ND 58501-1218", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.788806098, 
+                    46.8086498310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH DAKOTA GENEALOGICAL SOCIETY INC</h3><b><a href=\"http://bmhgs.com/\" target=\"_blank\">Website</a></b><br>BOX 485 BISMARCK ND 58502-0485", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.557197216, 
+                    46.4210970760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ENCHANTED HIGHWAY</h3>PO BOX 184 REGENT ND 58650-0184", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.277377241, 
+                    46.4848383050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAZELTON HISTORICAL SOCIETY</h3>PO BOX 201 HAZELTON ND 58544-0201", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8046360399997, 
+                    46.9048786650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FARGO AIR MUSEUM</h3><b><a href=\"http://www.fargoairmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7012938043\" target=\"_blank\">Phone</a><br>PO BOX 8190 FARGO ND 58102-1886", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7897587419997, 
+                    46.8780395660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHERN PLAINS BOTANIC GARDEN SOCIETY INC</h3>PO BOX 3031 FARGO ND 58108-3031", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.669509902, 
+                    47.8772691420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUMS IN NORTH DAKOTA</h3>PO BOX 343 ALEXANDER ND 58831-0343", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.294829769, 
+                    48.2315695710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MONTANA HISTORY RESEARCH INC</h3>PO BOX 2148 MINOT ND 58702-2148", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2021887679997, 
+                    48.5859160560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OX CART TRAILS HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.oxcarttrails.net\" target=\"_blank\">Website</a></b><br>PO BOX 213 DRAYTON ND 58225", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.9350697369997, 
+                    47.7658488430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MANFRED HISTORY AND PRESERVATION INC</h3>1000 JILL AVE APT 23 HARVEY ND 58341-1814", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.788806098, 
+                    46.8086498310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESERVATION NORTH DAKOTA</h3>PO BOX 3096 BISMARCK ND 58502-3096", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.785157923, 
+                    46.8797688790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STARK COUNTY VETERANS MEMORIAL ASSOCIATION</h3>PO BOX 929 DICKINSON ND 58602-0929", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.624658712, 
+                    48.1463579190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANCIENT FREE ACCEPTED MASONS OF ND YELLOWSTONE HISTORIC LODG</h3>PO BOX 212 WILLISTON ND 58802", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6131864129997, 
+                    46.2650592430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RICHLAND COUNTY HISTORICAL SOCIETY</h3>PO BOX 1292 WAHPETON ND 58074-1292", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.523708902, 
+                    46.9147896220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THEODORE ROOSEVELT NAT & HIST</h3><a href=\"tel:7016234884\" target=\"_blank\">Phone</a><br>PO BOX 167 MEDORA ND 58645-0167", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.7909978429997, 
+                    47.2323599420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STEELE COUNTY NORTH DAKOTA HISTORICAL SOCIETY</h3><b><a href=\"http://www.steelecomuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7019452394\" target=\"_blank\">Phone</a><br>P0 BOX 144 HOPE ND 58046", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.78683083, 
+                    46.8941863240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHWEST NORTH DAKOTA MUSEUM FOUNDATION INC</h3>188 MUSEUM DRIVE DICKINSON ND 58601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.5265486339997, 
+                    46.0025991930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELLENDALE HISTORICAL SOCIETY INC</h3>PO BOX 604 ELLENDALE ND 58436-0604", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.580979701, 
+                    46.2734997840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HETTINGER COUNTY NORTH DAKOTA HISTORICAL SOCIETY</h3>PO BOX 151 REGENT ND 58650", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.281466162, 
+                    47.8024090450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER MUSEUM OF MCKENZIE COUNTY INC</h3>PO BOX 126 WATFORD CITY ND 58854-0126", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.759008058, 
+                    48.7634777570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RENVILLE COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 5 MOHALL ND 58761", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.7607278759997, 
+                    46.5020687980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOGAN COUNTY HISTORICAL SOCIETY</h3>208 E 5TH ST NAPOLEON ND 58561", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0950873979997, 
+                    46.1301189470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DICKEY COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:7017834361\" target=\"_blank\">Phone</a><br>5TH ST &AMP; MAIN AVE OAKES ND 58474", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6131864129997, 
+                    46.2650592430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHAHINKAPA ZOO ASSOCIATION</h3><a href=\"tel:7016428709\" target=\"_blank\">Phone</a><br>PO BOX 1325 WAHPETON ND 58074-1325", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.432897569, 
+                    46.9137189630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TAYLOR COMMUNITY MUSEUM AND HERITAGE CENTER INC</h3>PO BOX 122 TAYLOR ND 58656", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.045268682, 
+                    46.9007465650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE OLD RED TRAIL COMMITTEE</h3>PO BOX 410 HEBRON ND 58638-0201", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.7630882379997, 
+                    46.5021978830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COUNTY OF LOGAN</h3><a href=\"tel:7017542640\" target=\"_blank\">Phone</a><br>208 5TH ST E NAPOLEON ND 58561-7217", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0291909209997, 
+                    47.9221957870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND FORKS MASONIC CENTER PRESERVATION ASSOCIATION</h3>423 BRUCE AVENUE GRAND FORKS ND 58201-4652", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.89670784, 
+                    46.8265277390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MANDAN HISTORICAL SOCIETY</h3>PO BOX 1001 MANDAN ND 58554", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.8107089989997, 
+                    46.6776870240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NOME COMMUNITY HISTORICAL ASSOC INC</h3>PO BOX 5 NOME ND 58062-0005", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.613936449, 
+                    46.6860717230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALMONT HISTORICAL SOCIETY</h3>5475 COUNTY ROAD 137 ALMONT ND 58520", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.363032272, 
+                    47.1090937570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLIVER COUNTY HISTORICAL SOCIETY</h3>2116 41ST AVE SW CENTER ND 58530-9767", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.444468767, 
+                    48.8270482130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TOUCHSTONES INC</h3>PO BOX 272 BOTTINEAU ND 58318-0272", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.563258498, 
+                    48.8773373040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TONSET LUTHERAN CHURCH HISTORICAL SOCIETY</h3>PO BOX 184 LIGNITE ND 58752-0184", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2836897399997, 
+                    48.6874570170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOWESMONT HERITAGE PRESERVATION INC</h3>15563 88TH ST NE DRAYTON ND 58225-9415", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

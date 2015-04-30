@@ -1,0 +1,3005 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.20799584, 
+                    36.1511620650004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA MUSEUM OF FINE ART</h3>PO BOX 27287 LAS VEGAS NV 89126", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.648936918, 
+                    39.3123886910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAY IT WAS MUSEUM</h3><b><a href=\"https://www.facebook.com/pages/The-Way-It-Was-Museum/215786111772127\" target=\"_blank\">Website</a></b><br><a href=\"tel:7758470766\" target=\"_blank\">Phone</a><br>113 N C ST VIRGINIA CITY NV 89440", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.759309016, 
+                    39.1175835710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHOE ARCHIVE AND CULTURAL RESOURCE CENTER</h3><a href=\"tel:7758880936\" target=\"_blank\">Phone</a><br>861 CRESCENT DR CARSON CITY NV 89701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.989429794, 
+                    39.5180874680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VERDI HISTORY PRESERVATION</h3><b><a href=\"http://www.verdihistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7753450173\" target=\"_blank\">Phone</a><br>740 2ND ST VERDI NV 89439", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.068589459, 
+                    36.8040753670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VIRGIN VALLEY HERITAGE MUSEUM</h3><a href=\"tel:7023465705\" target=\"_blank\">Phone</a><br>31 W MESQUITE BLVD MESQUITE NV 89027", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.821320091, 
+                    39.5444593010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILBUR D MAY MUSEUM</h3><b><a href=\"http://www.maycenter.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7757855961\" target=\"_blank\">Phone</a><br>1595 N SIERRA ST RENO NV 89503", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.756593508, 
+                    39.1179748880004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STEWART INDIAN SCHOOL MUSEUM</h3>5366 SNYDER AVENUE CARSON CITY NV 89701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.817595655, 
+                    39.5224674150004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SATRE GRAY MANSION</h3><a href=\"tel:7753235252\" target=\"_blank\">Phone</a><br>457 COURT ST RENO NV 89501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.141238411, 
+                    36.1695186160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN NEVADA MUSEUM OF FINE ART</h3><b><a href=\"http://www.snmfa.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7023822926\" target=\"_blank\">Phone</a><br>450 FREMONT ST LAS VEGAS NV 89101", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.140890548, 
+                    36.1442376150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN NEVADA MUSEUM-FINE</h3><a href=\"tel:7022402777\" target=\"_blank\">Phone</a><br>1000 E SAHARA AVE LAS VEGAS NV 89104", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.812833145, 
+                    39.5215033050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PROPARK MUSEUM TOWER</h3><a href=\"tel:7753222223\" target=\"_blank\">Phone</a><br>100 W LIBERTY ST RENO NV 89501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.007549081, 
+                    36.2196335750004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PAHRUMP VALLEY MUSEUM</h3><b><a href=\"http://www.robertwynn.com/PahrumpMuseum.htm\" target=\"_blank\">Website</a></b><br><a href=\"tel:7757511970\" target=\"_blank\">Phone</a><br>401 E BASIN AVE PAHRUMP NV 89060", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.134526781, 
+                    36.1799401180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD LAS VEGAS MORMON FORT</h3><a href=\"tel:7024863511\" target=\"_blank\">Phone</a><br>908 LAS VEGAS BLVD N LAS VEGAS NV 89101", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.109832962, 
+                    36.1347303600004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OUT OF THIS WORLD MUSEUM</h3><a href=\"tel:7024571377\" target=\"_blank\">Phone</a><br>3019 MCLEOD DR LAS VEGAS NV 89121", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.173079405, 
+                    36.0920426380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MEMORABILIA MUSEUM</h3><a href=\"tel:7027396668\" target=\"_blank\">Phone</a><br>3950 LAS VEGAS BLVD S LAS VEGAS NV 89119", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.974140251, 
+                    39.6840374610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NCO RAILROAD PURDYS MUSEUM</h3><a href=\"tel:7759726530\" target=\"_blank\">Phone</a><br>17890 FANTAIL CIR RENO NV 89508", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.171429781, 
+                    36.1219856830004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MADAME TUSSAUDS LAS VEGAS</h3><b><a href=\"http://www.mtvegas.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7028627800\" target=\"_blank\">Phone</a><br>3377 LAS VEGAS BLVD S LAS VEGAS NV 89109", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.137946107, 
+                    36.1077163470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARJORIE BARRICK MUSEUM</h3><b><a href=\"http://barrickmuseum.unlv.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:7028953381\" target=\"_blank\">Phone</a><br>4505 S MARYLAND PKWY LAS VEGAS NV 89154", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.855009415, 
+                    35.9696659670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA STATE RAILROAD MUSEUM</h3><b><a href=\"http://museums.nevadaculture.org//index.php?option=com_content&task=view&id=409&Itemid=124\" target=\"_blank\">Website</a></b><br><a href=\"tel:7024865933\" target=\"_blank\">Phone</a><br>600 YUCCA ST BOULDER CITY NV 89005", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.807886914, 
+                    39.4889911500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA 36 COMPANIES</h3><a href=\"tel:7758283536\" target=\"_blank\">Phone</a><br>3732 LAKESIDE DR RENO NV 89509", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.868887789, 
+                    39.2592415470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA NORTHERN RAILWAY MUSEUM</h3><b><a href=\"http://www.nevadamuseums.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7752892085\" target=\"_blank\">Phone</a><br>1100 AVENUE A ELY NV 89301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.778637476, 
+                    39.1706628070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA STATE MUSEUM</h3><a href=\"tel:7028854810\" target=\"_blank\">Phone</a><br>CAPITOL COMPLEX CARSON CITY NV 89703", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.103799556, 
+                    36.0863608070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAX'S DIECAST CAR MUSEUM</h3><a href=\"tel:7022024688\" target=\"_blank\">Phone</a><br>3315 E RUSSELL RD LAS VEGAS NV 89120", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.767104316, 
+                    39.1500421940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUMS AND HISTORY DIVISION OF, RAILROAD MUSEUM NV STATE</h3><b><a href=\"http://www.NevadaCulture.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7756876953\" target=\"_blank\">Phone</a><br>2180 S CARSON ST CARSON CITY NV 89701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.649747054, 
+                    39.3101489720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARK TWAIN MUSEUM</h3><a href=\"tel:7758470525\" target=\"_blank\">Phone</a><br>47 S C ST VIRGINIA CITY NV 89440", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.429249194, 
+                    37.9510501790004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN COUNTY HISTORICAL MUSEUM</h3><a href=\"tel:7029625296\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.173147688, 
+                    36.1095852600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEFF MITCHUM GALLERY AT BELLAGIO</h3><b><a href=\"http://www.jeffmitchum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8007633074\" target=\"_blank\">Phone</a><br>3680 LAS VEGAS BLVD S LAS VEGAS NV 89109", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.448272977, 
+                    37.9383312170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN COUNTY MUSEUM</h3><a href=\"tel:7759625207\" target=\"_blank\">Phone</a><br>69 MAIN ST PIOCHE NV 89043", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.441182835, 
+                    36.5312671280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOST CITY MUSEUM</h3><a href=\"tel:7023972193\" target=\"_blank\">Phone</a><br>721 S. MOAPA VALLEY BLVD OVERTON NV 89040", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.820743684, 
+                    39.5468948840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FLEISCHMANN PLANETARIUM</h3><b><a href=\"http://www.planetarium.unr.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:7757844812\" target=\"_blank\">Phone</a><br>1650 N VIRGINIA ST RENO NV 89503", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.161314663, 
+                    36.1379258490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GUINNESS WORLD OF RECORDS MUSEUM</h3><b><a href=\"http://www.guinnessmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7027923766\" target=\"_blank\">Phone</a><br>2780 LAS VEGAS BLVD S LAS VEGAS NV 89109", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.171413719, 
+                    36.1220094980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GUGGENHEIM LAS VEGAS</h3><a href=\"tel:7024142440\" target=\"_blank\">Phone</a><br>3355 LAS VEGAS BLVD S LAS VEGAS NV 89109", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.650316428, 
+                    39.3088513620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOURTH WARD SCHOOL</h3><a href=\"tel:7758470975\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.652580162, 
+                    39.3032557080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOURTH WARD SCHOOL MUSEUM</h3><b><a href=\"http://fourthwardschool.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7758470975\" target=\"_blank\">Phone</a><br>537 S C ST VIRGINIA CITY NV 89440", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.221056031, 
+                    38.0602451170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL NEVADA MUSEUM</h3><b><a href=\"http://www.tonopahnevada.com/CentralNevadaMuseum.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:7754829676\" target=\"_blank\">Phone</a><br>1900 LOGAN FIELD RD TONOPAH NV 89049", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.961621231, 
+                    39.5124484940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EUREKA SENTINEL MUSEUM</h3><a href=\"tel:7752375010\" target=\"_blank\">Phone</a><br>10 N MONROE ST EUREKA NV 89316", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.650050172, 
+                    39.3093014410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COMSTOCK FIREMEN'S MUSEUM</h3><a href=\"tel:7758470717\" target=\"_blank\">Phone</a><br>117 S C ST VIRGINIA CITY NV 89440", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.17411679, 
+                    36.1299974600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EROTIC HERITAGE MUSEUM</h3><b><a href=\"http://www.eroticheritagemuseumlasvegas.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7023696442\" target=\"_blank\">Phone</a><br>3275 INDUSTRIAL RD LAS VEGAS NV 89109", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.650176995, 
+                    39.3089681160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COMSTOCK WILD HORSE AND MINING</h3><a href=\"tel:7758479453\" target=\"_blank\">Phone</a><br>131 S C ST VIRGINIA CITY NV 89440", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.159869528, 
+                    36.1322928450004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DEBBIE REYNOLDS HOLLYWOOD</h3><a href=\"tel:7027332243\" target=\"_blank\">Phone</a><br>305 CONVENTION CENTER DR LAS VEGAS NV 89109", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.77723517, 
+                    39.4649809120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHURCHILL COUNTY MUSEUM</h3><a href=\"tel:7024233677\" target=\"_blank\">Phone</a><br>1050 S. MAINE ST FALLON NV 89406", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.700578359, 
+                    39.1875945620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>C AND A INVESTMENTS</h3><a href=\"tel:7758841866\" target=\"_blank\">Phone</a><br>5819 SHEEP DR CARSON CITY NV 89701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.147159834, 
+                    36.1146217760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ATOMIC TESTING MUSEUM</h3><b><a href=\"http://www.atomictestingmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7027945161\" target=\"_blank\">Phone</a><br>755 E FLAMINGO RD LAS VEGAS NV 89119", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.752008263, 
+                    38.9435056270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARSON VALLEY MUSEUM & CULTURAL CENTER</h3><a href=\"tel:7027822555\" target=\"_blank\">Phone</a><br>1477 HIGHWAY 395 GARDNERVILLE NV 89410", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.821375106, 
+                    39.5226971900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA ROCK ART FOUNDATION</h3><b><a href=\"http://www.nvrockart.org/\" target=\"_blank\">Website</a></b><br><a href=\"tel:7753236723\" target=\"_blank\">Phone</a><br>641 JONES ST RENO NV 89503", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.762436529, 
+                    39.4266508090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SILVER STATE NATIONAL PEACE OFFICERS MUSEUM</h3>PO BOX 17051 RENO NV 89511-2827", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.149266384, 
+                    40.6608017900004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAFE HAVEN RESCUE ZOO</h3>PO BOX 184 IMLAY NV 89418-0184", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.068129356, 
+                    36.8039478190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VIRGIN VALLEY ARTISTS ASSOCIATION</h3><a href=\"tel:7023461338\" target=\"_blank\">Phone</a><br>15 W MESQUITE BLVD MESQUITE NV 89027-4754", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.869399972, 
+                    39.2440432670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE ZOO INC</h3>PO BOX 151896 ELY NV 89315-1212", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.812610923, 
+                    39.5090503140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COMSTOCK CIVIL WAR REENACTORS</h3>1575 PLUMAS STREET RENO NV 89509-3318", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.761128683, 
+                    39.1572300600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAPITAL CITY ARTS INITIATIVE</h3><a href=\"tel:7752673295\" target=\"_blank\">Phone</a><br>PO BOX 1333 CARSON CITY NV 89702-1333", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.766965756, 
+                    39.1598448130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF BUS TRNSP INC</h3>711 S CARSON ST STE 4 CARSON CITY NV 89701-5292", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.090329289, 
+                    36.1500234570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN HERITAGE & EDUCATION INC</h3>3887 ST MARK COURT LAS VEGAS NV 89104-5047", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.295103043, 
+                    36.1534854850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GATEWAY GALLERY-A PUBLIC ARTCOLLECTION</h3>9113 LAZY HILL CIR LAS VEGAS NV 89117-7035", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.797685458, 
+                    39.4767084150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF NEVADA MANSION</h3>6502 SOUTH MCCARRAN BLVD STE D RENO NV 89509-6139", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.792526133, 
+                    39.4840865160004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHOE LANDMARK PRESERVATION</h3>4598 S VIRGINIA ST RENO NV 89502-6013", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.767004785, 
+                    39.1677604400004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE NEVADA STATE MUSEUM</h3><b><a href=\"http://www.NevadaCulture.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7756874810\" target=\"_blank\">Phone</a><br>600 N CARSON STREET CARSON CITY NV 89701-4004", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.376717368, 
+                    38.7560904740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA MUSEUM OF MILITARY HISTORY</h3>PO BOX 186 WELLINGTON NV 89444-0186", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.169323485, 
+                    36.2015594850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA AFRICAN AMERICAN GENEALOGY SOCIETY-NAAGS</h3>2315 TESSA COURT NORTH LAS VEGAS NV 89032-4856", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.136808983, 
+                    36.1415921150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS VEGAS PINBALL COLLECTORS CLUB</h3>2620 S MARYLAND STE 241 LAS VEGAS NV 89109-8300", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.752836878, 
+                    39.4295327180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOUNDATION FOR NEVADAS WILDLIFE</h3>10591 DOUBLE R BLVD BUILDING 39 RENO NV 89521-8909", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.141316098, 
+                    36.1724862040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>300 STEWART AVENUE CORPORATION</h3><b><a href=\"http://themobmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7022292734\" target=\"_blank\">Phone</a><br>300 STEWART AVE LAS VEGAS NV 89101-2956", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.963249643, 
+                    39.2470934610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TAHOE FOUNDATION</h3>POST OFFICE BOX 3600 INCLINE VILLAGE NV 89450-3600", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.971076084, 
+                    36.2035432020004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NYE GOLD SEEKERS</h3>PO 4264 PAHRUMP NV 89041-4264", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.764879954, 
+                    39.5352128460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPARKS FIRE DEPARTMENT HISTORICAL FOUNDATION</h3>1605 VICTORIAN AVE SPARKS NV 89431", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.747937246, 
+                    39.5405203640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KILEY RANCH PRESERVANCY FOUNDATION</h3>PO BOX 305 SPARKS NV 89432-0305", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.755266102, 
+                    39.5630014630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EDDIE MEYER MUSEUM</h3>5655 HIGH ROCK WAY SPARKS NV 89431-1012", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.950288612, 
+                    39.2496185370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INCLINE VILLAGE AND CRYSTAL BAY HISTORICAL SOCIETY</h3>930 TAHOE BLVD 802-393 INCLINE VILLAGE NV 89451-9451", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.310636933, 
+                    38.7912004420004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITH VALLEY HISTORICAL SOCIETY</h3>PO BOX 271 SMITH NV 89430", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.650218076, 
+                    39.3091227590004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COMSTOCK VISIONS INC</h3>PO BOX 99 VIRGINIA CITY NV 89440-0099", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.580018269, 
+                    36.6642441210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROOS-N-MOOR</h3>746 SNOWDEN RANCH ROAD MOAPA NV 89025-0727", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.102410267, 
+                    36.1228981090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA AEROSPACE HALL OF FAME INC</h3>3334 SOUTHRIDGE AVE LAS VEGAS NV 89121-3742", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.257372492, 
+                    36.0957360440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS VEGAS GOLF HALL OF FAME</h3>7614 SPANISH BAY DR LAS VEGAS NV 89113-1310", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.982184772, 
+                    36.0318478420004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HENDERSON SPACE AND SCIENCE CENTER</h3>200 S WATER ST HENDERSON NV 89015-7227", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.122033565, 
+                    36.2544611380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BATTLE WOLF GUILD</h3>5205 MADISON STONE ST N LAS VEGAS NV 89081-2415", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.221216021, 
+                    36.0935401490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CULTURAL AND HISTORICAL HERITAGE FUND FORT ROSS</h3><b><a href=\"http://www.fundfortross.org\" target=\"_blank\">Website</a></b><br>5272 TROPICAL PEACH DR LAS VEGAS NV 89118", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.76808852, 
+                    39.1665381290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIREROCK FOUNDATION</h3>204 W SPEAR ST STE S-216 CARSON CITY NV 89703-4160", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.397079703, 
+                    36.0488110540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BONNIE SPRINGS ZOO</h3>16395 BLUE DIAMOND RD BLUE DIAMOND NV 89004", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.280235901, 
+                    36.0144203970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILD ADVENTURES ZOO INC</h3>PO BOX 401532 LAS VEGAS NV 89178", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.761128683, 
+                    39.1572300600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BATTLE BORN CIVIL WAR REENACTORS</h3>PO BOX 1865 CARSON CITY NV 89702-1865", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.204309696, 
+                    36.1446202950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LIGHTNING BUCK OLD WEST COWBOY HERITAGE FOUNDATION INC</h3>4616 W SAHARA AVE 285 LAS VEGAS NV 89102-3654", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.985795876, 
+                    39.5052432660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VERDI HISTORY PRESERVATION SOCIETY INC</h3><a href=\"tel:7753450173\" target=\"_blank\">Phone</a><br>PO BOX 663 VERDI NV 89439-0663", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.793942623, 
+                    39.5263775580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA MUSEUM OF SCIENCE INDUSTRY & TECHNOLOGY</h3>75 PRINGLE WAY RENO NV 89502", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.48402841, 
+                    36.5980218940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD LOGANDALE SCHOOL HISTORICAL AND CULTURAL SOCIETY</h3>PO BOX 65 LOGANDALE NV 89021-0065", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.101226865, 
+                    36.1184609060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KINGDOM OF ARAGON</h3>3910 PECOS MCLEOD CONNECT SUITE B10 LAS VEGAS NV 89121", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.141366893, 
+                    36.1679923670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BURLESQUE HALL OF FAME INC</h3>PO BOX 580 LAS VEGAS NV 89125-0580", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.18356557, 
+                    36.0467704630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAFARI LEARNING CENTER INC</h3>7850 S DEAN MARTIN DR LAS VEGAS NV 89139-6604", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.444827771, 
+                    36.5449128940004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OWSLEY COUNTY HISTORY AND GENEAOLOGY SOCIETY INC</h3>PO BOX 249 OVERTON NV 89040-0249", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.561378511, 
+                    39.2711236800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY OF DAYTON VALLEY</h3>PO BOX 485 DAYTON NV 89403", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.622667754, 
+                    38.5260919600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWTHORNE ORDNANCE MUSEUM</h3><a href=\"tel:7759455400\" target=\"_blank\">Phone</a><br>PO BOX 2008 HAWTHORNE NV 89415-2008", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.079867302, 
+                    40.7379627760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PILOT PEAK WILDLIFE PARK & HISTORICAL GROUP INC</h3>PO BOX 3333 WENDOVER NV 89883", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.105006174, 
+                    36.1555331410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CASS COUNTY HISTORICAL SOCIETY BAPTIST CHURCH</h3>PO BOX 42666 LAS VEGAS NV 89116", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.029368914, 
+                    36.1922583170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCKIN MUSIC ZOO</h3><b><a href=\"http://www.RockinMusicZoo.org\" target=\"_blank\">Website</a></b><br>6552 KELL LANE LAS VEGAS NV 89156", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.269647474, 
+                    38.2963237310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE BELMONT COURTHOUSE</h3>PO BOX 705 TONOPAH NV 89049-0705", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.218596681, 
+                    39.5951611550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE HISTORIC TRUCKEE CANAL</h3><b><a href=\"http://friendsofthetruckeecanal.org\" target=\"_blank\">Website</a></b><br>PO BOX 2492 FERNLEY NV 89408", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.231955062, 
+                    36.1765980540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EXHIBIT 4 SMILES INC</h3>6348 LAWTON AVE LAS VEGAS NV 89107", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.98334868, 
+                    36.0330724870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HENDERSON NEVADA HISTORICAL SOCIETY INC</h3>121 S WATER STREET LAS VEGAS NV 89015", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.914002045, 
+                    36.1242530730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TONOPAH TIDEWATER HISTORICAL SOCIETY INC</h3>5491 BRIDGER ST PAHRUMP NV 89061-7736", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.713174555, 
+                    39.5727657350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RENO AVIATION MUSEUM</h3>1515 CANTINIA DR SPARKS NV 89436-5321", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.757661698, 
+                    39.0011405680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPORTS AVIATION FOUNDATION</h3>1146 AIRPORT ROAD MINDEN NV 89423-8611", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.766906663, 
+                    38.9997480420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLENBROOK HISTORICAL SOCIETY INC</h3>2248 MERIDIAN BLVD STE H MINDEN NV 89423-8620", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.722268451, 
+                    39.4971328940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA AVIATION MUSEUM</h3>6990 PEBBLE BEACH DR RENO NV 89502", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.787864606, 
+                    39.4797102290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA WOMENS HISTORY PROJECT</h3><b><a href=\"http://www.nevadawomensfund.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7757862335\" target=\"_blank\">Phone</a><br>770 SMITHRIDGE DR RENO NV 89502-0708", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.123106193, 
+                    39.0121242610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREAT BASIN HERITAGE AREA PTR</h3><a href=\"tel:7752347324\" target=\"_blank\">Phone</a><br>PO BOX 140 BAKER NV 89311-0140", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.809497847, 
+                    39.5252034010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OFF-ROAD MOTORSPORTS HALL OF FAME</h3><b><a href=\"http://www.Automuseum.org\" target=\"_blank\">Website</a></b><br>10 S LAKE ST RENO NV 89501-1558", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.744109297, 
+                    39.4865423630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOYER FAMILY REUNION GROUP INC</h3>4588 PARK OSE CIRCLE RENO NV 89502-7750", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.7338578, 
+                    40.9633705840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH CENTRAL NEVADA HISTORICAL SOCIETY</h3>PO BOX 819 WINNEMUCCA NV 89446-0819", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.769910142, 
+                    39.1638826830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BREWERY ARTS CENTER</h3><b><a href=\"http://www.breweryarts.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7758831976\" target=\"_blank\">Phone</a><br>449 W KING ST CARSON CITY NV 89703-4205", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.844760088, 
+                    39.6003541870004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RENO FIRE ANTIQUE AND CLASSIC APPARATUS</h3>7885 N VIRGINIA ST RENO NV 89506-7715", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.809599706, 
+                    39.5217354500004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA DISCOVERY MUSEUM</h3><b><a href=\"http://www.nvdm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7757861000\" target=\"_blank\">Phone</a><br>490 S CENTER ST RENO NV 89501-2105", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.700509932, 
+                    38.9158803750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>U S HISTORICAL PRINTING & ART SOCIETY</h3>PO BOX 1645 GARDNERVILLE NV 89410", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.157369523, 
+                    38.6987734850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUNNYSIDE HISTORICAL SOCIETY</h3>HC 60 BOX 53 G-01 ROUND MOUNTAIN NV 89045", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.068989422, 
+                    39.4906831530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ST AUGUSTINES CULTURAL CENTER LLC</h3>PO BOX 503 AUSTIN NV 89310-0503", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.186549537, 
+                    36.2518732030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>USS UNITED STATES FOUNDATION</h3>3415 OCATILLO MESA WAY N LAS VEGAS NV 89031-0385", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.971076084, 
+                    36.2035432020004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PAHRUMP GUNFIGHTER</h3>PO BOX 2952 PAHRUMP NV 89041-2952", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.761128683, 
+                    39.1572300600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VIRGINIA & TRUCKEE RAILROAD HISTORICAL SOCIETY INC</h3>PO BOX 143 CARSON CITY NV 89702-0143", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.971076084, 
+                    36.2035432020004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA WESTERN HERITAGE FOUNDATION</h3>PO BOX 5741 PAHRUMP NV 89041-5741", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.885863572, 
+                    39.6587207890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RENO AIR RACING FOUNDATION</h3><b><a href=\"http://www.airrace.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7759726663\" target=\"_blank\">Phone</a><br>14501 MOUNT ANDERSON ST RENO NV 89506-1244", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.767004785, 
+                    39.1656107360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHINESE WORKERS MUSEUM</h3><a href=\"tel:7758826455\" target=\"_blank\">Phone</a><br>318 N CARSON ST STE 208 CARSON CITY NV 89701-4269", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.769436333, 
+                    38.9563604620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARSON VALLEY ARTS COUNCIL</h3>PO BOX 244 MINDEN NV 89423-0244", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.777399658, 
+                    39.5132577410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPORTSMENS HERITAGE MUSEUM</h3>1190 TERMINAL WAY RENO NV 89502", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.08224875, 
+                    36.0700124970004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN NEVADA SPORTS HALL OF FAME FOUNDATION INC</h3>PO BOX 50495 HENDERSON NV 89016-0495", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.783549997, 
+                    40.8351712010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN FOLKLIFE CENTER</h3><a href=\"tel:7757387508\" target=\"_blank\">Phone</a><br>PO BOX 1570 ELKO NV 89803-1570", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.105388556, 
+                    36.1311753000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS VEGAS BLACK HISTORICAL SOCIETY INC</h3>3201 S MOJAVE ROAD UNIT 102 LAS VEGAS NV 89121", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.77723517, 
+                    39.4649809120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHURCHILL COUNTY MUSEUM ASSO</h3><b><a href=\"http://ccmuseum.org\" target=\"_blank\">Website</a></b><br>1050 S MAINE ST FALLON NV 89406-8815", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.225185314, 
+                    36.1335823210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS VEGAS ART MUSEUM</h3><a href=\"tel:7023608000\" target=\"_blank\">Phone</a><br>3065 S JONES BLVD STE 100 LAS VEGAS NV 89146-6780", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.815711621, 
+                    39.5227644200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SIERRA ARTS FOUNDATION</h3><a href=\"tel:7753291324\" target=\"_blank\">Phone</a><br>200 FLINT ST RENO NV 89501-2000", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.947699137, 
+                    36.0092729620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLARK COUNTY MUSEUM GUILD</h3><b><a href=\"http://www.clarkcountynv.gov\" target=\"_blank\">Website</a></b><br><a href=\"tel:7024557968\" target=\"_blank\">Phone</a><br>1830 S BOULDER HWY HENDERSON NV 89002-8502", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.752279021, 
+                    39.4853385440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA WESTERNERS CORRAL NEVADA HISTORICAL SOCIETY</h3>4305 PRIMAVERA AVENUE RENO NV 89502", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.836597967, 
+                    35.9780827210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOULDER CITY MUSEUM & HISTORICAL ASSOCIATION</h3>1305 ARIZONA ST BOULDER CITY NV 89005-2613", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.210353801, 
+                    36.1627108510004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF CHARLESTON HEI</h3><a href=\"tel:7022296383\" target=\"_blank\">Phone</a><br>800 BRUSH ST LAS VEGAS NV 89107-4005", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.242176992, 
+                    37.7072018310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE GOLDFIELD HISTORICAL SOCIETY</h3>PO BOX 393 GOLDFIELD NV 89013-0393", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.187953382, 
+                    36.1790298910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA STATE MUSEUM AND HISTORICAL SOCIETY</h3><b><a href=\"http://www.nevadaculture.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7024865205\" target=\"_blank\">Phone</a><br>700 TWIN LAKES DR LAS VEGAS NV 89107-2104", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.869399972, 
+                    39.2440432670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITE PINE HISTORICAL RAILROAD FOUNDATON INC</h3>PO BOX 150040 ELY NV 89315-0040", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.835378903, 
+                    39.5285304960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAY ARBORETUM SOCIETY</h3><b><a href=\"http://mayarboretumsociety.org\" target=\"_blank\">Website</a></b><br>PO BOX 6225 RENO NV 89513-8951", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.761135793, 
+                    39.1572323960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE VIRGINIA & TRUCKEE RAILROAD MUSEUM</h3><b><a href=\"http://www.nsrm-friends.org\" target=\"_blank\">Website</a></b><br>PO BOX 1330 CARSON CITY NV 89702-8970", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.835367444, 
+                    39.5285238050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RENO COIN CLUB INC</h3>PO BOX 5178 RENO NV 89513-5178", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.854479546, 
+                    39.6317200310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA AIR MUSEUM</h3>PO BOX 60183 RENO NV 89506", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.065594601, 
+                    36.1411014780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARCHAEO-NEVADA SOCIETY</h3>2675 S NELLIS BLVD APT 1125 LAS VEGAS NV 89121-2070", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.918085757, 
+                    35.4635323010004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEARCHLIGHT MUSEUM GUILD</h3>PO BOX 36 SEARCHLIGHT NV 89046-0036", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.766924245, 
+                    39.1689010260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS MUSEUM OF NORTHERN NEVADA INC</h3><b><a href=\"http://www.cmnn.org\" target=\"_blank\">Website</a></b><br>813 N CARSON ST CARSON CITY NV 89701-4009", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.53072717, 
+                    40.7159920480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JARBIDGE COMMUNITY ASSOCIATION INC</h3>PO BOX 260075 JARBIDGE NV 89815-7078", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.735558806, 
+                    40.9730031440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUCKAROO HALL OF FAME AND WINNEMUCCA WSTRN HERITAGE MUSEUM</h3><a href=\"tel:7756235071\" target=\"_blank\">Phone</a><br>50 W WINNEMUCCA BLVD WINNEMUCCA NV 89445", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.134558501, 
+                    36.1798515660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS VEGAS NATURAL HISTORY MUSEUM</h3><b><a href=\"http://www.lvnhm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7023843466\" target=\"_blank\">Phone</a><br>900 LAS VEGAS BLVD N LAS VEGAS NV 89101-1112", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.925708526, 
+                    40.6330936910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LANDER COUNTY HISTORICAL SOCIETY</h3>PO BOX 663 BATTLE MTN NV 89820-0663", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.189701252, 
+                    36.1923897860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA ZOOLOGICAL FOUNDATION</h3><a href=\"tel:7026474685\" target=\"_blank\">Phone</a><br>1775 N RANCHO DR LAS VEGAS NV 89106-1020", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.183320837, 
+                    36.1262630160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUMS AND ATTRACTIONS IN NEVADA INC</h3>3305 SPRING MT RD LAS VEGAS NV 89102", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.650218076, 
+                    39.3091227590004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOLD HILL HISTORICAL SOCIETY</h3>PO BOX 1052 VIRGINIA CITY NV 89440-1052", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.908975222, 
+                    39.6241430530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SIERRA NEVADA ZOOLOGICAL SOCIETY INC</h3>10200 N VIRGINIA ST RENO NV 89506-9203", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.253248066, 
+                    40.9979742080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF MIDAS</h3><a href=\"tel:7755290302\" target=\"_blank\">Phone</a><br>HC66 - 75 MIDAS NV 89414-9801", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.268707272, 
+                    40.6562810180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRESCENT VALLEY HISTORICAL SOCIETY</h3>PO BOX 211120 CRESCENT VALLEY NV 89821", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.761192301, 
+                    36.9065403670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BEATTY MUSEUM & HISTORICAL SOCIETY</h3><b><a href=\"http://www.beattymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7755532303\" target=\"_blank\">Phone</a><br>417 W MAIN ST BEATTY NV 89003", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.151279005, 
+                    36.1868834660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AFRICAN AMERCN MUSEUM RESOURCE CENTER</h3><a href=\"tel:7026472242\" target=\"_blank\">Phone</a><br>705 W VAN BUREN AVE LAS VEGAS NV 11935", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.046065535, 
+                    36.0085279680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MACDONALD CENTER FOR THE ARTS & HUMANITIES INC</h3>552 S STEPHANIE ST HENDERSON NV 89012-4855", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.199989033, 
+                    36.1925733690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITY OF THE WORLD INC</h3><a href=\"tel:7026471581\" target=\"_blank\">Phone</a><br>4413 PARKCHESTER CIRCLE LAS VEGAS NV 89108-2046", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.173669083, 
+                    36.2248129980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEFT OF CENTER ART GALLERY</h3><b><a href=\"http://www.leftofcenterart.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7026477378\" target=\"_blank\">Phone</a><br>2207 WEST GOWAN NO LAS VEGAS NV 89032-7961", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.135210464, 
+                    36.1782463350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEON MUSEUM</h3><a href=\"tel:7023876366\" target=\"_blank\">Phone</a><br>821 LAS VEGAS BLVD N LAS VEGAS NV 89101-2010", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.835109189, 
+                    35.9794712750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL AIR & SPACE EDUCATIONAL FOUNDATION</h3>PO BOX 62338 BOULDER CITY NV 89006-2338", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.147159834, 
+                    36.1146217760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA TEST SITE HISTORICAL FOUNDATION</h3><b><a href=\"http://www.ntshf.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7027945151\" target=\"_blank\">Phone</a><br>755 E FLAMINGO RD STE 219 LAS VEGAS NV 89119-7363", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.226298714, 
+                    37.5583115320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRIPLE AUGHT FOUNDATION</h3>HC 61 BOX 33 HIKO NV 89017-9602", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.104286617, 
+                    36.1626219410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>METROPOLITAN POLICE MUSEUM ASSO OF NEVADA</h3>3901 E SUNSET LAS VEGAS NV 89101-4833", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.230148838, 
+                    36.0907236220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA MUSEUM OF AVIATION AND MILITARY HISTORY</h3>6315 W MESA VISTA AVE LAS VEGAS NV 89118-1911", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.192643324, 
+                    36.1690509960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISPANIC MUSEUM OF NEVADA</h3><b><a href=\"http://www.hispanicmuseumnv.com\" target=\"_blank\">Website</a></b><br>330 S VALLEY VIEW BLVD LAS VEGAS NV 89107", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.141167023, 
+                    36.0716027690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPRINGS PRESERVE FOUNDATION</h3><b><a href=\"http://www.springspreserve.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7028227712\" target=\"_blank\">Phone</a><br>PO BOX 98947 LAS VEGAS NV 89193-8947", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.604916437, 
+                    40.7434722440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHEASTERN NEVADA RAILROAD HISTORICAL SOCIETY</h3>PO BOX 8008 CARSON CITY NV 89815", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.821218529, 
+                    39.5483524110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC RENO PRESERVATION SOCIETY</h3><b><a href=\"http://www.historicreno.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7757470340\" target=\"_blank\">Phone</a><br>PO BOX 14003 RENO NV 89507", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.812605737, 
+                    39.5235570710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHOE COUNTY COURTHOUSE HISTORICAL AND PRESERVATION SOCIETY</h3>75 COURT STREET DEPT 7 RENO NV 89501-1982", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.963249643, 
+                    39.2470934610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THUNDERBIRD LODGE PRESERVATION SOCIETY</h3>PO BOX 6812 INCLINE VLG NV 89450-6812", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.251499744, 
+                    36.2049031880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS VEGAS RAILROAD SOCIETY</h3>PO BOX 33518 LAS VEGAS NV 89133-3518", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.650218076, 
+                    39.3091227590004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC FOURTH WARD SCHOOL FOUNDATION</h3>PO BOX 4 VIRGINIA CITY NV 89440-0004", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.269647474, 
+                    38.2963237310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TONOPAH HISTORIC MINING PARK FOUNDATION</h3>PO BOX 965 TONOPAH NV 89049-0965", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.190424925, 
+                    36.1350821290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE LAS VEGAS ART MUSEUM FOUNDATION</h3>3036 S VLY VW BLVD LAS VEGAS NV 89102-7805", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.650218076, 
+                    39.3091227590004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COMSTOCK CEMETERY FOUNDATION INC</h3>PO BOX 1172 VIRGINIA CITY NV 89440-1172", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.836704919, 
+                    39.3881245760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MILLENNIUM DIVE EXPEDITIONS INC</h3>15030 N TIMBERLINE DRIVE RENO NV 89511-8231", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.153740208, 
+                    36.1771878890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AFRICAN AMERICAN CULTURAL SOCIETY</h3><a href=\"tel:7026361625\" target=\"_blank\">Phone</a><br>900 W BONANZA RD LAS VEGAS NV 89106-3527", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.359768589, 
+                    35.6846930750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOODSPRINGS HISTORICAL SOCIETY</h3><a href=\"tel:7023998668\" target=\"_blank\">Phone</a><br>PO BOX 603 GOODSPRINGS NV 89019-0603", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.821024511, 
+                    39.5476966300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHEPPARD CONTEMPORARY AND UNIVERSITY ART GALLERIES</h3><b><a href=\"http://www.unr.edu/art/galleries/\" target=\"_blank\">Website</a></b><br><a href=\"tel:7757846658\" target=\"_blank\">Phone</a><br>1664 N. VIRGINIA, ST DEPARTMENT OF ART/224 RENO NV 89557", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.81342298, 
+                    39.5213730200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA MUSEUM OF ART INC</h3><b><a href=\"http://www.nevadaart.org\" target=\"_blank\">Website</a></b><br>160 W LIBERTY ST RENO NV 89501-1916", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.878993614, 
+                    39.2523133220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITE PINE PUBLIC MUSEUM INC</h3><b><a href=\"http://www.wpmuseum.org\" target=\"_blank\">Website</a></b><br>2000 AULTMAN ST ELY NV 89301-1824", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.752901315, 
+                    40.8414530400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHEASTERN NEVADA HISTORICAL SOCIETY</h3><b><a href=\"http://www.museum-elko.us\" target=\"_blank\">Website</a></b><br>1515 IDAHO ST ELKO NV 89801-4021", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.751541134, 
+                    38.9431442730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOUGLAS COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:7752656097\" target=\"_blank\">Phone</a><br>1477 HWY 395 N GARDNERVILLE NV 89410", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.073128584, 
+                    36.1003840840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN NEVADA WOMENS HISTORY PROJECT</h3>PO BOX 12184 LAS VEGAS NV 89112-0184", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.879838575, 
+                    39.5264121320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SILVER STATE YOUNG CHAUTAUQUA ASSOCIATION</h3>PO BOX 33905 RENO NV 89533-3905", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.753998258, 
+                    36.9127827740004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOLDWELL OPEN AIR MUSEUM</h3><b><a href=\"http://www.goldwellmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8188457266\" target=\"_blank\">Phone</a><br>PO BOX 405 BEATTY NV 89003-0405", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.650218076, 
+                    39.3091227590004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TERRITORIAL ENTERPRISE HISTORICAL AND EDUCATIONAL FOUNDATION</h3>PO BOX 16 VIRGINIA CITY NV 89440-0016", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.114503088, 
+                    36.1087811310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM FOUNDATION</h3>4435 TOPAZ ST LAS VEGAS NV 89121-5350", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.141378216, 
+                    36.1680033070004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN NEVADA HISTORICAL SOCIETY</h3>PO BOX 1358 LAS VEGAS NV 89125", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.269658829, 
+                    38.2963216950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL NEVADA HISTORICAL SOCIETY</h3>PO BOX 326 TONOPAH NV 89049", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.163279201, 
+                    38.9838923250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LYON COUNTY MUSEUM SOCIETY</h3>215 S MAIN ST YERINGTON NV 89447-2536", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.761135793, 
+                    39.1572323960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARSON CITY HISTORICAL SOCIETY</h3><b><a href=\"http://cchistorical.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7758872174\" target=\"_blank\">Phone</a><br>PO BOX 1864 CARSON CITY NV 89702-8970", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.135093864, 
+                    36.1785438660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LIED DISCOVERY CHILDRENS MUSEUM</h3><b><a href=\"http://www.ldcm.org\" target=\"_blank\">Website</a></b><br>833 LAS VEGAS BLVD N LAS VEGAS NV 89106-1470", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.820743684, 
+                    39.5468948840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA HISTORICAL SOCIETY DOCENT COUNCIL</h3><a href=\"tel:7026881191\" target=\"_blank\">Phone</a><br>1650 NORTH VIRGINIA STREET RENO NV 89503-1799", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.753669894, 
+                    39.5348515940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPARKS HERITAGE FOUNDATION AND MUSEUM INC</h3><b><a href=\"http://www.sparksmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7753551144\" target=\"_blank\">Phone</a><br>820 VICTORIAN AVE SPARKS NV 89431-5077", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.105419852, 
+                    36.2176781150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PACIFIC PLANETARIUM ASSOCIATION INC</h3><b><a href=\"http://sites.csn.edu/planetarium/PPA\" target=\"_blank\">Website</a></b><br>3200 E CHEYENNE AVENUE NORTH LAS VEGAS NV 89030-8903", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.7817485, 
+                    39.5129710310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA MILITARY MUSEUM ASSOCIATION</h3>PO BOX 21504 RENO NV 89515", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.76694438, 
+                    39.1648704800004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEVADA JUDICIAL HISTORICAL SOCIETY</h3><b><a href=\"http://lawlibrary.nevadajudiciary.us\" target=\"_blank\">Website</a></b><br>201 SOUTH CARSON STREET CARSON CITY NV 89701", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.971076084, 
+                    36.2035432020004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PAHRUMP VALLEY MUSEUM AND HISTORICAL SOCIETY</h3>PO BOX 1510 PAHRUMP NV 89041-1510", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.069517857, 
+                    39.4912416580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AUSTIN HISTORIC MINING DISTRICT HISTORICAL SOCIETY</h3>PO BOX 25 AUSTIN NV 89310", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.180649993, 
+                    36.1588425700004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS VEGAS INTERNATIONAL SCOUTING MUSEUM</h3>2915 W CHARLESTON BLVD SUITE 4 LAS VEGAS NV 89102-1978", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.128149855, 
+                    36.1008633540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LIBERACE FOUNDATION FOR THE PERFORMING AND CREATIVE ARTS</h3>1775 E TROPICANA AVE STE 30 LAS VEGAS NV 89119-6558", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

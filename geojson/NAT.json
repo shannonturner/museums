@@ -1,0 +1,4520 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.1444492029997, 
+                    30.7187215440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOBILE ROCK & GEM SOCIETY</h3>1324 FOREST DELL ROAD MOBILE AL 36618-1726", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.8231085599996, 
+                    33.6888930660004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSANN CORP</h3>PO BOX 1587 ANNISTON AL 36202-1587", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.8195195629997, 
+                    33.6955833690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANNISTON MUSEUM ENDOWMENT CORPORATION</h3><b><a href=\"http://www.annistonmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2562376766\" target=\"_blank\">Phone</a><br>800 MUSEUM DR ANNISTON AL 36202-1587", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.5922875809997, 
+                    34.7603569040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN INDIAN MUSEUM</h3>2003 POOLE DRIVE HUNTSVILLE AL 35810-3843", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.5623968319996, 
+                    33.2028824890004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOARD OF TRUSTEES, UNIVERSITY OF ALABAM</h3><b><a href=\"http://www.gorgashouse.ua.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:2053485906\" target=\"_blank\">Phone</a><br>BOX 870104 TUSCALOOSA AL 35487-0104", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.592769771, 
+                    58.3735464220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRED K KOKEN FOUNDATION</h3>PO BOX 35201 JUNEAU AK 99803-5201", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.323358117, 
+                    57.0504394290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF SHELDON JACKSON MUSEUM</h3><b><a href=\"http://www.museums.state.ak.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:9077478981\" target=\"_blank\">Phone</a><br>104 COLLEGE DR SITKA AK 99835-7657", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.80833215, 
+                    61.2251191670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALASKA MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://www.alaskamuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9072742400\" target=\"_blank\">Phone</a><br>201 N BRAGAW ST ANCHORAGE AK 99508-1311", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.549058881, 
+                    59.6449379690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOMER SOCIETY OF NATURAL HISTORY INC</h3><b><a href=\"http://www.prattmuseum.org\" target=\"_blank\">Website</a></b><br>3779 BARTLETT ST HOMER AK 99603-7504", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.93840408, 
+                    32.3048745360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PARRHASIAN HERITAGE FOUNDATION</h3>2321 E CALLE LUSTRE TUCSON AZ 85718-4928", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.862479316, 
+                    32.3768513130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CABEZA PRIETA NATURAL HISTORY ASSOCIATION</h3><b><a href=\"http://cabezaprieta.org\" target=\"_blank\">Website</a></b><br>PO BOX 234 AJO AZ 85321", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.940967642, 
+                    32.2359232690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARIZONA BOARD OF REGENTS, UNIVERSITY OF</h3><b><a href=\"http://arizona.edu\" target=\"_blank\">Website</a></b><br>P.O. BOX 3308 TUCSON AZ 85722-3308", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.164279274, 
+                    32.2446875800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARIZONA SONORA DESERT MUSEUM</h3><b><a href=\"http://www.desertmuseum.org\" target=\"_blank\">Website</a></b><br>2021 N KINNEY RD TUCSON AZ 85743-9719", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1165294719997, 
+                    34.5162844410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MID-AMERICA SCIENCE MUSEUM</h3><a href=\"tel:5017673461\" target=\"_blank\">Phone</a><br>500 MID AMERICA BLVD HOT SPRINGS AR 71913-8412", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.7034754729997, 
+                    36.2560683820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OZARK NATURAL SCIENCE CENTER</h3><b><a href=\"http://onsc.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:4797892754\" target=\"_blank\">Phone</a><br>1905 MADISON 1305 HUNTSVILLE AR 72740", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.201129726, 
+                    32.7465135400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN DIEGO BONSAI CLUB</h3>PO BOX 86037 SAN DIEGO CA 92138-6037", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.16620401, 
+                    37.4458954310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLOBAL MINDSHIFT FOUNDATION</h3>251 HIGH STREET STE B PALO ALTO CA 94301", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.488664251, 
+                    37.9472050690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DUTRA MUSEUM FOUNDATION</h3>2350 KERNER BOULEVARD SAN RAFAEL CA 94901-5594", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.689559188, 
+                    35.6204717830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NATURAL SCIENCE INC</h3>PO BOX 2211 PASO ROBLES CA 93447", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.338197186, 
+                    34.4047917310004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOJAVE RIVER NATURAL HISTORY ASSOC</h3>14651 CEDAR CIRCLE HESPERIA CA 92345", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.592488793, 
+                    33.5774779080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAGON WHEEL NATURAL HISTORY ASSOCIATION</h3>30952 OSO PARKWAY COTO DE CAZA CA 92679-9267", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.148542022, 
+                    32.7314739980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN DIEGO NATURAL HISTORY MUSEUM</h3><a href=\"tel:6192323821\" target=\"_blank\">Phone</a><br>1788 EL PARDO SAN DIEGO CA 92101", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.992226838, 
+                    33.7072000820004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN CENTER COMMUNITY FOUNDATION</h3><b><a href=\"http://www.westerncentermuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9517910033\" target=\"_blank\">Phone</a><br>2345 SEARL PKWY HEMET CA 92543-9706", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.342978672, 
+                    37.3223907760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VIDA VERDE NATURE EDUCATION</h3>", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.062508304, 
+                    35.3541207210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BAKERSFIELD MINERAL MITES</h3>PO BOX 10954 BAKERSFIELD CA 93389-0954", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.117569429, 
+                    32.7321810800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY MUSEUM OF SUGAR</h3>2525 BOUNDARY ST SAN DIEGO CA 92104-5313", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.132405889, 
+                    34.1551105900004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANIMAL HISTORY MUSEUM</h3>530 SOUTH LAKE AVENUE BOX 444 PASADENA CA 91101-3515", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.84373739, 
+                    35.3534733590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL COAST NATURAL HISTORY ASSOCIATION</h3>20 STATE PARK RD MORRO BAY CA 93442-2430", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.649604286, 
+                    39.7874731320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SIERRA VALLEY MUSEUM OF NATURAL HISTORY FOUNDATION</h3>119 COTTONWOOD DR BLAIRSDEN CA 96103", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.807086295, 
+                    39.7455343740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHICO CREEK NATURE CENTER INC</h3><b><a href=\"http://bidwellpark.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5308914671\" target=\"_blank\">Phone</a><br>1968 E 8TH ST CHICO CA 95928-4110", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.776117593, 
+                    38.3521309790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KENNEDY MINE A NONPROFIT FOUNDATION</h3>PO BOX 684 JACKSON CA 95642-0684", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.738344348, 
+                    38.5495519470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSIC EMPOWERMENT INC</h3>611 I STREET DAVIS CA 95616-2324", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.699084724, 
+                    38.5395140760004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL VALLEY BIRD CLUB</h3>1324 ROSARIO ST DAVIS CA 95618-5043", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.273172671, 
+                    41.2127002970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CREATIVE COMMUNITY WORKS</h3>5701 CASTLE AVE APT 2 DUNSMUIR CA 96025-2055", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.244932783, 
+                    37.4057550100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ORGANIZATION OF BIOLOGICAL FIELD STATIONS INC</h3>4001 SANDHILL RD WOODSIDE CA 94062-1241", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.66718695, 
+                    36.1545141610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BIG SUR NATURAL HISTORY ASSOCIATION</h3><a href=\"tel:8316670549\" target=\"_blank\">Phone</a><br>PO BOX 189 BIG SUR CA 93920-0189", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.807553268, 
+                    36.6979205180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MONTEREY DUNES NATURAL HISTORY ASSOCIATION</h3>61 RESERVATION RD MARINA CA 93933", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.122489917, 
+                    34.6058731800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOLDEN TROUT NATURAL HISTORY</h3>868 KOLDING AVE SOLVANG CA 93463-2237", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.018726728, 
+                    35.3774147980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUENA VISTA MUSEUM OF NATURAL HISTORY INC</h3><b><a href=\"http://www.sharktoothhill.org\" target=\"_blank\">Website</a></b><br>2018 CHESTER AVE BAKERSFIELD CA 93301-4420", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.434795697, 
+                    34.9315211530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAMUEL J PERRY NATURAL MUSEUM CORPORATION</h3>PO BOX 5254 SANTA MARIA CA 93456-5254", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.197958143, 
+                    37.0619120480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN JOAQUIN VALLEY PALEONTOLOGY FOUNDATION</h3><a href=\"tel:5596657107\" target=\"_blank\">Phone</a><br>PO BOX 1020 MADERA CA 93610-9691", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.970405867, 
+                    37.4889435210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALIFORNIA STATE MINING & MINERAL FUND</h3><b><a href=\"http://www.parks.ca.gov/?page_id=588\" target=\"_blank\">Website</a></b><br><a href=\"tel:2097427625\" target=\"_blank\">Phone</a><br>PO BOX 1415 MARIPOSA CA 95338-1415", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.703159188, 
+                    36.7270073890004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AQUARIUS AQUARIUM INSTITUTE</h3>5541 COLUMBIA DR N FRESNO CA 93727-6015", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.890193944, 
+                    37.2203731920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN JOSE INTERNATIONAL PIANO COMPETITION CORPORATION</h3>1434 MONTEGO DR SAN JOSE CA 95120-5105", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.114949591, 
+                    34.6651136990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTA YNEZ VALLEY NATURAL HISTORY SOCIETY</h3><b><a href=\"http://www.syvnature.org\" target=\"_blank\">Website</a></b><br>PO BOX 794 LOS OLIVOS CA 93441-9344", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.410188747, 
+                    37.8082438160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BAY INSTITUTE AQUARIUM FOUNDATION</h3><b><a href=\"http://www.aquariumofthebay.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4156235300\" target=\"_blank\">Phone</a><br>PIER 39 SAN FRANCISCO CA 94133", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.014717861, 
+                    37.5558305350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALIFORNIA INDIAN STORYTELLING ASSOCIATION</h3>PO BOX 267 FREMONT CA 94537-0267", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4668284, 
+                    37.7701735860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALIFORNIA ACADEMY OF SCIENCE</h3>55 MUSIC CONCOURSE DR SAN FRANCISCO CA 94118-4503", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.320720169, 
+                    37.5884576450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CURIODYSSEY</h3><b><a href=\"http://www.curiodyssey.org\" target=\"_blank\">Website</a></b><br>1651 COYOTE POINT DR SAN MATEO CA 94401-1002", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.731804133, 
+                    36.7677806880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE DISCOVERY CENTER</h3><b><a href=\"http://thediscoverycenter.net\" target=\"_blank\">Website</a></b><br>1937 N WINERY AVE FRESNO CA 93703-2828", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.604727498, 
+                    40.3450111440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LASSEN ASSOCIATION</h3>PO BOX 220 MINERAL CA 96063-0220", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.009523208, 
+                    36.9643073980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTA CRUZ MUSEUM ASSOCIATION</h3><b><a href=\"http://www.santacruzmuseums.org\" target=\"_blank\">Website</a></b><br>1305 E CLIFF DR SANTA CRUZ CA 95062-3722", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.695592928, 
+                    38.1154980280004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELTA NATURAL HISTORY ASSOCIATION</h3><a href=\"tel:9167775775\" target=\"_blank\">Phone</a><br>17663 STATE HIGHWAY 160 RIO VISTA CA 94571", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.920322954, 
+                    37.5302431580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF LOCAL HISTORY GUILD</h3><b><a href=\"http://www.museumoflocalhistory.org\" target=\"_blank\">Website</a></b><br>190 ANZA STREET FREMONT CA 94539-5802", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.081605829, 
+                    38.6865218070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALIFORNIA FOUNDRY HISTORY INSTITUTE</h3>2971 WARREN LN EL DORADO HLS CA 95762-4221", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.148542022, 
+                    32.7314739980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN DIEGO SOCIETY OF NATURAL HISTORY BALBOA PARK</h3><b><a href=\"http://www.sdnhm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6192323821\" target=\"_blank\">Phone</a><br>1788 EL PRADO SAN DIEGO CA 92101-1624", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.713917179, 
+                    34.4413432960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTA BARBARA MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://www.sbnature.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8056824711\" target=\"_blank\">Phone</a><br>2559 PUESTA DEL SOL SANTA BARBARA CA 93105-2936", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.738512339, 
+                    34.1216547070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RAYMOND M ALF MUSEUM</h3><b><a href=\"http://www.alfmuseum.org\" target=\"_blank\">Website</a></b><br>1175 W BASELINE RD CLAREMONT CA 91711-2146", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.012443737, 
+                    34.0707695820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTA MONICA MOUNTAINS NATURAL HISTORY ASSOCIATION</h3><a href=\"tel:8054881827\" target=\"_blank\">Phone</a><br>9000 PACIFIC COAST HWY MALIBU CA 90265-2000", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.394672733, 
+                    34.0258697550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF JURASSIC TECHNOLOGY</h3><b><a href=\"http://www.mjt.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3108366131\" target=\"_blank\">Phone</a><br>9341 VENICE BLVD CULVER CITY CA 90232-2621", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.411272751, 
+                    33.9169814950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY RESOURCES ASSOCIATION</h3>115 SHELDON ST EL SEGUNDO CA 90245-3916", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.412147899, 
+                    34.0587616480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GABRIEL FAMILY FOUNDATION</h3>2080 CENTURY PARK EAST 203 LOS ANGELES CA 90067-2005", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.232709225, 
+                    33.1918201060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VISTA GEM & MINERAL SOCIETY INC</h3>PO BOX 1641 VISTA CA 92085-1641", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.290207743, 
+                    34.0181379300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY MUSEUM OF LOS ANGELES COUNTY</h3><b><a href=\"http://www.nhm.org/?\" target=\"_blank\">Website</a></b><br>900 EXPOSITION BLVD LOS ANGELES CA 90007", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.074258829, 
+                    40.5321722520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LARIMER COUNTY GENEALOGICAL SOCIETY</h3>PO BOX 270737 FORT COLLINS CO 80527-0737", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.193660846, 
+                    39.6489907100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MORRISON NATURAL HISTORY FOUNDATION</h3><b><a href=\"http://www.mnhm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3036971873\" target=\"_blank\">Phone</a><br>501 COLORADO HIGHWAY 8 PO BOX 564 MORRISON CO 80465", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.009558984, 
+                    37.2645239940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHIMNEY ROCK INTERPRETIVE ASSOCIATI ON INC</h3>PO BOX 1662 PAGOSA SPGS CO 81147-1662", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.49437767, 
+                    37.2595228930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MESA VERDE MUSEUM ASSOCIATION</h3><b><a href=\"http://www.mesaverde.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9705294445\" target=\"_blank\">Phone</a><br>PO BOX 38 MESA VERDE CO 81330-0038", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.940841684, 
+                    39.7474722520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE COLORADO MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://www.dmns.org\" target=\"_blank\">Website</a></b><br>2001 COLORADO BLVD DENVER CO 80205-5732", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.838071846, 
+                    38.7049985960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE JOHN MAY MUSEUM CENTER CORPORATION</h3><b><a href=\"http://www.maymuseum-camp-rvpark.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7195760450\" target=\"_blank\">Phone</a><br>710 ROCK CREEK CANYON RD COLORADO SPRINGS CO 80926-9800", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.723776323, 
+                    39.5833235620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCKY MOUNTAIN DEPRESSION GLASS SOCIETY</h3>7312 S VALDAI CIR AURORA CO 80016-2311", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.561593839, 
+                    38.8482074190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLORADO SPRINGS HISTORICAL MILITARY MUSEUM INC</h3>1220 DRAGONMAN DR COLORADO SPRINGS CO 80929", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.934072785, 
+                    39.7040892870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MESA VERDE FOUNDATION</h3>650 S CHERRY ST STE 1400 DENVER CO 80104-1900", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.906051033, 
+                    39.6797380540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCKY MTN PHILATELIC EXHIBITIONS</h3><b><a href=\"http://www.rockymountainphilateliclibrary.\" target=\"_blank\">Website</a></b><br><a href=\"tel:3037599921\" target=\"_blank\">Phone</a><br>2038 S PONTIAC WAY DENVER CO 80224-2412", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.252672397, 
+                    40.0136016180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REGENTS OF THE UNIVERSITY OF COLORADO</h3><b><a href=\"http://www.colorado.edu/ocg/\" target=\"_blank\">Website</a></b><br>3100 MARINE STREET - ROOM 479 BOULDER CO 80303-1058", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.928116203, 
+                    38.5455706190004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF ARCHEOLOGY AND MATERIAL CULTURE</h3>PO BOX 762 GUNNISON CO 81230-0762", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.7378758669997, 
+                    41.7617085750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS MUSEUM INC</h3>950 TROUT BROOK DR WEST HARTFORD CT 06119-1437", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.2233576929996, 
+                    41.3021115490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MONROE HISTORICAL SOCIETY INCORPORATED</h3>PO BOX 212 MONROE CT 06468-0212", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.1040030669997, 
+                    41.3585756060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HENRY L FERGUSON MUSEUM</h3>187 WILLIAMS ST NEW LONDON CT 06320-5715", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.3123260229996, 
+                    41.6304418800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOLLISTER HOUSE GARDEN INC</h3>PO BOX 1454 WASHINGTON CT 06793-0454", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.0957167899996, 
+                    41.3123127940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONFEDERATION OF UNION GENERALS INC</h3>71 LONG HILL CROSS ROAD SHELTON CT 06484-4702", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.4468096419997, 
+                    41.4019337030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PROMARE INC</h3>PO BOX 450 CHESTER CT 06412-0450", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7582896159997, 
+                    39.6307875910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE ACADEMY OF SCIENCE INC</h3><b><a href=\"http://www.ironhill-museum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3023685703\" target=\"_blank\">Phone</a><br>1355 OLD BALTIMORE PIKE NEWARK DE 19702-1110", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4021104199996, 
+                    39.0595634420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOWERS BEACH MARITIME MUSEUM INC</h3><a href=\"tel:3023351400\" target=\"_blank\">Phone</a><br>3357 MAIN STREET FREDERICA DE 19946-1274", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0388139179997, 
+                    38.9013018550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PETRA NATIONAL FOUNDATION USA</h3>1634 EYE STREET NW SUITE 205 WASHINGTON DC 20006-4020", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1057984119997, 
+                    26.8197306840004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PETRIFIED CREATURES MUSEUM OF NATURAL HISTORY</h3>PO BOX 751 RICHFLD SPGS FL 33410-5457", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1657924739997, 
+                    26.0587863580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL GAME FISH ASSOCIATION INC</h3><a href=\"tel:9549224212\" target=\"_blank\">Phone</a><br>300 GULF STREAM WAY DANIA FL 33004-2118", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.2604730629997, 
+                    27.3057767010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CROWLEY MUSEUM AND NATURE CENTER INC</h3><b><a href=\"http://www.cmncfl.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9413221000\" target=\"_blank\">Phone</a><br>16405 MYAKKA RD SARASOTA FL 34240-9192", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.7224866539997, 
+                    28.2163023110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST ELFERS CEMETERY PRESERVATION ASSOC INC</h3>PO BOX 2036 ELFERS FL 34680-2036", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3982563789996, 
+                    27.6391639370004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD VERO ICE AGE SITES COMMITTEE INC</h3>PO BOX 351 VERO BEACH FL 32961-0351", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.3030589409997, 
+                    27.9340116570004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHORE LAB DISCOVERY CENTER INC</h3>PO BOX 901 BRANDON FL 33509-0901", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.5791408239996, 
+                    28.9791436910004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CREATION EXPEDITIONS INC</h3>8614 W VARRICCHIO LANE CRYSTAL RIVER FL 34428-6903", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.3422825049997, 
+                    30.4097801550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TALLAHASSEE MUSEUM OF HISTORY AND NATURAL SCIENCE INC</h3><b><a href=\"http://www.tallahasseemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8505758684\" target=\"_blank\">Phone</a><br>3945 MUSEUM DR TALLAHASSEE FL 32310-6325", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0692608939997, 
+                    26.3665458420004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GUMBO LIMBO NATURE CENTER INC</h3><b><a href=\"http://www.gumbolimbo.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5613381473\" target=\"_blank\">Phone</a><br>1801 N OCEAN BLVD BOCA RATON FL 33432-1946", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4571475589997, 
+                    28.0179331050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NATURAL HISTORY ASSOCIATION INCORPORATED</h3>1101 EAST RIVER TAMPA FL 33604", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.3716665749997, 
+                    29.6102234850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALACHUA ASTRONOMY CLUB INC</h3>PO BOX 141591 GAINESVILLE FL 32614-1591", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2050065619997, 
+                    28.5523102660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARIBBEAN SHIPWRECK RESEARCH INSTITUTE INC</h3>PO BOX 780245 ORLANDO FL 32878-0245", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.8383617899997, 
+                    33.3860533280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BROWNS MILL BATTLEFIELD ASSOCIATION INC</h3>76 WEST WEDGEWOOD CIRCLE NEWNAN GA 30263-1339", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.4530520409996, 
+                    33.8847489730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEORGIA ARMY NATIONAL GUARD AVIATION MUSEUM INC</h3>3625 CUMBERLAND BLVD SE SUITE 660 ATLANTA GA 30339-8138", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.3249249839997, 
+                    33.7995046480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EMORY UNIVERSITY</h3>1599 CLIFTON RD ATLANTA GA 30322", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0943479649997, 
+                    32.0787904940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAVANNAH SCIENCE MUSEUM INC</h3>PO BOX 9841 SAVANNAH GA 31412-0041", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.3830610029997, 
+                    31.2349524580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN FOREST WORLD INC</h3><a href=\"tel:9122854056\" target=\"_blank\">Phone</a><br>1440 N AUGUSTA AVE WAYCROSS GA 31503-4954", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.9879989239997, 
+                    33.9525825320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LANIER MUSEUM OF NATURAL HISTORY INC</h3><a href=\"tel:7709324460\" target=\"_blank\">Phone</a><br>2601 BUFORD DAM ROAD LAWRENCEVILLE GA 30246", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.1274067769996, 
+                    33.9007620570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM FOR STUDIES IN NATURAL HISTORY</h3>PO BOX 1891 LILBURN GA 30048", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.5557078249997, 
+                    34.5988910870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE FORT INC</h3>660 BETHEL TEMPLE RD DEMOREST GA 30535-3603", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.3296957849997, 
+                    33.7750465910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FERNBANK INC</h3><b><a href=\"http://www.fernbankmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4049296300\" target=\"_blank\">Phone</a><br>767 CLIFTON RD NE ATLANTA GA 30307-1221", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.232657623, 
+                    19.4292328310004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF HAWAII VOLCANOES NATIONAL PARK</h3>PO BOX 653 VOLCANO HI 96785-0653", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.713757257, 
+                    21.9710609750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUI O LAKA</h3><a href=\"tel:8083359975\" target=\"_blank\">Phone</a><br>PO BOX 100 KEKAHA HI 96752-0100", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.08873801, 
+                    19.7254839870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PACIFIC TSUNAMI MUSEUM INC</h3>PO BOX 806 HILO HI 96721-0806", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.919687706, 
+                    47.5130186520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MINING HERITAGE EXHIBITION INC</h3>PO BOX 469 WALLACE ID 83873-0469", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.433307533, 
+                    42.8621031730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IDAHO STATE UNIVERSITY</h3>PO BOX 8096 POCATELLO ID 83209-0001", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.2256948279997, 
+                    40.1104701560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY BUILDING</h3><a href=\"tel:2173332360\" target=\"_blank\">Phone</a><br>1301 W GREEN ST URBANA IL 61801", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.8201353619997, 
+                    42.2428571930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WARBIRD HERITAGE FOUNDATION</h3><b><a href=\"http://www.warbirdheritagefoundation.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8472448701\" target=\"_blank\">Phone</a><br>191 N MAYFLOWER RD LAKE FOREST IL 60045-2422", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.7464659229997, 
+                    39.5902706760004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IRWINS PARK ASSOCIATION</h3>PO BOX 12 AUBURN IL 62615-0012", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6297764169997, 
+                    40.8797095710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PONTIAC-OAKLAND MUSEUM & RESOURCE CENTER INC</h3>205 N MILL ST PONTIAC IL 61764-1906", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.6173577669996, 
+                    41.8650385740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIELD MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://www.fieldmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3129229410\" target=\"_blank\">Phone</a><br>1400 S LAKE SHORE DR CHICAGO IL 60605-2827", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.2638751589997, 
+                    42.0413617030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELGIN PUBLIC MUSEUM INCORPORATED</h3><b><a href=\"http://www.elginpublicmuseum.org\" target=\"_blank\">Website</a></b><br>225 GRAND BLVD ELGIN IL 60120-4278", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.6082067379996, 
+                    41.8127981940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PROJECT EXPLORATION</h3>4511 S EVANS AVE CHICAGO IL 60653-3520", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.6891177049997, 
+                    41.9891471900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MIDWEST MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://www.mmnh.org\" target=\"_blank\">Website</a></b><br>425 W STATE ST SYCAMORE IL 60178-1410", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.2742678479997, 
+                    41.5247539700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOSHUA TREE EARTH AND SPACE MUSEUM INCORPORATION</h3>PO BOX 101 LAKEVILLE IN 46536-0101", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.1488188519996, 
+                    39.7606730970004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF GARFIELD PARK INC</h3>PO BOX 33002 INDIANAPOLIS IN 46203-0002", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.3886076769996, 
+                    39.3177078740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STAPP CIRCLE S RANCH INC</h3><b><a href=\"http://www.stappscirclesranch.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8126636709\" target=\"_blank\">Phone</a><br>4860 E STATE ROAD 46 GREENSBURG IN 47240-8668", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.5206575309996, 
+                    39.1685207190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INDIANA UNIV/ART MUSEUM</h3><b><a href=\"http://www.indiana.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8123351010\" target=\"_blank\">Phone</a><br>ART MUSEUM BLOOMINGTON IN 47405", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5675100879997, 
+                    41.6440339320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IOWA SPACE SCIENCE CENTER</h3>1440 TEG DRIVE IOWA CITY IA 52246-4742", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.9470272979997, 
+                    43.0523318530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOSSIL & PRAIRIE CENTER FOUNDATION</h3>PO BOX 495 ROCKFORD IA 50468-0495", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.6698575089997, 
+                    42.2742107510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BATTLE HILL MUSEUM OF NATURAL HISTORY</h3>HWY 175 E BATTLE CREEK IA 51006", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.6571904769997, 
+                    38.8838574680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF PRAIRIEFIRE FOUNDATION</h3>6240 W 135TH ST OVERLAND PARK KS 66223-4844", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.6738395319997, 
+                    39.0235029080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LURAY COMMUNITY FOUNDATION</h3>19480 BEATTY LANE LURAY KS 67649-9211", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.4518451979997, 
+                    37.6831101620004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARTIN AND OSA JOHNSON SAFARI MUSEUM INC</h3><b><a href=\"http://www.safarimuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3164312730\" target=\"_blank\">Phone</a><br>111 N LINCOLN AVE CHANUTE KS 66720-1819", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.8930703779997, 
+                    39.0579277720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STARGARDEN FOUNDATION</h3>515 W KUMP BONNER SPRINGS KS 66012-1439", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4328110019997, 
+                    39.5105179060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HESPERIAN HISTORIAL SOCIETY</h3>721 7TH STREET PO BOX 325 CAWKER CITY KS 67430-0325", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7064774669997, 
+                    39.4335008800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OSBORNE COUNTY TOURISM INC</h3>745 C 388 DRIVE OSBORNE KS 67473", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.3398380499997, 
+                    38.8720108730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT HAYS STATE UNIVERSITY ENDOWMENT ASSOCIATION</h3>", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.5358990879997, 
+                    37.5000232850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BIG SANDY MOUNTAIN HERITAGE-HISTORY CENTER INCORPORATED</h3>PO BOX 1041 PIKEVILLE KY 41502-1041", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.7572791699997, 
+                    38.1060408700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KENTUCKY SOCIETY OF NATURAL HISTORY</h3>PO BOX 883 FAIRDALE KY 40118", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.4982218679997, 
+                    38.0458995480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KENTUCKY MUSEUM OF NATURAL HISTORY INC</h3>106 WEST VINE STREET NO 600 LEXINGTON KY 40507-1679", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.4840361389997, 
+                    38.0141917990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION</h3><b><a href=\"http://www.uky.edu/artmuseum\" target=\"_blank\">Website</a></b><br>201 KINKEAD HALL LEXINGTON KY 40502", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.0809471529997, 
+                    37.3321626930004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BEN E CLEMENT MINERAL MUSEUM INC</h3>PO BOX 391 MARION KY 42064-0391", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1088622829997, 
+                    29.9555333730004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW ORLEANS MARITIME HERITAGE FOUNDATION</h3>4329 STATE STREET DR NEW ORLEANS LA 70125-2734", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0323678579996, 
+                    30.4088505910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OFLOUISIANA MUSEUM OF NATURAL HISTORY FOUNDATION</h3>PO BOX 77426 BAON ROUGE LA 70879", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.1205961889997, 
+                    32.4815955490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OUACHITA RIVER MUSEUM FOUNDATION INC</h3>510 GRAYLING LANE MONROE LA 71202-3118", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.1862158119997, 
+                    30.4038712150004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOUISIANA STATE UNIVERSITY AND A & M COLLEGE</h3>204 THOMAS BOYD HALL BATON ROUGE LA 70803", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.1690957769997, 
+                    30.4158008650004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOUISIANA STATE UNIVERSITY AND A & M COLLEGE FOUNDATION</h3>3838 W LAKESHORE DR BATON ROUGE LA 70808", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.2172281869996, 
+                    44.2666779460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TURNER NATURAL HISTORY CLUB</h3>26 VALLEY VIEW DR TURNER ME 4282", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.4979790629997, 
+                    44.1325212390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE WOODSTOCK HISTORICAL SOCIETY</h3>ALLEN HILL ROAD OXFORD ME 4270", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.9154739439996, 
+                    47.1660295040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ST FRANCIS HISTORICAL SOCIETY</h3>1074 MAIN STREET ST FRANCIS ME 04774-3215", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.0084008819996, 
+                    44.4263568170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BELFAST MUSEUM INC</h3><b><a href=\"http://belfastmuseum.org\" target=\"_blank\">Website</a></b><br>10 MARKET ST BELFAST ME 04915-6555", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1536583749997, 
+                    39.0913728140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCKVILLE SCIENCE CENTER INC</h3>PO BOX 1084 ROCKVILLE MD 20849-1084", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0984034429997, 
+                    38.9813426140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN CATHEDRAL FOUNDATION</h3>7141 ARLINGTON ROAD SUITE 420 BETHESDA MD 20814-2908", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5250109729997, 
+                    42.3901203030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY COLLECTIONS</h3><b><a href=\"http://www.umass.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:4135772303\" target=\"_blank\">Phone</a><br>611 N PLEASANT ST AMHERST MA 1003", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.7706621479996, 
+                    42.2662267780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WORCESTER NATURAL HISTORY SOCIETY</h3><b><a href=\"http://www.ecotarium.org\" target=\"_blank\">Website</a></b><br>222 HARRINGTON WAY WORCESTER MA 01604-1809", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.1161364969997, 
+                    41.7530664160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAPE COD MUSEUM OF NATURAL HISTORY INC</h3><b><a href=\"http://www.ccmnh.org/\" target=\"_blank\">Website</a></b><br><a href=\"tel:5088963867\" target=\"_blank\">Phone</a><br>869 RTE 6A BREWSTER MA 02631-1032", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.8918760099996, 
+                    42.5571593550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILLIAM B SWETT MUSEUM</h3>6 ECHO AVENUE BEVERLY MA 01915-2417", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.9705397099996, 
+                    42.4513423710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARUNAH HILL NATURAL SCIENCE CENTER INC</h3><b><a href=\"http://www.arunah.org\" target=\"_blank\">Website</a></b><br>218 TROUBLE STREET CUMMINGTON MA 01026-9721", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1324930969997, 
+                    42.7797337750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW ENGLAND DAYLILY SOCIETY INC</h3>162 MORGAN DR HAVERHILL MA 01832-1295", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.5950595969996, 
+                    41.7430513840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MARINE LIFE CENTER INC</h3><b><a href=\"http://www.nmlc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5087439888\" target=\"_blank\">Phone</a><br>PO BOX 269 BUZZARDS BAY MA 02532-0269", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.2581842549997, 
+                    42.2912782960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARKED TREE CORPORATION</h3><a href=\"tel:7814446287\" target=\"_blank\">Phone</a><br>59 E MILITIA HEIGHTS DR NEEDHAM MA 02492-1341", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.1207126649996, 
+                    42.3864171070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DARWIN PROJECT INC</h3>13 ARLINGTON STREET CAMBRIDGE MA 02140-2701", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.4416173619996, 
+                    42.1502305280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILBRAHAM NATURE AND CULTURAL CENTER INC</h3>PO BOX 874 WILBRAHAM MA 01095-0874", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3497783409996, 
+                    42.4591213050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DRINKING GOURD PROJECT</h3><b><a href=\"http://www.drinkinggourdproject.org\" target=\"_blank\">Website</a></b><br>PO BOX 506 CONCORD MA 01742-0506", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.4541032519996, 
+                    42.5771413940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MILLER-EMPEY NATURAL SCIENCESFOUNDATION</h3>4057 PIONEER DR STE 200 COMMERCE TWP MI 48390-1363", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.2660443359997, 
+                    43.1332074700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GILLETTE NATURAL HISTORY ASSOCIATION</h3>6585 LAKE HARBOR RD MUSKEGON MI 49441", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.0807303769997, 
+                    42.3299193490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WATERLOO NATURAL HISTORY ASSOCIATION INC</h3><b><a href=\"http://www.wnha.org\" target=\"_blank\">Website</a></b><br>17030 BUSH RD CHELSEA MI 48118", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.0395362169996, 
+                    42.3427088410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC TRINITY INC</h3><b><a href=\"http://www.historictrinity.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3135673100\" target=\"_blank\">Phone</a><br>1345 GRATIOT AVE DETROIT MI 48207-2720", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.2100674109997, 
+                    42.3387185650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KINGMAN MUSEUM INC</h3><b><a href=\"http://www.kingmanmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2699655117\" target=\"_blank\">Phone</a><br>175 LIMIT ST BATTLE CREEK MI 49037-2176", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.2358058599997, 
+                    44.6325060290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BENZIE AUDUBON CLUB</h3>PO BOX 804 FRANKFORT MI 49635-0804", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.7482241249996, 
+                    42.2855966120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DINNERWARE MUSEUM INC</h3>520 N MAIN ST ANN ARBOR MI 48104-1027", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.9448798429997, 
+                    43.7171418680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LANESBORO LIVING MUSEUM OF NATURAL HISTORY</h3>PO BOX 389 LANESBORO MN 55949", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.5555581159996, 
+                    44.9001321560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ERNEST C OBERHOLTZER FOUNDATION</h3>818 3RD AVE APT 305 EXCELSIOR MN 55331-3323", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1838689249997, 
+                    32.2942028260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSISSIPPI MUSEUM OF NATURAL SCIENCE FOUNDATION</h3>PO BOX 1703 JACKSON MS 39215-1703", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.2575500119997, 
+                    37.1814475710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSOURI INSTITUTE OF NATURAL SCIENCE</h3>2003 E SUNSHINE ST SPRINGFIELD MO 65804-1839", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3974465769997, 
+                    39.0399931250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTAYANA INSTITUTE</h3>529 E 1700TH RD BALDWIN CITY MO 64055-5255", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2701836579997, 
+                    38.6292627110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ACADEMY OF SCIENCE OF ST LOUIS</h3><b><a href=\"http://www.buildabear.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3142894400\" target=\"_blank\">Phone</a><br>5050 OAKLAND AVE SAINT LOUIS MO 63110-1460", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0275210929997, 
+                    36.6161419170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OZARK MUSEUM OF NATURAL HISTORY</h3>205 WOLF CREEK RD CEDARCREEK MO 65627-7374", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.1730183589997, 
+                    38.8724323380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LONE JACK HISTORICAL SOCIETY INC</h3>PO BOX 34 LONE JACK MO 64070-0034", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0466136379997, 
+                    39.3860434590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRUNSWICK AREA HERITAGE MUSEUM</h3>22696 OSAGE RD BRUNSWICK MO 65236-2445", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.872086001, 
+                    48.3583394480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JUDITH RIVER FOUNDATION INC</h3>PO BOX 170 MALTA MT 59538-0170", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.534229269, 
+                    45.9947217090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ENVISION BUTTE INC</h3>1000 GEORGE ST BUTTE MT 59701-7901", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.553749453, 
+                    48.5592568420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RUDYARD HISTORICAL SOCIETY INC</h3>PO BOX 44 RUDYARD MT 59540-0044", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.560197235, 
+                    45.6629037570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY EXHIBIT HALL</h3><a href=\"tel:4062225335\" target=\"_blank\">Phone</a><br>120 E PARK ST LIVINGSTON MT 59047-2625", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.551676593, 
+                    45.6658932060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCKY MOUNTAIN FRONT INSTITUTE OF NATURAL HISTORY</h3>806 EAST CALLENDER STREET LIVINGSTON MT 59047", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.148376947, 
+                    47.8370195970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT PECK PALEONTOLOGY INC</h3><a href=\"tel:4065263539\" target=\"_blank\">Phone</a><br>643 REMUDA CREEK RD FORT PECK MT 59223", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.661531234, 
+                    41.8303335670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOBRASKA NATURAL HISTORY MUSEUM</h3><b><a href=\"http://www.wyobraskawildlifemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3084367104\" target=\"_blank\">Phone</a><br>950 U ST GERING NE 69341-2246", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.416062485, 
+                    42.6846549400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE PREHISTORIC PRAIRIES DISCOVERY CENTER</h3>106 LINN STREET CRAWFORD NE 69339-1016", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7450964309997, 
+                    40.2659103220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENS OF HOMESTEAD NATIONAL MONUMENT OF AMERICA</h3>C/O TAMARA WEERS FIRST NATIONAL OMA BEATRICE NE 68310-3928", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.134558501, 
+                    36.1798515660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAS VEGAS NATURAL HISTORY MUSEUM</h3><b><a href=\"http://www.lvnhm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7023843466\" target=\"_blank\">Phone</a><br>900 LAS VEGAS BLVD N LAS VEGAS NV 89101-1112", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.836704919, 
+                    39.3881245760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MILLENNIUM DIVE EXPEDITIONS INC</h3>15030 N TIMBERLINE DRIVE RENO NV 89511-8231", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.1551267159996, 
+                    40.8653038130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW YORK MICROSCOPICAL SOCIETY AMERICAN MUSEUM OF NATURAL HI</h3>1 PROSPECT VILLAGE PLZ CLIFTON NJ 07013-1951", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.5804462579997, 
+                    41.1181918160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRANKLIN MINERAL MUSEUM INC</h3><b><a href=\"http://www.franklinmineralmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:9738273481\" target=\"_blank\">Phone</a><br>PO BOX 54 FRANKLIN NJ 07416-0054", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.6175482579997, 
+                    40.0361334030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARMED FORCES HERITAGE HOUSE</h3>PO BOX 324 WRIGHTSTOWN NJ 08562-0324", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.9265998009997, 
+                    38.9644508620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAPE MAY MARITIME MUSEUM AND EDUCATION CENTER INC</h3>PO BOX 399 CAPE MAY NJ 08204-0399", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.3119786759996, 
+                    40.7383242330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEWARK HISTORY SOCIETY INC</h3>10 ALAN DRIVE SHORT HILLS NJ 07078-2103", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.726897148, 
+                    32.3450935320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PALEOZOIC TRACKWAYS FOUNDATION INC</h3>4290 VENETIAN LOOP LAS CRUCES NM 88011-4125", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.991799588, 
+                    36.7113222550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAN JUAN COUNTY MUSEUM ASSOCIATION</h3>PO BOX 125 BLOOMFIELD NM 87413-0125", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.909930519, 
+                    35.5187331610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHIPS OF EXPLORATION AND DISCOVERY RESEARCH</h3>39 CONDESA RD SANTA FE NM 87508-8136", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.892029351, 
+                    34.0864645200004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY DEV CO LLC</h3><a href=\"tel:5058350543\" target=\"_blank\">Phone</a><br>500 HAROLD DR SOCORRO NM 87801-5401", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.938449984, 
+                    35.6906631120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NEW MEXICO FOUNDATION</h3><b><a href=\"http://www.museumfoundation.org\" target=\"_blank\">Website</a></b><br>P.O. BOX 2065 SANTA FE NM 87504-2065", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.928678538, 
+                    35.6613893700004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO NATURAL HISTORY INSTITUTE</h3>1750 CAMINO CORRALES SANTA FE NM 87505", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.64280577, 
+                    35.0934334330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW MEXICO MUSEUM OF NATURAL HISTORY FOUNDATION</h3><b><a href=\"http://www.nmnaturalhistory.org\" target=\"_blank\">Website</a></b><br>PO BOX 25446 ALBUQUERQUE NM 87125-0446", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.777939782, 
+                    32.3115133270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ASOMBRO INSTITUTE FOR SCIENCE EDUCATION</h3>PO BOX 891 LAS CRUCES NM 88004-0891", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.670693362, 
+                    35.1114751180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHWEST NATURAL HISTORY INSTITUTE</h3>1819 MEADOWVIEW DRIVE NW ALBUQUERQUE NM 87104", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -106.625149461, 
+                    35.0901322990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF NEW MEXICO</h3><b><a href=\"http://www.unm.edu/~maxwell\" target=\"_blank\">Website</a></b><br><a href=\"tel:5757589826\" target=\"_blank\">Phone</a><br>1700 LOMAS BLVD. NE ALBUQUERQUE NM 87131-0001", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.8495203969997, 
+                    42.7901562690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAMBURG NATURAL HISTORY SOC</h3><a href=\"tel:7168260788\" target=\"_blank\">Phone</a><br>3556 LAKE SHORE RD BUFFALO NY 14219", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.5220929569996, 
+                    40.7685346660004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HICKSVILLE GREGORY MUSEUM</h3>1 HEITZ PL HICKSVILLE NY 11801-3101", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9801532619996, 
+                    40.7602316060004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INSTITUTE FOR AEGEAN PREHISTORY STUDY CENTER FOR EAST CRETE</h3>1270 6TH AVE NEW YORK NY 10020-1700", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9876245659996, 
+                    40.7441811390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSE FOUNDATION OF NEW YORK INC</h3>233 FIFTH AVENUE NEW YORK NY 10016-8733", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9749364459997, 
+                    40.7858708070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://www.amnh.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2127695656\" target=\"_blank\">Phone</a><br>CENTRAL PARK WEST AT 79TH ST NEW YORK NY 10024", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.0147395919997, 
+                    41.4443713700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUDSON HIGHLANDS NATURE MUSEUM</h3>PO BOX 451 CORNWALL HDSN NY 12520-0451", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.4400860589997, 
+                    44.2202739440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY MUSEUM OF THE ADIRONDACKS</h3><b><a href=\"http://www.wildcenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5183597800\" target=\"_blank\">Phone</a><br>45 MUSEUM DR TUPPER LAKE NY 12986-9712", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5381960699996, 
+                    42.4657843920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PALEONTOLOGICAL RESEARCH INSTITUTION</h3><b><a href=\"http://www.museumoftheearth.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6072736623\" target=\"_blank\">Phone</a><br>1259 TRUMANSBURG RD ITHACA NY 14850-1313", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5871376019996, 
+                    43.1531624020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCHESTER MUSEUM AND SCIENCE CENTER</h3><b><a href=\"http://www.rmsc.org/StrasenburghPlanetarium\" target=\"_blank\">Website</a></b><br><a href=\"tel:5852714320\" target=\"_blank\">Phone</a><br>657 EAST AVE ROCHESTER NY 14607-2101", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.8437397549997, 
+                    42.9068195400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUFFALO SOCIETY OF NATURAL SCIENCES</h3><b><a href=\"http://www.sciencebuff.org\" target=\"_blank\">Website</a></b><br>1020 HUMBOLDT PKWY BUFFALO NY 14211-1208", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.8403574489997, 
+                    42.6245663370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIELD RESEARCH AND SCIENTIFIC STUDIES</h3>160 HUDSON AVENUE DELMAR NY 12054-1029", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5500626689997, 
+                    42.4376072880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL HISTORY SOCIETY OF THE FINGER LAKES REGION INC</h3>798 ELM STREET EXTENSION ITHACA NY 14850", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.1444474979996, 
+                    42.0395059160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHN BURROUGHS NATURAL HISTORY SOCIETY</h3>10 LARK DRIVE WOODSTOCK NY 12498", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9209367179997, 
+                    40.8228902540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRONX CHILDRENS MUSEUM</h3>PO BOX 1381 NEW YORK NY 10451", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9632849489997, 
+                    40.7688914750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INSTITUTE FOR THE EXPLORATION OF SENECA VILLAGE HISTORY</h3>955 LEXINGTON AVE NEW YORK NY 10021-5128", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.7242426739996, 
+                    40.7957574370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREAT NECK HISTORICAL SOCIETY</h3>131 ALLENWOOD RD GREAT NECK NY 11023-2336", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.5057111739997, 
+                    33.8718116680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD BRIDGE PRESERVATION SOCIETY</h3>404 3RD STREET SUNSET BEACH NC 28468-4021", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1587909569997, 
+                    35.2528486120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRUSTEES OF THE SCHIELE MUSEUM INC</h3><b><a href=\"http://www.schielemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7048666900\" target=\"_blank\">Phone</a><br>1500 E GARRISON BLVD GASTONIA NC 28054-5133", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8322231759997, 
+                    36.1302899250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATURAL SCIENCE CENTER OF GREENSBORO INC</h3><b><a href=\"http://www.natsci.org\" target=\"_blank\">Website</a></b><br>4301 LAWNDALE DR GREENSBORO NC 27455-1816", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.8997831859996, 
+                    36.0288832310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH CAROLINA MUSEUM OF LIFE & SCIENCE</h3><b><a href=\"http://www.ncmls.org\" target=\"_blank\">Website</a></b><br>433 W MURRAY AVE DURHAM NC 27704-3101", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.5515061799996, 
+                    35.5949333350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLBURN GEM AND MINERAL MUSEM INC</h3>2 S PACK SQ PACK PLACE ASHVILLE NC 28802-1617", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7873294149996, 
+                    35.3046102790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AURORA FOSSIL MUSEUM FOUNDATION INC</h3><b><a href=\"http://www.aurorafossilmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2523224238\" target=\"_blank\">Phone</a><br>400 MAIN ST AURORA NC 27806-0352", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.782303809, 
+                    46.8943703760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAKOTA DINOSAUR MUSEUM</h3><b><a href=\"http://Www.Dakotadino.Com\" target=\"_blank\">Website</a></b><br><a href=\"tel:7012253466\" target=\"_blank\">Phone</a><br>200 E MUSEUM DR DICKINSON ND 58601-4000", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.2033250589997, 
+                    39.7885596940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAYTON SOCIETY OF NATURAL HISTORY DAYTON MUSEUM OF NATURAL H</h3><b><a href=\"http://www.boonshoftmuseum.org\" target=\"_blank\">Website</a></b><br>2600 DEWEESE PKWY DAYTON OH 45414-5400", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.4261363329996, 
+                    39.8633404860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAY TOWNSHIP HISTORICAL SOCIETY</h3>8207 ARLINGTON ROAD BROOKVILLE OH 45309-8697", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6118456019997, 
+                    41.5127002270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLEVELAND MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://www.cmnh.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2162311706\" target=\"_blank\">Phone</a><br>1 WADE OVAL DR CLEVELAND OH 44106-1701", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.3761372179997, 
+                    40.7944794590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CANTON CLASSIC CAR MUSEUM</h3><b><a href=\"http://www.cantonclassiccar.org\" target=\"_blank\">Website</a></b><br>612 MARKET AVE S CANTON OH 44702-2114", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.7904281459997, 
+                    40.3926106780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL AVIATION ORGANIZATION OF LOGAN COUNTY</h3>2038 TWP RD 218 BELLEFONTAINE OH 43311-9063", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.5002265919996, 
+                    34.7267627750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MEDICINE PARK MUSEUM OF NATURAL SCIENCE INC</h3>PO BOX 337 MEDICINE PARK OK 73557-0337", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.4048700689997, 
+                    35.4118357180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANADARKO BASIN MUSEUM OF NATURAL HISTORY INC</h3><a href=\"tel:5802430437\" target=\"_blank\">Phone</a><br>204 N MAIN ELK CITY OK 73644", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.5184100909997, 
+                    34.0114923090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRAZOS VALLEY MUSEUM OF NATURAL SCIENCE</h3>603 W JACKSON HUGO OK 74743", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.101697682, 
+                    44.0175338220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EUGENE NATURAL HISTORY SOCIETY</h3><b><a href=\"http://biology.uoregon.edu/enhs\" target=\"_blank\">Website</a></b><br>PO BOX 5494 EUGENE OR 97405", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.678029231, 
+                    45.5273797840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OREGON NATURAL HISTORY COALITION</h3><b><a href=\"http://www.oregonnhc.org\" target=\"_blank\">Website</a></b><br>PO BOX 5151 PORTLAND OR 97208", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.346412565, 
+                    43.9710741900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE HIGH DESERT MUSEUM</h3><b><a href=\"http://www.highdesertmuseum.org\" target=\"_blank\">Website</a></b><br>59800 S HWY 97 BEND OR 97702-7962", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68177897, 
+                    45.5133975560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHWEST MUSEUM OF NATURAL HISTORY ASSOCIATION</h3>PO BOX 1943 PORTLAND OR 97207", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.924972307, 
+                    42.3890133330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROXY ANN GEM & MINERAL INC</h3><b><a href=\"http://craterrock.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:5416646081\" target=\"_blank\">Phone</a><br>2002 SCENIC AVE CENTRAL POINT OR 97502-0041", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.949836617, 
+                    45.5752065190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RICE NORTHWEST MUSEUM OF ROCKS AND MINERALS</h3><b><a href=\"http://www.ricenorthwestmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5036472418\" target=\"_blank\">Phone</a><br>26385 NW GROVELAND DR HILLSBORO OR 97124-9351", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.650356029, 
+                    42.2030136540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KERBYVILLE MUSEUM BOARD</h3>PO BOX 3003 KERBY OR 97531-3003", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.074640221, 
+                    44.0088615920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARCHAEOLOGICAL LEGACY INSTITUTE</h3>4147 E AMAZON DR EUGENE OR 97405-4660", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4023769119996, 
+                    40.0616793420004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE SOCIETY OF THE SONS AND DAUGHTERS OF THE VETERANS OF THE</h3>663 FERNFIELD CIRCLE WAYNE PA 19087-2002", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7032681529997, 
+                    39.7386743350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STEAM INTO HISTORY INC</h3>221 W PHILA ST S YORK PA 17349-0128", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1881172229997, 
+                    39.9575081520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ACADEMY OF NATURAL SCIENCES OF</h3><b><a href=\"http://www.ansp.org\" target=\"_blank\">Website</a></b><br>3201 ARCH ST STE 400 PHILADELPHIA PA 19104-2755", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9523890359997, 
+                    40.2056537870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MESSIAH COLLEGE</h3><b><a href=\"http://www.messiah.edu\" target=\"_blank\">Website</a></b><br>ONE COLLEGE AVENUE MECHANICSBURG PA 17055-6805", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3193337649997, 
+                    40.0445219850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH MUSEUM CORPORATION</h3><b><a href=\"http://www.northmuseum.org\" target=\"_blank\">Website</a></b><br>400 COLLEGE AVE LANCASTER PA 17603-3393", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1500509229996, 
+                    40.0012587090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHILADELPHIA VIETNAM VETERANS MEMORIAL ADVISORY FUND</h3>1229 W ALLEGHENY AVE PHLIADELPHIA PA 19133-1308", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2363282809997, 
+                    40.6696730420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE AND LEHIGH NATIONAL HERITAGE CORRIDOR INC</h3><b><a href=\"http://www.delawareandlehigh.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6102506703\" target=\"_blank\">Phone</a><br>2750 HUGH MOORE PARK RD EASTON PA 18042-7120", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3120389859997, 
+                    40.0337639930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KEYSTONE NATURAL HISTORY PRESERVATION FOUNDATION</h3><b><a href=\"https://www.facebook.com/pages/Keyst\" target=\"_blank\">Website</a></b><br>517 SAINT JOSEPH STREET LANCASTER PA 17603", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.8490057519996, 
+                    40.4083687270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MENGEL NATURAL HISTORY SOCIETY INC</h3>3326 PRICETOWN RD FLEETWOOD PA 19522", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.5250384769997, 
+                    41.4830810230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RHODE ISLAND NATURAL HISTORY SURVEY</h3><b><a href=\"http://www.rinhs.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018745800\" target=\"_blank\">Phone</a><br>PO BOX 1858 KINGSTON RI 02881-0498", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.6410712309997, 
+                    34.5133968510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CORDILLERA PRESERVATION FOUNDATION</h3>402 BOULEVARD ANDERSON SC 29621-4004", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2230049069997, 
+                    34.9723389740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HILTON POND CENTER FOR PIEDMONT NATURAL HISTORY</h3><b><a href=\"http://www.hiltonpond.org\" target=\"_blank\">Website</a></b><br>1432 DEVINNEY ROAD YORK SC 29745", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9314871059997, 
+                    32.7763832580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHARLESTON NATURAL HISTORY SOCIETY INC</h3><b><a href=\"http://charlestonaudubon.org\" target=\"_blank\">Website</a></b><br>PO BOX 504 CHARLESTON SC 29402", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0302055089996, 
+                    33.9977104580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF SOUTH CAROLINA, RESEARCH</h3>901 SUMTER ST., SUITE 501 COLUMBIA SC 29208", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.9257182169997, 
+                    42.7825226630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE MUSEUM WH OVER MUSEUM</h3><b><a href=\"http://www.usd.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056775228\" target=\"_blank\">Phone</a><br>414 E CLARK ST VERMILLION SD 57069-2307", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.475809562, 
+                    43.4326327940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAMMOTH SITE OF HOT SPRINGS SOUTH DAKOTA INC</h3><b><a href=\"http://www.mammothsite.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6057456017\" target=\"_blank\">Phone</a><br>1800 US 18 BYPASS HOT SPRINGS SD 57747-0692", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.573528733, 
+                    43.9344418100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLACK HILLS MUSEUM OF NATURAL HISTORY FOUNDATION INC</h3>PO BOX 614 HILL CITY SD 57745-0614", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.4026138649996, 
+                    35.9137088760004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MID-TENNESSEE GEM & MINERAL SOCIETY INC</h3>3415 NORTHBORO CT MURFREESBORO TN 37129-1209", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.5241473149997, 
+                    35.7139072740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MIDDLE TENNESSEE MUSEUM OF NATURAL HISTORY</h3>13735 VERSAILLES RD ROCKVALE TN 37153-4649", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.7720726369997, 
+                    32.3787070750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST TEXAS SCIENCE CENTER</h3>5701 BUFFALO GAP RD STE A ABILENE TX 79606-4926", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8300585099997, 
+                    32.7033110960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF EARTH HISTORY INC</h3>3404 CONWAY ST DALLAS TX 75224-4005", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.8611498059997, 
+                    27.5156434160004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TROPICAL TRAIL REGION OF TEXAS</h3><a href=\"tel:3615924603\" target=\"_blank\">Phone</a><br>635 E KING AVE STE 102 KINGSVILLE TX 78363-5787", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.7616973389997, 
+                    32.2269334520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLEN ROSE TEXAS DINOSAUR TRACK SITE</h3>PO BOX 802 GLEN ROSE TX 76043-0802", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.3891225359997, 
+                    29.7209328070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOUSTON MUSEUM OF NATURAL SCIENCE</h3>5555 HERMANN PARK DR HOUSTON TX 77030-1718", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.4079041269997, 
+                    29.0448019270004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRAZOSPORT MUSEUM OF NATURAL SCIENCE</h3><b><a href=\"http://www.bcfas.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9792657831\" target=\"_blank\">Phone</a><br>400 COLLEGE DR CLUTE TX 77531-4778", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.2686187969996, 
+                    29.1951016720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EL CAMPO MUSEUM OF ART HISTORY AND SCIENCE INC</h3>PO BOX 23 EL CAMPO TX 77437-0023", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7475311259997, 
+                    29.5366808030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOVERNMENT CANYON NATURAL HISTORY ASSOCIATION</h3><b><a href=\"http://www.friendsofgc.org\" target=\"_blank\">Website</a></b><br>12861 GALM RD SAN ANTONIO TX 78254", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7619812649997, 
+                    30.2209615500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LLANO MUSEUM OF NATURAL HISTORY INC</h3>8192 EAST US HWY 290 FREDERICKSBURG TX 78624", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.3220237959997, 
+                    30.6670339110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRAZOS VALLEY MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://brazosvalleymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:9797768338\" target=\"_blank\">Phone</a><br>3232 BRIARCREST DR BRYAN TX 77802-3015", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.561768161, 
+                    32.9405136850004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEAGRAVES-LOOP MUSEUM AND ART CENTER INC</h3>PO BOX 1423 SEAGRAVES TX 79359-1423", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8062151609997, 
+                    32.7874018070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEROT MUSEUM OF NATURE AND SCIENCE</h3><b><a href=\"http://www.dallasdino.org\" target=\"_blank\">Website</a></b><br>2201 N FIELD ST DALLAS TX 75201-1704", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.8513697729996, 
+                    29.2725516010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOODY GARDENS</h3><b><a href=\"http://www.moodygardens.com/?\" target=\"_blank\">Website</a></b><br><a href=\"tel:4097444673\" target=\"_blank\">Phone</a><br>1 HOPE BLVD GALVESTON TX 77554", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.3989094859997, 
+                    29.7900415330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THEATER LAB HOUSTON</h3>PO BOX 70755 HOUSTON TX 77270-0755", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.885230557, 
+                    40.4252279340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN PALEONTOLOGICAL LABS</h3><b><a href=\"http://www.westernpaleolabs.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014374878\" target=\"_blank\">Phone</a><br>2929 THANKSGIVING WAY LEHI UT 84043", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.06546389, 
+                    37.6619791110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAPPY CANYON RIM RESEARCH & FIELD FOUNDATION</h3>890 SPRUCE STREET CEDAR CITY UT 84720-3751", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.554945687, 
+                    37.3096903250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHWEST HERITAGE FOUNDATION INC</h3>PO BOX 46 BLUFF UT 84512-0046", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.835970964, 
+                    40.5633525930004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DISASTER SAFETY MUSEUM INC</h3>1934 ASHLEY MESA LANE SANDY UT 84092-4310", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.346155227, 
+                    40.4026206240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERMOUNTAIN NATURAL HISTORY ASSOCIATION INC</h3>2430 S 9500 E JENSEN UT 84035", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.481547946, 
+                    37.6144019560004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DINOSAUR MUSEUM</h3><b><a href=\"http://www.dinosaur-museum.org\" target=\"_blank\">Website</a></b><br>754 S 200 W BLANDING UT 84511-3909", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.654449569, 
+                    37.1322533400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROSENBRUCH FOUNDATION INC</h3>PO BOX 471 SANTA CLARA UT 84765-0471", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.470659755, 
+                    37.0266415680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PARIA RIVER NATURAL HISTORY ASSOCIATION</h3>PO BOX 410075 BIG WATER UT 84741-8474", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5396290549996, 
+                    43.6202916950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VERMONT INSTITUTE OF NATURAL SCIENCE</h3><a href=\"tel:8023595000\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.3866107859997, 
+                    44.3339654360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VERMONT ENTOMOLOGICAL SOCIETY</h3>630 BEAVER MEADOW RD MARSHFIELD VT 05658-7146", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.9986183509997, 
+                    42.8927412310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VERMONT MUSEUM OF NATURAL HISTORY INC</h3>7599 VERMONT ROUTE 9 WEST MARLBORO VT 5363", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5014393949996, 
+                    44.1964412890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VERMONT GRANITE MUSEUM OF BARRE INC</h3>PO BOX 282 BARRE VT 05641-0282", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.3052041479996, 
+                    43.7047314410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MONTSHIRE MUSEUM OF SCIENCE</h3><b><a href=\"http://www.montshire.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026492200\" target=\"_blank\">Phone</a><br>1 MONTSHIRE RD NORWICH VT 05055-9334", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3081159839996, 
+                    37.0063611550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT MONROE NATIONAL PARK FOUNDATION INC</h3>PO BOX 51097 FORT MONROE VA 23651-0097", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.4300691259996, 
+                    36.5882218240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE JOHN JAMES WESTBROOK JR SOCIETY OF NATURAL HISTORY</h3>PO BOX 231 DANVILLE VA 24543", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4793640779997, 
+                    37.0716362230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VIRGINIA LIVING MUSEUM INC</h3><b><a href=\"http://www.thevlm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7575951900\" target=\"_blank\">Phone</a><br>524 J CLYDE MORRS BLVD NEWPORT NEWS VA 23601-1929", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.57743317, 
+                    46.7191754970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WENAS MAMMOTH FOUNDATION</h3>2741 S WENAS RD SELAH WA 98942-9159", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.017383494, 
+                    48.5355647810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHALE MUSEUM</h3><b><a href=\"http://www.whalemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3603784710\" target=\"_blank\">Phone</a><br>62 1ST ST N FRIDAY HARBOR WA 98250-0945", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.496696917, 
+                    48.7583024740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHWEST DISCOVERY PROJECT</h3>1801 ROEDER AVE BELLINGHAM WA 98228-4148", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.436430605, 
+                    47.2446175810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PUGET SOUND MODEL RAILROAD ENGINEERS</h3><b><a href=\"http://www.washingtonhistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8882384373\" target=\"_blank\">Phone</a><br>1911 PACIFIC AVE TACOMA WA 98402-3109", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.2562398779996, 
+                    39.2831005210004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARRISON COUNTY WEST VIRGINIA HISTORICAL SOCIETY INC</h3>PO BOX 4695 BRIDGEPORT WV 26330-4695", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.0160183799997, 
+                    43.0038502840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAMBRIDGE HISTORIC SCHOOL FOUNDATION INC</h3>PO BOX 214 CAMBRIDGE WI 53523-0214", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.1523729029997, 
+                    42.9450083440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTONS ANTIQUE APPLE FOUNDATION INC</h3><a href=\"tel:2626792862\" target=\"_blank\">Phone</a><br>5470 S OVERLOOK DR NEW BERLIN WI 53146-4327", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.2212279129997, 
+                    42.9313698680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WARE FAMILY ASSOCIATION INC</h3>1541 WILLIAMS DRIVE STOUGHTON WI 53589-3335", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.2919660149997, 
+                    46.2077146200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CABLE NATURAL HISTORY MUSEUM INC</h3>13470 COUNTY HIGHWAY M CABLE WI 54821-0416", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.87382024, 
+                    42.8614364060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLENROCK PALEONTOLOGICAL MSM</h3><b><a href=\"http://www.paleon.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3074362667\" target=\"_blank\">Phone</a><br>506 W BIRCH ST GLENROCK WY 82637", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.615287764, 
+                    43.7196942640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND TETON NATURAL HISTORY ASSOCIATION</h3><a href=\"tel:3077393606\" target=\"_blank\">Phone</a><br>PO BOX 170 MOOSE WY 83012-0170", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

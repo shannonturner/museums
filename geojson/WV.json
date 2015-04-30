@@ -1,0 +1,3965 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4382972329997, 
+                    38.4234803130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENBOTTOM SOCIETY INC</h3>PO BOX 2556 HUNTINGTON WV 25726-2556", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6129683119997, 
+                    38.3354973530004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA STATE MUSEUM</h3><a href=\"tel:3045580220\" target=\"_blank\">Phone</a><br>1900 KANAWHA BLVD. CHARLESTON WV 25305-0300", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4770981359997, 
+                    39.0373841080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA UNI JACKSON MILL</h3><b><a href=\"http://jacksonsmill.ext.wvu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:3042696682\" target=\"_blank\">Phone</a><br>160 WVU JACKSON ML WESTON WV 26452", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.9035665709997, 
+                    39.4924421800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TYLER MUSEUM CO.</h3><a href=\"tel:3047582100\" target=\"_blank\">Phone</a><br>DODD ST MIDDLEBOURNE WV 26149", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1973611949996, 
+                    37.7846459680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>YOUTH MUSEUM OF SOUTHERN WEST VIRGINIA</h3><b><a href=\"http://www.beckley.org/youth_museum/index.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:3042523730\" target=\"_blank\">Phone</a><br>509 EWART AVE BECKLEY WV 25802-2514", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1741966229997, 
+                    37.7714348900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILDWOOD HOUSE MUSEUM</h3><a href=\"tel:3042528614\" target=\"_blank\">Phone</a><br>121 LAUREL TER BECKLEY WV 25801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7431277009997, 
+                    39.9174932450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA PENITENTIARY</h3><b><a href=\"http://www.wvpentours.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3048456200\" target=\"_blank\">Phone</a><br>818 JEFFERSON AVE MOUNDSVILLE WV 26041", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2007550479997, 
+                    37.2639260330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WV SCIENCE CENTER</h3>2207 ORCHARD WAY BLUEFIELD WV 24701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3420379859996, 
+                    39.5260017020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST AUGUSTA HISTORICAL SOCIETY</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.1081089209997, 
+                    38.8615808410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA STATE FARM MUSEUM</h3>ROUTE 1 POINT PLEASANT WV 25550", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5534930739997, 
+                    39.2688332140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUMNERITES MUSEUM AND COMMUNITY CENTER</h3><a href=\"tel:3044851152\" target=\"_blank\">Phone</a><br>1016 AVERY ST PARKERSBURG WV 26101", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6941576609997, 
+                    38.3654736900004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH CHARLESTON MUSEUM</h3><a href=\"tel:3047449711\" target=\"_blank\">Phone</a><br>311 D ST SOUTH CHARLESTON WV 25303", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6418713469997, 
+                    38.3452128730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUNRISE MUSEUMS</h3><a href=\"tel:3043448035\" target=\"_blank\">Phone</a><br>746 MYRTLE ROAD CHARLESTON WV 25314", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.6839978639997, 
+                    39.3388734870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROWLESBURG HISTORICAL SOCIETY</h3>BUFFALO ST ROWLESBURG WV 26425", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.5466748529997, 
+                    39.4452616230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESTON COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:3047896990\" target=\"_blank\">Phone</a><br>109 E WASHINGTON AVE TERRA ALTA WV 26764", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8755756719997, 
+                    38.8371513980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RANDOLPH COUNTY MUSEUM</h3><a href=\"tel:3046361953\" target=\"_blank\">Phone</a><br>MAIN ST BEVERLY WV 26253", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2030221149997, 
+                    37.7847198550004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RALEIGH COUNTY VETERAN'S</h3><a href=\"tel:3042531775\" target=\"_blank\">Phone</a><br>1557 HARPER RD BECKLEY WV 25801", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8039177449996, 
+                    38.4049511780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL RADIO ASTRONOMY OBSERVATORY</h3><b><a href=\"http://www.nrao.edu/index.php/about/facilities/gbt\" target=\"_blank\">Website</a></b><br><a href=\"tel:3044562011\" target=\"_blank\">Phone</a><br>P.O. BOX 2 GREEN BANK WV 24944", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1435304799996, 
+                    39.4845366980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARION COUNTY HISTORICAL MSM</h3><b><a href=\"http://www.marionhistorical.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3043675398\" target=\"_blank\">Phone</a><br>211 ADAMS ST FAIRMONT WV 26554", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.1387540839997, 
+                    38.8428013850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE MOTHMAN MUSEUM</h3><b><a href=\"http://www.mothmanmuseum.com/\" target=\"_blank\">Website</a></b><br>411 MAIN STREET POINT PLEASANT WV 25550", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8401667969997, 
+                    38.2957133950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NICHOLAS COUNTY HERITAGE MUSEUMS</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.3903376499997, 
+                    38.4286225470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MADIE CARROLL HOUSE</h3><a href=\"tel:2344892678\" target=\"_blank\">Phone</a><br>234 GUYAN ST HUNTINGTON WV 25702", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4547224509997, 
+                    37.8049319320004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH HOUSE MUSEUM</h3><a href=\"tel:3046453398\" target=\"_blank\">Phone</a><br>301 WEST WASHINGTON ST. LEWISBURG WV 24901-1324", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6948958819997, 
+                    40.0663118260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUMS OF OGLEBAY INSTITUTE-MANSION MUSEUM & GLASS MUSEUM</h3><a href=\"tel:3042427272\" target=\"_blank\">Phone</a><br>THE BURTON CENTER, OGLEBAY PARK WHEELING WV 26003", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5433699259997, 
+                    39.2514745080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MC LAUGHLIN MOTORCAR MUSEUM</h3><a href=\"tel:3048650865\" target=\"_blank\">Phone</a><br>2910 7TH ST PARKERSBURG WV 26101", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9329704889997, 
+                    39.6418675720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MORGAN TOWN GLASS MUSEUM</h3><b><a href=\"http://www.morgantownglassmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3042912957\" target=\"_blank\">Phone</a><br>1628 MILEGROUND RD MORGANTOWN WV 26505", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6579437949997, 
+                    40.0409792870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KRUGER STREET TOY AND TRAIN MUSEUM</h3><b><a href=\"http://www.toyandtrain.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3042428133\" target=\"_blank\">Phone</a><br>144 KRUGER ST WHEELING WV 26003", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7311866779996, 
+                    39.3236263690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHN BROWN WAX MUSEUM</h3><b><a href=\"http://www.johnbrownwaxmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3045356342\" target=\"_blank\">Phone</a><br>168 HIGH ST HARPERS FERRY WV 25425", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6588787419997, 
+                    40.0431337180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOOD ZOO & BENEDUM PLANETARIUM</h3>ROUTE 88 NORTH WHEELING WV 26003", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.3008964199997, 
+                    38.4684722840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEN. ALBERT GALLATIN JENKINS HOUSE</h3>8814 OHIO RIVER RD GREEN BOTTOM WV 25537", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7451089049997, 
+                    39.9194125660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOSTORIA GLASS MUSEUM</h3><b><a href=\"http://www.fostoriaglass.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3048459188\" target=\"_blank\">Phone</a><br>6TH ST & TOMLINSON AVE MOUNDSVILLE WV 26041", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6010276229997, 
+                    40.4905315400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HANCOCK COUNTY HISTORICAL MUSEUM</h3><b><a href=\"http://hancockcountyhistoricalmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3045644800\" target=\"_blank\">Phone</a><br>1008 RIDGE AVE NEW CUMBERLAND WV 26047", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.5593896899996, 
+                    38.3933637750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CEREDO HISTORICAL SOCIETY MSM</h3><a href=\"tel:3044533025\" target=\"_blank\">Phone</a><br>601 MAIN ST CEREDO WV 25507", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5901332869997, 
+                    38.3331443050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRAIK-PATTON HOUSE</h3><b><a href=\"http://www.craik-patton.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3049255341\" target=\"_blank\">Phone</a><br>2809 KANAWHA BLVD E CHARLESTON WV 25311", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.2760998689997, 
+                    37.6772409670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COAL HOUSE</h3>HISTORIC PL WILLIAMSON WV 25661", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9579769839996, 
+                    39.6272510170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COMER MUSEUM</h3><a href=\"tel:3042935695\" target=\"_blank\">Phone</a><br>125 COMER BUILDING WEST VIRGINIA UNIVERSITY MORGANTOWN WV 26506-6070", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5368897579996, 
+                    38.7725429880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CUNNINGHAM HOUSE AND OUTBUILDINGS</h3>E OF NAPIER NAPIER WV 26631", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0409492259997, 
+                    39.1530409100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BARBOUR COUNTY MUSEUM</h3><a href=\"tel:3044574846\" target=\"_blank\">Phone</a><br>200 N MAIN ST PHILIPPI WV 26416", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0986628669996, 
+                    38.1357471500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANSTED CULTURE AND HERITAGE MSM</h3><a href=\"tel:3046585901\" target=\"_blank\">Phone</a><br>110 E MAIN ST ANSTED WV 25812", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8884305249996, 
+                    37.6758544700004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAMPBELL FLANNAGAN MURRELL HSE</h3>422 SUMMERS ST HINTON WV 25951", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6139886299997, 
+                    40.2692285080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BROOKE COUNTY MUSEUM</h3><a href=\"tel:3047374060\" target=\"_blank\">Phone</a><br>600 MAIN ST WELLSBURG WV 26070", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4491753769997, 
+                    37.8010103430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARNEGIE HALL WEST VIRGINIA</h3><b><a href=\"http://www.carnegiehallwv.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3046457917\" target=\"_blank\">Phone</a><br>105 CHURCH ST LEWISBURG WV 24901", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3004404009997, 
+                    39.3958731540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BICE FERGUSON MEMORIAL MUSEUM</h3><b><a href=\"http://www.shinnstonwv.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3045921942\" target=\"_blank\">Phone</a><br>400 PIKE ST SHINNSTON WV 26431", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.8219035669997, 
+                    38.0645272250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BITUMINOUS COAL HERITAGE FOUNDATION</h3><b><a href=\"http://www.wvcoalmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3043695180\" target=\"_blank\">Phone</a><br>347 MAIN ST MADISON WV 25130", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0509188979997, 
+                    39.2457704190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANNA JARVIS BIRTH PLACE MUSEUM</h3><a href=\"tel:3042655549\" target=\"_blank\">Phone</a><br>ROUTE 119 GRAFTON WV 26354", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.2276744879996, 
+                    38.9906331750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BAILEY SCHOOL PRESERVATION ASSOCIATION</h3>5 THIRD AVENUE BUCKHANNON WV 26201-2621", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.2125694529997, 
+                    39.2847227870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA STATE CCC MUSEUM ASSOCIATION INC</h3>310 MAPLELAKE DRIVE BRIDGEPORT WV 26330", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4642081499996, 
+                    39.0396503350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOUNTAINEER MILITARY MUSEUM</h3><b><a href=\"http://www.mountaineermilitarymuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3044723943\" target=\"_blank\">Phone</a><br>345 CENTER AVE WESTON WV 26452-2030", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.0530266929997, 
+                    39.3358619210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>A LIGHT IN THE WORLD MUSEUM INC</h3>PO 302 BUNKER HILL WV 25413-0302", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0208943449996, 
+                    39.3412681490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TAYLOR COUNTY HISTORICAL & GENEALOG ICAL SOCIETY</h3>107 WEST MAIN STREET GRAFTON WV 26354-1314", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0344390309996, 
+                    37.6560220140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF COOPERS MILL</h3>HC 85 BOX 37B JUMPING BRANCH WV 25969-9511", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8599389989997, 
+                    39.2890140730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF HAPPY RETREAT INC</h3><a href=\"tel:3047247008\" target=\"_blank\">Phone</a><br>PO BOX 1427 CHARLES TOWN WV 25414-7427", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5468281349997, 
+                    39.2768828190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WOOD COUNTY HISTORICAL & PRESERVATION SOCIETY INC</h3>PO BOX 565 PARKERSBURG WV 26101-2610", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5289923779997, 
+                    39.2672176790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VETERANS MUSEUM OF MID OHIO VALLEY</h3><b><a href=\"http://veteransmuseumofmidohiovalley.com\" target=\"_blank\">Website</a></b><br>1829 7TH ST PARKERSBURG WV 26101-4250", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.8948283049996, 
+                    38.6921233050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA CEMETERY PRESERVATION ASSOCIATION INC</h3>PO BOX 131 LEON WV 25123-0131", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1916690509997, 
+                    37.6591222940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STOCORALEIGH COUNTY VETERANS MEMORIAL ASSOCIATION</h3>148 LEPRINCE COURT COAL CITY WV 25823", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.8931478979997, 
+                    38.5335546790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOGE HOUSE FOUNDATION</h3>3389 WINFIELD ROAD WINFIELD WV 25213-9370", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.1391088519997, 
+                    38.8419434360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT RANDOLPH COMMITTEE</h3>PO BOX 86 POINT PLEASANT WV 25550-0086", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.3123482899996, 
+                    38.6618733780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SEYBERT HERITAGE EDUCATIONAL ASSOCIATION</h3>PO BOX 321 FRANKLIN WV 26807-0321", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8044272099996, 
+                    39.4332725970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHEPHERDSTOWN BATTLEFIELD PRESERVATION ASSOCIATION INC</h3>PO BOX 3359 SHEPHERDSTOWN WV 25443-3359", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0611285549996, 
+                    39.5771218090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EVERETTVILLE HISTORICAL ASSOCIATION</h3><b><a href=\"http://www.wveha.org\" target=\"_blank\">Website</a></b><br>15 EDNA GAS ROAD MORGANTOWN WV 26501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6317469199997, 
+                    38.3493719010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRAIK PATTON INC</h3><a href=\"tel:3049255341\" target=\"_blank\">Phone</a><br>PO BOX 175 CHARLESTON WV 25321-0175", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8044272099996, 
+                    39.4332725970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC SHEPHERDSTOWN MUSEUM</h3><a href=\"tel:3048760910\" target=\"_blank\">Phone</a><br>PO BOX 1786 SHEPHERDSTOWN WV 25443-1786", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6096066039997, 
+                    40.2722360100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BROOKE COUNTY VETERANS MEMORIAL PARK FOUNDATION INC</h3>1010 COMMERCE ST WELLSBURG WV 26070-1567", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8566758999996, 
+                    39.5900012850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FALLING WATERS BATTLEFIELD ASSOCIATION INC</h3>PO BOX 339 FALLING WATERS WV 25419-0339", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6793710429997, 
+                    40.0776350900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT HENRY LIVING HISTORY INC</h3>57 BISHOP STREET WHEELING WV 26003-1538", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5070434849997, 
+                    39.3111835530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MADDOX CEMETERY TR</h3>23 LAKE DRIVE PARKERSBURG WV 26104-9240", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5424413159997, 
+                    40.2792665160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PANHANDLE PUMPERS SOCIETY</h3>132 SCENERY HILL DRIVE WELLSBURG WV 26070-2142", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8044272099996, 
+                    39.4332725970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHENANDOAH AND POTOMAC VALLEY GARDEN RAILROAD CLUB INC</h3>PO BOX 82 SHEPHERDSTOWN WV 25443-0082", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5896869019996, 
+                    40.4061731540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THEDUNBAR SCHOOL DOCTOR A J MAJOR HISTORICAL MUSEUM INC</h3>3139 WEST STREET WEIRTON WV 26062-4636", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1824657839996, 
+                    37.7837055630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN WEST VIRGINIA MULTI- CULTURAL MUSEUM AND COMMUNITY</h3>100 WASHINGTON AVE BECKLEY WV 25801-3948", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.0489955649996, 
+                    39.4817519190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIEDMONT HISTORIC PRESERVATION FOUNDATION LTD</h3><b><a href=\"http://piedmontwv.org\" target=\"_blank\">Website</a></b><br>81 SECOND STREET PIEDMONT WV 26750", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0127370869997, 
+                    38.1927040420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUNTERSVILLE HISTORICAL TRADITIONS</h3>HC 82 BOX 21 MARLINTON WV 24954-9501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4547224509997, 
+                    37.8049319320004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENBRIER HISTORICAL SOCIETY</h3><b><a href=\"http://www.greenbrierhistorical.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3046453398\" target=\"_blank\">Phone</a><br>NORTH HOUSE MUSEUM 301 W WASHINGTON LEWISBURG WV 24901-1324", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4382972329997, 
+                    38.4234803130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLLIS P HUNTINGTON RAILROAD HISTORICAL SOCIETY INC</h3>PO BOX 393 HUNTINGTON WV 25708-0393", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1832467759996, 
+                    37.8105608200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RALEIGH COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 2 BECKLEY WV 25802-0002", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8519865409996, 
+                    38.9234015800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RANDOLPH COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:3046361573\" target=\"_blank\">Phone</a><br>PO BOX 1164 ELKINS WV 26241", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5691895979996, 
+                    38.2414694960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELIZAVILLE HISTORICAL SOCIETY</h3>714 98TH ST CHARLESTON WV 25315-1904", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8467969869997, 
+                    38.9250633880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RANDOLPH COUNTY COMMUNITY ARTS COUNSIL</h3><a href=\"tel:3046362000\" target=\"_blank\">Phone</a><br>PO BOX 3111 ELKINS WV 26241-6111", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6159355739996, 
+                    38.3362959500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EXECUTIVE MANSION RENOVATION FUND INC</h3>1716 KANAWHA BLVD E CHARLESTON WV 25305-0008", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9574297909996, 
+                    39.6280580570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF MORGANTOWN HISTORY MUSEUM</h3>111 HIGH STREET MORGATOWN WV 26503", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2216736299997, 
+                    37.2667274280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GARY BOWLINGS HOUSE OF ART</h3><a href=\"tel:3043279300\" target=\"_blank\">Phone</a><br>701 BLAND ST BLUEFIELD WV 24701-3503", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6319409179997, 
+                    38.3513722190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE SCOTTISH RITE OF CHARLESTON WV HISTORIC TEMPLE PRESERVAT</h3>406 CAPITOL STREET CHARLESTON WV 25301", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5610673729997, 
+                    39.2654150070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON AVENUE HISTORICAL COMMUNITY ASSOCIATION INC</h3>412 MARKET STREET SUITE 201 PARKERSBURG WV 26101-5398", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8853268649996, 
+                    39.3870330500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RELIVING HISTORY INC</h3>PO BOX 803 KEARNEYSVILLE WV 25430-0803", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6939632689997, 
+                    40.0818077210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIVER HERITAGE FOUNDATION INC</h3>1 HAWTHORNE CT WHEELING WV 26003-6635", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1354357319997, 
+                    38.4659457150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAY COUNTY VETERANS MEMORIAL FUND</h3>2312 BLUE KNOB RD MAYSEL WV 25133-8065", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8495172849996, 
+                    38.9264352310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KUMP HOUSE ENDOWMENT TRUST</h3>401 DAVIS AVE STE 313 ELKINS WV 26241-3899", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5935559899997, 
+                    37.7116925150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOMING COUNTY HISTORICAL MUSEUM</h3><b><a href=\"http://www.wyomingcountymuseum.webs.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3046826231\" target=\"_blank\">Phone</a><br>PO BOX 2041 OCEANA WV 24870", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7419522259997, 
+                    39.9236032440004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARX TOY MUSEUM INC</h3><b><a href=\"http://www.marxtoymuseum.com\" target=\"_blank\">Website</a></b><br>915 2ND ST MOUNDSVILLE WV 26041-1422", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.6858492979997, 
+                    39.1002931100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CORRICKS FORD BATTLEFIELD ASSOCIATION</h3>213 JERSEY LANE PARSONS WV 26287-8098", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7378489639997, 
+                    37.8331809180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CADLES HISTORIC PRESERVATION CORPORATION</h3>ROUTE 2 BOX 120 B GRASSY MEADOW WV 24943-9529", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5749390019997, 
+                    38.0524821950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UPPER BIG BRANCH MINING MEMORIAL GROUP</h3>25586 COAL RIVER RD ORGAS WV 25148-9665", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.0389695129996, 
+                    37.5986114570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MATEWAN HISTORICAL SOCIETY INC</h3>PO BOX 307 MATEWAN WV 25678-0307", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.1808684279997, 
+                    38.6554905650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT SEYBERT FOUNDATION INC</h3>2977 SWEEDLIN VALLEY RD FORT SEYBERT WV 26802-8112", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8725889389997, 
+                    38.8398839030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC BEVERLY PRESERVATION INC</h3><b><a href=\"http://www.richmountain.org\" target=\"_blank\">Website</a></b><br>PO BOX 227 BEVERLY WV 26253-0227", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7447876659996, 
+                    39.3264940900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARPERS FERRY HISTORIC TOWN FOUNDATION</h3>PO BOX 1427 HARPERS FERRY WV 25425-1427", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6057999059997, 
+                    40.4957915210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HANCOCK COUNTY MUSEUM COMMISSION INC</h3>PO BOX 672 NEW CUMBERLN WV 26047-0672", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8467969869997, 
+                    38.9250633880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE WEST VIRGINIA RAILROAD MUSEUM INC</h3>PO BOX 124 DURBIN WV 26241-0203", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4442178459997, 
+                    37.8010626380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOLLING INC</h3>PO BOX 1399 LEWISBURG WV 24901-4399", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.6431596199997, 
+                    39.6586523710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAGANS STORE FOUNDATION INC</h3>PO BOX 113 BRUCETON MILLS WV 26525-0113", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6317572789997, 
+                    38.3493742130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KANAWHA VALLEY HISTORICAL & PRESERVATION SOCIETY INC</h3><b><a href=\"http://www.kvhps.org\" target=\"_blank\">Website</a></b><br>PO BOX 2283 CHARLESTON WV 25328", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8678658489997, 
+                    39.2754730300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEFFERSON COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.jeffersonhistoricalwv.org\" target=\"_blank\">Website</a></b><br>PO BOX 485 CHARLES TOWN WV 25414", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5825787919997, 
+                    38.3790911230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KANAWHA VALLEY RAILROAD CLUB INC</h3>1800 COONSKIN DR CHARLESTON WV 25311", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0946163919996, 
+                    38.2233603340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POCAHONTAS COUNTY HISTORICAL SOCIETY EDUCATIONAL FUND INC</h3>810 SECOND AVENUE MARLINTON WV 24954", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6317469199997, 
+                    38.3493719010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESERVATION ALLIANCE OF WEST</h3>PO BOX 3371 CHARLESTON WV 25333-3371", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5649936909996, 
+                    39.2647363410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLENNERHASSETT HISTORICAL FOUNDATION INC</h3><b><a href=\"http://www.blennerhassettislandstatepark.c\" target=\"_blank\">Website</a></b><br><a href=\"tel:3044204800\" target=\"_blank\">Phone</a><br>137 JULIANA ST PARKERSBURG WV 26101-5331", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.9697398829996, 
+                    39.0625096070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MC COY-MC MECHEN MUSEUM INC</h3><a href=\"tel:3045382397\" target=\"_blank\">Phone</a><br>119 MAIN ST MOOREFIELD WV 26836", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.0113874199997, 
+                    38.4349815420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM IN THE COMMUNITY</h3><a href=\"tel:3045620484\" target=\"_blank\">Phone</a><br>PO BOX 423 HURRICANE WV 25526-0423", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4116773529997, 
+                    38.4791614400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEBSTER COUNTY HISTORICAL SOCIETY INC</h3>128 UNION STREET WEBSTER SPRINGS WV 26288", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8909796609997, 
+                    37.6738162020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HINTON RAILROAD MUSEUM INC</h3>206 TEMPLE ST HINTON WV 25951-2331", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2214089569997, 
+                    37.2738527210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD TOWN PRINCETON FOUNDATION INC</h3>PO BOX 529 BLUEFIELD WV 24701-0529", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1417576759997, 
+                    39.4858124020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA COUNTRY MUSIC HALL OF FAME AND MUSEUM INC</h3>PO BOX 1709 FAIRMONT WV 26555-1709", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0085370889997, 
+                    39.6600538120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SCOTTS RUN MUSEUM INC</h3>PO BOX 264 OSAGE WV 26543", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4763227459997, 
+                    38.3197192260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHOALS MUSEUM OF FAMILY L</h3>5057 NEWCOMB CREEK RD HUNTINGTON WV 25704-9703", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.9765880009996, 
+                    39.4396336850004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MINERAL COUNTY GENEALOGICAL SOCIETY</h3>PO BOX 1051 KEYSER WV 26726-1051", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.8552773959997, 
+                    38.0352911450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOONE COUNTY HISTORICAL AND MUSEUM SOCIETY INC</h3>PO BOX 822 DANVILLE WV 25053", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6003471329997, 
+                    38.3344382980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COUNCIL OF HISTORICAL ORGANIZATIONS INC</h3><b><a href=\"http://www.wvhistory.org/\" target=\"_blank\">Website</a></b><br>2504 KANAWHA BOULEVARD EAST CHARLESTON WV 25311", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1674030459997, 
+                    37.8927951990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOUNT HOPE HERITAGE AND HOPE INC</h3>530 MAIN STREET MOUNT HOPE WV 25880-1021", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0984703389997, 
+                    38.2196511850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESERVING POCAHONTAS</h3>1200 2ND AVENUE MARLINTON WV 24954-1014", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3822357479996, 
+                    39.0012052980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HACKERS CREEK PIONEER DESCENDANTS</h3><b><a href=\"http://www.hackerscreek.com\" target=\"_blank\">Website</a></b><br>45 ABBOTTS RUN HORNER WV 26372-5022", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.4346786929997, 
+                    38.7734166120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>U S S RADFORD 446 INC</h3>482 WINDYVILLE ROAD SPENCER WV 25276-8792", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0964987429996, 
+                    37.3694906340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERCER COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 5012 PRINCETON WV 24740-5012", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6669346969996, 
+                    40.0763812190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHEELING BIG BAND SOCIETY INC</h3>24 SAINT CHARLES AVE WHEELING WV 26003-9382", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.8617471089997, 
+                    38.5843738350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIVE AMERICAN INDIGENOUS RESEARCH CENTER & EDUCATIONAL MUS</h3>HC 63 BOX 23 RED HOUSE WV 25168", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7742774899996, 
+                    38.6684821310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLUEGRASS PRESERVATION SOCIETY INC</h3>94 BEECH ST GASSAWAY WV 26624-1476", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.9718934979996, 
+                    39.2845171650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RITCHIE COUNTY HISTORICAL SOCIETY INC</h3>310 W MYLES AVE PENNSBORO WV 26415-1329", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.2562398779996, 
+                    39.2831005210004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARRISON COUNTY WEST VIRGINIA HISTORICAL SOCIETY INC</h3>PO BOX 4695 BRIDGEPORT WV 26330-4695", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1622553549997, 
+                    37.9822955710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HANK WILLIAMS MUSEUM INC OF OAK HILL WV</h3>1147 COUNTRY CLUB RD OAK HILL WV 25901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4613921899997, 
+                    38.8152502070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA IRISH ROAD BOWLING ASSOCIATION INC</h3>234 WILDCAT RD PO BOX 3 IRELAND WV 26376-0003", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8176159309996, 
+                    39.0606536260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAUREL MOUNTAIN PRESERVATION ASSOCIATION</h3>PO BOX 217 MONTROSE WV 26283-0217", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8467969869997, 
+                    38.9250633880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITIZENS FOR HISTORICAL OPPORTUNITY PRESERVATION EDUCATION I</h3>PO BOX 1961 ELKINS WV 26241-1961", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5589868179997, 
+                    38.4125222090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA RAILROAD MAINTENANCE- OF-WAY MUSEUM INCORPORAT</h3>PO BOX 815 COWEN WV 26206-0815", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.8460043349996, 
+                    38.4190525180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NITRO MUSEUM ASSOCIATION INC</h3>1329 PARK AVE NITRO WV 25143-1229", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9725301649997, 
+                    39.6622040550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MON VALLEY RAILROAD HISTORICAL SOCIETY</h3>546 ASPEN STREET MORGANTOWN WV 26505-2332", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2214089569997, 
+                    37.2738527210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLUEFIELD PRESERVATION SOCIETY INC</h3>PO BOX 4044 BLUEFIELD WV 24701-1844", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6126028579997, 
+                    40.3971526900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARLAND HEIGHTS COMMUNITY ASSOCIATION</h3>3951 PALISADES DR WEIRTON WV 26062-4326", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9610052339996, 
+                    39.4583488670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOR THE KIDS BY GEORGE CHILDRENS MUSEUM</h3>229 E MARTIN ST ST MARTINSBURG WV 25401-4304", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.0574879269997, 
+                    38.8920934880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WV STATE FARM MUSEUM INC</h3><a href=\"tel:3046755737\" target=\"_blank\">Phone</a><br>1458 FAIRGROUND RD PT PLEASANT WV 25550-3421", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3167180079997, 
+                    38.7566640150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF FIDLERS MILL INC</h3>PO BOX 311 ROCK CAVE WV 26234-0311", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6240566429997, 
+                    38.3431662130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA MUSIC HALL OF FAME INC</h3><b><a href=\"http://www.wvmusichalloffame.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3043424412\" target=\"_blank\">Phone</a><br>1427 LEE ST E CHARLESTON WV 25301-1940", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8255873869996, 
+                    39.4382041780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DUFFIELDS STATION INC</h3>PO BOX 1806 SHEPHERDSTOWN WV 25443-4617", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4442178459997, 
+                    37.8010626380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN IMMIGRATION EDUCATION FOUNDATION INC</h3>PO BOX 307 LEWISBURG WV 24901-0307", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9579769839996, 
+                    39.6272510170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AURORA LIGHTS</h3>PO BOX 18111 MORGANTOWN WV 26507-8111", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8487583609997, 
+                    38.9310334780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAVIS & ELKINS COLLEGE</h3><a href=\"tel:3046371260\" target=\"_blank\">Phone</a><br>100 CAMPUS DR ELKINS WV 26241-3971", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5599964969996, 
+                    39.2831332750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT NEW SALEM</h3><a href=\"tel:3047825245\" target=\"_blank\">Phone</a><br>SALEM INTERNATIONAL UNI SALEM WV 26426", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4327857029996, 
+                    38.3941988680004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUNTINGTON MUSEUM OF ART INC</h3><b><a href=\"http://www.hmoa.org\" target=\"_blank\">Website</a></b><br>2033 MCCOY RD HUNTINGTON WV 25701-4937", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6317469199997, 
+                    38.3493719010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AVAMPATO DISCOVERY MUSEUM</h3>PO BOX 11690 CHARLESTON WV 25339-1690", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8584503009997, 
+                    39.2895876220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEFFERSON COUNTY MUSEUM</h3><b><a href=\"http://www.jeffctywvmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3047258628\" target=\"_blank\">Phone</a><br>200 EAST WASHINGTON STREET CHARLES TOWN WV 25414", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.2673978519996, 
+                    38.1865037200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEARL S BUCK BIRTHPLACE FOUNDATION INC</h3><b><a href=\"http://www.pearlsbuckbirthplace.com\" target=\"_blank\">Website</a></b><br>PO BOX 126 HILLSBORO WV 24946-0126", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5576645649996, 
+                    39.2678098840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PARKERSBURG ART CENTER</h3>220 E 8TH ST PARKERSBURG WV 26101-4615", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7447876659996, 
+                    39.3264940900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARPERS FERRY HISTORICAL ASSOCIATION</h3>PO BOX 197 HARPERS FERRY WV 25425-0197", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3273804539996, 
+                    39.2796681930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLARKSBURG-HARRISON PUBLIC LIBRARY</h3><b><a href=\"http://clarksburglibrary.info\" target=\"_blank\">Website</a></b><br><a href=\"tel:3046272236\" target=\"_blank\">Phone</a><br>404 W PIKE ST CLARKSBURG WV 26301-2712", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.1241558139997, 
+                    38.8798648230004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POINT PLEASANT RIVER MUSEUM FOUNDATION INC</h3>3301 JACKSON AVE POINT PLEASANT WV 25550-1822", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1455392379997, 
+                    39.4844241800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRICKETTS FORT MEMORIAL FOUNDATION INC</h3><a href=\"tel:3043633030\" target=\"_blank\">Phone</a><br>317 CLEVELAND AVE FAIRMONT WV 26554-1604", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.2576881939996, 
+                    39.4247398610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MORGAN COUNTY HISTORICAL AND GENEALOGICAL SOCIETY INC</h3>1042 WINCHESTER GRADE ROAD BERKELEY SPRINGS WV 25411", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.4631199779997, 
+                    39.1291309110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALPINE HERITAGE PRESERVATION INC</h3>PO BOX 299 DAVIS WV 26260-0299", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.3968298589996, 
+                    39.1139624970004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELIZABETH BEAUCHAMP CHAPTER OF THE DAUGHTERS OF AMERICAN PIO</h3>PO BOX 621 ELIZABETH WV 26143-0621", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.6009972979996, 
+                    39.6482006360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESTON CO HISTORICAL SOC INC</h3>PO BOX 113 BRUCETON MILLS WV 26525", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3426489999997, 
+                    39.2813625190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLARKSBURG ART CENTER INC</h3><a href=\"tel:3046222787\" target=\"_blank\">Phone</a><br>PO BOX 148 CLARKSBURG WV 26302-0148", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7387483799997, 
+                    39.9218814860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARSHALL COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.cockaynefarm.com\" target=\"_blank\">Website</a></b><br>PO BOX 267 MOUNDSVILLE WV 26041-0267", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0935788999997, 
+                    38.9250329730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CALHOUN COUNTY HISTORICAL AND GENEALOGICAL SOCIETY INC</h3>PO BOX 242 GRANTSVILLE WV 26147-0242", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7712530539997, 
+                    38.6742842380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRAXTON HISTORICAL SOCIETY</h3>226 BIRCH STREET GASSAWAY WV 26624-1104", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5401772899996, 
+                    37.5897606810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MONROE COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.monroewvhistory.org\" target=\"_blank\">Website</a></b><br>PO BOX 465 UNION WV 24983-0465", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.2300378669997, 
+                    39.6212114590004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF THE BERKELEY SPRINGS INC</h3>PO BOX 99 BERKELEY SPGS WV 25411-0099", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1449890029996, 
+                    37.9740633720004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GENEALOGICAL SOCIETY - FAYETTE AND RALEIGH COUNTIES</h3>PO BOX 68 OAK HILL WV 25901-0068", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1417576759997, 
+                    39.4858124020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARION COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.marionhistorical.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3043675398\" target=\"_blank\">Phone</a><br>PO BOX 1636 FAIRMONT WV 26555-2655", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8203272139996, 
+                    39.4985736830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARTHURDALE HERITAGE INC</h3><b><a href=\"http://www.arthurdaleheritage.org\" target=\"_blank\">Website</a></b><br>PO BOX 850 ARTHURDALE WV 26520-0850", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1417576759997, 
+                    39.4858124020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HIGH GATE CARRIAGE HOUSE</h3><a href=\"tel:3043678484\" target=\"_blank\">Phone</a><br>PO BOX 957 FAIRMONT WV 26555-0957", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.4855983199997, 
+                    38.4409124750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIAS GENEALOGY SOCIETY INC</h3>PO BOX 249 ELKVIEW WV 25071-0249", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.9836285019996, 
+                    39.4344828510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MINERAL COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 1325 KEYSER WV 26726", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.6747276959996, 
+                    39.1036932380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TUCKER CO HISTORICAL SOCIETY INCORPORATED</h3>PO BOX 13 HAMBLETON WV 26269", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.9558684579997, 
+                    39.0460310370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARDY COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 4 MOOREFIELD WV 26836", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4200698819997, 
+                    38.4054945810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COUNCIL FOR WEST VIRGINIA ARCHAEOLOGY INC</h3>1903 WILTSHIRE BOULEVARD HUNTINGTON WV 25701-4136", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.3895462719997, 
+                    38.4300238910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESERVATION SOCIETY INC</h3><a href=\"tel:3045220325\" target=\"_blank\">Phone</a><br>PO BOX 3266 HUNTINGTON WV 25702-0266", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6890879559996, 
+                    38.3530303960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH CHARLESTON MUSEUM FOUNDATION</h3>PO BOX 18226 SOUTH CHARLESTON WV 25303-2530", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9579769839996, 
+                    39.6272510170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD MORGANTOWN GLASS COLLECTORS GUILD</h3>PO BOX 894 MORGANTOWN WV 26507-0894", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8367890819997, 
+                    38.9332319980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GILMER COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 235 GLENVILLE WV 26351-0235", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5542798189996, 
+                    39.2696701090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OIL GAS AND INDUSTRIAL HISTORICAL ASSOCIATION INC</h3>PO BOX 1685 PARKERSBURG WV 26102-1685", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9578276249997, 
+                    39.4781304320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>L NORMAN DILLON FARM MUSEUM INC</h3>PO BOX 2731 MARTINSBURG WV 25402-2731", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9579769839996, 
+                    39.6272510170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE MONONGALIA HISTORICAL SOCIETY</h3>PO BOX 127 MORGANTOWN WV 26507-0127", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6295874519997, 
+                    38.3486419400004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAY CENTER FOR THE ARTS AND SCIENCES OF WEST VIRGINIA</h3><a href=\"tel:3045613513\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6317469199997, 
+                    38.3493719010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF WEST VIRGINIA CULTURE AND HISTORY INC</h3>PO BOX 3696 CHARLESTON WV 25336-3696", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0890383679996, 
+                    38.4605432090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAY COUNTY HISTORIC LANDMARKS COMMISSION</h3>PO BOX 670 CLAY WV 25043-0670", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.9707893679997, 
+                    38.6083539210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUFFALO HISTORICAL SOCIETY INC</h3>PO BOX 144 BUFFALO WV 25033", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9579769839996, 
+                    39.6272510170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>METROPOLITAN THEATRE PRESERVATION FOUNDATION INC</h3>PO BOX 312 MORGANTOWN WV 26507-0312", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3413624089997, 
+                    39.5305794360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MANNINGTON MAIN ST INC</h3><a href=\"tel:3049862037\" target=\"_blank\">Phone</a><br>206 E MAIN ST STE 2 MANNINGTON WV 26582-1162", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8552596999996, 
+                    38.2820112830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NICHOLAS OLD MAIN FOUNDATION INC</h3>PO BOX 782 SUMMERSVILLE WV 26651-0782", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3426272749996, 
+                    39.5302313920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST AUGUSTA HISTORICAL SOCIETY OF MANNINGTON DISTRICT INC</h3>PO BOX 414 MANNINGTON WV 26582-0414", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8725889389997, 
+                    38.8398839030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RICH MOUNTAIN BATTLEFIELD FOUNDATION INC</h3>PO BOX 227 BEVERLY WV 26253-0227", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5197891669997, 
+                    39.1826831020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LIVING HERITAGE MUSEUM PROJECT INC</h3>PO BOX 340 MINERAL WELLS WV 26150-0340", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4729750889996, 
+                    38.4012638710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF RADIO & TECHNOLOGY INC</h3><b><a href=\"http://oak.cats.ohiou.edu/~postr/mrt\" target=\"_blank\">Website</a></b><br>1640 FLORENCE AVE HUNTINGTON WV 25701-4546", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8044272099996, 
+                    39.4332725970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STATION AT SHEPHERDSTOWN INC</h3>PO BOX 1106 SHEPHERDSTOWN WV 25443-1106", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9578276249997, 
+                    39.4781304320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BERKELEY COUNTY HISTORICAL SOCIETY INC</h3><a href=\"tel:3042674713\" target=\"_blank\">Phone</a><br>PO BOX 1624 MARTINSBURG WV 25402-1624", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4770981359997, 
+                    39.0373841080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA MUSEUM OF AMERICAN GLASS LTD</h3>PO BOX 574 WESTON WV 26452", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4640638859997, 
+                    39.0413805340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WV MUSEUM OF AMERICAN GLASS</h3><a href=\"tel:3042695006\" target=\"_blank\">Phone</a><br>230 MAIN AVE WESTON WV 26452", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8916187039997, 
+                    37.6723418530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FLANNAGAN-MURRELL HOUSE INC</h3>PO BOX 1504 HINTON WV 25951-1504", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.7657599059996, 
+                    39.3762728130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TUNNELTON HISTORICAL SOCIETY INC</h3>PO BOX 137 TUNNELTON WV 26444-2644", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0984061999997, 
+                    38.1356019820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AFRICAN AMERICAN HERTIAGE FAMILY TREE MUSUEM INC</h3>PO BOX 369 ANSTED WV 25812-0369", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0474381609997, 
+                    39.2811313400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THUNDER ON THE TYGARTS FOUNDATION INC</h3>3576 WEBSTER PIKE GRAFTON WV 26354", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.4855983199997, 
+                    38.4409124750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELK BLUE CREEK HISTORICAL SOCIETY INC</h3>PO BOX 649 ELKVIEW WV 25071-0649", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0482083529997, 
+                    39.2085923690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RITCHIE CO HISTORICAL MUSEUM INC</h3>PO BOX 163 HARRISVILLE WV 26362-0163", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.3123977149996, 
+                    37.3250716440004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRAMWELL FOUNDATION INC</h3><a href=\"tel:3043243305\" target=\"_blank\">Phone</a><br>PO BOX 103 BRAMWELL WV 24715-0103", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8880651919997, 
+                    37.6738754330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VETERANS MEMORIAL MUSEUM OF SOUTHERN WEST VIRGINIA INC</h3><a href=\"tel:3044664443\" target=\"_blank\">Phone</a><br>419 BALLENGEE ST HINTON WV 25951", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.6702830579997, 
+                    39.3429665930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROWLESBURG AREA HISTORICAL SOCIETY</h3>71 SOUTH BUFFALO STREET PO BOX 605 ROWLESBURG WV 26425-0605", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6034378619997, 
+                    40.6151034010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRI-STATE GENEALOGICAL HISTORICAL SOCIETY INC</h3><a href=\"tel:3043872467\" target=\"_blank\">Phone</a><br>PO BOX 454 NEWELL WV 26050", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2252689789997, 
+                    38.1711638130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GAULEY BRIDGE HISTORICAL SOCIETY INC</h3>278 RAILROAD STREET GAULEY BRIDGE WV 25085", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1427182199997, 
+                    37.9824819480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITE OAK CHAPTER NATIONAL RAILWAY HISTORICAL SOCIETY INC</h3>PO BOX 261 OAK HILL WV 25901", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1965086379997, 
+                    37.7709504670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BECKLEY PERFORMING ARTS INC</h3>112 RALEIGH AVE BECKLEY WV 25801-5942", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.4955092539997, 
+                    39.1522617090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW HISTORIC THOMAS PROJECT COMMITTEE</h3>PO BOX 116 THOMAS WV 26292", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6948958819997, 
+                    40.0663118260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OGLEBAY FOUNDATION</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4431592939997, 
+                    38.2220806240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAYNE COUNTY GENEOLOGICAL AND HISTORICAL SOCIETY</h3>PO BOX 787 WAYNE WV 25570-0787", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.8599389989997, 
+                    39.2890140730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AFRICAN-AMERICAN COMMUNITY ASSOCIATION OF JEFFERSON CTY INC</h3>PO BOX 843 CHARLES TOWN WV 25414-0843", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.3413892509997, 
+                    38.7833316370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROANE COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 161 SPENCER WV 25276", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8960258749997, 
+                    39.6489404400004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA BOTANIC GARDEN INC</h3>714 VENTURE DR PMB 121 MORGANTOWN WV 26508-7306", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9579769839996, 
+                    39.6272510170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROFAYKI INC</h3>PO BOX 104 MORGANTOWN WV 26507-0104", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5897828389997, 
+                    40.4008930560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BROOKE HANCOCK VETERANS MEMORIAL INC</h3>3435 MAIN STREET WEIRTON WV 26062-4505", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1903986539996, 
+                    37.7779819690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RALEIGH COUNTY VETERANS ASSOC INC</h3>PO BOX 3165 BECKLEY WV 25801-1945", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4435019989996, 
+                    38.4133395740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARTS RSURCES FOR THE TRI STATE</h3><a href=\"tel:3047332787\" target=\"_blank\">Phone</a><br>900 8TH ST STE 100 HUNTINGTON WV 25701-2754", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.1058501869996, 
+                    38.2773935220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUD RIVER MUSEUM INC</h3><a href=\"tel:3048242186\" target=\"_blank\">Phone</a><br>315 MAIN ST HAMLIN WV 25523-1413", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.5540783189996, 
+                    39.3242824820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AURORA AREA HISTORICAL SOCIETY INC</h3>PO BOX 100 AURORA WV 26705-0100", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.2602973719997, 
+                    39.4523465620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOWER WEST FORK WATERSHED ASSOCIATION</h3>267 MAIN ST WORTHINGTON WV 26591-4000", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5104256799997, 
+                    37.4261538490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAPE COALWOOD RESTORATION ASSOCIATION LTD</h3>HC31 BOX 91 WELCH WV 24801-9716", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0400714769996, 
+                    39.1525420810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHILIPPI MAIN STREET INC</h3>108 NORTH MAIN STREET PHILIPPI WV 26416-1123", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1032164489997, 
+                    37.3661779850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THOSE WHO SERVED WAR MUSEUM INC</h3>1500 W MAIN STREET PRINCETON WV 24740-2627", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.2562398779996, 
+                    39.2831005210004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA AVIATION MUSEUM FOUNDATION</h3>PO BOX 849 BRIDGEPORT WV 26330-0849", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0964987429996, 
+                    37.3694906340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAY MEMORIAL PARK FOUNDATION INC</h3>PO BOX 5816 PRINCETON WV 24740-5816", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1417576759997, 
+                    39.4858124020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VANDALIA HERITAGE FOUNDATION</h3>PO BOX 2585 FAIRMONT WV 26555-2585", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.1238663029997, 
+                    39.0002406720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH BRANCH VALLEY CIVIL WAR SOCIETY INC</h3>PO BOX 69 PETERSBURG WV 26847-0069", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6129683119997, 
+                    38.3354973530004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA STATE MUSEUM BOARD</h3><b><a href=\"http://www.wvculture.org/museum/museuminde\" target=\"_blank\">Website</a></b><br><a href=\"tel:3045580220\" target=\"_blank\">Phone</a><br>1900 KANAWHA BLVD EAST CHARLESTON WV 25305", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.6431596199997, 
+                    39.6586523710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRUCETON - BRANDONVILLE AREA HISTORICAL SOCIETY INC</h3>PO BOX 182 BRUCETON MILLS WV 26525-0182", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.1615121859996, 
+                    39.4736768480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHERN APPALACHIAN COAL MINING HERITAGE ASSOCIATION INC</h3><b><a href=\"http://www.orgsites.com/wv/nacmha\" target=\"_blank\">Website</a></b><br><a href=\"tel:3045341776\" target=\"_blank\">Phone</a><br>3 HOLLEN CIRCLE FAIRMONT WV 26554-5020", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9610052339996, 
+                    39.4583488670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEORGE WASHINGTON HERITAGE TRAIL ASSOCIATION INC</h3>229 EAST MARTIN ST MARTINSBURG WV 25401-4304", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.2760998689997, 
+                    37.6772409670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILLIAMSON AREA RAILROAD MUSEUM INCORPORATED</h3><a href=\"tel:3042350105\" target=\"_blank\">Phone</a><br>PO BOX 466 WILLIAMSON WV 25661", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.8469885799997, 
+                    38.3687932830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAINT ALBANS CHESAPEAKE AND OHIO MODELERS CLUB INC</h3>2514 LAKEVIEW DRIVE SAINT ALBANS WV 25177-3424", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7238767769996, 
+                    40.0598991920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ART WORKS AROUND TOWN INC</h3><b><a href=\"http://www.artworksaroundtown.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3042337540\" target=\"_blank\">Phone</a><br>2200 MARKET STREET WHEELING WV 26003-3836", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8582680889996, 
+                    39.6605404530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WETZEL COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 302 NEW MARTINSVILLE WV 26155", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7241572459997, 
+                    40.0703844410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS MUSEUM OF THE OHIO VALLEY INC</h3><b><a href=\"http://www.cmovkids.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3042145437\" target=\"_blank\">Phone</a><br>1000 MAIN STREET WHEELING WV 26003", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5286246669996, 
+                    40.3955466310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SIKH HERITAGE FOUNDATION INC</h3>485 COLLIERS WAY WEIRTON WV 26062-5012", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7436305339996, 
+                    39.9203484870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STRAND THEATRE PRESERVATION SOCIETY</h3>804 5TH ST MOUNDSVILLE WV 26041-1908", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.5723360329997, 
+                    38.6138002380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>C H S PRESERVATION INC</h3>HC 77 BOX 154 CIRCLEVILLE WV 26804-9501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5542798189996, 
+                    39.2696701090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JULIA ANN SQUARE HISTORICAL COMMUNITY ASSOCIATION INC</h3>PO BOX 966 PARKERSBURG WV 26102-0966", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7233899409997, 
+                    40.0654368470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHEELING NATIONAL HERITAGE AREA FOUNDATION</h3><b><a href=\"http://wheelingheritage.org\" target=\"_blank\">Website</a></b><br>1400 MAIN STREET 3RD FLOOR WHEELING WV 26003-2824", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1449890029996, 
+                    37.9740633720004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE LEWIS HOUSE INC</h3>PO BOX 1035 OAK HILL WV 25901-1035", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1714758839997, 
+                    39.6350416110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MORGAN COUNTY OBSERVATORY FOUNDATION INC</h3>81 SPARROW TRAIL BERKELEY SPRINGS WV 25411-6474", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.7106594859997, 
+                    38.3642984480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA DOCUMENTARY CONSORTIUM INC</h3>93 MACCORKLE AVENUE SOUTH CHARLESTON WV 25303-1411", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.6126156729997, 
+                    38.3498865960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF SPRING HILL CEMETARY PARK INC</h3>1555 FARNSWORTH DRIVE CHARLESTON WV 25311-1507", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.9836285019996, 
+                    39.4344828510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRANT COUNTY HISTORICAL SOCIETY INC</h3>HC 72 BOX 7006 SCHERR WV 26726", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5616459609997, 
+                    39.2829701710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT NEW SALEM FOUNDATION INC</h3><a href=\"tel:3047825245\" target=\"_blank\">Phone</a><br>PO BOX 186 SALEM WV 26426-0186", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5438816559997, 
+                    39.3163719820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA AUTOMOBILE MUSEUM INCORPORATED</h3><a href=\"tel:3042956113\" target=\"_blank\">Phone</a><br>1215 20TH ST VIENNA WV 26105-1239", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6539164949996, 
+                    40.0282341830004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHEELING PARK COMMISSION</h3>ROUTE 88 NORTH WHEELING WV 26003-9512", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9579769839996, 
+                    39.6272510170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST VIRGINIA UNIVERSITY FOUNDATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.2291270449996, 
+                    38.9931539670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UPSHUR COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:3044722738\" target=\"_blank\">Phone</a><br>PO BOX 2082 BUCKHANNON WV 26201-7082", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9578276249997, 
+                    39.4781304320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GENERAL ADAM STEPHEN MEM ASSOCIATION</h3><a href=\"tel:3042674434\" target=\"_blank\">Phone</a><br>PO BOX 1496 MARTINSBURG WV 25402-1496", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0984078529997, 
+                    38.1356042870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAYETTE COUNTY HISTORICAL SOCIETY</h3>PO BOX 702 ANSTED WV 25812", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.3426489999997, 
+                    39.2813625190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STEALY GOFF VANCE HOUSE</h3>PO BOX 2074 CLARKSBURG WV 26302-2074", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5107385199997, 
+                    37.4291432130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCDOWELL COUNTY MUSEUM COMMISSION INC</h3>PO BOX 292 KIMBALL WV 24853-0292", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.9879372249997, 
+                    39.4416914870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRANKFORT DISTRICT HISTORICAL SOCIETY INC</h3>RR 2 BOX 107-E KEYSER WV 26726-9211", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.4572675309997, 
+                    37.9887517910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILLIAMSBURG DISTRICT HISTORIC FOUNDATION INC</h3>PO BOX 36 WILLIAMSBURG WV 24991-2499", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.8039074389997, 
+                    38.4049401750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POCAHONTAS COUNTY ARTISAN CO-OP</h3><a href=\"tel:3044569900\" target=\"_blank\">Phone</a><br>PO BOX 21 GREEN BANK WV 24944-0021", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9618205069996, 
+                    39.6679025070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INSTITUTE FOR THE STUDY OF RESCUE AND ALTRUISM IN THE HOLOCA</h3>810 WINDWOOD PLACE MORGANTOWN WV 26505-2541", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.0809582179996, 
+                    39.3597188810004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE FRIENDS OF THE NORWALK FOUNDATION INC</h3>301 GOLDMILLER RD GERRARDSTOWN WV 25420-4269", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4382972329997, 
+                    38.4234803130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF BLAIR MOUNTAIN</h3>ONE MORRIS STREET 404 CHARLESTON WV 25707-0206", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5469859129997, 
+                    40.4089826590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEIRTON AREA MUSEUM & CULTURAL CENTER</h3>PO BOX 517 WEIRTON WV 26062-0517", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,2285 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6072666169997, 
+                    39.2998027220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF BELMONT HALL INC</h3>PO BOX 148 SMYRNA DE 19977-0148", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5801668189997, 
+                    39.2734241940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE AEROSPACE EDUCATION FOUNDATION</h3>", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1391069189996, 
+                    38.7742465370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ZWAANENDAEL MUSEUM</h3><b><a href=\"http://history.delaware.gov/museums/zm/zm_main.shtml\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026451148\" target=\"_blank\">Phone</a><br>102 KINGS HWY LEWES DE 19958", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7525766319997, 
+                    39.6831321310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY GALLERY</h3>114 OLD COLLEGE, UNIVERSITY OF DELAWARE NEWARK DE 19716-2509", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.0861336379996, 
+                    38.7248386400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REHOBOTH ART LEAGUE</h3><a href=\"tel:3022278408\" target=\"_blank\">Phone</a><br>12 DODD'S LANE REHOBOTH BEACH DE 19971", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5772788849997, 
+                    39.5168033260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PORT PENN INTERPRETIVE CENTER</h3><a href=\"tel:3028362533\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5540525379997, 
+                    39.6950352150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF  AMERICAN ROAD</h3><a href=\"tel:3026585300\" target=\"_blank\">Phone</a><br>2160 NEW CASTLE AVE NEW CASTLE DE 19720", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6560970759996, 
+                    39.4538142630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC HOUSES OF ODESSA</h3><b><a href=\"http://www.historicodessa.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3023784119\" target=\"_blank\">Phone</a><br>109 MAIN ST ODESSA DE 19730", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5274827889996, 
+                    39.1556464040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHNSON VICTROLA MUSEUM</h3><b><a href=\"http://history.delaware.gov/museums/jvm/jvm_main.shtml\" target=\"_blank\">Website</a></b><br><a href=\"tel:3027445055\" target=\"_blank\">Phone</a><br>375 S NEW ST DOVER DE 19904", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4490379109997, 
+                    39.1043933440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHN DICKINSON PLANTATION</h3><b><a href=\"http://history.delaware.gov/museums/jdp/jdp_main.shtml\" target=\"_blank\">Website</a></b><br><a href=\"tel:3027393277\" target=\"_blank\">Phone</a><br>340 KITTS HUMMOCK RD DOVER DE 19901", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6507677319997, 
+                    39.7015418490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HALE BYRNES HOUSE</h3><b><a href=\"http://www.halebyrnes.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3029983792\" target=\"_blank\">Phone</a><br>606 STANTON CHRISTIANA RD NEWARK DE 19713", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5784406249996, 
+                    38.9244726690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARRINGTON RAILROAD MUSEUM</h3><a href=\"tel:3023983698\" target=\"_blank\">Phone</a><br>110 FLEMING ST HARRINGTON DE 19952", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5776721399997, 
+                    39.7754092980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAGLEY MUSEUM</h3><b><a href=\"http://hagley.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026582400\" target=\"_blank\">Phone</a><br>201 HAGLEY CREEK RD WILMINGTON DE 19807", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5399981959997, 
+                    39.1886167070004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAUDE E. PHILLIPS HERBARIUM</h3>1200 N. DUPONT HWY DOVER DE 19901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5494343879997, 
+                    39.7356315250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE CHILDRENS MUSEUM</h3><a href=\"tel:3026542340\" target=\"_blank\">Phone</a><br>110 S POPLAR ST WILMINGTON DE 19801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5801023039996, 
+                    39.2734168790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE AERO SPACE EDUCATION</h3><b><a href=\"http://dasef.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026595003\" target=\"_blank\">Phone</a><br>585 BIG OAK RD SMYRNA DE 19977", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5322202039997, 
+                    39.1830064220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE AGRICULTURAL MUSEUM</h3><b><a href=\"http://www.agriculturalmuseum.org/\" target=\"_blank\">Website</a></b><br><a href=\"tel:3027341618\" target=\"_blank\">Phone</a><br>866 NORTH DUPONT HIGHWAY DOVER DE 19901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.0522064269996, 
+                    38.4568848840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DISCOVERSEA SHIPWRECK MUSEUM</h3><b><a href=\"http://www.discoversea.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3025399366\" target=\"_blank\">Phone</a><br>708 COASTAL HWY FENWICK ISLAND DE 19944", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4601962339996, 
+                    39.0242431640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BARRATT'S CHAPEL AND MUSEUM</h3><b><a href=\"http://www.barrattschapel.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3023355544\" target=\"_blank\">Phone</a><br>6362 BAY RD FREDERICA DE 19946", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4839353549996, 
+                    39.7810062550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUSINESS HISTORY AND TECH MUSEUM</h3><a href=\"tel:3027982100\" target=\"_blank\">Phone</a><br>1200 PHILADELPHIA PIKE WILMINGTON DE 19809", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5224810359996, 
+                    39.1580029200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BIGGS MUSEUM OF AMERICAN ART</h3><b><a href=\"http://www.biggsmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026742111\" target=\"_blank\">Phone</a><br>406 FEDERAL ST DOVER DE 19903", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2234071179997, 
+                    38.4594004720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW FRIENDS OF THE FENWICK ISLAND LIGHTHOUSE</h3>PO BOX 1001 SELBYVILLE DE 19975-1001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7359569869997, 
+                    39.6845442580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARINERS MUSEUM TRUST 1P</h3>PO BOX 6089 NEWARK DE 19714-6089", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6642356529997, 
+                    39.7718341870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DUBOIS FAMILY ASSOCIATION</h3>726 LOVEVILLE ROAD COTTAGE 60 HOCKESSIN DE 19707-1522", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5354346659997, 
+                    39.8012134670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT DUPONT SOCIETY</h3><a href=\"tel:3024786178\" target=\"_blank\">Phone</a><br>2106 LARGO RD WILMINGTON DE 19803-2308", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1409291619997, 
+                    38.7616287700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT MILES HISTORICAL ASSOCIATION INC</h3>5 BREAKWATER DR LEWES DE 19958-2102", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6904097929997, 
+                    39.7787028770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE VALLEY HISTORIC SAMPLER GUILD</h3><b><a href=\"http://www.dvhsg.org\" target=\"_blank\">Website</a></b><br>PO BOX 1292 HOCKESSIN DE 19707", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.0833159269997, 
+                    38.7157636950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUSSEX COUNTY GENEALOGICAL SOCIETY</h3>226 REHOBOTH AVE REHOBOTH BEACH DE 19971-2134", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5981160359996, 
+                    39.6604729280004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF BELLACA AIRFIELD</h3><b><a href=\"http://friendsofbellanca.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3023223816\" target=\"_blank\">Phone</a><br>PO BOX 267 NEW CASTLE DE 19720-0267", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4864463019996, 
+                    39.7870195030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STONE MAP AND ATLAS FOUNDATION</h3>501 SILVERSIDE RD STE 123 WILMINGTON DE 19809-1377", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5487308479996, 
+                    39.7459145690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE MILITARY HERITAGE AND EDUCATION FOUNDATION INC</h3>100 WEST 10TH STREET WILMINGTON DE 19801-6603", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7179249389997, 
+                    39.4484074690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MIDDLETOWN MAIN STREET INC</h3>19 W GREEN ST MIDDLETOWN DE 19709-1315", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1005260209997, 
+                    38.5536219140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE SEASIDE RAILROAD CLUB INC</h3>PO BOX 479 OCEAN VIEW DE 19970-0479", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5591019739996, 
+                    39.7623186910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE FURNESS RAILROADDISTRICT INC</h3>2 MILL RD STE 210 WILMINGTON DE 19806-2184", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4925661469996, 
+                    38.8834275280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILLIAMSVILLE HISTORICAL SOCIETY</h3>7603 HIDDEN MEADOW LANE GREENWOOD DE 19950", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5772788849997, 
+                    39.5168033260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PORT PENN HISTORICAL SOCIETY</h3>PO BOX 120 PORT PENN DE 19731", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7582896159997, 
+                    39.6307875910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE ACADEMY OF SCIENCE INC</h3><b><a href=\"http://www.ironhill-museum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3023685703\" target=\"_blank\">Phone</a><br>1355 OLD BALTIMORE PIKE NEWARK DE 19702-1110", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2825296059996, 
+                    38.7751302870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MILTON HISTORICAL SOCIETY</h3><b><a href=\"http://www.historicmilton.org/\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026841010\" target=\"_blank\">Phone</a><br>PO BOX 112 MILTON DE 19968-0112", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6403484809996, 
+                    39.3163742290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARABIAN HORSE TRUST</h3>1950 VANDYKE GREENSPRING RD SMYRNA DE 19977-9448", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5506874929997, 
+                    39.7413486700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEWISH HISTORICAL SOCIETY OF DELAWARE</h3><b><a href=\"http://jhsdelaware.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026556232\" target=\"_blank\">Phone</a><br>505 N MARKET ST WILMINGTON DE 19801", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1005260209997, 
+                    38.5536219140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OCEAN VIEW HISTORICAL SOCIETY</h3>PO BOX 576 OCEAN VIEW DE 19970-0576", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5518286939997, 
+                    39.7481203760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF HISTORIC RIVERVIEW CEMETERY INC</h3>PO BOX 2173 WILMINGTON DE 19899-2173", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6248149499996, 
+                    39.7541225270004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PROJECT SEVEN INSTITUTE</h3>2711 CNTERVLLE RD PMB 6804 STE 400 WILMINGTON DE 19808-1645", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1387581389997, 
+                    38.7606883490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAVE A NEPTUNE</h3>16620 SHOAL RD LEWES DE 19958-7006", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5506235349997, 
+                    39.7413332730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LIGHT UP THE QUEEN FOUNDATION</h3>500 N MARKET ST WILMINGTON DE 19801-3005", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5933162999996, 
+                    39.6708033560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC NEW CASTLE ALLIANCE INC</h3>PO BOX 444 NEW CASTLE DE 19720", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5187240179997, 
+                    39.1346327010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF HISTORIC CAMDEN INC</h3>107 WOLF CREEK BLVD STE 1 DOVER DE 19901-4970", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5500467269997, 
+                    39.6794857740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUTTONWOOD CIVIC ASSOCIATION</h3><a href=\"tel:3023283806\" target=\"_blank\">Phone</a><br>111 BUTTONWOOD AVE NEW CASTLE DE 19720-3605", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5078398599996, 
+                    39.1653639110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNDERGROUND RAILROAD COALITION OF DELAWARE NORTHEAST UNDERGR</h3>PO BOX 216 DOVER DE 19903-0216", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7516787149996, 
+                    39.6794021210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONFERENCE GROUP FOR CENTRAL EUROPEAN HISTORY</h3>DEPARTMENT OF HISTORY 11201 EUCLID CLEVELAND DE 19716", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5504860869996, 
+                    39.7471210250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF YORK IN AMERICA</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4278452709996, 
+                    38.9079661240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL VINTAGE CAR CLUB OF DELAWARE INC</h3><b><a href=\"http://www.hvccd.9f.com\" target=\"_blank\">Website</a></b><br>426 S WASHINGTON STREET MILFORD DE 19963", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5878198679997, 
+                    39.0118007160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FELTON COMMUNITY HISTORICAL SOCIETY</h3><b><a href=\"http://felton.delaware.gov\" target=\"_blank\">Website</a></b><br>PO BOX 329 FELTON DE 19943", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4021104199996, 
+                    39.0595634420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOWERS BEACH MARITIME MUSEUM INC</h3><a href=\"tel:3023351400\" target=\"_blank\">Phone</a><br>3357 MAIN STREET FREDERICA DE 19946-1274", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2029247109996, 
+                    38.7537477090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN DELAWARE BOTANIC GARDENS</h3>31401 MELLOY COURT LEWES DE 19958-3863", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7380148929997, 
+                    39.6614981460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PENCADER HERITAGE AREA ASSOCIATION</h3>248 EAST CHESTNUT HILL ROAD NEWARK DE 19713-3700", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1927791749997, 
+                    38.6288817520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MILLSBORO DOWNTOWN PARTNERSHIP</h3>PO BOX 154 MILLSBORO DE 19966-6215", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6583160859997, 
+                    39.4550236930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC ODESSA FOUNDATION</h3><a href=\"tel:3023784069\" target=\"_blank\">Phone</a><br>PO BOX 697 ODESSA DE 19730-0697", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5503937589996, 
+                    39.7473323080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN ASSOCIATES OF THE NATIONAL ARMY MUSEUM UK INC</h3>1000 N WEST STREET SUITE 1200 WILMINGTON DE 19801-1058", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5503937589996, 
+                    39.7473323080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE CERTOSA DI CAPRI INC</h3>1000 N WEST STREET SUITE 1200 WILMINGTON DE 19801-1058", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5971992399997, 
+                    39.7777011730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OWLS NEST FUND FOR HISTORIC DESIGNATED FACILITIES</h3>PO BOX 3920 WILMINGTON DE 19807-0920", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4219579729997, 
+                    38.9209509960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MILFORD AQUARIUM INC</h3>PO BOX 1198 MILFORD DE 19963", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5925066339997, 
+                    38.8071008370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE MENNONITE HISTORICAL SOCIETY</h3>PO BOX 267 GREENWOOD DE 19950-0267", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5659829579997, 
+                    39.7648568310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE ART MUSEUM</h3><b><a href=\"http://www.delart.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3025719590\" target=\"_blank\">Phone</a><br>2301 KENTMERE PKWY WILMINGTON DE 19806-2019", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6115298319996, 
+                    39.8044167690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HENRY FRANCIS DU PONT WINTERTHUR MUSEUM INC</h3><b><a href=\"http://www.winterthur.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3028884826\" target=\"_blank\">Phone</a><br>5105 KENNETT PIKE WINTERTHUR DE 19735-1819", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5562565859997, 
+                    39.7312788200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY OF DELAWARE</h3><b><a href=\"http://www.hsd.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3023228411\" target=\"_blank\">Phone</a><br>505 MARKET STREET WILMINGTON DE 19801", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5971992399997, 
+                    39.7777011730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELEUTHERIAN MILLS-HAGLEY FOUNDATION INC</h3>PO BOX 3630 WILMINGTON DE 19807-0630", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5647286679996, 
+                    39.6606039170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW CASTLE HISTORICAL SOCIETY</h3><a href=\"tel:3023222794\" target=\"_blank\">Phone</a><br>2 E 4TH ST NEW CASTLE DE 19720-5014", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6602293839996, 
+                    39.4562817440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CORBIT CALLOWAY MEMORIAL LIBRARY</h3><a href=\"tel:3023788838\" target=\"_blank\">Phone</a><br>PO BOX 128115 HIGH STRE ODESSA DE 19730", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5971992399997, 
+                    39.7777011730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE MUSEUM OF NATURAL HISTORY INC</h3>PO BOX 3937 GREENVILLE DE 19807-0937", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5488741619997, 
+                    39.7439223920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND OPERA HOUSE INC</h3>818 N MARKET STREET WILMINGTON DE 19801-3087", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5251658359996, 
+                    39.1579772170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOVER ART LEAGUE</h3><b><a href=\"http://www.doverartleague.com\" target=\"_blank\">Website</a></b><br>21 W LOOCKERMAN ST DOVER DE 19904-7350", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2184693429996, 
+                    38.4525919750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SELBYVILLE PUBLIC LIBRARY</h3><a href=\"tel:6103949615\" target=\"_blank\">Phone</a><br>PO BOX 73911 SOUTH MAIN SELBYVILLE DE 19975", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5322202039997, 
+                    39.1830064220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE AGRICULTURAL MUSEUM ASSOCIATION</h3><b><a href=\"http://www.agriculturalmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3027341618\" target=\"_blank\">Phone</a><br>866 N DUPONT HWY DOVER DE 19901-2003", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6132842839996, 
+                    38.6404821450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEAFORD HISTORICAL SOCIETY</h3><b><a href=\"http://www.seafordde.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026289828\" target=\"_blank\">Phone</a><br>203 HIGH ST SEAFORD DE 19973-3909", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6019961259997, 
+                    38.7410437210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRIDGEVILLE HISTORICAL SOCIETY INC</h3>PO BOX 306 BRIDGEVILLE DE 19933-0306", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5078398599996, 
+                    39.1653639110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF OLD DOVER INC</h3>PO BOX 44 DOVER DE 19903-0044", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.0920331809996, 
+                    38.7146266610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REHOBOTH BEACH HISTORICAL SOCIETY</h3>511 REHOBOTH AVE REHOBOTH DE 19971-3126", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6253476799997, 
+                    38.5713605440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BETHEL HISTORICAL SOCIETY INC</h3>PO BOX 224 BETHEL DE 19931", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5564967229997, 
+                    38.5537936860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAUREL HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.laurelhistoricalsociety.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3028751344\" target=\"_blank\">Phone</a><br>PO BOX102 LAUREL DE 19956", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6059854119997, 
+                    39.3005428850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DUCK CREEK HISTORICAL SOCIETY INC</h3><a href=\"tel:3026531320\" target=\"_blank\">Phone</a><br>11 S MAIN ST SMYRNA DE 19977", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5636449329996, 
+                    39.7322275320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE DELAWARE SPORTS MUSEUM AND HALL OF FAME ASSOCIATION INC</h3><b><a href=\"http://www.desports.org\" target=\"_blank\">Website</a></b><br>801 SHIPYARD DR WILMINGTON DE 19801-5154", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5479531279997, 
+                    39.7530690720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE ZOOLOGICAL SOCIETY INC</h3><b><a href=\"http://www.brandywinezoo.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3025717747\" target=\"_blank\">Phone</a><br>1001 N PARK DR WILMINGTON DE 19802-3801", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5585247309996, 
+                    39.7413913090004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE CENTER FOR THE CONTEMPORARY ARTS</h3><a href=\"tel:3026566466\" target=\"_blank\">Phone</a><br>200 S MADISON ST WILMINGTON DE 19801", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5857851019996, 
+                    38.4999180800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELMAR HISTORICAL & ARTS SOCIETY INC</h3>34662 ST GEORGE ROAD DELMAR DE 19940", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5608366979997, 
+                    39.7589951880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE CENTER FOR HORTICULTURE INC</h3><b><a href=\"http://delawarecenterforhorticulture.wordp\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026586262\" target=\"_blank\">Phone</a><br>1810 N DUPONT ST WILMINGTON DE 19806-3308", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.3763791219997, 
+                    38.6726736910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEORGETOWN HISTORICAL SOCIETY</h3><b><a href=\"http://www.georgetownhistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3028559660\" target=\"_blank\">Phone</a><br>510 S BEDFORD ST GEORGETOWN DE 19947-1852", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5784547909997, 
+                    38.9250310970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREATER HARRINGTON HISTORICAL SOCIETY</h3>108 FLEMING ST HARRINGTON DE 19952", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5293053469996, 
+                    39.8124452230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE ROSE SOCIETY</h3><a href=\"tel:3024785733\" target=\"_blank\">Phone</a><br>3030 MAPLE SHADE LN WILMINGTON DE 19810-3424", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7359569869997, 
+                    39.6845442580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEWARK HISTORICAL SOCIETY</h3>PO BOX 711 NEWARK DE 19715-0711", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.3801792559997, 
+                    38.6918843300004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUSSEX COUNTY RETURN DAY INC</h3><b><a href=\"http://returnday.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3028550722\" target=\"_blank\">Phone</a><br>PO BOX 55 GEORGETOWN DE 19947-0055", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6507677319997, 
+                    39.7015418490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE SOCIETY FOR THE PRESERVATION OF ANTIQUITIES</h3>606 STANTON-CHRISTIANA RD NEWARK DE 19713-2109", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6506862559996, 
+                    39.5567228890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ST GEORGES HISTORICAL SOCIETY</h3>PO BOX 267 SAINT GEORGES DE 19733-0267", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6701340129997, 
+                    39.7354266230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE INTERNATIONAL GROUP FOR HISTORIC AIRCRAFT RECOVERY</h3><a href=\"tel:3029944410\" target=\"_blank\">Phone</a><br>2812 FAWKES DR WILMINGTON DE 19808-2154", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7172924629996, 
+                    39.4515994530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MIDDLETOWN HISTORICAL SOCIETY OF MIDDLETOWN DELAWARE</h3>216 N BROAD ST MIDDLETOWN DE 19709-1002", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6332671549997, 
+                    39.7396437340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENBANK MILL ASSOCIATES INC</h3><b><a href=\"http://greenbankmill.org\" target=\"_blank\">Website</a></b><br>500 GREENBANK RD WILMINGTON DE 19808-3119", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5609042099996, 
+                    39.7349421980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE DELAWARE CHILDRENS MUSEUM INC</h3>550 JUSTISON ST WILMINGTON DE 19801-5142", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5399981959997, 
+                    39.1886167070004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE STATE UNIVERSITY</h3><b><a href=\"http://www.desu.edu\" target=\"_blank\">Website</a></b><br>1200 NORTH DUPONT HIGHWAY DOVER DE 19901-2777", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5971992399997, 
+                    39.7777011730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROBERT DOWNS MEM CONSERVANCY</h3>PO BOX 3727 WILMINGTON DE 19807-0727", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4578477179996, 
+                    39.0366715280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREDERICA HISTORICAL SOCIETY</h3><a href=\"tel:3023355229\" target=\"_blank\">Phone</a><br>PO BOX 287 FREDERICA DE 19946", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5078398599996, 
+                    39.1653639110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE STATE POLICE MUSEUM INC</h3>PO BOX 430 DOVER DE 19903-0430", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5501182549996, 
+                    39.7403321330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BERMUDA FINE ARTS FOUNDATION</h3>C/O PEPPER HAMILTON LLC1313 NMARKET WILMINGTON DE 19801", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5476435599996, 
+                    39.7440728120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY FOR THE UNITED STATES DIST CT FOR THE DIS</h3>844 KING STREET WILMINGTON DE 19801", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5518388769996, 
+                    39.7481314180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY FOR THE COURT OF CHANCERY OF THE STATE OF</h3>PO BOX 1035 WILMINGTON DE 19899", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6292262749997, 
+                    39.7155936660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KALMAR NYCKEL MUSEUM INSTITUTE</h3>PO BOX 12001 WILMINGTON DE 19850-2001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5533974219996, 
+                    39.7430482980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>QUAKER HILL HISTORIC PRESERVATION FOUNDATION</h3><b><a href=\"http://www.quakerhillhistoric.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026552500\" target=\"_blank\">Phone</a><br>521 N WEST STREET WILMINGTON DE 19801-2139", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5981160359996, 
+                    39.6604729280004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESERVATION DELAWARE</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1416631089996, 
+                    38.7677940260004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEWES PUBLIC LIBRARY</h3><a href=\"tel:3026454633\" target=\"_blank\">Phone</a><br>111 ADAMS AVE LEWES DE 19958-1401", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6072666169997, 
+                    39.2998027220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMYRNA-CLAYTON HERITAGE ASSOCIATION</h3>PO BOX 611 SMYRNA DE 19977-0611", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4763472599997, 
+                    39.1233433640004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMC MUSEUM FOUNDATION</h3><b><a href=\"http://amcmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026775938\" target=\"_blank\">Phone</a><br>PO BOX 2050 DOVER DE 19902-2050", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5617256369997, 
+                    39.7580922440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE TOY MNTURE MUSEUM INC</h3>19B TROLLEY SQ WILMINGTON DE 19806-3350", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5518388769996, 
+                    39.7481314180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE CLAYMONT STONE SCHOOL INC</h3>PO BOX 136 CLAYMONT DE 19899", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4731580269997, 
+                    39.0075706960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE DELAWARE ARCHIVES INC</h3>PO BOX 287 FREDERICA DE 19946-0287", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5677228559996, 
+                    39.6596765240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CIVIL WAR ROUND TABLE OF WILMINGTON DELAWARE INC</h3>71 W FIFTH ST NEW CASTLE DE 19720-5008", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7156319209997, 
+                    39.6615277560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FILIPINO HERITAGE AND ARTS MUSEUM</h3><b><a href=\"http://filipinoheritageandartsmuseum.blogs\" target=\"_blank\">Website</a></b><br>58 S SKYWARD DR NEWARK DE 19713-2843", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7359569869997, 
+                    39.6845442580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF WHITE CLAY CREEK STATE PARK</h3>PO BOX 9734 NEWARK DE 19714-9734", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5981160359996, 
+                    39.6604729280004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE AFRO-AMERICAN SPORTS HALL OF FAME INC</h3>PO BOX 1140 NEW CASTLE DE 19720-7140", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5078398599996, 
+                    39.1653639110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF WOODBURN INC</h3>PO BOX 492 DOVER DE 19903-0492", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4590367589997, 
+                    39.8014509720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DARLEY ART AND HISTORIC SOCIETY</h3>PO BOX 695 CLAYMONT DE 19703-0695", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5423918879997, 
+                    39.7515961810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREATER BRANDYWINE VILLAGE REVITALIZATION</h3><a href=\"tel:3025719050\" target=\"_blank\">Phone</a><br>1901 N MARKET STREET WILMINGTON DE 19802", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4628575089997, 
+                    39.8037040380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAYMONT HISTORICAL SOCIETY</h3>PO BOX 184 CLAYMONT DE 19703", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5078398599996, 
+                    39.1653639110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOWNSTATE DELAWARE GENEALOGICAL SOCIETY INC</h3>PO BOX 1787 DOVER DE 19903-1787", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.3597809409997, 
+                    38.6668082660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUSSEX ACDEMY OF ARTS SCIENCES</h3><b><a href=\"http://www.sussexacademy.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3028563636\" target=\"_blank\">Phone</a><br>21777 SUSSEX PINES RD GEORGETOWN DE 19947-3901", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5971992399997, 
+                    39.7777011730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE AVIATION HALL OF FAME INC</h3>PO BOX 4303 GRENVILLE DE 19807-0303", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1703864989997, 
+                    38.7353019460004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC LEWES CAT SOCIETY</h3><b><a href=\"http://www.historiclewescatsociety.org\" target=\"_blank\">Website</a></b><br>PO BOX 353 LEWES DE 19958", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6059806909997, 
+                    39.3011129220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMYRNA MAIN STREET ASSOCIATION</h3>21 EAST COMMERCE ST SMYRNA DE 19977-1403", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4590367589997, 
+                    39.8014509720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARDEN CRAFT SHOP MUSEUM INC</h3><a href=\"tel:3024753060\" target=\"_blank\">Phone</a><br>PO BOX 256 CLAYMONT DE 19703-0256", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1389184879997, 
+                    38.7757429330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OVERFALLS MARITIME MUSEUM FOUNDATION</h3><a href=\"tel:3026448050\" target=\"_blank\">Phone</a><br>PO BOX 413 LEWES DE 19958-0413", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7128459029997, 
+                    39.7768712770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOCKESSIN HISTORICAL SOCIETY</h3>PO BOX 36 HOCKESSIN DE 19707-0036", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5981160359996, 
+                    39.6604729280004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DELAWARE PRESERVATION FUND INC</h3>PO BOX 92 NEW CASTLE DE 19720-0092", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5925066339997, 
+                    38.8071008370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIRST STATE ANTIQUE TRACTOR CLUB INC</h3>PO BOX 277 GREENWOOD DE 19950-0277", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5675392719996, 
+                    39.6587775580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEW CASTLE SENIOR CENTER INC</h3><b><a href=\"http://newcastleseniorcenter.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3023264209\" target=\"_blank\">Phone</a><br>400 SOUTH ST NEW CASTLE DE 19720-5057", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6613575889996, 
+                    39.8022634880004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF AUBURN HEIGHTS PRESERVE INC</h3>PO BOX 61 YORKLYN DE 19736-0061", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5936769349997, 
+                    39.5750524690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT DELAWARE STATE PARK</h3><b><a href=\"http://www.destateparks.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3028347941\" target=\"_blank\">Phone</a><br>P.O. BOX 170 DELAWARE CITY DE 19706", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5240814919997, 
+                    39.1601574490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT MILES HISTORIC DISTRICT</h3><b><a href=\"http://www.destateparks.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3027399189\" target=\"_blank\">Phone</a><br>89 KINGS HIGHWAY DOVER DE 19901", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7255679329996, 
+                    39.6739936680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF DELAWARE</h3><b><a href=\"http://www.udel.edu/museums\" target=\"_blank\">Website</a></b><br><a href=\"tel:3028318037\" target=\"_blank\">Phone</a><br>102 ELLIOT ST NEWARK DE 19713-1607", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5362779659997, 
+                    39.7376935820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KALMAR NYCKEL FOUNDATION</h3><b><a href=\"http://www.kalmarnyckel.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3024297447\" target=\"_blank\">Phone</a><br>1124 E 7TH ST WILMINGTON DE 19801-4502", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5885396439996, 
+                    39.5786434420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT DELAWARE SOCIETY</h3><b><a href=\"http://www.fortdelawaresociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3028341630\" target=\"_blank\">Phone</a><br>PO BOX 553 DELAWARE CITY DE 19706-0553", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5586467249997, 
+                    39.7537091680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STUDIO GROUP INCORPORATED</h3>1305 N FRANKLIN ST WILMINGTON DE 19806-4211", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6274274429996, 
+                    39.7313834160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC RED CLAY VALLEY INC</h3><b><a href=\"http://www.wwrr.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3029981930\" target=\"_blank\">Phone</a><br>PO BOX 5787 WILMINGTON DE 19808-0787", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1421209369997, 
+                    38.7770111200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEWES HISTORICAL SOCIETY</h3><b><a href=\"http://www.historiclewes.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3026457670\" target=\"_blank\">Phone</a><br>110 SHIPCARPENTER ST LEWES DE 19958-1210", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4219579729997, 
+                    38.9209509960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MILFORD HISTORICAL SOCIETY</h3>PO BOX 352 MILFORD DE 19963", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5412268809997, 
+                    39.7388828950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD SWEDES FOUNDATION OF DELAWARE</h3><b><a href=\"http://www.oldswedes.org\" target=\"_blank\">Website</a></b><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5224810359996, 
+                    39.1580029200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEWELL C BIGGS TRUST 12-29-89</h3>406 FEDERAL ST DOVER DE 19901-3615", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6264355439997, 
+                    38.8585077530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANDREWVILLE HISTORICAL SOCIETY</h3>3195 ANDREWVILLE ROAD GREENWOOD DE 19950", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5454038419996, 
+                    39.7473725770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REDDING HOUSE FOUNDATION INC</h3>1214 N KING ST WILMINGTON DE 19801-3218", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5711137259996, 
+                    38.4587220350004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIREMANS HISTORICAL FOUNDATION OF DELMARVA INC</h3>601 DELAWARE AVE DELMAR DE 19940", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6391913129996, 
+                    39.4866236280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ST PAUL CHURCH HISTORICAL REVITALIZATION AND MAINTENANCE INC</h3>350 MISTY VALE DR MIDDLETOWN DE 19709", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6172572319996, 
+                    39.3039533260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAMILY & FRIENDS OF WESLEY</h3>145 GREENS BRANCH LN SMYRNA DE 19977-1098", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7359569869997, 
+                    39.6845442580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIFES & DRUMS OF THE DELAWARE MILITIA INC</h3>PO BOX 7182 NEWARK DE 19714-7182", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5558988949996, 
+                    39.8059487360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHIL CLOUTIER MEMORIAL FOUNDATION</h3>610 KILBURN RD WILMINGTON DE 19803-1705", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.0537013879996, 
+                    38.5115161010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTH BETHANY HISTORICAL SOCIETY</h3>8 S 9TH ST BETHANY BEACH DE 19930", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

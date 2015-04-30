@@ -1,0 +1,3410 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0866963409997, 
+                    38.9384630840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WATKINS COLLECTION</h3>4400 MASS. AVE. NW WASHINGTON DC 20016-8004", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0516909129997, 
+                    38.9140729400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WOODROW WILSON HOUSE</h3><b><a href=\"http://www.woodrowwilsonhouse.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023874062\" target=\"_blank\">Phone</a><br>2340 S ST NW WASHINGTON DC 20008", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0625306289996, 
+                    38.9117467600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TUDOR PLACE FOUNDATION, INC.</h3><a href=\"tel:2029651644\" target=\"_blank\">Phone</a><br>1644 31ST STREET NW WASHINGTON DC 20007", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0207434749997, 
+                    38.8866135890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, ARCHIVES</h3><b><a href=\"http://siarchives.si.edu/\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026336440\" target=\"_blank\">Phone</a><br>600 MARYLAND AVE SW WASHINGTON DC 20024", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0038597169997, 
+                    38.8920784550004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEWALL-BELMONT HOUSE</h3><b><a href=\"http://www.sewallbelmont.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2025461210\" target=\"_blank\">Phone</a><br>144 CONSTITUTION AVENUE, NE WASHINGTON DC 20002", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0625306289996, 
+                    38.9117467600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TUDOR PLACE</h3><b><a href=\"http://www.tudorplace.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2029650400\" target=\"_blank\">Phone</a><br>1644 31ST ST NW WASHINGTON DC 20007", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0038597169997, 
+                    38.8920784550004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEWALL-BELMONT HOUSE AND MUSEUM</h3><b><a href=\"http://www.sewallbelmont.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2025461210\" target=\"_blank\">Phone</a><br>144 CONSTITUTION AVE NE WASHINGTON DC 20002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0212893219996, 
+                    38.9530214820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESIDENT LINCOLN'S COTTAGE</h3><b><a href=\"http://www.lincolncottage.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2028290436\" target=\"_blank\">Phone</a><br>140 ROCK CRK WASHINGTON DC 20011", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0024846169997, 
+                    38.9378037700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POPE JOHN PAUL II CULTURAL CENTER</h3><b><a href=\"http://www.jp2cc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026355400\" target=\"_blank\">Phone</a><br>3900 HAREWOOD RD NE WASHINGTON DC 20017", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0412989029996, 
+                    38.8960971560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OCTAGON MUSEUM</h3><b><a href=\"http://www.theoctagon.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026383221\" target=\"_blank\">Phone</a><br>1799 NEW YORK AVE NW WASHINGTON DC 20006", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0388334429996, 
+                    38.8987776780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, RENWICH GALLERY</h3><a href=\"tel:2023571445\" target=\"_blank\">Phone</a><br>1661 PENNSYLVANIA AVE NW WASHINGTON DC 20006", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0355509639996, 
+                    38.9322773150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POWHATAN MUSEUM</h3><a href=\"tel:2022650136\" target=\"_blank\">Phone</a><br>1519 MONROE ST NW WASHINGTON DC 20010", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0383141909996, 
+                    38.9204865180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERIDIAN HOUSE INTERNATIONAL</h3><a href=\"tel:2029395558\" target=\"_blank\">Phone</a><br>1630 CRESCENT PLACE, NW WASHINGTON DC 20009-4999", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606895309997, 
+                    38.9185829680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, NATIONAL MUSEUM OF AFRICAN AMERICAN HISTORY AND CULTURE</h3><b><a href=\"http://www.nmaahc.si.edu/\" target=\"_blank\">Website</a></b><br>14TH ST CNSTTUTION AVE WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0236897379996, 
+                    38.8887066360004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL SCIENCE RESOURCES CENTER</h3><a href=\"tel:2023572555\" target=\"_blank\">Phone</a><br>900 JEFFERSON DR SW WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0186388689996, 
+                    38.8922826500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, NATIONAL GALLERY OF ART</h3><b><a href=\"http://www.nga.gov/\" target=\"_blank\">Website</a></b><br><a href=\"tel:2027374215\" target=\"_blank\">Phone</a><br>ON THE NATIONAL MALL BE WASHINGTON DC 20565", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0588475499997, 
+                    38.9342336780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, NATIONAL ZOOLOGICAL PARK</h3><b><a href=\"http://nationalzoo.si.edu/\" target=\"_blank\">Website</a></b><br>3001 CONNECTITCUT AVE NW WASHINGTON DC 20008", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0175364509997, 
+                    38.8875733700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, NATIONAL MUSEUM OF AMERICAN INDIAN</h3><b><a href=\"http://www.nmai.si.edu/\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026336686\" target=\"_blank\">Phone</a><br>4TH AND INDEPENDENCE AV WASHINGTON DC 20024", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0188257039997, 
+                    38.9075901040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL HISTORY MUSEUM</h3><a href=\"tel:2023571300\" target=\"_blank\">Phone</a><br>CONST AVE WASHINGTON DC 20001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0237853729997, 
+                    38.9029262880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSIC CENTER AND MUSEUM FOUNDATION</h3><a href=\"tel:2023831800\" target=\"_blank\">Phone</a><br>800 MOUNT VERNON PL NW WASHINGTON DC 20001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0362738129996, 
+                    38.9725210840004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM HEALTH MDCN</h3><a href=\"tel:2027822200\" target=\"_blank\">Phone</a><br>6825 16TH ST NW WASHINGTON DC 20306", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0081846829996, 
+                    38.8970966600004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL POSTAL MUSEUM</h3><b><a href=\"http://www.postalmuseum.si.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026335555\" target=\"_blank\">Phone</a><br>2 MASSACHUSETTS AVE NE WASHINGTON DC 20002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606895309997, 
+                    38.9185829680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, NATIONAL AIR AND SPACE MUSEUM</h3><b><a href=\"http://www.nasm.si.edu/\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026331000\" target=\"_blank\">Phone</a><br>SIXTH ST & INDEPENDENCE WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9924704349996, 
+                    38.8920275250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, NATURAL HISTORY MUSEUM</h3><b><a href=\"http://www.mnh.si.edu/\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023573066\" target=\"_blank\">Phone</a><br>1000 CONSTITUTION AVE N WASHINGTON DC 20002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9948300649996, 
+                    38.8748199350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NAVAL HISTORICAL CENTER</h3><b><a href=\"http://www.history.navy.mil\" target=\"_blank\">Website</a></b><br><a href=\"tel:2024334882\" target=\"_blank\">Phone</a><br>805 KIDDER BREEZE ST SE WASHINGTON DC 20374", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606895309997, 
+                    38.9185829680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF AMERICAN INDIAN</h3><b><a href=\"http://americanindian.si.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026331000\" target=\"_blank\">Phone</a><br>4TH ST & INDEPENDENCE AVE SW WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0321949209996, 
+                    38.8920633770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://americanhistory.si.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026331000\" target=\"_blank\">Phone</a><br>1400 CONSTITUTION AVE NW WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0239757289996, 
+                    38.8992405800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF AFRICAN ART</h3><b><a href=\"http://www.nmafa.si.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026334600\" target=\"_blank\">Phone</a><br>750 9TH ST NW WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0351368549997, 
+                    38.8989305090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL AIR AND SPACE MUSEUM</h3><a href=\"tel:2026331000\" target=\"_blank\">Phone</a><br>14TH ST & CONSTITUTION AVE N WASHINGTON DC 20439", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0219053809997, 
+                    38.8968907110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF CRIME AND PUNISHMENT</h3><b><a href=\"http://www.crimemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023931099\" target=\"_blank\">Phone</a><br>575 7TH ST NW WASHINGTON DC 20004", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0351368549997, 
+                    38.8989305090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL PORTRAIT GALLERY</h3><b><a href=\"http://www.npg.si.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026338300\" target=\"_blank\">Phone</a><br>8TH & F ST NW WASHINGTON DC 20439", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606895309997, 
+                    38.9185829680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, NATIONAL MUSEUM OF AFRICAN ART</h3><b><a href=\"http://www.nmafa.si.edu/\" target=\"_blank\">Website</a></b><br>708 SMITHSONIAN INSTITUTE WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0384827629996, 
+                    38.9048409330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL GEOGRAPHIC MUSEUM</h3><b><a href=\"http://www.nationalgeographic.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2028577588\" target=\"_blank\">Phone</a><br>1145 17TH ST NW WASHINGTON DC 20036", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606895309997, 
+                    38.9185829680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, NATIONAL MUSEUM OF AMERICAN HISTORY</h3><b><a href=\"http://americanhistory.si.edu/\" target=\"_blank\">Website</a></b><br>1400 CONSTITUTION AVE N WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0097604449996, 
+                    38.8977766490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL GUARD MEMORIAL MUSEUM</h3><b><a href=\"http://www.ngef.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2027890031\" target=\"_blank\">Phone</a><br>1 MASSACHUSETTS AVE NW WASHINGTON DC 20001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0383141909996, 
+                    38.9204865180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERIDIAN INTERNATIONAL CENTER</h3><b><a href=\"http://www.meridian.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026676800\" target=\"_blank\">Phone</a><br>1630 CRESCENT PL NW WASHINGTON DC 20009", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0211064079996, 
+                    38.9228927890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOWARD UNIVERSITY ART GALLERY</h3><b><a href=\"http://www.coas.howard.edu/music/humarchingband/index.htm\" target=\"_blank\">Website</a></b><br><a href=\"tel:2028067070\" target=\"_blank\">Phone</a><br>2455 6TH ST NW WASHINGTON DC 20059", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0449255649996, 
+                    38.9138798820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAOGAI MUSEUM</h3><b><a href=\"http://www.laogaimuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2027309308\" target=\"_blank\">Phone</a><br>1734 20TH ST NW WASHINGTON DC 20009", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0421007489996, 
+                    38.9126575710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEWISH WAR VETERANS NATIONAL MEMORIAL MUSEUM ARCHIVES AND LI</h3><a href=\"tel:2022656280\" target=\"_blank\">Phone</a><br>1811 R STREET, NW WASHINGTON DC 20009", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0351368549997, 
+                    38.8989305090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOCKHEED MARTIN IMAX THTR</h3><a href=\"tel:2026334629\" target=\"_blank\">Phone</a><br>6 ST INDEPENDENCE AVE SW WASHINGTON DC 20439", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0184489719996, 
+                    38.9226759770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOWARD UNIVERSITY MUSEUM</h3><a href=\"tel:2028067240\" target=\"_blank\">Phone</a><br>500 HOWARD PL NW WASHINGTON DC 20059", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0202507609997, 
+                    38.9008430850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LILLIAN AND ALBERT SMALL JEWISH MUSEUM</h3><a href=\"tel:2027890900\" target=\"_blank\">Phone</a><br>600 I STREET, NW WASHINGTON DC 20001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0231054539997, 
+                    38.8972817260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE INTERNATIONAL SPY MUSEUM</h3><b><a href=\"http://www.spymuseum.org/\" target=\"_blank\">Website</a></b><br><a href=\"tel:1013937798\" target=\"_blank\">Phone</a><br>800 F STREET WASHINGTON DC 20004", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0893965909996, 
+                    38.9220582290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KREEGER MUSEUM</h3><b><a href=\"http://www.kreegermuseum.org/\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023373050\" target=\"_blank\">Phone</a><br>2401 FOXHALL ROAD NW WASHINGTON DC 20007", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0725850819996, 
+                    38.9323152160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KINDALEW ENTERPRISES</h3><a href=\"tel:2029662936\" target=\"_blank\">Phone</a><br>3210 WISCONSIN AVE NW WASHINGTON DC 20016", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0459903499997, 
+                    38.9023733430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KLUTZNICK NATIONAL JEWISH MSM</h3><b><a href=\"http://www.bnaibrith.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2028576600\" target=\"_blank\">Phone</a><br>2020 K ST NW WASHINGTON DC 20006", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0198658279996, 
+                    38.8993696800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GERMAN-AMERICAN HERITAGE MUSEUM</h3><b><a href=\"http://gahfusa.org/gahm/gahm.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:7196847869\" target=\"_blank\">Phone</a><br>719 6TH ST NW WASHINGTON DC 20001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0010810919997, 
+                    38.8909485280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREDERICK DOUGLASS MUSEUM</h3><a href=\"tel:2025446130\" target=\"_blank\">Phone</a><br>320 A ST NE WASHINGTON DC 20002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606895309997, 
+                    38.9185829680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, HIRSHHORN MUSEUM AND SCULPTURE GARDEN</h3><b><a href=\"http://hirshhorn.si.edu/\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026334674\" target=\"_blank\">Phone</a><br>7TH & INDEPENDENCE SW WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0715566909997, 
+                    38.9084113100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEORGETOWN UNIVERSITY ART COLLECT</h3><a href=\"tel:2026871469\" target=\"_blank\">Phone</a><br>3700 0 ST WASHINGTON DC 20057", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0474679799997, 
+                    38.9061519070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DIMOCK GALLERY</h3><a href=\"tel:2029941525\" target=\"_blank\">Phone</a><br>LOWER LISNER AUDIT., 730 21ST ST. NW WASHINGTON DC 20052", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0271135819996, 
+                    38.8887977300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DISCOVERY THEATRE</h3><b><a href=\"http://www.DiscoveryTheater.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026338700\" target=\"_blank\">Phone</a><br>1100 JEFFERSON DR SW WASHINGTON DC 20439", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0394482639996, 
+                    38.8964036370004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CORCORAN GALLERY OF ART</h3>17TH STREET & NEW YORK AVENUE, N.W. WASHINGTON DC 20006", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0243701369997, 
+                    38.8961279510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOUBLE M MANAGEMENT</h3><a href=\"tel:2023937798\" target=\"_blank\">Phone</a><br>901 E ST NW WASHINGTON DC 20004", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0246211639997, 
+                    38.9078037490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>D.C. OFFICE OF PUBLIC RECORDS AND ARCHIVES</h3><b><a href=\"http://www.os.dc.gov/os/cwp/view,a,1207,q,522721,osNav,|31376|.asp\" target=\"_blank\">Website</a></b><br>1300 NAYLOR COURT, NW WASHINGTON DC 20001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0709482269996, 
+                    38.9196313740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DISCOVERY CREEK CHILDREN'S MUSEUM</h3><b><a href=\"http://www.discoverycreek.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023375111\" target=\"_blank\">Phone</a><br>2233 WISCONSIN AVE NW WASHINGTON DC 20007", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0495198899997, 
+                    38.8935483070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DIPLOMATIC RECEPTION ROOMS</h3><a href=\"tel:2026471990\" target=\"_blank\">Phone</a><br>2201 C ST NW WASHINGTON DC 20520", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0252710489996, 
+                    38.8842391800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, CENTER FOR FOLKLIFE PROGRAMS AND  CULTURAL HERTIAGE</h3><b><a href=\"http://www.folklife.si.edu/\" target=\"_blank\">Website</a></b><br>955 LENFANT PLZ SW 2600 WASHINGTON DC 20024", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0394974169997, 
+                    38.8956166940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN RED CROSS MUSEUM</h3><a href=\"tel:2026393331\" target=\"_blank\">Phone</a><br>430 17TH STREET NW WASHINGTON DC 20006", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0459903499997, 
+                    38.9023733430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>B'NAI B'RITH KLUTZNICK MUSEUM</h3>2020 K STREET, NW WASHINGTON DC 20006", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606895309997, 
+                    38.9185829680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, AMERICAN ART MUSEUM</h3><b><a href=\"http://americanart.si.edu/\" target=\"_blank\">Website</a></b><br>8TH & F STREET NW WASHINGTON DC 20560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9769286119997, 
+                    38.8571833810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANACOSTIA COMMUNITY MUSEUM</h3><b><a href=\"http://anacostia.si.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026334820\" target=\"_blank\">Phone</a><br>1901 FORT PL SE WASHINGTON DC 20020", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606895309997, 
+                    38.9185829680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, ARTHUR M SACKLER GALLERY</h3><b><a href=\"http://www.asia.si.edu/\" target=\"_blank\">Website</a></b><br>1050 INDEPENDENCE AVE WASHINGTON DC 20560", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0062711749997, 
+                    38.9118225620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOHEMIA ARTS</h3><a href=\"tel:2022694259\" target=\"_blank\">Phone</a><br>111 QUINCY PL NE WASHINGTON DC 20002", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9963505609996, 
+                    38.9002283770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ADOBE DESIGN CENTER AND SHOWROOM</h3><b><a href=\"http://www.adobedesigndc.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2025299006\" target=\"_blank\">Phone</a><br>654 H ST NE WASHINGTON DC 20002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0239757289996, 
+                    38.8992405800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION, ARCHIVES OF AMERICAN ART</h3><b><a href=\"http://www.aaa.si.edu/\" target=\"_blank\">Website</a></b><br>750 9TH STREET NW WASHINGTON DC 20001", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0594120789996, 
+                    38.9372269630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PEACE CORPS FOUNDATION</h3>3601 CONN AVE NW APARTMENT 5 WASHINGTON DC 20008-2406", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0394760969996, 
+                    38.9018901040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ATOMIC HERITAGE FOUNDATION</h3><b><a href=\"http://www.atomicheritage.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2022930045\" target=\"_blank\">Phone</a><br>910 17TH ST NW STE 408 WASHINGTON DC 20006-2604", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0393801589997, 
+                    38.9072235000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAUNA & FLORA INTERNATIONAL INC</h3>1720 N ST NW WASHINGTON DC 20036-2907", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0381211329997, 
+                    38.9026576010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL PLASTICS MUSEUM INC</h3><b><a href=\"http://www.plasticsmuseum.org\" target=\"_blank\">Website</a></b><br>1667 K ST NW STE 1000 WASHINGTON DC 20006-1620", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0430399849997, 
+                    38.9037780530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ADAMS MEMORIAL FOUNDATION INC</h3>1899 L STREET NW NO 600 WASHINGTON DC 20036-3804", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0345963299997, 
+                    38.9053710830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICANS FOR BATTLEFIELD PRESERVATION</h3>1156 15TH ST NW STE 900 WASHINGTON DC 20005-1717", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0944528359997, 
+                    38.9318734320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHAIN BRIDGE ROAD-UNIVERSITY TERRACE PRESERVATION COMMITTEE</h3>3115 CHAIN BRIDGE RD NW WASHINGTON DC 20016-3411", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0228780579997, 
+                    38.9021434850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOWARD THEATER RESTORATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0249125969996, 
+                    38.9175740550004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLACK FASHION MUSEUM</h3><b><a href=\"http://www.bfmdc.org\" target=\"_blank\">Website</a></b><br>2007 VERMONT AVENUE NW WASHINGTON DC 20001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0509411819996, 
+                    38.9170375170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARL SCHMITT FOUNDATION INC</h3>2301 WYOMING AVE NW WASHINGTON DC 20008-1642", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0345096379996, 
+                    38.9066014610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALEXANDER HAMILTON HISTORICAL SOCIETY</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0304460499996, 
+                    38.8982543060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARMENIAN GENOCIDE MUSEUM AND MEMORIAL INC</h3><a href=\"tel:2023472115\" target=\"_blank\">Phone</a><br>1334 G ST NW STE 200 WASHINGTON DC 20005-3118", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0819998599997, 
+                    38.9489034650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KUSH INC</h3>4545 42ND ST NW STE 208 WASHINGTON DC 20016-4623", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9945099879997, 
+                    38.8915762650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHOOK MUSEUM FOUNDATION</h3><b><a href=\"http://shookmuseum.org\" target=\"_blank\">Website</a></b><br>802 MASSACHUSETTS AVE NE WASHINGTON DC 20002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0511804319996, 
+                    38.9155735870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF THE JEWISH PEOPLE INC</h3>2312 CALIFORNIA ST NW WASHINGTON DC 20008-1637", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0601961579997, 
+                    38.9046391180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC BAHAMAS FOUNDATION INC</h3>1072 THOMAS JEFFERSON ST NW WASHINGTON DC 20007", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9877162149996, 
+                    38.8672236200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN POETRY MUSEUM</h3><a href=\"tel:2022490253\" target=\"_blank\">Phone</a><br>1227 GOOD HOPE RD SE WASHINGTON DC 20020", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0462368069997, 
+                    38.9155825860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PROVISIONS LEARNING PROJECT</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0277691019996, 
+                    38.9007797820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MILITARY FAMILIES UNITED INC</h3>1100 NEW YORK AVE STE 325E WASHINGTON DC 20005-3934", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0192629639997, 
+                    38.8926671070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEWSEUM INC</h3><b><a href=\"http://www.newseum.org\" target=\"_blank\">Website</a></b><br>555 PENNSYLVANIA AVENUE NW WASHINGTON DC 20001-2114", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0443193869996, 
+                    38.9005324990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MT ZION - FEMALE UNION BAND HISTORIC MEMORIAL PARK INC</h3>1919 PENNSYLVANIA AVE NW WASHINGTON DC 20006", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0418179369997, 
+                    38.9196842720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILLIAM MORRIS SOCIETY IN THE UNITED STATES</h3>2539 JFK BLVD JERSEY CITY DC 20009-9263", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0465496479997, 
+                    38.9013613840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GLENSTONE FOUNDATION</h3>", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0081697829996, 
+                    38.8989184200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY&MEDICARE FNDN</h3><b><a href=\"http://www.ncpssm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2022160420\" target=\"_blank\">Phone</a><br>10 G ST NE STE 600 WASHINGTON DC 20002-4253", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0398705059997, 
+                    38.9001833700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GENERAL SOCIETY OF COLONIAL WARS</h3>1700 H STREET NW BOX 20 WASHINGTON DC 20006-4601", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9938360429996, 
+                    38.8759604830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAPITOL HILL RESTORATION SOCIETY INC</h3><a href=\"tel:2025430425\" target=\"_blank\">Phone</a><br>PO BOX 15264 WASHINGTON DC 20003-0264", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606879959996, 
+                    38.9185806400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEPIDOPTERISTS SOCIETY</h3><a href=\"tel:2023821785\" target=\"_blank\">Phone</a><br>10TH CONSTITUTION MRC N WASHINGTON DC 20560-0001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0456646369997, 
+                    38.9073206210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLONIAL DAMES 17TH CENTURY</h3><a href=\"tel:2022931700\" target=\"_blank\">Phone</a><br>1300 NEW HAMPSHIRE AVE WASHINGTON DC 20036-1502", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0337697309997, 
+                    38.8987727490004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TREASURY HISTORICAL ASSOCIATION</h3>1500 PENNSYLVANIA AVE NW WASHINGTON DC 20220-0001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0473701869997, 
+                    38.9126030880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FONDO DEL SOL MUSEUM INC</h3><b><a href=\"http://www.fondodelsol.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2024832777\" target=\"_blank\">Phone</a><br>2112 R ST NW WASHINGTON DC 20008-1932", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0025308099997, 
+                    38.8898375520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUPREME COURT HISTORICAL SOCIETY THE SOCIETY</h3><b><a href=\"http://www.supremecourthistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2025430400\" target=\"_blank\">Phone</a><br>224 E CAPITOL ST NE WASHINGTON DC 20003-1036", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0345963299997, 
+                    38.9053710830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOUNDATION OF THE AMERICAN INSTITUTE FO</h3>1156 15TH STREET, NW WASHINGTON DC 20005-1714", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0405006109996, 
+                    38.9314778390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC MOUNT PLEASANT INC</h3><b><a href=\"http://historicmountpleasant.org\" target=\"_blank\">Website</a></b><br>1731 LAMONT STREET NW WASHINGTON DC 20010", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0244987459997, 
+                    38.8841942670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VELVET FOUNDATION</h3>PO BOX 71094 WASHINGTON DC 20024-1094", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9814305539996, 
+                    38.8819647810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SOUTHERN COURIER ASSOCIATION</h3>1627 POTOMAC AVENUE SE WASHINGTON DC 20003-3134", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0720765549996, 
+                    38.9210833630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SS UNITED STATES CONSERVANCY</h3>PO BOX 32115 WASHINGTON DC 20007-0415", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9932509599997, 
+                    38.8833647530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD NAVAL HOSPITAL FOUNDATION</h3>921 PENNSYLVANIA AVE SE WASHINGTON DC 20003-2141", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0295756169996, 
+                    38.9084410720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONSTANCE WHITAKER MAFFIN MEMORIAL FUND</h3>1325 13TH ST NW APT 702 WASHINGTON DC 20005-0976", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0445823649997, 
+                    38.9026658250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN WRITERS MUSEUM FOUNDATION</h3>1999 K STREET NW STE 1109 WASHINGTON DC 20006-1101", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0281057649997, 
+                    38.9150204680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IKG CULTURAL CIRCLES INC</h3>1816 12TH ST NW WASHINGTON DC 20009-4422", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0451631379997, 
+                    38.9026702580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EVIL EMPIRE SPEECH MEMORIAL FOUNDATION</h3>2001 K ST NW STE 400 WASHINGTON DC 20006-1040", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0354100179997, 
+                    38.9068136940004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF CATHOLIC ART AND LIBRARY</h3>1500 MASSACHUSETTS AVE NW STE 122 WASHINGTON DC 20005", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0299214649996, 
+                    38.8954646820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRUST FOR THE NATIONAL MALL</h3>1300 PENNSYLVANIA AVE NW STE 3 WASHINGTON DC 20004-3027", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0285108329996, 
+                    38.8982527820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC PRESERVATION SOCIETY OF AMERICA INC</h3>1200 G STREET NW SUITE 800 WASHINGTON DC 20005-6705", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0473623169997, 
+                    38.9179318870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHERIDAN-KALORAMA CALL BOX RESTORATION COMMITTEE</h3>2126 CONNECTICUT AVENUE NW 34 WASHINGTON DC 20008-1701", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0458505889997, 
+                    38.9085630670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>O STREET MUSEUM</h3><a href=\"tel:2024962070\" target=\"_blank\">Phone</a><br>2020 O ST NW WASHINGTON DC 20036-5912", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0081962849997, 
+                    38.8970641740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROSEWOOD IDELLA CARRIER FOUNDATION</h3>PO BOX 75242 WASHINGTON DC 20013-0242", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0694015109996, 
+                    38.9136228390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELLINGTON GALLERY</h3><a href=\"tel:2022820123\" target=\"_blank\">Phone</a><br>3500 R. ST. NW WASHINGTON DC 20007", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0439426689996, 
+                    38.9125935250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRUST FOR ARCHITECTURAL EASEMENTS</h3>1906 R ST NW STE 100 WASHINGTON DC 20009-1030", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0319982239997, 
+                    38.9036903070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RAINBOW HISTORY PROJECT</h3>PO BOX 12075 WASHINGTOND DC 20005-0975", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0424264609996, 
+                    38.9077020010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNITED STATES SENATE PRESERVATION FOUNDATION INC</h3>1300 CONNECTICUT AVENUE NW STE 600 WASHINGTON DC 20036-1743", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0820461459996, 
+                    38.9601298900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TENLEYTOWN HISTORICAL SOCIETY</h3>5332 42ND STREET NW WASHINGTON DC 20015-1934", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0477373539997, 
+                    38.9063162420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RESTORING ANCIENT STABIAE FOUNDATION USA</h3>2121 WARD COURT NW 6TH FLOOR WASHINGTON DC 20037-1248", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0276426609997, 
+                    38.8950075000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PENTAGON MEMORIAL FUND INC</h3>1111 PENNSYLVANIA AVE NW WASHINGTON DC 20004-2541", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0238951889996, 
+                    38.8964903800004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOUNDATION FOR THE INTERNATIONAL MUSEUM FOR WOMEN IN</h3>505 9TH ST NW STE WASHINGTON DC 20004-2166", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0239058489997, 
+                    38.8954398090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL RECORDING PRESERVATION FOUNDATION</h3>401 9TH ST NW STE 900 WASHINGTON DC 20004-2145", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0798111649996, 
+                    38.9570480570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM FOR BLACK INNOVATION & ENTREPRENEURSHIP</h3>3973 HARRISON STREET NW WASHINGTON DC 20015-1937", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9795414199996, 
+                    38.8866135890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENSEED COMMUNITY GARDEN LAND TRUST</h3>1727 BAY ST SE WASHINGTON DC 20003-1647", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0434047839997, 
+                    38.9066502450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THEARBORETUM COMMUNITY CENTER</h3>1225 19TH STREET NW STE 600 WASHINGTON DC 20036", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9836963289997, 
+                    38.8958697500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN MUSEUM OF PEACE INC</h3>438 15TH ST NE WASHINGTON DC 20002-5568", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0532318289996, 
+                    38.9234676770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DIPLOMACY CENTER FOUNDATION</h3>2401 CALVERT ST NW APT 902 WASHINGTON DC 20008-2678", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0380263789996, 
+                    38.8998695010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WHITE HOUSE HISTORICAL ASSOCIATION</h3><b><a href=\"http://www.whitehousehistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2027378292\" target=\"_blank\">Phone</a><br>740 JACKSON PLACE NW WASHINGTON DC 20006", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0030116799996, 
+                    38.8922170310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNITED STATES CAPITOL HISTORICAL SOCIETY</h3><a href=\"tel:2025438919\" target=\"_blank\">Phone</a><br>200 MARYLAND AVE NE SUITE 403 WASHINGTON DC 20002-5724", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0421007489996, 
+                    38.9126575710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEWISH WAR VETERANS USA NATIONAL MEMORIAL INC</h3><b><a href=\"http://www.Nmajmh.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2022656280\" target=\"_blank\">Phone</a><br>1811 R ST NW WASHINGTON DC 20009-1603", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0364155829997, 
+                    38.9084742370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE WASHINGTON CENTER FOR INTERNSHIPS AND ACADEMIC SEMINARS</h3><b><a href=\"http://www.twc.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:2022387969\" target=\"_blank\">Phone</a><br>1333 16TH ST NW WASHINGTON DC 20036-2205", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0096171019997, 
+                    38.8977506850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL GUARD EDUCATIONAL FOUNDATION</h3><b><a href=\"http://www.ngaus.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2024085890\" target=\"_blank\">Phone</a><br>ONE MASSACHUSETTS AVE NW WASHINGTON DC 20001-1401", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0175206969997, 
+                    38.8973680280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DC PRESERVATION LEAGUE</h3><b><a href=\"http://www.dcpreservation.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2027835144\" target=\"_blank\">Phone</a><br>401 F ST NW STE 324 WASHINGTON DC 20001-2613", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0318449459996, 
+                    38.8969902010004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON PRESS CLUB FOUNDATION INC</h3>529 14TH ST NW STE 1115 WASHINGTON DC 20045-2116", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0175206969997, 
+                    38.8973680280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL BUILDING MUSEUM</h3><b><a href=\"http://www.nbm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2022722448\" target=\"_blank\">Phone</a><br>401 F ST NW 4TH FLOOR WASHINGTON DC 20001-2637", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9948977589996, 
+                    38.8834927030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONGRESSIONAL CEMETERY</h3><a href=\"tel:2025430539\" target=\"_blank\">Phone</a><br>1801 E WASHINGTON ST SE WASHINGTON DC 20003", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0226326079996, 
+                    38.8936170030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>US NAVY MEMORIAL FOUNDATION</h3>701 PENNSYLVANIA AVE NW STE 123 WASHINGTON DC 20004-2688", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0432147119997, 
+                    38.8973721660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE ART MUSEUM OF THE AMERICAS</h3><b><a href=\"http://www.museum.oas.org/friends.ht\" target=\"_blank\">Website</a></b><br>1889 F STREET NW WASHINGTON DC 20006", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0434663729997, 
+                    38.9076889730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LENFANT TRUST</h3>1310 19TH ST NW WASHINGTON DC 20036-1602", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0319858909996, 
+                    38.9031894010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HERITAGE PRESERVATION INC</h3><b><a href=\"http://www.heritagepreservation.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026251495\" target=\"_blank\">Phone</a><br>1012 14TH ST NW STE 1200 WASHINGTON DC 20005-3408", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0288172939997, 
+                    38.9004174510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF WOMEN IN THE ARTS INC</h3><b><a href=\"http://www.nmwa.org\" target=\"_blank\">Website</a></b><br>1250 NEW YORK AVE NW WASHINGTON DC 20005-3970", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0421410189996, 
+                    38.9091967260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WADSWORTH-SULGRAVE HISTORIC PRESERVATION FOUNDATION</h3>1801 MASS AVE NW WASHINGTON DC 20036-1804", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0761695489996, 
+                    38.9658238840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BEAD SOCIETY OF GREATER WASHINGTON</h3><b><a href=\"http://www.nleomf.com\" target=\"_blank\">Website</a></b><br>PO BOX 42519 WASHINGTON DC 20015-0519", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0306190829996, 
+                    38.9080063940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BETHUNE MEMORIAL MUSEUM</h3>1318 VERMONT AVE NW WASHINGTON DC 20005-3607", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0336743729997, 
+                    38.8876619390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNITED STATES HOLOCAUST MEMORIAL COUNCIL</h3><b><a href=\"http://www.ushmm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2024880400\" target=\"_blank\">Phone</a><br>100 RAOUL WALLENBERG PL SW WASHINGTON DC 20024-2126", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0637008259997, 
+                    38.9081959000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITIZENS ASSOCIATION OF GEORGETOWN</h3><a href=\"tel:2023377313\" target=\"_blank\">Phone</a><br>1365 WISCONSIN AVE NW STE 200 WASHINGTON DC 20007-3382", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0495198899997, 
+                    38.8935483070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DIPLOMATIC ROOMS FOUNDATION</h3>2201 C STREET NW WASHINGTON DC 20520", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0219352279997, 
+                    38.8948722560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL LAW ENFORCEMENT OFFICERS MEMORIAL FUND</h3><a href=\"tel:2027373400\" target=\"_blank\">Phone</a><br>400 7TH STREET NW, SUITE 300 WASHINGTON DC 20004", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0588475499997, 
+                    38.9342336780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLEVELAND PARK HISTORICAL SOCIETY</h3><b><a href=\"http://clevelandparkhistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2022372538\" target=\"_blank\">Phone</a><br>PO BOX 4862 WASHINGTON DC 20008", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0405274699996, 
+                    38.8990802560004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLAIR HOUSE RESTORATION FUND</h3>PO BOX 27208 WASHINGTON DC 20038-7208", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0479718669997, 
+                    38.9112469390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COSMOS CLUB HISTORIC PRESERVATION FOUNDATION</h3><b><a href=\"http://www.cosmosclub.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023877783\" target=\"_blank\">Phone</a><br>2121 MASSACHUSETTS AVE NW WASHINGTON DC 20008-3639", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0400531969997, 
+                    38.9013433000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOUNDATION FOR ART AND PRESERVATION IN EMBASSIES</h3><a href=\"tel:2023493724\" target=\"_blank\">Phone</a><br>1725 I ST NW STE 300 WASHINGTON DC 20006-2423", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0081962849997, 
+                    38.8970641740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC PRESERVATION EDUCATION FOUNDATION</h3>PO BOX 77160 WASHINGTON DC 20013-8160", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0528409739997, 
+                    38.9163280560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHERIDAN KALORAMA HISTORICAL ASSOCIATION INC</h3>2401 TRACY PL NW WASHINGTON DC 20008", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0588696189997, 
+                    38.9076427810004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL AND EASTERN EUROPEAN ART FOUNDATION</h3>2920 DUMBARTON ST NW WASHINGTON DC 20007-3337", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0423838219996, 
+                    38.9217005380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DISTRICT COLUMBIA ARTS CENTER</h3><a href=\"tel:2024627833\" target=\"_blank\">Phone</a><br>2438 18TH ST NW WASHINGTON DC 20009-2004", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0345252649997, 
+                    38.9050998540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL HEALTH MUSEUM</h3>1155 15TH ST NW STE 810 WASHINGTON DC 20005-2733", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0364653279997, 
+                    38.9138490870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOUSE OF THE TEMPLE HISTORIC PRESERVATION FOUNDATION INC</h3><b><a href=\"http://www.scottishrite.org\" target=\"_blank\">Website</a></b><br>1733 16TH ST NW WASHINGTON DC 20009-3103", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0451631379997, 
+                    38.9026702580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE US FEDERATION OF FRIENDS OF MUSEUMS</h3>2001 K STREET NW SUITE 400 WASHINGTON DC 20006", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0755401839996, 
+                    38.9620983790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ST PETERSBURG CONSERVANCY</h3>3813 LEGATION ST NW WASHINGTON DC 20015-2701", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0155784489996, 
+                    38.8921239030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE HISTORICAL SOCIETY OF THE DISTRICT OF COLUMBIA CIRCUIT</h3>333 CONST AVE NW STE 4826 WASHINGTON DC 20001-2850", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0760080249997, 
+                    38.9655935720004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL FRIENDS OF THE NATURAL HISTORY MUSEUM LONDON I</h3>5614 CONNECTICUT AVENUE 202 WASHINGTON DC 20015", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0761695489996, 
+                    38.9658238840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC CHEVY CHASE DC</h3><a href=\"tel:2029667011\" target=\"_blank\">Phone</a><br>PO BOX 6292 WASHINGTON DC 20015-0292", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0382581699997, 
+                    38.9013583290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VICE PRESIDENTS RESIDENCE FOUNDATION</h3>1625 EYE ST NW WASHINGTON DC 20006-4061", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0364250579997, 
+                    38.9255107830004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MEXICAN CULTURAL INSTITUTE</h3><b><a href=\"http://www.instituteofmexicodc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2027281628\" target=\"_blank\">Phone</a><br>2829 16TH ST NW WASHINGTON DC 20009-4204", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0255924479997, 
+                    38.9163742480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AFRICAN AMERICAN CIVIL WAR MEMORIAL FRE</h3><b><a href=\"http://www.afroamcivilwar.org\" target=\"_blank\">Website</a></b><br>1925 VERMONT AVENUE, NW WASHINGTON DC 20001-4198", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0220366689996, 
+                    38.8932548190004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FOUNDATION FOR THE NATIONAL ARCHIVES</h3><b><a href=\"http://www.archives.gov/dc-metro/washingto\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023575000\" target=\"_blank\">Phone</a><br>700 PENNSYLVANIA AVE NW G 12 WASHINGTON DC 20408-0001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0219406859997, 
+                    38.8951030680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AFRICAN AMERICAN HERITAGE PRESERVATION FOUNDATION INC</h3>420 SEVENTH STREET NW SUITE 501 WASHINGTON DC 20004-2209", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0408488279996, 
+                    38.9051649960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOASBERG HISTORIC PRESERVATION FUND INC</h3>1140 CONNECTICUT AVE NW STE 1210 WASHINGTON DC 20036-4003", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0364949379996, 
+                    38.9105007610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VICTIMS OF COMMUNISM MEMORIAL FOUNDATION INC</h3>1521 16TH STREET NW WASHINGTON DC 20036-1463", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0936130889996, 
+                    38.9435742130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ATATURK SOCIETY OF AMERICA</h3>4731 MASS AVE NW WASHINGTON DC 20016-2345", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0396809999996, 
+                    38.9032154580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HERITAGE US</h3>1025 CONNECTICUT AVE NW SUITE 400 WASHINGTON DC DC 20036-5423", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0100411509997, 
+                    38.8792726190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON PROJECT FOR THE ARTS INC</h3><b><a href=\"http://www.corcoran.org/home\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026391700\" target=\"_blank\">Phone</a><br>10 I ST SW STE 434 WASHINGTON DC 20024-4266", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0398705059997, 
+                    38.9001833700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>METROPOLITAN CLUB PRESERVATION FOUNDATION</h3><b><a href=\"http://www.metroclub.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2028352500\" target=\"_blank\">Phone</a><br>1700 H ST NW WASHINGTON DC 20006-4601", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9900625299996, 
+                    38.8542934210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COLLECTONS STRIES AMRCN MSLIMS</h3><a href=\"tel:2026786906\" target=\"_blank\">Phone</a><br>2524 ELVANS RD SE WASHINGTON DC 20020-3508", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0661703199996, 
+                    38.9126859970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ADDISON/RIPLEY GALLERY LTD</h3><b><a href=\"http://www.addisonripleyfineart.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023385180\" target=\"_blank\">Phone</a><br>1670 WISCONSIN AVE NW WASHINGTON DC 20007-2760", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9739793679997, 
+                    38.9300036590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARCHIE EDWARDS BLUES HERITAGE FOUNDATION INC</h3><a href=\"tel:2025267539\" target=\"_blank\">Phone</a><br>PO BOX 10124 WASHINGTON DC 20018-0124", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0243606619997, 
+                    38.9021269850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FEDERAL CIRCUIT HISTORICAL SOCIETY</h3>901 NEW YORK AVE STE 9181 WASHINGTON DC 20001-4432", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0510773879997, 
+                    38.9029679160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SPAIN - USA FOUNDATION</h3>2375 PENNSYLVANIA AVENUE NW WASHINGTON DC 20037-1710", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0100103559997, 
+                    38.9586837260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON DC HALL OF FAME SOCIETY</h3>20 MADISON ST NW WASHINGTON DC 20011-2310", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0631702099997, 
+                    38.9051330170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITY TAVERN PRESERVATION FOUNDATION</h3><b><a href=\"http://citytavernclubdc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023378770\" target=\"_blank\">Phone</a><br>3206 M ST NW WASHINGTON DC 20007-3615", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0275135599996, 
+                    38.8949778900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SECURITIES AND EXCHANGE COMMISSION HISTORICAL SOCIETY</h3><a href=\"tel:2027565015\" target=\"_blank\">Phone</a><br>1101 PENNSYLVANIA AVENUE NW WASHINGTON DC 20004-2514", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0280252259997, 
+                    38.8967296310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE ALNWICK GARDEN</h3>555 TWELFTH STREET WASHINGTON DC 20004-1206", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9818806289996, 
+                    38.8828128190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HILL EAST INC</h3>1607 E STREET SE WASHINGTON DC 20003-2446", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9882681489997, 
+                    38.8603173280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREDERICK DOUGLAS GARDENS</h3>1395 MORRIS RD SE WASHINGTON DC 20020-5235", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0336641989996, 
+                    38.9027807800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEGD</h3><a href=\"tel:2026385555\" target=\"_blank\">Phone</a><br>1000 VERMONT AVE NW STE 400 WASHINGTON DC 20005-4921", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0388139179997, 
+                    38.9013018550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PETRA NATIONAL FOUNDATION USA</h3>1634 EYE STREET NW SUITE 205 WASHINGTON DC 20006-4020", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0494215839997, 
+                    38.8921175400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN PHARMACISTS ASSOCIATION FOUNDATION</h3><a href=\"tel:2024297534\" target=\"_blank\">Phone</a><br>2215 CONSTITUTION AVE N WASHINGTON DC 20037-2907", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0319982239997, 
+                    38.9036903070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONFEDERATE MEMORIAL HALL ASSOCIATION</h3><a href=\"tel:2024835700\" target=\"_blank\">Phone</a><br>PO BOX 6010 WASHINGTON DC 20005-0710", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0161254629996, 
+                    38.8984600540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEWISH HISTORICAL SOCIETY OF GREATER WASHINGTON INC</h3><b><a href=\"http://www.jhsgw.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2027890900\" target=\"_blank\">Phone</a><br>701 4TH ST NW STE 200 WASHINGTON DC 20001-2788", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0361384309996, 
+                    38.9174295570004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONGRESSIONAL CLUB MUSEUM AND FOUNDATION</h3><b><a href=\"http://thecongressionalclub.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023321155\" target=\"_blank\">Phone</a><br>2001 NEW HAMPSHIRE AVE NW WASHINGTON DC 20009", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0543629409997, 
+                    38.9435884270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HILLWOOD MUSEUM AND GARDENS FOUNDATION</h3><b><a href=\"http://www.hillwoodmuseum.org\" target=\"_blank\">Website</a></b><br>4155 LINNEAN AVE NW WASHINGTON DC 20008-3806", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0456488159996, 
+                    38.9013594450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARTS CLUB OF WASHINGTON</h3><b><a href=\"http://www.artsclubofwashington.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023317282\" target=\"_blank\">Phone</a><br>2017 I ST NW WASHINGTON DC 20006-1804", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0038597169997, 
+                    38.8920784550004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL WOMANS PARTY</h3>144 CONSTITUTION AVENUE NE WASHINGTON DC 20002-5608", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0866497019996, 
+                    38.9383938650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN UNIVERSITY</h3>", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9975466769997, 
+                    38.9326801830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CATHOLIC UNIVERSITY OF AMERICA</h3><a href=\"tel:2023195079\" target=\"_blank\">Phone</a><br>MULLEN LIBRARY RM 320 WASHINGTON DC 20064-0001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0850479329997, 
+                    38.9388002790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL PRESBYTERIAN CHURCH</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9950038849997, 
+                    38.8751847980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NAVAL HISTORICAL FOUNDATION</h3><b><a href=\"http://www.navyhistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026784333\" target=\"_blank\">Phone</a><br>1306 DAHLGREN AVE SE BLDG 57 WASHINGTON NAVY YARD DC 20374-5109", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0394829299997, 
+                    38.8963172820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRUSTEES OF THE CORCORAN GALLERY OF ART</h3><b><a href=\"http://www.corcoran.org/home\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026291771\" target=\"_blank\">Phone</a><br>510 17TH ST NW WASHINGTON DC 20006", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9801970699996, 
+                    38.9049807730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL ACADEMY OF SCIENCES</h3><b><a href=\"http://www.nationalacademies.org/nas/arts\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023343104\" target=\"_blank\">Phone</a><br>2101 CONSTITUTION AVE N WASHINGTON DC 20418-0007", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0466614029996, 
+                    38.9117406130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHILLIPS COLLECTION</h3><b><a href=\"http://www.phillipscollection.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023872151\" target=\"_blank\">Phone</a><br>1600 21ST ST NW WASHINGTON DC 20009-1003", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0512609719997, 
+                    38.9140729400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TEXTILE MUSEUM</h3><b><a href=\"http://www.textilemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2026670441\" target=\"_blank\">Phone</a><br>2320 S ST NW WASHINGTON DC 20008-4016", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0219331029996, 
+                    38.8855039350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITHSONIAN INSTITUTION OFFICE OF THE COMPTROLLER</h3><a href=\"tel:2026338998\" target=\"_blank\">Phone</a><br>301 7TH ST SW WASHINGTON DC 20439", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0414422169997, 
+                    38.9089574760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL TRUST FOR HISTORIC PRESERVATION IN THE UNITED STATE</h3><b><a href=\"http://www.nationaltrust.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4132983579\" target=\"_blank\">Phone</a><br>1785 MASSACHUSETTS AVE NW WASHINGTON DC 20037-1922", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0237400319996, 
+                    38.9021281700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY OF WASHINGTON DC</h3><b><a href=\"http://www.historydc.org/\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023831850\" target=\"_blank\">Phone</a><br>801 K ST NW WASHINGTON DC 20001-3746", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0281659299997, 
+                    38.8949133960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>APT WASHINGTON CHAPTER INCORPORATED</h3>PO BOX 7798 WASHINGTON DC DC 20044-7798", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0261166229997, 
+                    38.8854523010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARITIME ARCHAEOLOGICAL AND HISTORICAL SOCIETY</h3>PO BOX 44382 WASHINGTON DC 20026-2002", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0556295089996, 
+                    38.9305642380004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PATRONS OF THE ARTS IN THE VATICAN MUSEUMS</h3>3100 CONN AVE NW STE 344 WASHINGTON DC 20008-5127", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0273406359997, 
+                    38.8997936990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL INTELLECTUAL PROPERTY INSTITUTE</h3><a href=\"tel:2025446610\" target=\"_blank\">Phone</a><br>1100 H STREET NWSUITE 1 WASHINGTON DC 20005", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0421940979996, 
+                    38.9013594450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUILDING PRESERVATION FOUNDATION</h3>DICKSTEIN SHAPIRO 1825 EYE ST NW WASHINGTON DC 20006-5403", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0596075069997, 
+                    38.9126184850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OAK HILL CEMETERY PRESERVATION FOUNDATION</h3><b><a href=\"http://www.oakhillcemeterydc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2023372835\" target=\"_blank\">Phone</a><br>3001 R ST NW WASHINGTON DC 20007-2923", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0473595269996, 
+                    38.9121482750004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL ARTS AND ARTISTS INC</h3>9 HILLYER COURT NW FLR 2 WASHINGTON DC 20008-1930", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0546294329997, 
+                    38.9163541140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAPITOL HISTORIC TRUST INC</h3><a href=\"tel:2023285260\" target=\"_blank\">Phone</a><br>2424 TRACY PL NW WASHINGTON DC 20008-1627", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0157725089996, 
+                    38.9157488800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROBERT AND MARY CHURCH TERRELL HOUSE AND LEDROIT PARK MUSEUM</h3><b><a href=\"http://www.marychurchterrellhouse.org\" target=\"_blank\">Website</a></b><br>1862 3RD ST NW WASHINGTON DC 20001-2000", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1115758449997, 
+                    38.9338419200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PALISADES MUSEUM PREHISTORY</h3><a href=\"tel:2022622360\" target=\"_blank\">Phone</a><br>5766 SHERIER PL NW WASHINGTON DC 20016-5320", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0650238979997, 
+                    38.9032197860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MALL CONSERVANCY</h3>1000 POTOMAC STREET NW WASHINGTON DC 20007-3501", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0445204969997, 
+                    38.9056434970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OCEAN FOUNDATION</h3><b><a href=\"http://www.oceanfdn.org\" target=\"_blank\">Website</a></b><br>1990 M. STREET, NW WASHINGTON DC 20036-3430", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0417266919997, 
+                    38.9055934200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL ASSOCIATION OF TRIBAL HISTORIC PRESERVATION OFFICER</h3><b><a href=\"http://www.nathpo.org\" target=\"_blank\">Website</a></b><br>PO BOX 19189 WASHINGTON DC 20036-9189", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9908292989996, 
+                    38.9315808970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC KAPPA HOUSE RESTORATION FOUNDATION</h3>PO BOX 55274 WASHINGTON DC 20040-5274", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0285108329996, 
+                    38.8982527820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAVID S WYMAN INSTITUTE FOR HOLOCAUST STUDIES</h3>1200 G ST NW STE 800 WASHINGTON DC 20005-6705", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0400410599997, 
+                    38.8990072510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VERNISSAGE FOUNDATION</h3>1701 PENNSYLVANIA AVE NW STE 300 WASHINGTON DC 20006-5813", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0569776599996, 
+                    38.9231820010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TURQUOISE MOUNTAIN FOUNDATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0446105119997, 
+                    38.9084375190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEURICH HOUSE FOUNDATION</h3><b><a href=\"http://heurichhouse.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:2024291894\" target=\"_blank\">Phone</a><br>1307 NEW HAMPSHIRE AVENUE NW WASHINGTON DC 20036-1531", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9908292989996, 
+                    38.9315808970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLACK SPORTS LEGENDS FOUNDATION</h3>PO BOX 60207 WASHINTON DC 20039-0207", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0411667339997, 
+                    38.9037172520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAUGHTERS OF THE AMERICAN REVOLUTION MUSEUM</h3><a href=\"tel:7035348394\" target=\"_blank\">Phone</a><br>1776 L ST NW WASHINGTON DC 20036-5406", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0219482279996, 
+                    38.8997537320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENPEACE FUND</h3>", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0324994359996, 
+                    38.9979705640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF HEALTH AND MEDICINE</h3><a href=\"tel:2027822200\" target=\"_blank\">Phone</a><br>2500 LINDEN LN WASHINGTON DC 20910", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

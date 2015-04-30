@@ -1,0 +1,2840 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.680645814, 
+                    20.8763312790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WO HING TEMPLE MUSEUM</h3><a href=\"tel:8583766878\" target=\"_blank\">Phone</a><br>858 FRONT ST LAHAINA HI 96761", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.832646773, 
+                    21.2791722320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>US ARMY MUSEUM OF HAWAII</h3><b><a href=\"http://www.hiarmymuseumsoc.org/index.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:8089559552\" target=\"_blank\">Phone</a><br>SARATOGA RD HONOLULU HI 96815", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.857176821, 
+                    21.3084679640004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON PLACE</h3><b><a href=\"http://www.washingtonplacefoundation.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8085860248\" target=\"_blank\">Phone</a><br>320 S BERETANIA ST HONOLULU HI 96813", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.937588817, 
+                    21.3664845960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>USS BOWFIN SUBMARINE MUSEUM & PARK</h3><a href=\"tel:8084231341\" target=\"_blank\">Phone</a><br>11 ARIZONA MEMORIAL DRIVE HONOLULU HI 96818", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.064440364, 
+                    21.6381737430004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAIMEA VALLEY AUDUBON CENTER</h3><b><a href=\"http://www.audubon.org/local/sanctuary/brochures.waimea.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:8086389199\" target=\"_blank\">Phone</a><br>59-864 KAMEHAMEHA HIGHWAY HALEIWA HI 96712", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.794601703, 
+                    21.2579135010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHANGRI LA ISLAMIC ART MUSEUM</h3><b><a href=\"http://www.shangrilahawaii.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8087341941\" target=\"_blank\">Phone</a><br>4055 PAPU CIR HONOLULU HI 96816", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.833241089, 
+                    21.3125340420004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE CONTEMPORARY MUSEUM</h3><a href=\"tel:8085261322\" target=\"_blank\">Phone</a><br>2411 MAKIKI HEIGHTS DRIVE HONOLULU     OAHU HI 96822", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.363045346, 
+                    20.8101335630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SURFING GOAT DAIRY</h3><b><a href=\"http://www.surfinggoatdairy.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8088782870\" target=\"_blank\">Phone</a><br>3651 OMAOPIO RD KULA HI 96790", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.103316155, 
+                    21.5863503050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH SHORES SURF AND CULTURAL</h3><a href=\"tel:8086378888\" target=\"_blank\">Phone</a><br>66-250 KAMEHAMEHA HWY HALEIWA HI 96712", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.544707715, 
+                    20.8812124150004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OLD BAILEY HOUSE</h3>IAO VALLEY RD WAILUKU HI 96793", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.035049901, 
+                    19.7331538080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ONIZUKA SPACE CENTER</h3><a href=\"tel:8083293441\" target=\"_blank\">Phone</a><br>1 KEAHOLE ST KAILUA KONA HI 96740", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.084637064, 
+                    21.3102508720004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NAVAL AIR MUSUEM BARBERS POINT</h3><a href=\"tel:8086823982\" target=\"_blank\">Phone</a><br>1792 MIDWAY RD KAPOLEI HI 96707", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.054259247, 
+                    21.1333621290004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOLOKAI MUSEUM AND CULTURAL CENTER</h3><b><a href=\"http://www.hawaiimuseums.org/mc/ismolokai_Mmuseum.htm\" target=\"_blank\">Website</a></b><br><a href=\"tel:8085676436\" target=\"_blank\">Phone</a><br>KALAE HWY KUALAPUU HI 96757", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.856591723, 
+                    21.3041661880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSION HOUSE MUSEUM</h3><b><a href=\"http://www.missionhouses.org\" target=\"_blank\">Website</a></b><br>553 SOUTH KING STREET HONOLULU HI 96813-3002", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.486936954, 
+                    20.9066013540004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAUI OKINAWA CULTURAL CENTER</h3><a href=\"tel:8082421560\" target=\"_blank\">Phone</a><br>688 NUKUWAI PL WAILUKU HI 96793", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.913516987, 
+                    21.3343721760004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LIVING ART MARINE CENTER</h3><b><a href=\"http://www.livingartmarinecenter.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8088418080\" target=\"_blank\">Phone</a><br>3239 UALENA ST HONOLULU HI 96819", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.683267052, 
+                    20.8794582400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAHAINA RESTORATION FOUNDATION, WO HING TEMPLE MUSEUM FRONT</h3><a href=\"tel:8086613262\" target=\"_blank\">Phone</a><br>1022 FRONT ST LAHAINA HI 96761", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.816736848, 
+                    21.2966407470004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHN YOUNG MUSEUM OF ART</h3><b><a href=\"http://www.outreach.hawaii.edu/JYMuseum\" target=\"_blank\">Website</a></b><br><a href=\"tel:8089563634\" target=\"_blank\">Phone</a><br>2500 DOLE ST HONOLULU HI 96822", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.320094368, 
+                    22.0624263730004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAUAI CHILDREN'S DISCOVERY MUSEUM</h3><b><a href=\"http://www.kcdm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8088238222\" target=\"_blank\">Phone</a><br>4-831 KUHIO HWY KAPAA HI 96746", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.994429849, 
+                    19.6397249090004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HULIHEE PALACE</h3><b><a href=\"http://www.huliheepalace.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:8083291877\" target=\"_blank\">Phone</a><br>75-5718 ALII DR KAILUA KONA HI 96740", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.368606969, 
+                    21.9748342800004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAUAI MUSEUM ASSOCIATION, LTD.</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.851079482, 
+                    21.3043947800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HONOLULU LAW ENFORCEMENT MSM</h3><a href=\"tel:8085293605\" target=\"_blank\">Phone</a><br>801 S BERETANIA ST HONOLULU HI 96813", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.012266963, 
+                    21.3858928170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII'S PLANTATION VILLAGE</h3><b><a href=\"http://plantationvillage.hawaii.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8086770110\" target=\"_blank\">Phone</a><br>94-695 WAIPAHU ST WAIPAHU HI 96797", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.85876393, 
+                    21.3082938560004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII STATE ART MUSEUM</h3><b><a href=\"http://www.hawaiimuseums.org/mc/isoahu_hisam.htm\" target=\"_blank\">Website</a></b><br><a href=\"tel:8085873829\" target=\"_blank\">Phone</a><br>250 S HOTEL ST HONOLULU HI 96813", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.675227077, 
+                    21.9595203810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAYE MUSEUM</h3><b><a href=\"http://waimeaplantationcottages.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8083381625\" target=\"_blank\">Phone</a><br>9400 KAUMUALII HWY WAIMEA HI 96796", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.805144525, 
+                    21.2847158150004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAMIEN MUSEUM AND ARCHIVES</h3><a href=\"tel:8089232690\" target=\"_blank\">Phone</a><br>1124 7TH AVENUE HONOLULU HI 96816-5767", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.380887292, 
+                    20.9164130020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALOHA SHIRT MUSEUM</h3><a href=\"tel:8085798770\" target=\"_blank\">Phone</a><br>127 HANA HWY PAIA HI 96779", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.688030202, 
+                    20.0258684820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANNA RANCH HERITAGE CENTER</h3><b><a href=\"http://www.annaranch.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8088854426\" target=\"_blank\">Phone</a><br>65-1480 KAWAIHAE RD KAMUELA HI 96743", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.911345888, 
+                    19.4896448200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMY GREENWELL ETHNOBOTANICAL GARDEN</h3><b><a href=\"http://www.bishopmuseum.org/greenwell/?\" target=\"_blank\">Website</a></b><br>82-6160 MAMLAHOA HWY CAPTAIN COOK HI 96704", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.840000514, 
+                    21.2919750610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOWSETT FOUNDATION</h3>1585 KAPIOLANI BLVD STE 1218 HONOLULU HI 96814-4526", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -154.994038618, 
+                    19.5629329910004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KILAUEA DRAMA AND ENTERTAINMENT NETWORK</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.975427602, 
+                    19.6874434650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KIHOLO LOKO IA</h3>PO BOX 5395 KAILUA KONA HI 96745-5395", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.684819249, 
+                    20.9031629340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST MAUI PRESERVATION ASSOCIATION</h3>PO BOX 11150 LAHAINA HI 96761-6150", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.996382846, 
+                    21.3133039080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII AVIATION PRESERVATION SOCIETY</h3>91-215 EWA BEACH RD EWA BEACH HI 96706-2937", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.378748381, 
+                    20.9130434760004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF OLD MAUI HIGH SCHOOL</h3>PO BOX 792165 PAIA HI 96779-2165", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.702037147, 
+                    21.2884606300004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HONOLULU 100</h3>PO BOX 25368 HONOLULU HI 96825-0368", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.853538312, 
+                    21.3100918890004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII CAPITAL CULTURAL DISTRICT</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.368607409, 
+                    21.9748324400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUPPORTING THE LANGUAGE OF KAUAI INC</h3>PO BOX 245 LIHUE HI 96766-0245", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.408485869, 
+                    22.2203904180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MALAMA KAUAI</h3>", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.707980303, 
+                    21.2942775530004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PACIFIC ARTS LINK</h3><a href=\"tel:8083969529\" target=\"_blank\">Phone</a><br>531 HAHAIONE ST APT 7B HONOLULU HI 96825-1419", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.057275826, 
+                    19.5936217640004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HILO ART MUSEUM</h3><a href=\"tel:8089826006\" target=\"_blank\">Phone</a><br>PO BOX 636 KURTISTOWN HI 96760-0636", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.087296939, 
+                    21.3432990800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ART ON THE ZOO FENCE INC</h3><b><a href=\"http://www.artonthezoofence.com\" target=\"_blank\">Website</a></b><br>92-644 AAHUALII STREET KAPOLEI HI 96707", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.820565538, 
+                    21.2717536360004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HONOLULU ZOO</h3><a href=\"tel:8089717171\" target=\"_blank\">Phone</a><br>151 KAPAHULU AVENUE HONOLULU HI 96815", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.037145688, 
+                    21.3398707340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAIIAN RAILWAY SOCIETY</h3><a href=\"tel:8086815461\" target=\"_blank\">Phone</a><br>PO BOX 60369 EWA BEACH HI 96706-7369", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.986837586, 
+                    20.7507401460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HANA CULTURAL CENTER</h3><a href=\"tel:8082488622\" target=\"_blank\">Phone</a><br>PO BOX 27 HANA HI 96713-0027", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.501107555, 
+                    20.8864408180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTRAL MAVI ART AND HISTORICAL INSTITUTE</h3>100 WAHI HOOLAHA WAILUKU MAUI HI 96793", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.012266963, 
+                    21.3858928170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF WAIPAHU CULTURAL GARDEN PARK</h3>94-695 WAIPAHU ST WAIPAHU HI 96797-2601", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.800704174, 
+                    21.3317641160004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LYON ARBORETUM ASSOCIATION</h3><b><a href=\"http://www.hawaii.edu/lyonarboretum\" target=\"_blank\">Website</a></b><br>3860 MANOA RD HONOLULU HI 96822-1139", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860429974, 
+                    21.3065315080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORIC HAWAII FOUNDATION</h3><a href=\"tel:8085232900\" target=\"_blank\">Phone</a><br>PO BOX 1658 HONOLULU HI 96806-1658", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.019627983, 
+                    21.0907933010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HALAWA VALLEY LAND TRUST</h3>PO BOX 860 KAUNAKAKAI HI 96748-0860", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.863140324, 
+                    21.3009647300004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII BASEBALL HISTORICAL SOCIETY</h3>500 ALA MOANA BLVD STE 7-220 HONOLULU HI 96813", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.827874097, 
+                    21.3260796540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LILJESTRAND FOUNDATION</h3>3300 TANTALUS DR HONOLULU HI 96822-5011", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.319088354, 
+                    20.7883830670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII EMS ASSOCIATION</h3>20 MAUKA PLACE KULA HI 96790-8521", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.587969351, 
+                    21.9106610560004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HANAPEPE HISTORICAL SOCIETY INC</h3>PO BOX 13 HANAPEPE HI 96716-0013", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.322988927, 
+                    20.9149509340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERWIN CONSERVANCY</h3>PO BOX 809 HAIKU HI 96708-0809", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.805649084, 
+                    21.3264911240004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OSKA</h3>3550 KUMU PLACE HONOLULU HI 96822-1182", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.757577453, 
+                    21.2866381110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF QUEEN THEATER</h3>540 HAO ST HONOLULU HI 96821-1616", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.022064399, 
+                    21.5021663030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII MUSEUM OF MILITARY VEHICLES</h3>246 KELLOG ST WAHIAWA HI 96786-2211", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.798569647, 
+                    21.2839436460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII LAW ENFORCEMENT MEMORIAL FOUNDATION</h3>4348 WALALAE AVE STE 527 HONOLULU HI 96816", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.975427064, 
+                    19.6874539300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BIG ISLAND ASSOCIATION OF AQUARIUM FISHERMEN</h3>PO BOX 2714 KAILUA KONA HI 96745", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.464197527, 
+                    21.9048517830004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUI MALAMA O KOLOA</h3>PO BOX 1686 KOLOA HI 96756-1686", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.364804644, 
+                    21.9905670610004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAPAIA FOUNDATION</h3>4453 LAUKINI RD LIHUE HI 96766-8403", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.081317012, 
+                    21.3345828630004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KALAELOA HERITAGE AND LEGACY FOUNDATION</h3>PO BOX 700012 KAPOLEI HI 96709-0012", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.862606822, 
+                    21.3084215850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII ARCHITECTURAL FOUNDATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.710216468, 
+                    21.2912809970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LANIAKEA FOUNDATION</h3>765 KUMUKAHI PL HONOLULU HI 96825-1114", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.232657623, 
+                    19.4292328310004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF HAWAII VOLCANOES NATIONAL PARK</h3>PO BOX 653 VOLCANO HI 96785-0653", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.843957575, 
+                    21.3042217860004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HONOLULU AQUARIUM SOCIETY</h3><b><a href=\"http://www.msociety.org\" target=\"_blank\">Website</a></b><br>PO BOX 235791 HONOLULU HI 96823", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.906156053, 
+                    21.3951262390004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII SWIMMING LEGACY PROJECT</h3>99-1782 AIEA HEIGHTS DRIVE AIEA HI 96701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.185164701, 
+                    21.4351962340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE KEKUMANO FOUNDATION</h3>86-120 POKAI BAY STREET WAIANAE HI 96792-3060", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.822277009, 
+                    21.2770432090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL SPACE MUSEUM AND CULTURAL CENTER</h3>250 KAPILI ST APT 1 HONOLULU HI 96815-3144", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.941137342, 
+                    19.5576417730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARMY AIR FORCES FLYING TRAINING MUSEUM INC</h3>78-7214 PUULOA RD KAILUA KONA HI 96740-9714", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.82300779, 
+                    21.2736119750004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAMIEN AND MARIANNE FOUNDATION</h3>130 OHUA AVE HONOLULU HI 96815-3642", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.741080996, 
+                    21.3937667720004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAILUA FIREWORKS</h3>600 KAILUA RD STE 119 KAILUA HI 96734-2845", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.064090353, 
+                    19.7078509620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAI I JAPANESE CENTER</h3>751 KANOELEHUA AVE HILO HI 96720-4517", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -154.948776697, 
+                    19.4951900130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARTS & SCIENCE CENTER</h3>PO BOX 2091 PAHOA HI 96778-2091", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.40907679, 
+                    22.2125607190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REGENERATIONS INTERNATIONAL BOTANICAL GARDEN</h3>PO BOX 1137 KILAUEA HI 96754-1137", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.672990803, 
+                    20.8651006010004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAUI CULTURAL LANDS INC</h3>393B FRONT ST LAHAINA HI 96761-1155", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.51153996, 
+                    21.9084969530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL TROPICAL BOTANICAL GARDEN</h3><b><a href=\"http://www.ntbg.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8083327324\" target=\"_blank\">Phone</a><br>3530 PAPALINA RD KALAHEO HI 96741-9599", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.668739743, 
+                    20.0204620570004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAMP TARAWA HISTORY FOUNDATION</h3><a href=\"tel:8088858611\" target=\"_blank\">Phone</a><br>PO BOX 2560 KAMUELA HI 96743-2560", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.835933252, 
+                    21.2911436060004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UKULELE FOUNDATION OF HAWAII</h3>1750 KALAKAUA AVE 206 HONOLULU HI 96814-4212", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.352487969, 
+                    21.9770387350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAUAI VETERANS MUSEUM</h3><a href=\"tel:8088264417\" target=\"_blank\">Phone</a><br>3215 KAPULE HIGHWAY LIHUE HI 96766-2125", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.949325796, 
+                    21.1700722690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KA OHANA O KALAUPAPA</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.276942324, 
+                    20.8068527490004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE D T FLEMING ARBORETUM AT PU U MAHOE INC</h3>2625 OLINDA ROAD NO A MAKAWAO HI 96768-7153", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.80967726, 
+                    21.2881849500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DIAMOND HEAD STATE MONUMENT FOUNDATION</h3>3118 WAIALAE AVENUE SUITE 101 HONOLULU HI 96816-1502", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.943083231, 
+                    21.3987045750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IKENOBO IKEBANA SOCIETY HONOLULU HAWAII CHAPTER</h3>98-590 KAAHELE STREET AIEA HI 96701-2702", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860429974, 
+                    21.3065315080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE FALLS OF CLYDE</h3>PO BOX 4674 HONOLULU HI 96812-4674", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.313056245, 
+                    20.8519222850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DEBOLT GARDENS FOUNDATION</h3>PO BOX 1050 MAKAWAO HI 96768-1050", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860686329, 
+                    21.3118715200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF HICKAM</h3>PO BOX 37252 HONOLULU HI 96837-0252", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.790834489, 
+                    21.2937362780004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SILVER CITY HISTORICAL SOCIETY INCORPORATED</h3>1963 WILHELMINA RISE HONOLULU HI 96816", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.843958059, 
+                    21.3042112750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE PACIFIC SEABIRD GROUP</h3>PO BOX 61493 HONOLULU HI 96839-1493", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860429974, 
+                    21.3065315080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAIIAN CHINESE MULTICULTURAL MUSEUM AND ARCHIVES</h3>PO BOX 2190 HONOLULU HI 96805-2190", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.966606428, 
+                    21.3588527640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORD ISLAND HISTORIC PRESERVATION SOCIETY</h3>106 FORD ISLAND HONOLULU HI 96818", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.999718238, 
+                    19.7165232090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HALE MUA CULTURAL GROUP</h3>73-4384 PAIAHA ST KAILUA KONA HI 96740-9311", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.23435652, 
+                    19.9850502640004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAUPAHOEHOE TRAIN MUSEUM</h3><b><a href=\"http://www.thetrainmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8089626300\" target=\"_blank\">Phone</a><br>PO BOX 358 LAUPAHOEHOE HI 96764-0358", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.845950988, 
+                    21.3294628080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PARTNERS IN DEVELOPMENT FOUNDATION</h3><a href=\"tel:8088645410\" target=\"_blank\">Phone</a><br>31 COELHO WAY HONOLULU HI 96817-1434", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.072187678, 
+                    21.6283200920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAIALUA NORTH SHORE HISTORICAL SOCIETY</h3>66 250 KAMEHAMEHA HWY HALEIWA HI 96712", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.922898116, 
+                    21.3369726160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII SPORTS HALL OF FAME</h3>PO BOX 201417 HONOLULU HI 96820-1355", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860429974, 
+                    21.3065315080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PACIFIC WAR MEMORIAL ASSOCIATION INC</h3>PO BOX 1761 HONOLULU HI 96806-1761", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.845761482, 
+                    21.2945452290004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AFRICAN AMERICAN DIVERSITY CULTURAL CENTER HAWAII</h3><b><a href=\"http://www.aadcch.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8085971341\" target=\"_blank\">Phone</a><br>1311 KAPIOLANI BLVD STE HONOLULU HI 96814-4513", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.856591723, 
+                    21.3041661880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAIIAN MISSION CHILDRENS SOCIETY</h3><b><a href=\"http://www.thisistheplace.org\" target=\"_blank\">Website</a></b><br>553 S KING ST HONOLULU HI 96813-3002", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.855291241, 
+                    21.3071686670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAMIYA MEDICAL HERITAGE CENTER</h3><a href=\"tel:8085369302\" target=\"_blank\">Phone</a><br>1221 PUNCHBOWL ST HONOLULU HI 96813-2415", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.855254525, 
+                    21.3072361780004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE QUEEN'S MEDICAL CENTER</h3><b><a href=\"http://www.queensmedicalcenter.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:8086917010\" target=\"_blank\">Phone</a><br>1301 PUNCHBOWL STREET, HARKNESS 138 HONOLULU HI 96813", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.104834833, 
+                    21.5817805940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAIALUA COMMUNITY ASSOCIATION</h3>66-434 KAMEHAMEHA HWY HALEIWA HI 96712-1468", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.839947215, 
+                    21.3356134470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAUGHTERS OF HAWAII</h3><b><a href=\"http://www.queenemmasummerpalace.org\" target=\"_blank\">Website</a></b><br>2913 PALI HWY HONOLULU HI 96817-1417", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.857320135, 
+                    21.3038298160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAIIAN HISTORICAL SOCIETY</h3><b><a href=\"http://www.hawaiianhistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8085376271\" target=\"_blank\">Phone</a><br>560 KAWAIAHAO ST HONOLULU HI 96813-5023", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.368607409, 
+                    21.9748324400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAIOLI CORPORATION</h3><a href=\"tel:8082453202\" target=\"_blank\">Phone</a><br>PO BOX 1631 LIHUE HI 96766-5631", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.849229433, 
+                    21.3037966520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HONOLULU ACADEMY OF ARTS</h3><b><a href=\"http://www.honoluluacademy.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:7243291441\" target=\"_blank\">Phone</a><br>900 S BERETANIA ST HONOLULU HI 96814-1429", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.091009725, 
+                    19.7217747550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LYMAN HOUSE MEMORIAL MUSEUM</h3><b><a href=\"http://www.lymanmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8089355021\" target=\"_blank\">Phone</a><br>276 HAILI ST HILO HI 96720-2927", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.819190127, 
+                    21.2968035430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF HAWAII FOUNDATION</h3><b><a href=\"http://uhfoundation.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8089568849\" target=\"_blank\">Phone</a><br>2444 DOLE ST HONOLULU HI 96822-2399", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.713757257, 
+                    21.9710609750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUI O LAKA</h3><a href=\"tel:8083359975\" target=\"_blank\">Phone</a><br>PO BOX 100 KEKAHA HI 96752-0100", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.506827902, 
+                    20.8863964920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAUI HISTORICAL SOCIETY</h3><b><a href=\"http://www.mauimuseum.org\" target=\"_blank\">Website</a></b><br>2375A MAIN ST WAILUKU HI 96793-1661", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.368420647, 
+                    21.9748665270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAUAI MUSEUM ASSOCIATION LIMITED</h3><b><a href=\"http://www.kauaimuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8082456931\" target=\"_blank\">Phone</a><br>4428 RICE ST LIHUE HI 96766-1338", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.919321728, 
+                    21.6387579800004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POLYNESIAN CULTURAL CENTER</h3><b><a href=\"http://www.polynesia.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8082933005\" target=\"_blank\">Phone</a><br>55-370 KAMEHAMEHA HWY LAIE HI 96762-1113", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860429974, 
+                    21.3065315080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>IOLANI PALACE</h3><b><a href=\"http://www.iolanipalace.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8085220821\" target=\"_blank\">Phone</a><br>PO BOX 2259 HONOLULU HI 96804-2259", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.89080384, 
+                    21.3484336150004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MOANALUA GARDENS FOUNDATION</h3><b><a href=\"http://www.mgf-hawaii.org/?\" target=\"_blank\">Website</a></b><br><a href=\"tel:8088395334\" target=\"_blank\">Phone</a><br>1352 PINEAPPLE PI HONOLULU HI 96819", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.908579695, 
+                    19.4880815830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KONA HISTORICAL SOCIETY</h3><a href=\"tel:8083233222\" target=\"_blank\">Phone</a><br>PO BOX 398 CAPTAIN COOK HI 96704-0398", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.831739904, 
+                    21.2807134860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII ARMY MUSEUM SOCIETY</h3>PO BOX 8064 HONOLULU HI 96830-0064", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860429974, 
+                    21.3065315080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII HISTORIC ARMS ASSOCIATION</h3>PO BOX 1733 HONOLULU HI 96806-1733", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.037920089, 
+                    21.6408985640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAIMEA ARBORETUM FOUNDATION</h3>59-618 AKANOHO PL HALEIWA HI 96712", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.675868046, 
+                    20.8696264560004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST MAUI CULTURAL COUNCIL</h3><a href=\"tel:8086610533\" target=\"_blank\">Phone</a><br>562 FRONT ST LAHAINA HI 96761-3257", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.093395856, 
+                    19.7836114690004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII TROPICAL BOTANICAL GARDEN</h3><b><a href=\"http://www.htbg.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8089645233\" target=\"_blank\">Phone</a><br>PO BOX 80 PAPAIKOU HI 96781-0080", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.93753644, 
+                    21.3664317520004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PACIFIC FLEET SUBMARINE MEMORIAL ASSOCIATION INC</h3><b><a href=\"http://www.bowfin.org\" target=\"_blank\">Website</a></b><br>11 ARIZONA MEML DR HONOLULU HI 96818-3104", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.753995798, 
+                    21.2798277570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MO OKINI LUAKINI INC</h3>5256 MAKALENA ST HONOLULU HI 96821-1809", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.857977482, 
+                    21.3149182590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CITY & COUNTY OF HONOLULU</h3><a href=\"tel:8085227060\" target=\"_blank\">Phone</a><br>50 N VINEYARD BLVD HONOLULU HI 96817-3759", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.08873801, 
+                    19.7254839870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EAST HAWAII CULTURAL COUNCIL</h3><a href=\"tel:8089615711\" target=\"_blank\">Phone</a><br>PO BOX 1312 HILO HI 96721-1312", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.869372151, 
+                    21.3331819480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII MARITIME CENTER</h3><b><a href=\"http://www.bishopmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8085236151\" target=\"_blank\">Phone</a><br>1525 BERNICE ST HONOLULU HI 96817-2704", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.407547077, 
+                    20.8327521220004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALEXANDER AND BALDWIN SUGAR MUSEUM</h3>PO BOX 125 PUUNENE HI 96784-0125", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860686329, 
+                    21.3118715200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII HERITAGE CENTER</h3><a href=\"tel:8085212749\" target=\"_blank\">Phone</a><br>PO BOX 37520 HONOLULU HI 96837-0520", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -154.91070576, 
+                    19.4057741470004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KALANI HONUA</h3>", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.502694339, 
+                    20.8898159010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAUIS SONS AND DAUGHTERS OF THE NISEI VETERANS</h3>C/O 140 N MARKET STREET STE 200 WAILUKU HI 96793", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.107707798, 
+                    21.5746042450004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAIIAN HISTORICAL AVIATION FOUNDATION INC</h3>66-888 WANINI ST WAIALUA HI 96791", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.675414417, 
+                    20.8685474580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUI O WA A KAULUA</h3><b><a href=\"http://huiowaakaulua.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8086674050\" target=\"_blank\">Phone</a><br>525 FRONT ST LAHAINA HI 96761-1116", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.480404211, 
+                    20.8926835890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAUI ARTS & CULTURAL CENTER</h3><b><a href=\"http://www.mauiarts.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8082422787\" target=\"_blank\">Phone</a><br>1 CAMERON WAY KAHULUI HI 96732-1137", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.104966876, 
+                    21.5816833180004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANDWICH ISLAND SHIPWRECK MUSEUM INC</h3>PO BOX 727 HALEIWA HI 96712-0727", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.40907679, 
+                    22.2125607190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KILAUEA POINT NATURAL HISTORY ASSOCIATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860429974, 
+                    21.3065315080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE JUDICIARY HISTORY CENTER OF HAWAII</h3>PO BOX 2415 HONOLULU HI 96804-2415", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.853538312, 
+                    21.3100918890004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIKES PEAK MUSEUM (UTE PASS)</h3>HONOLULU HBR PIER 7 HONOLULU HI 96813", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.587673807, 
+                    21.9112732100004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STORYBOOK THEATER OF HAWAII</h3><b><a href=\"http://storybook.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8083350712\" target=\"_blank\">Phone</a><br>3814 HANAPEPE RD HANAPEPE HI 96716-0820", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.08873801, 
+                    19.7254839870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HILO ORCHID SOCIETY INC</h3>PO BOX 4294 HILO HI 96720-0294", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.325599748, 
+                    20.8422303870004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAUI PANIOLO MUSEUM INC</h3>PO BOX 599 MAKAWAO HI 96768", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.862466394, 
+                    21.2936924540004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS DISCOVERY CENTER</h3><b><a href=\"http://www.discoverycenterhawaii.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8085245437\" target=\"_blank\">Phone</a><br>111 OHE ST HONOLULU HI 96813-5517", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.988529121, 
+                    19.6376557450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ONIZUKA MEMORIAL COMMITTEE</h3>75-167 HUALALAI RD F STE A KAILUA KONA HI 96740-1714", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.498735704, 
+                    20.8938602780004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAILUKU MAINSTREET ASSOCIATION INC</h3><a href=\"tel:8082443888\" target=\"_blank\">Phone</a><br>PO BOX 1130 WAILUKU HI 96793-6130", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.969438412, 
+                    19.6154749960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KONA OUTDOOR CIRCLE EDUCATIONAL CENTER AND SADIE SEYMOUR BOT</h3><b><a href=\"http://www.konaoutdoorcircle.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8083297286\" target=\"_blank\">Phone</a><br>76-6280 KUAKINI HWY KAILUA KONA HI 96740-2286", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.823557356, 
+                    21.2934484670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JAPANESE CULTURAL CENTER OF HAWAII</h3><a href=\"tel:8089457633\" target=\"_blank\">Phone</a><br>2454 S BERETANIA ST HONOLULU HI 96826-1524", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.862462841, 
+                    21.3090246360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PACIFIC RESOURCES FOR EDUCATION AND LEARNING</h3><b><a href=\"http://www.prl.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8084411320\" target=\"_blank\">Phone</a><br>900 FORT STREET MALLSUI HONOLULU HI 96813", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.919957905, 
+                    20.8268733300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LANAI ARTS AND CULTURE CENTER</h3><a href=\"tel:8085657503\" target=\"_blank\">Phone</a><br>PO BOX 630701 LANAI CITY HI 96763-0701", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.465596348, 
+                    20.8872906290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NISEI VETERANS MEMORIAL CENTER</h3>PO BOX 216 KAHULUI HI 96733-6716", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.843958059, 
+                    21.3042112750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MALAMA O MANOA</h3>PO BOX 61961 HONOLULU HI 96839-1961", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.668739743, 
+                    20.0204620570004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAIMEA PRESERVATION ASSOCIATION</h3>PO BOX 6570 KAMUELA HI 96743-6570", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.996631667, 
+                    19.6413582100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AHUENA HEIAU INC</h3><b><a href=\"http://www.ahuena.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8083292911\" target=\"_blank\">Phone</a><br>75-5660 PALANI ROAD KAILUA KONA HI 96740-3612", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.862343216, 
+                    21.3118944610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREE VIETNAM ORGANIZATION</h3>1114 SMITH ST HONOLULU HI 96817-5139", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.346986663, 
+                    22.0024840540004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAUAI CHILDRENS DISCOVERY MUSEUM</h3>PO BOX 411 HANAMAULU HI 96715-0411", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.932978529, 
+                    21.3784934870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>USS MISSOURI MEMORIAL ASSOCIATION INC</h3><b><a href=\"http://www.ussmissouri.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8084232263\" target=\"_blank\">Phone</a><br>PO BOX 879 AIEA HI 96701-0879", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860429974, 
+                    21.3065315080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAIIAN MUSIC AND DANCE FOUNDATION</h3>PO BOX 4717 HONOLULU HI 96812-4717", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.08873801, 
+                    19.7254839870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PACIFIC TSUNAMI MUSEUM INC</h3>PO BOX 806 HILO HI 96721-0806", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.802897758, 
+                    21.4196711030004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF KAHANA</h3>PO BOX 653 KANEOHE HI 96744-0653", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.465596348, 
+                    20.8872906290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAUI NUI BOTANICAL GARDENS</h3><a href=\"tel:8082492798\" target=\"_blank\">Phone</a><br>PO BOX 6040 KAHULUI HI 96733-6040", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.859947156, 
+                    21.3095931540004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MASAYUKI AND HARUE TOKIOKA FOUNDATION INC</h3>1132 BISHOP ST STE 2450 HONOLULU HI 96813-2865", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.821198013, 
+                    21.2656740630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF WAIKIKI AQUARIUM</h3><b><a href=\"http://www.waquarium.org\" target=\"_blank\">Website</a></b><br>2777 KALAKAUA AVE HONOLULU HI 96815-4027", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.087738096, 
+                    19.7005237070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EAST HAWAII HISTORICAL SOCIETY</h3>PO BOX 4068 HILO HI 96720", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.908579695, 
+                    19.4880815830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PULAMA IA KONA-HERITAGE PRESERVATION COUNCIL</h3>PO BOX 398 CAPTAIN COOK HI 96704-0398", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.367512204, 
+                    21.9761302920004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KOKEE DISCOVERY CENTER ASSOCIATION INC</h3>3060 EIWA ST STE 301 LIHUE HI 96766-1310", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.795109023, 
+                    21.3015012670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FILIPINO-AMERICAN HISTORICAL SOCIETY OF HAWAII</h3>2103 PALOLO AVENUE HONOLULU HI 96816-3022", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.668739743, 
+                    20.0204620570004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VIRGIL A PLACE ARBORETUM & BOTANICAL GARDEN INC</h3>PO BOX 44555 KAWAIHAE HI 96743-4555", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.814668363, 
+                    21.3126714340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MANOA HERITAGE CENTER</h3><b><a href=\"http://manoaheritagecenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8089886016\" target=\"_blank\">Phone</a><br>2859 MANOA RD HONOLULU HI 96822-1752", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.823841215, 
+                    21.2937884660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII TIMES PHOTO ARCHIVES FOUNDATION</h3>2454 S BERETANIA ST STE 301 HONOLULU HI 96826-1524", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.012635314, 
+                    21.4445980770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL CENTER FOR JAPANESE AMERICAN MILITARY HISTORY</h3>94-218 KIAHA LOOP MILILANI HI 96789-2010", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.081317012, 
+                    21.3345828630004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII MUSEUM OF FLYING</h3>PO BOX 75253 KAPOLEI HI 96707-0253", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.971568958, 
+                    21.3941973240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OAHU URBAN GARDEN OHANA</h3>955 KAMEHAMEHA HWY PEARL CITY HI 96782-2501", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.960520511, 
+                    21.3608490520004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PACIFIC AVIATION MUSEUM PEARL HARBOR</h3><b><a href=\"http://www.Pacificaviationmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8084411000\" target=\"_blank\">Phone</a><br>319 LEXINGTON BLVD HONOLULU HI 96818-5004", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.498735704, 
+                    20.8938602780004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAMAKAKEHAU CULTURAL EDUCATION FOUNDATION</h3>PO BOX 1967 WAILUKU HI 96793-6967", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.732098066, 
+                    20.0223235040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PANIOLO PRESERVATION SOCIETY</h3><b><a href=\"http://www.paniolopreservation.org/?\" target=\"_blank\">Website</a></b><br>PO BOX 640 KAMUELA HI 96743", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.890674388, 
+                    19.4511361130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PALEAKU GRDNS PEACE SANCTUARY</h3><a href=\"tel:8083288084\" target=\"_blank\">Phone</a><br>83-5401 PAINTED CHURCH CAPTAIN COOK HI 96704-8318", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860429974, 
+                    21.3065315080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON PLACE FOUNDATION</h3>PO BOX 873 HONOLULU HI 96808-0873", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.40907679, 
+                    22.2125607190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NA AINA KAI BOTANICAL GARDENS</h3><a href=\"tel:8088280525\" target=\"_blank\">Phone</a><br>PO BOX 1134 KILAUEA HI 96754-1134", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.861255928, 
+                    21.3072077520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAIIAN LEGACY FOUNDATION</h3>201 MERCHANT ST STE 1910 HONOLULU HI 96813-2955", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.799906222, 
+                    19.9395641840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PUAKO HISTORICAL SOCIETY</h3>PO BOX 384239 WAIKOLOA HI 96738", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.844900416, 
+                    21.3001664370004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HULA PRESERVATION SOCIETY</h3>C/O 1150 SOUTH KING STREET NO 605 HONOLULU HI 96814", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.024306196, 
+                    21.3796927090004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REVEREND JOEL HULU MAHOE RESOURCE CENTER</h3><a href=\"tel:8086379118\" target=\"_blank\">Phone</a><br>PO BOX 970870 WAIPAHU HI 96797-0870", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.732098066, 
+                    20.0223235040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAIMEA NATURE PARK</h3><a href=\"tel:8088858855\" target=\"_blank\">Phone</a><br>PO BOX 437395 KAMUELA HI 96743-7145", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.860516856, 
+                    21.3072788170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EHIME MARU MEMORIAL ASSOCIATION</h3>220 S KING STREET HONOLULU HI 96813-4526", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.740829356, 
+                    21.3919630040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAILUA HISTORICAL SOCIETY</h3>PO BOX 574 KAILUA HI 96734-0574", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.82080354, 
+                    21.2991859470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF HAWAII SYSTEMS</h3><b><a href=\"http://www.hawaii.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8089562179\" target=\"_blank\">Phone</a><br>2440 CAMPUS ROAD HONOLULU HI 96822-2234", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.306049109, 
+                    19.3830236980004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAWAII NATURAL HISTORY ASSOCIATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.677632816, 
+                    20.8737375410004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LAHAINA RESTORATION FOUNDATION</h3><b><a href=\"http://www.lahainarestoration.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8086619309\" target=\"_blank\">Phone</a><br>120 DICKENSON ST LAHAINA HI 96761-1224", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -159.368607409, 
+                    21.9748324400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KAUAI HISTORICAL SOCIETY INC</h3>PO BOX 1778 LIHUE HI 96766-5778", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.322499453, 
+                    20.8693564100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HUI NOEAU</h3><b><a href=\"http://www.huinoeau.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8085726560\" target=\"_blank\">Phone</a><br>2841 BALDWIN AVE MAKAWAO HI 96768-9642", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.833241089, 
+                    21.3125340420004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONTEMPORARY MUSEUM</h3><b><a href=\"http://www.tcmhi.org\" target=\"_blank\">Website</a></b><br>2411 MAKIKI HEIGHTS DR HONOLULU HI 96822-2547", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

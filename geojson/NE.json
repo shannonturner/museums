@@ -1,0 +1,5465 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7121395649997, 
+                    40.8081105070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HERITAGE NEBRASKA</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.9607509989997, 
+                    40.4813784230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILBER CZECH MUSEUM</h3><b><a href=\"http://www.nebraskamuseums.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4028212183\" target=\"_blank\">Phone</a><br>102 W 3RD ST WILBER NE 68465", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7018792669997, 
+                    40.8202838720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY OF NEBRASKA STATE MUSEUM</h3><b><a href=\"http://www-museum.unl.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024722642\" target=\"_blank\">Phone</a><br>1335 U ST LINCOLN NE 68588", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6537366439997, 
+                    40.8385004090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNIVERSITY PLACE ART CENTER</h3><a href=\"tel:4024668692\" target=\"_blank\">Phone</a><br>2601 NORTH 48TH STREET LINCOLN NE 68504", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.5277600709997, 
+                    40.0888398330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEBSTER COUNTY HISTORICAL MUSEUM</h3><a href=\"tel:4027462444\" target=\"_blank\">Phone</a><br>721 W 4TH AVE RED CLOUD NE 68970", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6976000669997, 
+                    40.8068932550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THOMAS P KENNARD HOUSE</h3><a href=\"tel:4024714764\" target=\"_blank\">Phone</a><br>1627 H ST LINCOLN NE 68508", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.625806892, 
+                    40.2040820880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SENATOR GEORGE WILLIAM NORRIS HOUSE</h3><b><a href=\"http://www.nebraskahistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3083458484\" target=\"_blank\">Phone</a><br>706 NORRIS AVE MCCOOK NE 69001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.9205067639997, 
+                    41.2907517560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEVEN VALLEYS MUSEUM</h3><a href=\"tel:3088362728\" target=\"_blank\">Phone</a><br>78545 RD 427 CALLAWAY NE 68825", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9509361659997, 
+                    40.1016106510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE FRANKLIN COUNTY MUSEUM</h3>R.R. 1 FRANKLIN NE 68939", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.8509726819997, 
+                    42.8395941050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SANTEE SIOUX TRIBE MUSEUM</h3><b><a href=\"http://santeedakota.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4028572772\" target=\"_blank\">Phone</a><br>425 FRAZIER AVE N NIOBRARA NE 68760", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6997171949997, 
+                    40.8113214670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHELDON MEMORIAL ART GALLERY AND SCULPTURE GARDEN</h3><a href=\"tel:4024722461\" target=\"_blank\">Phone</a><br>12TH AND R STREET LINCOLN NE 68588-0300", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5602614339997, 
+                    40.2550167720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THAYER COUNTY MUSEUM</h3><a href=\"tel:4027682147\" target=\"_blank\">Phone</a><br>110 9TH ST BELVIDERE NE 68315", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6642921019996, 
+                    40.7911252110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SCHLEICH RED WING POTTERY MSM</h3><a href=\"tel:4024896508\" target=\"_blank\">Phone</a><br>3901 NORMAL BLVD LINCOLN NE 68506", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.2195913609997, 
+                    41.7806902010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TEKAMAH MUSEUM ANNEX</h3><a href=\"tel:4023741769\" target=\"_blank\">Phone</a><br>322 N 12TH ST TEKAMAH NE 68061", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4633717279997, 
+                    41.8357411260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SWEDISH HERITAGE CENTER, INC.</h3><a href=\"tel:4026856161\" target=\"_blank\">Phone</a><br>301 N. CHARDE OAKLAND NE 68045", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0917943639997, 
+                    40.6850985290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRAILS AND RAILS MUSEUM</h3><b><a href=\"http://www.bchs.us\" target=\"_blank\">Website</a></b><br><a href=\"tel:3082343041\" target=\"_blank\">Phone</a><br>710 W 11TH ST KEARNEY NE 68845", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.662247355, 
+                    41.8177400930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SCOTTS BLUFF NATIONAL MONUMENT</h3><a href=\"tel:3084364340\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.375907746, 
+                    42.6975232640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRAILSIDE MUSEUM</h3><b><a href=\"http://www.trailside.unl.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:3086652929\" target=\"_blank\">Phone</a><br>3200 HIGHWAY 20 CRAWFORD NE 69339", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0465287859997, 
+                    40.6306431270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SALINE COUNTY HISTORICAL</h3><a href=\"tel:4029462129\" target=\"_blank\">Phone</a><br>1445 STATE HIGHWAY 33 DORCHESTER NE 68343", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.964078123, 
+                    41.6297120260004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIONEER TRAILS MUSEUM</h3><a href=\"tel:3082621117\" target=\"_blank\">Phone</a><br>HIGHWAY 26 BRIDGEPORT NE 69336", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.3633935349997, 
+                    41.4323029970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLATTE COUNTY HISTORICAL SOCIETY MUSEUM</h3><b><a href=\"http://www.megavision.net/museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:4025641856\" target=\"_blank\">Phone</a><br>2916 16TH ST COLUMBUS NE 68601", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.662247355, 
+                    41.8177400930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH PLATTE VALLEY HISTORICAL ASSOCIATION</h3><a href=\"tel:3084365411\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0647591949997, 
+                    40.0220017530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NUCKOLLS COUNTY MUSEUM</h3><b><a href=\"http://www.nuckollscounty.ne.gov/museums.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:4028794144\" target=\"_blank\">Phone</a><br>612 E 6TH ST SUPERIOR NE 68978", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2813596159997, 
+                    40.3791083890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SALINE COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4029472911\" target=\"_blank\">Phone</a><br>561 COUNTY ROAD S TOBIAS NE 68453-2007", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.76350462, 
+                    41.1357699070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH PLATTE CHILDRENS MUSEUM</h3><b><a href=\"http://npchildrensmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3085323512\" target=\"_blank\">Phone</a><br>314 N JEFFERS ST NORTH PLATTE NE 69101", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.7909049379997, 
+                    42.3507732670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLAINVIEW KLOWN DOLL MUSEUM</h3><b><a href=\"http://www.klowndollmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4025824433\" target=\"_blank\">Phone</a><br>306 W PARK AVE PLAINVIEW NE 68769", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.3740180419997, 
+                    40.4446140750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHELPS COUNTY HISTORICAL SOCIETY MUSEUM</h3><a href=\"tel:3089958297\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.6041238389997, 
+                    40.0588422210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RICHARDSON COUNTY HSTRCL SCTY</h3><a href=\"tel:4012427378\" target=\"_blank\">Phone</a><br>1401 CHASE ST FALLS CITY NE 68355", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0538631299997, 
+                    42.0100842930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PILGER HISTORICAL MUSEUM</h3><a href=\"tel:4024392208\" target=\"_blank\">Phone</a><br>345 N MAIN ST PILGER NE 68768", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0283906379997, 
+                    42.1295649120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIERSON WILDLIFE MUSEUM LEARNING CENTER</h3><a href=\"tel:4028874212\" target=\"_blank\">Phone</a><br>205 E 5TH ST NELIGH NE 68756", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0305110269997, 
+                    42.7498269040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PONCA TRIBE MUSEUM</h3><a href=\"tel:4028573519\" target=\"_blank\">Phone</a><br>2548 PARK AVE NIOBRARA NE 68760", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6996668609997, 
+                    40.8143905680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NEBRASKA HISTORY</h3><b><a href=\"http://www.nebraskahistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024714754\" target=\"_blank\">Phone</a><br>131 CENTENNIAL MALL N LINCOLN NE 68508", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6994311639997, 
+                    40.8169086230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA STATE HISTORICAL SOCIETY</h3><b><a href=\"http://www.nebraskahistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024713270\" target=\"_blank\">Phone</a><br>1500 R ST LINCOLN NE 68508", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.514347355, 
+                    40.6409040430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA COLLEGE OF TECHNICAL AGRICULTURE ARBORETUM</h3>RR 3 BOX 23A CURTIS NE 69025", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.6597683009997, 
+                    40.3938209610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERIWETHER LEWIS FOUNDATION</h3>RR1, BOX 38 BROWNSVILLE NE 68321", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4571196579997, 
+                    41.2133251510004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM-MAJOR LEAGUE BASEBALL</h3><b><a href=\"http://www.nebraskamuseums.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3087545558\" target=\"_blank\">Phone</a><br>619 HOWARD AVE SAINT PAUL NE 68873", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6656826019997, 
+                    41.6660311400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSBACH MUSEUM</h3><a href=\"tel:4026643085\" target=\"_blank\">Phone</a><br>439 MAIN ST SCRIBNER NE 68057", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6509078689997, 
+                    40.8392796110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA UNITED METHODIST HISTORICAL CENTER</h3><b><a href=\"http://www.umcneb.org/history/index.htm\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024652175\" target=\"_blank\">Phone</a><br>5000 ST. PAUL ST. LINCOLN NE 68504", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.203237279, 
+                    42.8035638110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARI SANDOZ ROOM, INC.</h3><a href=\"tel:3082829972\" target=\"_blank\">Phone</a><br>117 NORTH MAIN STREET GORDON NE 69343", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.625824658, 
+                    40.1989891270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MC COOK ART GUILD</h3><b><a href=\"http://McCookcarpetsplus.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3083455836\" target=\"_blank\">Phone</a><br>209 NORRIS AVE MCCOOK NE 69001", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.625775271, 
+                    40.2008330540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF  HIGH PLAINS</h3><a href=\"tel:3083453661\" target=\"_blank\">Phone</a><br>413 NORRIS AVE MC COOK NE 69001", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7012267289997, 
+                    40.8085703790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA STATE CAPITOL</h3><a href=\"tel:4024716691\" target=\"_blank\">Phone</a><br>521 S. 14TH STREET, STE. 500 LINCOLN NE 68508", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7256278449997, 
+                    40.8187495390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF AMERICAN SPEED</h3><b><a href=\"http://www.museumofamericanspeed.com/default.dlp\" target=\"_blank\">Website</a></b><br><a href=\"tel:4023233166\" target=\"_blank\">Phone</a><br>599 OAK CREEK DR LINCOLN NE 68528", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7068846539997, 
+                    40.8263507360004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA MASONIC FOUNDATION LIBRARY AND MUSEUM</h3><a href=\"tel:2406108478\" target=\"_blank\">Phone</a><br>1240 N 10TH ST LINCOLN NE 68508", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.714062636, 
+                    41.1253414500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA NATIONAL TRLS MUSEUM</h3><a href=\"tel:3082842000\" target=\"_blank\">Phone</a><br>510 E 1ST ST OGALLALA NE 69153", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.5758106329997, 
+                    42.0117353960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEIHARDT JOHN G CENTER</h3><b><a href=\"http://www.neihardtcenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4026483388\" target=\"_blank\">Phone</a><br>306 W ELM ST BANCROFT NE 68004", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3576290629996, 
+                    40.9021999780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LA GRANDE ISLE ZOOLOGICAL PARK & BOTANICAL GARDEN</h3>2103 WEST STOLLEY PARK ROAD GRAND ISLAND NE 68801", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7109099279997, 
+                    40.8169830080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LANCASTER COUNTY AMERICAN RED CROSS ARCHIVES</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2428276039997, 
+                    41.6990823380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEIGH'S HOUSE OF YESTERYEAR</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.4208376409997, 
+                    42.8633241200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KEYA PAHA COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4024972569\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6997171949997, 
+                    40.8113214670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL QUILT STUDY CENTER</h3><a href=\"tel:4024726301\" target=\"_blank\">Phone</a><br>234 HE BUILDING, UNIVERSITY OF NEBRASKA LINCOLN NE 68583-0804", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.3461567069997, 
+                    40.1474318280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LLOYD HAROLD FOUNDATION</h3><a href=\"tel:4028654000\" target=\"_blank\">Phone</a><br>405 2ND ST BURCHARD NE 68323", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9504475549997, 
+                    40.5003324880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KEARNY COUNTY HISTORICAL MUSEUM</h3>SIXTH STREET AND NEBRASKA AVENUE MINDEN NE 68959", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.6477278169997, 
+                    42.4576654320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOLT COUNTY HISTORICAL SOCIETY & MUSEUM</h3>401 EAST DOUGLAS O'NEILL NE 68763", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6951699529997, 
+                    40.8157860330004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN FIRE DEPARTMENT</h3>1801 Q STREET LINCOLN NE 68508", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1957764749997, 
+                    40.3708322500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHNSON COUNTY MUSEUM</h3><a href=\"tel:4023353292\" target=\"_blank\">Phone</a><br>3RD AND LINCOLN TECUMSEH NE 68450", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6961085979997, 
+                    40.7907502480004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LESTER F. LARSEN TRACTOR TEST AND POWER MUSEUM</h3><a href=\"tel:4024728389\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.6402556939997, 
+                    42.3511323780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KLOWN DOLL MUSEUM</h3><b><a href=\"http://www.klowndollmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4025824433\" target=\"_blank\">Phone</a><br>HIGHWAY 20 PLAINVIEW NE 68769", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.5019136019997, 
+                    41.4447656530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOUIS E MAY MUSEUM</h3><b><a href=\"http://maymuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4027214515\" target=\"_blank\">Phone</a><br>1643 N NYE AVE FREMONT NE 68025", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.7087609169997, 
+                    40.4218237030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LEWIS MERIWETHER MUSEUM</h3><a href=\"tel:4028253341\" target=\"_blank\">Phone</a><br>64592 731 RD BROWNVILLE NE 68321", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6916231279997, 
+                    40.8112772080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRANK H WOODS TELEPHONE MUSEUM</h3><b><a href=\"http://www.woodstelephonepioneers.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024364640\" target=\"_blank\">Phone</a><br>2047 M ST LINCOLN NE 68510", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.4798884459997, 
+                    40.1802118000004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HARLAN COUNTY HISTORICAL SOCIETY AND MUSEUM</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0992963789997, 
+                    40.7016515650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GEORGE W. FRANK HOUSE</h3>HISTORIC PL KEARNEY NE 68849", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5914969149997, 
+                    40.6402522920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FILLMORE COUNTY HISTORICAL SOCIETY MUSEUMS</h3><a href=\"tel:4022682231\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9026209139997, 
+                    41.2780354240004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREEDOM PARK, INC.</h3>2497 FREEDOM PARK ROAD OMAHA NE 68110", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.1082448749997, 
+                    40.7017703870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRANK HOUSE</h3><a href=\"tel:3088658284\" target=\"_blank\">Phone</a><br>2010 UNIVERSITY DRIVE UNIVERSITY OF NEBRASKA-KEARNEY KEARNEY NE 68849", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6621767459997, 
+                    40.1199712430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREAT PLAINS WELSH HERITAGE</h3><a href=\"tel:4024218192\" target=\"_blank\">Phone</a><br>307 S 7TH ST WYMORE NE 68466", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.8977053279997, 
+                    40.3023522200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FURNAS-GOSPER COUNTIES MUSEUM</h3><a href=\"tel:3082682208\" target=\"_blank\">Phone</a><br>401 NEBRASKA AVENUE ARAPAHOE NE 68922", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7043500169997, 
+                    40.8158035690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREAT PLAINS ART MUSEUM</h3><a href=\"tel:4024726220\" target=\"_blank\">Phone</a><br>1155 Q STREET, HEWIT PLACE LINCOLN NE 68588", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0437469519997, 
+                    40.6702786970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREAT PLATTE RIVER ROAD ARCHWAY</h3><b><a href=\"http://www.archway.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3082371000\" target=\"_blank\">Phone</a><br>3060 E 1ST ST KEARNEY NE 68847", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6999913899997, 
+                    40.8113880900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRANK WOODS TELEPHONE PIONEERS</h3><a href=\"tel:4024365115\" target=\"_blank\">Phone</a><br>1440 M ST LINCOLN NE 68508", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0824261519997, 
+                    40.6734190190004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREAT PLATTE RIVER ROAD ARCHWAY MONUMENT</h3><b><a href=\"http://archway.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3082371000\" target=\"_blank\">Phone</a><br>1 ARCHWAY PKWY KEARNEY NE 68847", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0823229149997, 
+                    40.6717650020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT KEARNEY MUSEUM</h3><a href=\"tel:3082345200\" target=\"_blank\">Phone</a><br>131 CENTRAL AVE KEARNEY NE 68847", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8565877459997, 
+                    40.6757528310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND ARMY OF  REPUBLIC MEMORIAL HALL</h3>908 1ST CORSO NEBRASKA CITY NE 68410", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0262674319997, 
+                    41.4590401080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT ATKINSON STATE HISTORICAL PARK</h3><a href=\"tel:4024685611\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.5088486849997, 
+                    41.4397150000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOUBLE S TRADERS</h3><a href=\"tel:4027218961\" target=\"_blank\">Phone</a><br>1105 N MORRELL ST FREMONT NE 68025", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.1886366949997, 
+                    40.1466031820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FAIRBURY CITY MUSEUM</h3><a href=\"tel:4027292476\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4274457889996, 
+                    40.5969955950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDREN'S MUSEUM-CENTRAL NE</h3><b><a href=\"http://www.cmocn.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024633300\" target=\"_blank\">Phone</a><br>3001 W 12TH ST HASTINGS NE 68901", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.018448578, 
+                    42.7930803810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAWES COUNTY HISTORICAL MUSEUM</h3><a href=\"tel:3084324999\" target=\"_blank\">Phone</a><br>341 COUNTRY CLUB RD CHADRON NE 69337", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.7400869109997, 
+                    40.7788425520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAWSON COUNTY HISTORICAL MUSEUM</h3><a href=\"tel:3083245340\" target=\"_blank\">Phone</a><br>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.5401973, 
+                    42.8840671810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CENTENNIAL HALL</h3><a href=\"tel:4023762418\" target=\"_blank\">Phone</a><br>810 E. 9TH ST. VALENTINE NE 69201", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.1675259999997, 
+                    41.6105615410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOWSE HOMESTEAD</h3>HC 68 COMSTOCK NE 68828", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.55066982, 
+                    42.8746511420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHERRY COUNTY HISTORICAL SCTY</h3><a href=\"tel:4023762015\" target=\"_blank\">Phone</a><br>MAIN ST VALENTINE NE 69201", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4722799839997, 
+                    42.2392925270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CULTURAL CENTER MUSEUM</h3>", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.758269645, 
+                    41.1581208970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CODY PARK RAILROAD MUSEUM</h3><a href=\"tel:3085356719\" target=\"_blank\">Phone</a><br>HIGHWAY 83 NORTH PLATTE NE 69101", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.971244035, 
+                    41.1439215050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHEYENNE COUNTY HISTORICAL</h3><a href=\"tel:3082542150\" target=\"_blank\">Phone</a><br>544 JACKSON ST SIDNEY NE 69162", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.99844783, 
+                    42.8187120450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAWES COUNTY HISTORICAL SOCIETY MUSEUM</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5915805689997, 
+                    40.8679713340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANNA PALMER MUSEUM</h3><a href=\"tel:4023625549\" target=\"_blank\">Phone</a><br>211 E 7TH STREET YORK NE 38467", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.001883628, 
+                    42.8211696410005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BARBOUR COOK GEOLOGY MUSEUM</h3><a href=\"tel:3084326377\" target=\"_blank\">Phone</a><br>1000 MAIN ST CHADRON NE 69337", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.2917408119997, 
+                    40.8439984380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALDRICH HOUSE</h3><b><a href=\"http://www.bessstreeteraldrich.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4029943855\" target=\"_blank\">Phone</a><br>204 E F ST ELMWOOD NE 68349", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0285207519997, 
+                    42.1297495650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ANTELOPE COUNTY HISTORICAL MUSEUM</h3><a href=\"tel:4028874999\" target=\"_blank\">Phone</a><br>509 L ST. NELIGH NE 68756", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.2917408119997, 
+                    40.8439984380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BESS STREETER ALDRICH HOUSE & MUSEUM</h3>204 EAST F STREET ELMWOOD NE 68349", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.9689423069997, 
+                    40.6252408650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BENNE MEMORIAL MUSEUM</h3><a href=\"tel:8009138478\" target=\"_blank\">Phone</a><br>800 W 13TH ST CRETE NE 68333", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.86674938, 
+                    42.1033995630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ALLIANCE KNIGHT MUSEUM</h3><b><a href=\"http://knightmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3087622384\" target=\"_blank\">Phone</a><br>908 YELLOWSTONE AVE ALLIANCE NE 69301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1360651999997, 
+                    41.5425924260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLAIR CITY PARKS AND ARBORETUM</h3>218 SOUTH 16TH STREET BLAIR NE 68008", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1321299779997, 
+                    41.2604449830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOYS TOWN HALL OF HISTORY AND FATHER FLANAGAN HOUSE</h3><a href=\"tel:4024981186\" target=\"_blank\">Phone</a><br>14057 FLANAGAN BOULEVARD BOYS TOWN NE 68010", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9470669709997, 
+                    41.2817905600004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH OMAHA LOVES JAZZ CULTURAL ARTS AND HUMANITIES COMPLEX</h3>2506 N 24TH ST OMAHA NE 68110-2219", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.4421163629997, 
+                    42.0490794990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COALITION OF HISTORICAL TREKKERS</h3><b><a href=\"http://www.coht.org\" target=\"_blank\">Website</a></b><br>1502 VALLI HI ROAD NORFOLK NE 68701", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0524289879997, 
+                    40.6687283040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA FIREFIGHTERS FOUNDATIONS</h3><b><a href=\"http://www.nebraskafirefightersmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3083383473\" target=\"_blank\">Phone</a><br>2434 E 1ST ST S KEARNEY NE 68847-7904", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7099570119997, 
+                    40.8166314710004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF HAYDON</h3><a href=\"tel:4024755421\" target=\"_blank\">Phone</a><br>335 N 8TH ST STE A LINCOLN NE 68508-1300", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.9365061349997, 
+                    40.1077907750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DILLER OPERA HOUSE</h3>509 LAVELLE ST DILLER NE 68342-4111", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9292238399997, 
+                    41.2512801690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE DURHAM MUSEUM FOUNDATION</h3><b><a href=\"http://www.durhammuseum.org\" target=\"_blank\">Website</a></b><br>801 SOUTH 10TH STREET OMAHA NE 68108-3207", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8555097419997, 
+                    40.6775675760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>806 HISTORICAL PRESERVATION FOUNDATION INC</h3>806 FIRST AVENUE NEBRASKA CITY NE 68410-2405", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3402274109997, 
+                    40.9257656980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND FOUNDATION INC</h3>116 W 3RD ST GRAND ISLAND NE 68801-5914", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0714190629997, 
+                    40.2016725720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VIETNAM WAR NATIONAL MUSEUM</h3><a href=\"tel:4022252351\" target=\"_blank\">Phone</a><br>380 S MAPLE ST NELSON NE 68961", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4020045099997, 
+                    40.5784194670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA UFO MUSEUM</h3><a href=\"tel:4024635059\" target=\"_blank\">Phone</a><br>539 S BALTIMORE AVE HASTINGS NE 68901-5710", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.2499200929997, 
+                    42.0064681960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DECATUR MUSEUM INC</h3><a href=\"tel:4023495018\" target=\"_blank\">Phone</a><br>400 WEST 8TH STREET DECATUR NE 68020-2164", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.8593165739996, 
+                    40.6064718430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUTTTON HISTORICAL SOCIETY INCORPORATED</h3>PO BOX 92 SUTTON NE 68979-0092", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9653459629997, 
+                    41.3354336530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL PIONEER RESEARCH GROUP INC</h3>3215 STATE ST OMAHA NE 68112-1703", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1399979039997, 
+                    41.5418814910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLAIR HISTORIC PRESERVATION ALLIANCE</h3>1834 GRANT STREET BLAIR NE 68008-1919", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7282904879997, 
+                    40.8447943620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BLUE RIVER REGULATORS</h3>3120 NW 6TH STREET LINCOLN NE 68521-3215", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.1275608729997, 
+                    41.2538835010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BONE CREEK ART MUSEUM</h3><a href=\"tel:4023674488\" target=\"_blank\">Phone</a><br>575 E ST DAVID CITY NE 68632-1638", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8527607279997, 
+                    40.6766034670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KREGEL WINDMILL MUSEUM COMPANY</h3>601 CENTRAL AVE STE 106 NEBRASKA CITY NE 68410-0046", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9965041299997, 
+                    40.8590700500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAMILTON COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.plainsmanmuseum.org\" target=\"_blank\">Website</a></b><br>210 16TH ST AURORA NE 68818-3009", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2208267249997, 
+                    40.8328813840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SEWARD COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4026433738\" target=\"_blank\">Phone</a><br>PO BOX 188 GOEHNER NE 68364-0188", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0023229259997, 
+                    41.1171282650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERRICK COUNTY HISTORICAL MUSEUM INC</h3>211 E ST CENTRAL CITY NE 68826-1326", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7121813329996, 
+                    40.8025227840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMERICAN HISTORICAL SOCIETY OF GERMANS FROM RUSSIA</h3><b><a href=\"http://www.ahsgr.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024743363\" target=\"_blank\">Phone</a><br>631 D ST LINCOLN NE 68502-1149", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5603084659997, 
+                    41.1984942540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POLK COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4027477901\" target=\"_blank\">Phone</a><br>PO BOX 462 OSCEOLA NE 68651", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7468257429996, 
+                    40.2693906710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GAGE COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4022281679\" target=\"_blank\">Phone</a><br>PO BOX 793 BEATRICE NE 68310-0793", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.791460233, 
+                    41.1585990370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.lincolncountymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3085345640\" target=\"_blank\">Phone</a><br>2403 N BUFFALO BILL AVE NORTH PLATTE NE 69101-9702", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0697973249997, 
+                    40.0199221880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NUCKOLLS COUNTY HISTORICAL SOCIETY</h3>PO BOX 441 SUPERIOR NE 68978-0441", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.350259909, 
+                    41.4029441430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY OF GARDEN COUNTY</h3>PO BOX 193 OSHKOSH NE 69154", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0998447039997, 
+                    40.1818562620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TABLE ROCK HISTORICAL SOCIETY MUSEUM INC</h3>706 WYOMING TABLE ROCK NE 68447", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.6477278169997, 
+                    42.4576654320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOLT COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4023362344\" target=\"_blank\">Phone</a><br>401 E DOUGLAS ST ONEILL NE 68763", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.1261585329997, 
+                    42.3433727890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JERI SOUTHERN HOME & MUSEUM SOCIETY INC</h3>ROUTE 1 BOX 105 ROYAL NE 68773", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.675977747, 
+                    41.8940995080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS UNIVERSITY</h3><a href=\"tel:3086322220\" target=\"_blank\">Phone</a><br>4702 CARDINAL DR SCOTTSBLUFF NE 69361-9615", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2849981089997, 
+                    40.6546405730004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIEND HISTORICAL SOCIETY</h3>PO BOX 174 FRIEND NE 68359-0174", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.4353901019997, 
+                    41.8158621500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESERVATION MADISON INC</h3>55452 827 RD MADISON NE 68748-6347", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7333147529997, 
+                    40.2835204380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JERRYS DREAM MUSEUM AND FOUNDATION</h3>1702 N 16TH ST BEATRICE NE 68310-1640", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.876826781, 
+                    42.1174411920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM PARTNERS FOUNDATION</h3>PO BOX D ALLIANCE NE 69301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9374077269997, 
+                    41.2575100690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELKHORN STATION MAIN STREET</h3>PO BOX 694 OMAHA NE 68101-0694", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6123995659997, 
+                    40.7907236960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THEINTERNATIONAL QUILT STUDY CENTER & MUSEUM</h3><b><a href=\"http://www.IQSCfriends.org\" target=\"_blank\">Website</a></b><br>7911 TRENDWOOD DRIVE LINCOLN NE 68506", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0545577619997, 
+                    41.1341814360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEREDITARY SOCIETY OF THE DAUGHTERS OF THE FOUNDING FATHERS</h3>824LAKE TAHOE DRIVE PAPILLION NE 68046-3333", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7098942389997, 
+                    40.8177211280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ASSOCIATION FOR PRESERVATION TECHNOLOGY-CENTRAL PLAINS</h3>440 N 8TH STREET SUITE 100 LINCOLN NE 68508-3647", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.322088774, 
+                    41.2165418480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAUGHTERS OF UNION VETERANS OF THE CIVIL WAR 1861-1865</h3>524 FRONT POTTER NE 69156", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9470229229997, 
+                    41.2106749520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MEXICAN AMERICAN HISTORICAL SOCIETY OF THE MIDLANDS</h3>4825 S 24TH ST OMAHA NE 68107-2756", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.868168511, 
+                    42.1193867250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOBBYS FRONTIER TOWNERS INC</h3>320 E 25TH ST ALLIANCE NE 69301-9446", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9603110379997, 
+                    41.2514732280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESTERN IOWA PIONEER CEMETERY ASSOCIATION</h3>3203 MARCY ST OMAHA NE 68105-2051", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8840042679997, 
+                    40.6694614760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA CITY MUSEUM ASSOCIATION</h3>917 WILDWOOD LN STE F NEBRASKA CITY NE 68410-3312", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.629328744, 
+                    41.1492750070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LODGEPOLE DEPOT MUSEUM INC</h3>911 BONDEGARD ST LODGEPOLE NE 69149-2579", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0262674319997, 
+                    41.4590401080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FORT ATKINSON FOUNDATION</h3>PO BOX 432 FORT CALHOUN NE 68023-0432", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7468257429996, 
+                    40.2693906710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BEATRICE AREA RAILROAD ENTHUIASTS</h3>PO BOX 301 BEATRICE NE 68310-0301", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.3567298029997, 
+                    41.4317404390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLATTE VALLEY KIN SEEKERS</h3>PO BOX 153 COLUMBUS NE 68602-0153", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1442723469997, 
+                    41.3107162100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PENNSYLVANIA COLONY HISTORICAL SOCIETY OF NEBRASKA</h3><a href=\"tel:4028552485\" target=\"_blank\">Phone</a><br>14721 LAUREL PLZ OMAHA NE 68116-4339", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8513157899997, 
+                    40.6766436800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MISSOURI RIVER BASIN LEWIS & CLARK INTERPRETATIVE TRAIL & VI</h3>PO BOX 485 NEBRASKA CITY NE 68410-0785", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8513157899997, 
+                    40.6766436800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIVER COUNTRY NATURE CENTER INC</h3>PO BOX 39 NEBRASKA CITY NE 68410-0039", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4986781409997, 
+                    41.4343300620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREMONT OPERA HOUSE</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.9841750479997, 
+                    40.8595840830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROBERT HENRI MUSEUM</h3><b><a href=\"http://www.roberthenrimuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3087844154\" target=\"_blank\">Phone</a><br>218 E 8TH ST COZAD NE 69130-0355", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9293943949997, 
+                    41.2274107640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OMAHA ZOO FOUNDATION</h3><a href=\"tel:4027338401\" target=\"_blank\">Phone</a><br>3701 S 10TH STREET OMAHA NE 68107", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.4172406019997, 
+                    42.0374044750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELKHORN VALLEY HISTORICAL SOCIETY OF NORFOLK</h3><a href=\"tel:4023713886\" target=\"_blank\">Phone</a><br>515 QUEEN CITY BLVD NORFOLK NE 68701-4060", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.644147835, 
+                    40.2049412060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MCCOOK NEBRASKA US ARMY AIR BASE HISTORICAL SOCIETY</h3>PO BOX B-29 MCCOOK NE 69001-6900", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.3768398449997, 
+                    40.4588502860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DEER CREEK SODBUSTERS INC</h3>PO BOX 221 STERLING NE 68443-0221", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3393983679996, 
+                    40.9272442510004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREAT PLAINS CHAPTER OF THE NATIONAL RAILWAY HISTORICAL SOCI</h3>PO BOX 189 GRAND ISLAND NE 68802", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.7397591969997, 
+                    40.7449889270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEARTLAND MUSEUM OF MILITARY VEHICLES</h3><b><a href=\"http://www.heartlandmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3083242393\" target=\"_blank\">Phone</a><br>606 HEARTLAND RD LEXINGTON NE 68850-5666", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.7893380509997, 
+                    42.3526537200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLAINVIEW HISTORICAL SOCIETY INC</h3>C/O HENRY STARK POB 43 PLAINVIEW NE 68769", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8867968679997, 
+                    41.0112127340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CASS COUNTY HISTORICAL SOCIETY FOUNDATION</h3><b><a href=\"http://www.visitcasscounty.com\" target=\"_blank\">Website</a></b><br>646 MAIN ST PLATTSMOUTH NE 68048-1852", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0805069079997, 
+                    41.9439835930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELGIN HISTORICAL SOCIETY</h3><a href=\"tel:4028435307\" target=\"_blank\">Phone</a><br>51100 836 RD ELGIN NE 68636", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8565058269997, 
+                    40.6756982880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>G A R HALL INC</h3>901 1ST CORSO NEBRASKA CITY NE 68410", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6801264729997, 
+                    40.7798212070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MARI SANDOZ HERITAGE SOCIETY</h3>3227 S 29TH ST LINCOLN NE 68502-5118", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.2747573169997, 
+                    40.8704331250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MURDOCK HISTORICAL SOCIETY</h3><b><a href=\"http://murdockmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4028673331\" target=\"_blank\">Phone</a><br>12911 310TH ST MURDOCK NE 68407", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6896503109997, 
+                    40.7999727510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PRESERVATION ASSOCIATION OF LINCOLN</h3>2145 B ST LINCOLN NE 68502-1731", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5040027769997, 
+                    41.6134549070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ST MICHAELS HISTORICAL SOCIETY - TARNOV</h3>309 3RD STREET TARNOV NE 68642", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.664387141, 
+                    41.8665234020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MEXICAN-AMERICAN HISTORICAL SOCIETY/PIONEER PARK</h3><a href=\"tel:3086324734\" target=\"_blank\">Phone</a><br>PO BOX 1662 SCOTTSBLUFF NE 69363-1662", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.9484187219997, 
+                    40.6250621540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRETE BICENTENNIAL SOCIETY CRETE NEBRASKA</h3>13TH AND REDWOOD CRETE NE 68333", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1529812899997, 
+                    40.1090073810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WORLD FARMERS HALL OF FAME</h3>653 G STREET PAWNEE CITY NE 68420", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9307852049997, 
+                    41.2533049120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KANEKO</h3>1111 JONES ST OMAHA NE 68102-3221", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.5606614529997, 
+                    41.9150043360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LOUP COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:3089423403\" target=\"_blank\">Phone</a><br>83409 LONESOME PINE AVENUE TAYLOR NE 68879-0137", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1196235989997, 
+                    41.2565697420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA JEWISH HISTORICAL SOCIETY INC</h3><a href=\"tel:4023346442\" target=\"_blank\">Phone</a><br>333 S 132ND ST OMAHA NE 68154-2106", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7324167119997, 
+                    40.2663261840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CARNEGIE CENTER INC</h3>100 N 16TH ST BEATRICE NE 68310-4152", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0747970679997, 
+                    40.6992333630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLASSIC CAR COLLECTION</h3>PO BOX 607 KEARNEY NE 68848-0607", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0014669019997, 
+                    41.2067582140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OMAHA TRANSPORTATION AND TECHNICAL MUSEUM</h3>5118 S 57TH ST OMAHA NE 68117-1705", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.1248935799997, 
+                    41.2527106810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUTLER COUNTY VETERANS MUSEUM INC</h3>761 D STREET APT 1 DAVID CITY NE 68632-1723", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1929461829997, 
+                    40.3682004390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHNSON COUNTY NEBRASKA HISTORICAL SOCIETY INC</h3><a href=\"tel:4023355900\" target=\"_blank\">Phone</a><br>PO BOX 597 TECUMSEH NE 68450-0597", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0762374929997, 
+                    41.2373313780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA-IOWA RAILROADERS HISTORICAL AND MUSEUM SOCIETY</h3>2306 S 105TH ST OMAHA NE 68124", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6997171949997, 
+                    40.8113214670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE KRUGER COLLECTION</h3><b><a href=\"http://krugercollection.unl.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024723171\" target=\"_blank\">Phone</a><br>OFFICE OF SPONSORED PROGRAMS, 312 NORTH 14TH ST. ALEXANDER WEST BUILDING LINCOLN NE 68588-0430", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.9518287099997, 
+                    40.6226728800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOANE COLLEGE</h3><b><a href=\"http://www.doane.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:4028262161\" target=\"_blank\">Phone</a><br>1014 BOSWELL AVE CRETE NE 68333-2426", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9455710609997, 
+                    41.2597984430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOSLYN ART MUSEUM</h3><b><a href=\"http://www.joslyn.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4023423300\" target=\"_blank\">Phone</a><br>2200 DODGE ST OMAHA NE 68102-1208", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9565908099997, 
+                    41.3106082760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOUGLAS COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.omahahistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024559990\" target=\"_blank\">Phone</a><br>5730 N 30TH ST 11B OMAHA NE 68111-1600", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9293943949997, 
+                    41.2274107640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OMAHA ZOOLOGICAL SOCIETY INC</h3><b><a href=\"http://www.omahazoo.com\" target=\"_blank\">Website</a></b><br>3701 S 10TH ST OMAHA NE 68107-2299", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.201911547, 
+                    42.8090515650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHERIDAN COUNTY HISTORICAL SOCIETY INC</h3>512 N ELM GORDON NE 69343", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6823865219997, 
+                    40.8010996370004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN CHILDRENS ZOO</h3>1222 S 27TH ST LINCOLN NE 68502-1832", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.5193408639997, 
+                    40.0889683930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WILLA CATHER PIONEER MEMORIAL</h3><a href=\"tel:4027462653\" target=\"_blank\">Phone</a><br>413 N WEBSTER ST RED CLOUD NE 68970", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6997192959997, 
+                    40.8113325390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LENTZ CENTER FOR ASIAN CULTURE</h3><b><a href=\"http://www.unl.edu/lentz\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024725849\" target=\"_blank\">Phone</a><br>HEWIT PLACE, LOWER LEVEL 1155 Q ST. LINCOLN NE 68588", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6715608229997, 
+                    40.8262275570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL RAILWAY HISTORICAL SOCIETY INC CORNHUSKERS CHAPTER</h3>3350 DUDLEY ST LINCOLN NE 68503", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3721716019997, 
+                    40.8878926570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STUHR MUSEUM OF THE PRAIRIE PIONEER</h3><a href=\"tel:3083855316\" target=\"_blank\">Phone</a><br>3133 W HWY 34 GRAND ISLAND NE 68801", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.661058867, 
+                    41.8247505200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH PLATTE VALLEY HISTORICAL ASSOCIATION INC</h3><b><a href=\"http://www.npvm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3084365411\" target=\"_blank\">Phone</a><br>PO BOX 435 GERING NE 69341-0435", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.73454656, 
+                    40.8572418680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PERKINS COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:3083264233\" target=\"_blank\">Phone</a><br>PO BOX 562 GRANT NE 69140", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.6406275789997, 
+                    41.4016710560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CUSTER COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 334 BROKEN BOW NE 68822", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.107925918, 
+                    41.0912421380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHELPS HOTEL HISTORICAL PRESERVATION ASSOCIATION</h3>PO BOX 114 BIG SPRINGS NE 69122", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9292238399997, 
+                    41.2512801690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE DURHAM MUSEUM</h3><b><a href=\"http://www.DurhamMuseum.org\" target=\"_blank\">Website</a></b><br>801 S 10TH STREET OMAHA NE 68108-3207", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9304994219997, 
+                    41.2563943710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ARTIST COOP GALLERY INC</h3><b><a href=\"http://www.artistsco-opgallery.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4023429617\" target=\"_blank\">Phone</a><br>405 S 11TH ST OMAHA NE 68102-2805", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.883000228, 
+                    42.6902472800004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SIOUX COUNTY HISTORICAL SOCIETY INC</h3><a href=\"tel:3086682110\" target=\"_blank\">Phone</a><br>130 MAIN ST HARRISON NE 69346", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.71039702, 
+                    41.1257414820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KEITH COUNTY HISTORICAL SOCIETY</h3>PO BOX 5 OGALLALA NE 69153", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7251375789997, 
+                    42.5646726090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PONCA HISTORICAL SOCIETY</h3><a href=\"tel:4027552704\" target=\"_blank\">Phone</a><br>PO BOX 403 PONCA NE 68770", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.5364777979997, 
+                    42.5843120330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ROCK COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.rockcountyhistoricalsociety.org\" target=\"_blank\">Website</a></b><br>PO BOX 32 BASSETT NE 68714", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.3567298029997, 
+                    41.4317404390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLATTE COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4025641856\" target=\"_blank\">Phone</a><br>PO BOX 31 COLUMBUS NE 68602-0031", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0193488249997, 
+                    42.2294312860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAYNE COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4023751513\" target=\"_blank\">Phone</a><br>PO BOX 83 WAYNE NE 68787-0083", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9654568179997, 
+                    41.2638735520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>UNITED METHODIST MINISTRIES</h3>", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9304986709997, 
+                    41.2563038210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PUPPET THEATER MUSEUM</h3>415 S 11TH ST OMAHA NE 68102", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9422772179997, 
+                    41.2546308640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OMAHA CHILDRENS MUSEUM INC</h3><b><a href=\"http://www.ocm.org\" target=\"_blank\">Website</a></b><br>500 S 20TH ST OMAHA NE 68102-2508", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9630370069997, 
+                    41.2804410580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHERMAN COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://shermancountyhistoricalsociety.com\" target=\"_blank\">Website</a></b><br>PO BOX 362 LOUP CITY NE 68853", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0583389639997, 
+                    41.4483509890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SCHUYLER HISTORICAL SOCIETY</h3>200 EAST 12TH STREET SCHUYLER NE 68661-1906", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6997192959997, 
+                    40.8113325390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA STATEWIDE ARBORETUM INCORPORATED</h3>PO BOX 830964 LINCOLN NE 68583-0964", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0351997189996, 
+                    42.1358086920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE PIONEERS-ANTELOPE COUNTY HISTORICAL SOCIETY INC</h3>1109 Q ST NELIGH NE 68756-1017", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9296869229997, 
+                    41.6030813810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VALLEY COUNTY MUSEUM</h3>PO BOX 101 ORD NE 68862-0101", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.8190877979997, 
+                    42.8843930510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KEYAPAHA COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4024972526\" target=\"_blank\">Phone</a><br>PO BOX 34 SPRINGVIEW NE 68778-0034", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.8588989309997, 
+                    42.5481615870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BROWN COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 124 AINSWORTH NE 69210", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0816181769997, 
+                    40.6993904440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NEBRASKA ART</h3><b><a href=\"http://monet.unk.edu/mona\" target=\"_blank\">Website</a></b><br><a href=\"tel:3088658559\" target=\"_blank\">Phone</a><br>2401 CENTRAL AVE KEARNEY NE 68847-4501", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8667165679997, 
+                    40.6720620780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA CITY HISTORICAL SOCIETY</h3><a href=\"tel:4028734240\" target=\"_blank\">Phone</a><br>PO BOX 175 NEBRASKA CITY NE 68410", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0416669459997, 
+                    41.1580908250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PAPILLION AREA HISTORICAL SOCIETY</h3><a href=\"tel:4023398149\" target=\"_blank\">Phone</a><br>242 NO JEFFERSON ST PAPILLION NE 68046", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.3698272779997, 
+                    40.4382028200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PHELPS COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://nebraskaprairie.org\" target=\"_blank\">Website</a></b><br>PO BOX 164 HOLDREGE NE 68949-0164", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.3200445039997, 
+                    41.0153531640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STRATEGIC AIR AND SPACE MUSEUM</h3><b><a href=\"http://www.sasmuseum.com\" target=\"_blank\">Website</a></b><br>28210 W PARK HWY ASHLAND NE 68003-3525", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7026610489997, 
+                    40.8304179980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA NATIONAL GUARD HISTORICAL SOCIETY INC</h3>1300 MILITARY ROAD LINCOLN NE 68508", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0748079279997, 
+                    40.6992313970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA FIREFIGHTERS MUSEUM AND HALL OF FAME INC</h3>PO BOX 2423 KEARNEY NE 68848-6884", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0183103899997, 
+                    41.2838277440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SHIPLEY CEMETERY HISTORICAL ASSOCIATION INC C/O LEMARA EICKE</h3>6810 CORBY ST OMAHA NE 68104-6810", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6537366439997, 
+                    40.8385004090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LUX CENTER FOR THE ARTS</h3><b><a href=\"http://www.luxcenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024668692\" target=\"_blank\">Phone</a><br>2601 N 48TH ST LINCOLN NE 68504-3632", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.472239326, 
+                    41.0924520040004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHAPPELL MUSEUM ASSOC</h3><a href=\"tel:3088742993\" target=\"_blank\">Phone</a><br>PO BOX 324 CHAPPELL NE 69129-0324", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0134795049997, 
+                    41.6991518580004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BOONE COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 414 ALBION NE 68620", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6544074789997, 
+                    40.7917037670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL MUSEUM OF ROLLER SKATING</h3><b><a href=\"http://www.rollerskatingmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024837551\" target=\"_blank\">Phone</a><br>PO BOX 6579 LINCOLN NE 68506-1256", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8425874219997, 
+                    42.4335707570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DIXON COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4026352582\" target=\"_blank\">Phone</a><br>SOUTH CLARK STREET PO BOX 95 ALLEN NE 68710", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3576290629996, 
+                    40.9021999780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GRAND ISLE HERITAGE ZOO</h3>2103 W STOLLEY PARK RD GRAND ISLAND NE 68801-6941", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.159277851, 
+                    40.9394928210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOTHENBURG PONY EXPRESS HISTORICAL SOCIETY</h3>PO BOX 263 GOTHENBURG NE 69138", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.414549331, 
+                    42.6867039970004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CRAWFORD HISTORICAL SOCIETY</h3>PO BOX 333 CRAWFORD NE 69339-0333", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0557195069997, 
+                    40.5215617480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLAY COUNTY HISTORICAL SOCIETY & MUSEUM</h3><a href=\"tel:4027623563\" target=\"_blank\">Phone</a><br>PO BOX 191 CLAY CENTER NE 68933-0191", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9318875769997, 
+                    41.2528104270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BEMIS CENTER FOR CONTEMPORARY ARTS</h3><b><a href=\"http://www.bemiscenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4023417130\" target=\"_blank\">Phone</a><br>724 S 12TH ST OMAHA NE 68102-3202", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0612144419997, 
+                    41.1951711350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RALSTON ARCHIVES MUSEUM INC</h3>6329 SOUTH 95TH STREET OMAHA NE 68127-4023", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.742988288, 
+                    41.5556121970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BANNER COUNTY HISTORICAL SOCIETY</h3>PO BOX 74 HARRISBURG NE 69345-0074", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6997192959997, 
+                    40.8113325390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE UNIVERSITY OF NEBRASKA STATE MUSEUM NATURAL H</h3>307 MORRILL HALL UNL LINCOLN NE 68588", 
+                "marker-color": "#45008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9169189899997, 
+                    41.2341793910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OMAHA BOTANICAL CENTER INC</h3><a href=\"tel:4023464002\" target=\"_blank\">Phone</a><br>100 BANCROFT ST OMAHA NE 68108-1752", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.674859219, 
+                    40.5377014720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHASE COUNTY HISTORICAL SOCIETY</h3>321314 740RD IMPERIAL NE 69033", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.5282372129997, 
+                    40.9179739680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAMP CREEK ANTIQUE MACHINERY AND THRESHING ASSOCIATION INC</h3>PO BOX 422 WAVERLY NE 68462-0422", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9688280899997, 
+                    41.3619422730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NANCE COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:3085362377\" target=\"_blank\">Phone</a><br>PO BOX 333 FULLERTON NE 68638-0333", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.014637753, 
+                    40.1737918630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THE HITCHCOCK COUNTY HISTORICAL SOCIETY</h3>PO BOX 511 TRENTON NE 69044-0511", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.4564783849997, 
+                    41.8279880170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MADISON COUNTY HISTORICAL SOCIETY OF MADISON NEBRASKA</h3><b><a href=\"http://www.madisoncountyhistory.org\" target=\"_blank\">Website</a></b><br>210 WEST 3RD STREET MADISON NE 68748-6420", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.1138216869997, 
+                    42.7340118300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NIOBRARA HISTORICAL SOCIETY</h3><a href=\"tel:4028573515\" target=\"_blank\">Phone</a><br>89054 519 AVE NIOBRARA NE 68760", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.000465974, 
+                    42.8297024690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAWES COUNTY HISTORICAL SOCIETY</h3>PO BOX 1319 CHADRON NE 69337-1319", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.5076903579996, 
+                    41.4465974510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA RAILROAD MUSEUM</h3><b><a href=\"http://www.fremontrailroad.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4027270615\" target=\"_blank\">Phone</a><br>1835 N SOMERS AVE FREMONT NE 68025-2958", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9127589429997, 
+                    41.0244836130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY OF RAVENNA</h3><a href=\"tel:3084523710\" target=\"_blank\">Phone</a><br>210 GRAND AVE RAVENNA NE 68869", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.166391672, 
+                    40.2829928390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CAMBRIDGE MUSEUM FOUNDATION INC</h3><a href=\"tel:3086974385\" target=\"_blank\">Phone</a><br>316 NELSON STREET CAMBRDIGE NE 69022", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.2209838319997, 
+                    41.7806807920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BURT COUNTY MUSEUM INC</h3>319 N 13TH ST TEKAMAH NE 68061-1503", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0086658149997, 
+                    41.2849400870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BENSON HISTORICAL SOCIETY</h3>PO BOX 4153 OMAHA NE 68104-0153", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.6016778509997, 
+                    40.0599614120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RICHARDSON COUNTY HISTORICAL S</h3><a href=\"tel:4022454407\" target=\"_blank\">Phone</a><br>PO BOX 45 FALLS CITY NE 68355-0045", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.66031393, 
+                    41.8847201690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUNFLOWER HISTORICAL SOCIETY INC</h3>3801 2ND AVE SCOTTSBLUFF NE 69361", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7438775869997, 
+                    42.0901806280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HERITAGE MUSEUM OF THURSTON COUNTY INC</h3>PO BOX 624 PENDER NE 68047", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.377729485, 
+                    41.0296840570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BRADY MUSEUM</h3><a href=\"tel:3085843259\" target=\"_blank\">Phone</a><br>PO BOX 11 BRADY NE 69123-0011", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9506810539997, 
+                    40.1032935720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRANKLIN COUNTY HISTORICAL SOCIETY</h3>1309 H ROAD FRANKLIN NE 68939-5168", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7001501009997, 
+                    40.8147577350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN CHILDRENS MUSEUM</h3><b><a href=\"http://LincolnChildrensMuseum.org\" target=\"_blank\">Website</a></b><br>1420 P ST LINCOLN NE 68508-1635", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9055273579997, 
+                    41.1339916440004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SARPY COUNTY HISTORICAL SOCIETY FOUNDATION INC</h3><b><a href=\"http://www.sarpycountymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4022921880\" target=\"_blank\">Phone</a><br>2402 CLAY STREET BELLEVUE NE 68005", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.678569238, 
+                    41.8424303470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FARM AND RANCH MUSEUM</h3><b><a href=\"http://www.farmandranchmuseum.com\" target=\"_blank\">Website</a></b><br>2930 OLD OREGON TRL GERING NE 69341-8500", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0868165189997, 
+                    40.7210629220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KEARNEY AREA CHILDRENS MUSEUM</h3><b><a href=\"http://www.kearneykidzone.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3086982228\" target=\"_blank\">Phone</a><br>5827 4TH AVE KEARNEY NE 68845-2879", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.2410024249997, 
+                    42.3359157510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ORCHARD HISTORICAL SOCIETY</h3><a href=\"tel:4028934565\" target=\"_blank\">Phone</a><br>225 WINDOM ST BOX 133 ORCHARD NE 68764", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.574367048, 
+                    41.9783117000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THOMAS COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:3086452477\" target=\"_blank\">Phone</a><br>PO BOX 224 THEDFORD NE 69166-0224", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9374098069997, 
+                    41.2575124640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRANS MISSISSIPPI EXPOSITION HISTORICAL ASSOCIATION</h3><b><a href=\"http://www.omahaexpo1898.org\" target=\"_blank\">Website</a></b><br>PO BOX 145 OMAHA NE 68101-6810", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.661531234, 
+                    41.8303335670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYOBRASKA NATURAL HISTORY MUSEUM</h3><b><a href=\"http://www.wyobraskawildlifemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3084367104\" target=\"_blank\">Phone</a><br>950 U ST GERING NE 69341-2246", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.664387141, 
+                    41.8665234020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUGAR VALLEY RALLY INC</h3>PO BOX 214 SCOTTSBLUFF NE 69363-0214", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.3949490199997, 
+                    42.1660200620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OMAHA TRIBAL HISTORICAL PROJECT INC</h3>834 HIGHWAY 75 WALTHILL NE 68067", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0463676969997, 
+                    40.7745801020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM OF NEBRASKA AVIATION</h3>RR 1 BOX 120 KEARNEY NE 68847-9801", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9965039939997, 
+                    40.8588836860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EDGERTON EDUCATION FOUNDATION</h3><b><a href=\"http://edgerton.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4026944032\" target=\"_blank\">Phone</a><br>208 16TH ST AURORA NE 68818-3009", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.712652207, 
+                    41.1346208760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA NATIONAL TRAILS MUSEUM FOUNDATION INC</h3>715 VALLEY VIEW DRIVE OGALLALA NE 69153-1549", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4886759389997, 
+                    42.1482926550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUSAN LFLSCHE PCOTTE DR MUSEUM</h3>PO BOX 395 WALTHILL NE 68067-0395", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9588665089997, 
+                    40.4915501320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>KEARNEY COUNTY HISTORICAL SOCIETY</h3>553 S BLAINE MINDEN NE 68959", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4675087009997, 
+                    40.8701832550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MERRICK AUTO MUSEUM</h3><a href=\"tel:3083849410\" target=\"_blank\">Phone</a><br>PO BOX 188 ALDA NE 68810-0188", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7109099279997, 
+                    40.8169830080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SMITH COLLECTION</h3><a href=\"tel:4023233181\" target=\"_blank\">Phone</a><br>PO BOX 81906 LINCOLN NE 68501-1906", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.1651959799997, 
+                    42.3495602900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHEAST NEBRASKA ZOOLOGICAL SOCIETY INC</h3>51891 AVE 864 RD ROYAL NE 68773", 
+                "marker-color": "#B400BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.987787249, 
+                    41.1366320190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUNOL COMMUNITY CENTER</h3>226 3RD AVE LODGEPOLE NE 69162-2180", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1099956849997, 
+                    41.2671342550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CONSTITUTIONAL HERITAGE INST</h3>PO BOX 540787 OMAHA NE 68154-0787", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6822311689997, 
+                    40.7989778460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE PIONEER PARK NATURE CENTER</h3>2740 A STREET LINCOLN NE 68502", 
+                "marker-color": "#CC430A", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9718803499997, 
+                    41.2611782800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOSLYN CASTLE TRUST INC</h3>3902 DAVENPORT ST OMAHA NE 68131-2316", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9485439289997, 
+                    41.2117208900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>EL MUSEO LATINO</h3><b><a href=\"http://www.elmuseolatino.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4027311137\" target=\"_blank\">Phone</a><br>4701 S 25TH ST OMAHA NE 68107-2728", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0409136609996, 
+                    41.1443410150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA HIGH SCHOOL SPORTS HALL OF FAME FOUNDATION</h3>1123 DELMAR ST PAPILLION NE 68046-2805", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.416062485, 
+                    42.6846549400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE PREHISTORIC PRAIRIES DISCOVERY CENTER</h3>106 LINN STREET CRAWFORD NE 69339-1016", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.9858577949997, 
+                    40.8606242430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>COZAD HISTORICAL SOCIETY</h3>PO BOX 325 COZAD NE 69130-0325", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6997192959997, 
+                    40.8113325390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE UNIVERSITY OF NEBR TRACTOR TEST AND POWER MUS</h3>PO BOX 830833 LINCOLN NE 68583-6858", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7023945569996, 
+                    40.7506847310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRANK H WOODS TELEPHONE PIONEER MUSEUM</h3>6120 INVERNESS RD LINCOLN NE 68512-1721", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9783162239997, 
+                    42.5322216750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>STURDEVANT MCKEE FOUNDATION INC</h3>PO BOX 225 ATKINSON NE 68713-0225", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0055507459997, 
+                    41.2269630570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FIRE FIGHTERS MEMORIAL FOUNDATION INC</h3>6005 GROVER ST OMAHA NE 68106-4309", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.324255774, 
+                    41.7731839970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BAYARDS CHIMNEY ROCK MUSEUM</h3>BOX 345 BAYARD NE 69334-0345", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3567043979997, 
+                    40.9034309250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>TRI-CITY MODEL RAILROAD ASSOCIATION</h3>1811 ROBERTA AVENUE GRAND ISLAND NE 68803-6341", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.8975977009997, 
+                    40.3024605070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY OF FURNAS-GOSPER COUNTIES</h3><a href=\"tel:3089627912\" target=\"_blank\">Phone</a><br>PO BOX 327 ARAPAHOE NE 68922-0327", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0435390989997, 
+                    40.6702304520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREAT PLATTE RIVER ROAD MEMORIAL FOUNDATION</h3>", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7102023749997, 
+                    41.8099796020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WEST POINT COMMUNITY ARTS COUNCIL</h3>2035 HWY 275 WEST POINT NE 68788-4524", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.7939967499997, 
+                    41.2479510570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POLISH HERITAGE CENTER</h3><a href=\"tel:3087382249\" target=\"_blank\">Phone</a><br>PO BOX 3 ASHTON NE 68817-0003", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7109099279997, 
+                    40.8169830080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN AREA MODEL RAILROAD CLUB</h3>PO BOX 81144 LINCOLN NE 68501-1144", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.7982171089997, 
+                    40.7564440490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HENDERSON HERITAGE & TOURISM</h3>PO BOX 336 HENDERSON NE 68371-0336", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.738968887, 
+                    41.1217938260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTH PLATTE AREA CHILDRENS MUSEUM</h3>PO BOX 2088 NORTH PLATTE NE 69103-2088", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6113170149997, 
+                    40.8044711380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA AUTO RACING HALL OF FAME INC</h3><a href=\"tel:4024895171\" target=\"_blank\">Phone</a><br>821 DRIFTWOOD DRIVE LINCOLN NE 68510-4319", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9965243599997, 
+                    41.2542329020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WINTER QUARTERS-FLORENCE MILL INC</h3><a href=\"tel:4025511233\" target=\"_blank\">Phone</a><br>5215 JACKSON ST OMAHA NE 68112-1816", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0697635509997, 
+                    40.0188345770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SUPERIOR HISTORIC RE-DEVELOPMENT INC</h3>213 E 3RD ST SUPERIOR NE 68978", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5604062749997, 
+                    40.2556517640004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>THAYER COUNTY HISTORICAL SOCIETY & MUSEUM</h3>PO BOX 387 BELVIDERE NE 68315-0387", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5904032939997, 
+                    40.8679187300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>YORK AREA CHILDRENS MUSEUM</h3>306 E 7TH STREET YORK NE 68467-3024", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6544790999997, 
+                    40.8062532280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SCHLEICH POTTERY DINNERWARE AND STONEWARE COLLECTION</h3>6412 CHESTER CT LINCOLN NE 68510", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.662693332, 
+                    41.8615167920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PANHANDLE LANDMARKS INC.</h3><a href=\"tel:3086321311\" target=\"_blank\">Phone</a><br>1517 BROADWAY STE 125 SCOTTSBLUFF NE 69361-3184", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9675501489997, 
+                    41.3183674960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AMPHIBIOUS SHIPS MUSEUM INC</h3><a href=\"tel:4024510485\" target=\"_blank\">Phone</a><br>3664 HUNTINGTON AVE OMAHA NE 68112-2944", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6673005019996, 
+                    40.8135176580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WYUKA HISTORICAL FOUNDATION</h3>3600 O ST LINCOLN NE 68510-1668", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4961859149997, 
+                    41.4323098670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAINSTREET OF FREMONT INC</h3>338 N MAIN ST FREMONT NE 68025-5058", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0816781289997, 
+                    40.6977736310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>YANNEY HERITAGE PARK FOUNDATION</h3>2207 CENTRAL AVE KEARNEY NE 68847-5346", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0501307369997, 
+                    41.2618036480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>OMAHA PERFORMING ARTS SOCIETY</h3>8805 INDIAN HILLS DR ST OMAHA NE 68114-6020", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0513488859997, 
+                    41.2634738110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOSLYN ART MUSEUM FOUNDATION</h3>", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.715604294, 
+                    41.1251654580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF THE KENFIELD GALLERY</h3>418 E 1ST ST OGALLALA NE 69153-2619", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8734492479997, 
+                    40.6797938090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENDS OF ARBOR LODGE FOUNDATION INC</h3>PO BOX 15 NEBRASKA CITY NE 68410-1075", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7554070029997, 
+                    40.8413825810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>AIR GUARD BASE RETIRED MEMORIAL FUND</h3>2925 N W 25TH STREET LINCOLN NE 68524-2410", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4923099129997, 
+                    41.4441536740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FREMONT FIREFIGHTERS HISTORICAL SOCIETY INCORPORATED</h3>415 E 16TH ST FREMONT NE 68025-3446", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.4013322539997, 
+                    42.8418586580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CORPS OF DISCOVERY WELCOME CENTER COUNCIL</h3>89705 HIGHWAY 81 CROFTON NE 68730-3049", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1460655429997, 
+                    41.2790474670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HEARTLAND AIRBORNE MEMORIAL ASSOCIATION</h3>14824 ERSKINE STREET OMAHA NE 68116-5123", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7450964309997, 
+                    40.2659103220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FRIENS OF HOMESTEAD NATIONAL MONUMENT OF AMERICA</h3>C/O TAMARA WEERS FIRST NATIONAL OMA BEATRICE NE 68310-3928", 
+                "marker-color": "#14008C", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4353387469997, 
+                    40.9682437230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>W W 2 LIBRARY MUSEUM INC</h3><a href=\"tel:4029444238\" target=\"_blank\">Phone</a><br>13102 N 228TH GREENWOOD NE 68366", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.2321294409997, 
+                    41.2867910600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ELKHORN HISTORICAL SOCIETY</h3>PO BOX 187 ELKHORN NE 68022-0187", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.829988001, 
+                    41.1427888330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GOLDEN SPIKE TOWER & VISITOR CENTER</h3><b><a href=\"http://www.goldenspiketower.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3085329920\" target=\"_blank\">Phone</a><br>1249 N HOMESTEAD RD NORTH PLATTE NE 69101-1433", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5929914309997, 
+                    40.8616966590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WESSELS LIVING HISTORY FARM</h3><a href=\"tel:4023625531\" target=\"_blank\">Phone</a><br>116 S LINCOLN AVE YORK NE 68467-4240", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6629367239997, 
+                    40.1212607480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WELSH HRITG CULTURE CENTRE INC</h3><a href=\"tel:4024218192\" target=\"_blank\">Phone</a><br>PO BOX 253 WYMORE NE 68466-0253", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7169509509997, 
+                    41.8411421870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CUMING COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4023723690\" target=\"_blank\">Phone</a><br>433 W BRIDGE WEST POINT NE 68788-1724", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7025437929997, 
+                    40.8144000430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA STATE HISTORICAL SOCIETY FOUNDATION</h3><b><a href=\"http://www.nshsf.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024353535\" target=\"_blank\">Phone</a><br>128 N 13TH ST APT 1010 LINCOLN NE 68508-1562", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3921083519997, 
+                    40.5999757140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HASTINGS MUSEUM</h3><b><a href=\"http://www.adamshistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024635838\" target=\"_blank\">Phone</a><br>1330 N BURLINGTON AVE HASTINGS NE 68901-3062", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4940985049997, 
+                    41.4347124230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DODGE COUNTY HISTORICAL SOCIETY</h3>PO BOX 766 FREMONT NE 68026-0766", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6997192959997, 
+                    40.8113325390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA ART ASSOCIATION</h3><b><a href=\"http://www.sheldon.unl.edu\" target=\"_blank\">Website</a></b><br>UNIVERSITY OF NEBRASKA- LINCOLN NE 68588", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.7298698769997, 
+                    40.7799009590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAWSON COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.dchsmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:3083245340\" target=\"_blank\">Phone</a><br>805 TAFT ST LEXINGTON NE 68850-0369", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.531356722, 
+                    40.0974915860004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DUNDY COUNTY HISTORICAL SOCIETY INC</h3><a href=\"tel:3084235404\" target=\"_blank\">Phone</a><br>PO BOX 511 BENKELMAN NE 69021", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.6571157749997, 
+                    40.3974206000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BROWNVILLE HISTORICAL SOCIETY INCORPORATED</h3>PO BOX 1 BROWNVILLE NE 68321-0001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3393875279997, 
+                    40.9272418650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HALL COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 1683 GRAND ISLAND NE 68802-1683", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0262674319997, 
+                    41.4590401080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WASHINGTON COUNTY HISTORICAL ASSOCIATION</h3>PO BOX 25 FORT CALHOUN NE 68023-0025", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.924787808, 
+                    42.8226276200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MUSEUM ASSOCIATION OF THE AMERICAN FRONTIER</h3><b><a href=\"http://www.furtrade.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3084323843\" target=\"_blank\">Phone</a><br>6321 HIGHWAY 20 CHADRON NE 69337", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7096111639997, 
+                    40.8025784510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>LINCOLN LANCASTER COUNTY HISTORICAL SOCIETY</h3>808 D STREET LINCOLN NE 68502", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2644657319997, 
+                    42.6264803110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CEDAR COUNTY HISTORICAL SOCIETY</h3>PO BOX 181 HARTINGTON NE 68739-6873", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3861267509997, 
+                    40.5861241830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>ADAMS COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.adamshistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024635838\" target=\"_blank\">Phone</a><br>PO BOX 102 HASTINGS NE 68902-0102", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4564180549997, 
+                    41.2221614990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HOWARD COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:3087544454\" target=\"_blank\">Phone</a><br>PO BOX 1 ST PAUL NE 68873", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.3449779209997, 
+                    41.3138300280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>VALLEY COMMUNITY HISTORICAL SOCIETY INC</h3>PO BOX 685 VALLEY NE 68064-0685", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9592978639997, 
+                    41.3364501260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FLORENCE HISTORICAL FOUNDATION</h3><a href=\"tel:4024534280\" target=\"_blank\">Phone</a><br>PO BOX 12331 OMAHA NE 68112-0331", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5285095899997, 
+                    42.1992639130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PIERCE HISTORICAL SOCIETY</h3><a href=\"tel:4023294576\" target=\"_blank\">Phone</a><br>PO BOX 122 PIERCE NE 68767-0122", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.1740481129997, 
+                    40.1330212720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JEFFERSON COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.jeffersoncountyhistory.com\" target=\"_blank\">Website</a></b><br>910 BACON RD FAIRBURY NE 68352-2659", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.65178026, 
+                    41.2355831890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PLAINS HISTORICAL SOCIETY</h3><a href=\"tel:3082352001\" target=\"_blank\">Phone</a><br>816 E 3RD ST KIMBALL NE 69145-1755", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.1220299929997, 
+                    41.7212133870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLARKSON HISTORICAL SOCIETY</h3><a href=\"tel:4028923863\" target=\"_blank\">Phone</a><br>PO BOX 121 CLARKSON NE 68629-0121", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6238535319997, 
+                    41.2079091430004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SAUNDERS COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.saunderscountymuseum.org\" target=\"_blank\">Website</a></b><br>240 N WALNUT ST WAHOO NE 68066-1858", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.1355597949997, 
+                    41.8091022220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GARFIELD COUNTY HISTORICAL SOCIETY</h3>PO BOX 248 BURWELL NE 68823", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.5742899239997, 
+                    42.0128327680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>JOHN G NHRDT STATE HSTRIC SITE</h3><a href=\"tel:4026483388\" target=\"_blank\">Phone</a><br>PO BOX 344 BANCROFT NE 68004-0344", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7026193169997, 
+                    40.8120647570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUTCH BERMAN CHARITABLE MUSIC FOUNDATION</h3>233 S 13TH ST STE 1900 LINCOLN NE 68508-2000", 
+                "marker-color": "#BF0000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0652674909997, 
+                    41.2687620540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREAT PLAINS BLACK MUSEUM AND INTERPRETIVE CENTER INC</h3><b><a href=\"http://www.iloveblackhistory.com\" target=\"_blank\">Website</a></b><br>1015 N 98TH STREET OMAHA NE 68114", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.1486217569997, 
+                    40.1074265550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>PAWNEE CITY HISTORICAL SOCIETY & MUSEUM INC</h3>1041 5TH ST PAWNEE CITY NE 68420", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8503663119997, 
+                    40.3812725850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEMAHA VALLEY MUSEUM INC</h3><b><a href=\"http://nemahavalleymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4022742605\" target=\"_blank\">Phone</a><br>PO BOX 25 AUBURN NE 68305-6830", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.0747970679997, 
+                    40.6992333630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BUFFALO COUNTY HISTORICAL SOCIETY</h3>PO BOX 523 KEARNEY NE 68848-0523", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7066221809997, 
+                    40.8092028860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INTERNATIONAL ARABIAN HORSE FOUNDATION</h3>1024 K ST LINCOLN NE 68508", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2213177099997, 
+                    41.9491610590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HISTORICAL SOCIETY OF STANTON COUNTY NEBRASKA</h3>PO BOX 44 STANTON NE 68779-0044", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4405158989996, 
+                    40.9627926990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>GREENWOOD HISTORICAL SOCIETY/DEPOT MUSEUM</h3><a href=\"tel:4027893175\" target=\"_blank\">Phone</a><br>PO BOX 1 GREENWOOD NE 68366-0001", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.4305288259997, 
+                    42.4157823050004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DAKOTA COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.dakotacountyhistoricalsociety.c\" target=\"_blank\">Website</a></b><br>PO BOX 971 DAKOTA CITY NE 68731", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9325200519997, 
+                    41.2146286160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WARRIOR SOCIETY OF OMAHA NEBRASKA</h3>1204 J ST OMAHA NE 68107-2346", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.884728768, 
+                    42.1067643600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>SALLOWS MILITARY MUSEUM FOUNDATION INC</h3>1335 SHERIDAN AVE ALLIANCE NE 69301", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9717796759997, 
+                    41.3692852630004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>FLORENCE FUTURES</h3>12107 NORTH 40TH STREET OMAHA NE 68112-1051", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9095274569997, 
+                    42.4665903690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CREIGHTON HISTORICAL CENTER INC</h3><b><a href=\"http://www.creighton.org/historical.cfm\" target=\"_blank\">Website</a></b><br><a href=\"tel:4023583377\" target=\"_blank\">Phone</a><br>PO BOX 538 CREIGHTON NE 68729-4002", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9505811139996, 
+                    41.2782929980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA BLACK SPORTS HALL OF FAME INC</h3>2611 PATRICK AVE OMAHA NE 68111-4319", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.9843096929997, 
+                    40.8595858670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>100TH MERIDIAN MUSEUM</h3><a href=\"tel:3087841100\" target=\"_blank\">Phone</a><br>206 E 8TH ST COZAD NE 69130", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8700898239996, 
+                    40.6731485440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>MAYHEW CABIN AND HISTORICAL VILLAGE FOUNDATION</h3><b><a href=\"http://mayhewcabin.org\" target=\"_blank\">Website</a></b><br>2012 4TH CORSO NEBRASKA CITY NE 68410", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.68294215, 
+                    41.8565810450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>RIVERSIDE ZOOLOGICAL SOCIETY</h3><b><a href=\"http://www.riversidezoo.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:3086306236\" target=\"_blank\">Phone</a><br>1600 S BELTLINE HWY W SCOTTSBLUFF NE 69361-1331", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.9565908099997, 
+                    41.3106082760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DOUGLAS COUNTY HISTORICAL SOCIETY FOUNDATION</h3><b><a href=\"http://www.omahahistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4024559990\" target=\"_blank\">Phone</a><br>5730 N 30TH ST OMAHA NE 68111-1658", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.1220299929997, 
+                    41.7212133870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CLARKSON COMMUNITY OPERA HOUSE INC</h3>PO BOX 51 CLARKSON NE 68629-0051", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3861267509997, 
+                    40.5861241830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>CHILDRENS MUSEUM OF CENTRAL NEBRASKA INC</h3>PO BOX 1502 HASTINGS NE 68902-1502", 
+                "marker-color": "#CABA00", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.3437078219997, 
+                    41.4279602840004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NEBRASKA SCHOOL FOR THE DEAF ALUMNI ASSOCIATION</h3>PO BOX 272 COLUMBUS NE 68601-6019", 
+                "marker-color": "#0058D8", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.429337323, 
+                    40.2344331240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>INDIANOLA HISTORICAL SOCIETY</h3>PO BOX 338 INDIANOLA NE 69034", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8650098899997, 
+                    42.2689100040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>WAKEFIELD HERITAGE ORGANIZATION</h3><a href=\"tel:4022872012\" target=\"_blank\">Phone</a><br>PO BOX 388 WAKEFIELD NE 68784-0388", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.280907947, 
+                    41.2417400940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>POTTER HISTORICAL FOUNDATION</h3>PO BOX 43 POTTER NE 69156", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6729169719997, 
+                    40.8214603080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NATIONAL HISTORY DAY LINCOLN DISTRICT</h3>827 N 33RD ST LINCOLN NE 68503-2612", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.2998058869996, 
+                    40.3223215270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>BONHAM THEATRE PROJECT</h3>PO BOX 22 DAYKIN NE 68338-0022", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9296869229997, 
+                    41.6030813810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>HAPPY JACK CHALK MINE ASSOCIATION</h3>PO BOX 142 ORD NE 68862-0142", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.8476971489997, 
+                    40.7413518800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>DENTON COMMUNITY HISTORICAL SOCIETY</h3><a href=\"tel:4027975700\" target=\"_blank\">Phone</a><br>PO BOX 405 DENTON NE 68339", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6408329319997, 
+                    40.8362364690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>NORTHEAST FAMILY CENTER</h3><a href=\"tel:4024713700\" target=\"_blank\">Phone</a><br>5903 WALKER AVE LINCOLN NE 68507-2374", 
+                "marker-color": "#007321", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7109099279997, 
+                    40.8169830080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h3>REVEREND JOSEPH F COSTANZO S J MEMORIAL FOUNDATION</h3>PO BOX 80328 LINCOLN NE 68501-0328", 
+                "marker-color": "#0093BF", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
