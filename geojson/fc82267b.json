@@ -1,0 +1,4541 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7525766319997, 
+                    39.6831321310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UNIVERSITY GALLERY</h4>114 OLD COLLEGE, UNIVERSITY OF DELAWARE NEWARK DE 19716-2509", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7582896159997, 
+                    39.6307875910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELAWARE ACADEMY OF SCIENCE INC</h4><b>Website:</b> <a href=\"http://www.ironhill-museum.org\" target=\"_blank\">http://www.ironhill-museum.org</a><br><b>Phone:</b> <a href=\"tel:3023685703\" target=\"_blank\">3023685703</a><br>1355 OLD BALTIMORE PIKE NEWARK DE 19702-1110", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6248149499996, 
+                    39.7541225270004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PROJECT SEVEN INSTITUTE</h4>2711 CNTERVLLE RD PMB 6804 STE 400 WILMINGTON DE 19808-1645", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4021104199996, 
+                    39.0595634420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BOWERS BEACH MARITIME MUSEUM INC</h4><b>Phone:</b> <a href=\"tel:3023351400\" target=\"_blank\">3023351400</a><br>3357 MAIN STREET FREDERICA DE 19946-1274", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.2029247109996, 
+                    38.7537477090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SOUTHERN DELAWARE BOTANIC GARDENS</h4>31401 MELLOY COURT LEWES DE 19958-3863", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5503937589996, 
+                    39.7473323080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AMERICAN ASSOCIATES OF THE NATIONAL ARMY MUSEUM UK INC</h4>1000 N WEST STREET SUITE 1200 WILMINGTON DE 19801-1058", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.4219579729997, 
+                    38.9209509960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MILFORD AQUARIUM INC</h4>PO BOX 1198 MILFORD DE 19963", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5659829579997, 
+                    39.7648568310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELAWARE ART MUSEUM</h4><b>Website:</b> <a href=\"http://www.delart.org\" target=\"_blank\">http://www.delart.org</a><br><b>Phone:</b> <a href=\"tel:3025719590\" target=\"_blank\">3025719590</a><br>2301 KENTMERE PKWY WILMINGTON DE 19806-2019", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6115298319996, 
+                    39.8044167690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HENRY FRANCIS DU PONT WINTERTHUR MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.winterthur.org\" target=\"_blank\">http://www.winterthur.org</a><br><b>Phone:</b> <a href=\"tel:3028884826\" target=\"_blank\">3028884826</a><br>5105 KENNETT PIKE WINTERTHUR DE 19735-1819", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5562565859997, 
+                    39.7312788200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORICAL SOCIETY OF DELAWARE</h4><b>Website:</b> <a href=\"http://www.hsd.org\" target=\"_blank\">http://www.hsd.org</a><br><b>Phone:</b> <a href=\"tel:3023228411\" target=\"_blank\">3023228411</a><br>505 MARKET STREET WILMINGTON DE 19801", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5971992399997, 
+                    39.7777011730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ELEUTHERIAN MILLS-HAGLEY FOUNDATION INC</h4>PO BOX 3630 WILMINGTON DE 19807-0630", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5251658359996, 
+                    39.1579772170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DOVER ART LEAGUE</h4><b>Website:</b> <a href=\"http://www.doverartleague.com\" target=\"_blank\">http://www.doverartleague.com</a><br>21 W LOOCKERMAN ST DOVER DE 19904-7350", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5322202039997, 
+                    39.1830064220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELAWARE AGRICULTURAL MUSEUM ASSOCIATION</h4><b>Website:</b> <a href=\"http://www.agriculturalmuseum.org\" target=\"_blank\">http://www.agriculturalmuseum.org</a><br><b>Phone:</b> <a href=\"tel:3027341618\" target=\"_blank\">3027341618</a><br>866 N DUPONT HWY DOVER DE 19901-2003", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5479531279997, 
+                    39.7530690720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELAWARE ZOOLOGICAL SOCIETY INC</h4><b>Website:</b> <a href=\"http://www.brandywinezoo.org\" target=\"_blank\">http://www.brandywinezoo.org</a><br><b>Phone:</b> <a href=\"tel:3025717747\" target=\"_blank\">3025717747</a><br>1001 N PARK DR WILMINGTON DE 19802-3801", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5585247309996, 
+                    39.7413913090004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELAWARE CENTER FOR THE CONTEMPORARY ARTS</h4><b>Phone:</b> <a href=\"tel:3026566466\" target=\"_blank\">3026566466</a><br>200 S MADISON ST WILMINGTON DE 19801", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5857851019996, 
+                    38.4999180800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELMAR HISTORICAL & ARTS SOCIETY INC</h4>34662 ST GEORGE ROAD DELMAR DE 19940", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5608366979997, 
+                    39.7589951880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELAWARE CENTER FOR HORTICULTURE INC</h4><b>Website:</b> <a href=\"http://delawarecenterforhorticulture.wordp\" target=\"_blank\">http://delawarecenterforhorticulture.wordp</a><br><b>Phone:</b> <a href=\"tel:3026586262\" target=\"_blank\">3026586262</a><br>1810 N DUPONT ST WILMINGTON DE 19806-3308", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.3801792559997, 
+                    38.6918843300004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SUSSEX COUNTY RETURN DAY INC</h4><b>Website:</b> <a href=\"http://returnday.org\" target=\"_blank\">http://returnday.org</a><br><b>Phone:</b> <a href=\"tel:3028550722\" target=\"_blank\">3028550722</a><br>PO BOX 55 GEORGETOWN DE 19947-0055", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5609042099996, 
+                    39.7349421980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE DELAWARE CHILDRENS MUSEUM INC</h4>550 JUSTISON ST WILMINGTON DE 19801-5142", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5399981959997, 
+                    39.1886167070004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELAWARE STATE UNIVERSITY</h4><b>Website:</b> <a href=\"http://www.desu.edu\" target=\"_blank\">http://www.desu.edu</a><br>1200 NORTH DUPONT HIGHWAY DOVER DE 19901-2777", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5971992399997, 
+                    39.7777011730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ROBERT DOWNS MEM CONSERVANCY</h4>PO BOX 3727 WILMINGTON DE 19807-0727", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5801668189997, 
+                    39.2734241940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELAWARE AEROSPACE EDUCATION FOUNDATION</h4>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5501182549996, 
+                    39.7403321330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BERMUDA FINE ARTS FOUNDATION</h4>C/O PEPPER HAMILTON LLC1313 NMARKET WILMINGTON DE 19801", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5518388769996, 
+                    39.7481314180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE CLAYMONT STONE SCHOOL INC</h4>PO BOX 136 CLAYMONT DE 19899", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7359569869997, 
+                    39.6845442580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF WHITE CLAY CREEK STATE PARK</h4>PO BOX 9734 NEWARK DE 19714-9734", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.3597809409997, 
+                    38.6668082660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SUSSEX ACDEMY OF ARTS SCIENCES</h4><b>Website:</b> <a href=\"http://www.sussexacademy.org\" target=\"_blank\">http://www.sussexacademy.org</a><br><b>Phone:</b> <a href=\"tel:3028563636\" target=\"_blank\">3028563636</a><br>21777 SUSSEX PINES RD GEORGETOWN DE 19947-3901", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5675392719996, 
+                    39.6587775580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NEW CASTLE SENIOR CENTER INC</h4><b>Website:</b> <a href=\"http://newcastleseniorcenter.com\" target=\"_blank\">http://newcastleseniorcenter.com</a><br><b>Phone:</b> <a href=\"tel:3023264209\" target=\"_blank\">3023264209</a><br>400 SOUTH ST NEW CASTLE DE 19720-5057", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6613575889996, 
+                    39.8022634880004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF AUBURN HEIGHTS PRESERVE INC</h4>PO BOX 61 YORKLYN DE 19736-0061", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5936769349997, 
+                    39.5750524690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FORT DELAWARE STATE PARK</h4><b>Website:</b> <a href=\"http://www.destateparks.org\" target=\"_blank\">http://www.destateparks.org</a><br><b>Phone:</b> <a href=\"tel:3028347941\" target=\"_blank\">3028347941</a><br>P.O. BOX 170 DELAWARE CITY DE 19706", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7255679329996, 
+                    39.6739936680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UNIVERSITY OF DELAWARE</h4><b>Website:</b> <a href=\"http://www.udel.edu/museums\" target=\"_blank\">http://www.udel.edu/museums</a><br><b>Phone:</b> <a href=\"tel:3028318037\" target=\"_blank\">3028318037</a><br>102 ELLIOT ST NEWARK DE 19713-1607", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6274274429996, 
+                    39.7313834160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORIC RED CLAY VALLEY INC</h4><b>Website:</b> <a href=\"http://www.wwrr.com\" target=\"_blank\">http://www.wwrr.com</a><br><b>Phone:</b> <a href=\"tel:3029981930\" target=\"_blank\">3029981930</a><br>PO BOX 5787 WILMINGTON DE 19808-0787", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0388334429996, 
+                    38.8987776780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SMITHSONIAN INSTITUTION, RENWICH GALLERY</h4><b>Phone:</b> <a href=\"tel:2023571445\" target=\"_blank\">2023571445</a><br>1661 PENNSYLVANIA AVE NW WASHINGTON DC 20006", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0186388689996, 
+                    38.8922826500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SMITHSONIAN INSTITUTION, NATIONAL GALLERY OF ART</h4><b>Website:</b> <a href=\"http://www.nga.gov/\" target=\"_blank\">http://www.nga.gov/</a><br><b>Phone:</b> <a href=\"tel:2027374215\" target=\"_blank\">2027374215</a><br>ON THE NATIONAL MALL BE WASHINGTON DC 20565", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0588475499997, 
+                    38.9342336780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SMITHSONIAN INSTITUTION, NATIONAL ZOOLOGICAL PARK</h4><b>Website:</b> <a href=\"http://nationalzoo.si.edu/\" target=\"_blank\">http://nationalzoo.si.edu/</a><br>3001 CONNECTITCUT AVE NW WASHINGTON DC 20008", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0351368549997, 
+                    38.8989305090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL PORTRAIT GALLERY</h4><b>Website:</b> <a href=\"http://www.npg.si.edu\" target=\"_blank\">http://www.npg.si.edu</a><br><b>Phone:</b> <a href=\"tel:2026338300\" target=\"_blank\">2026338300</a><br>8TH & F ST NW WASHINGTON DC 20439", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0211064079996, 
+                    38.9228927890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HOWARD UNIVERSITY ART GALLERY</h4><b>Website:</b> <a href=\"http://www.coas.howard.edu/music/humarchingband/index.htm\" target=\"_blank\">http://www.coas.howard.edu/music/humarchingband/index.htm</a><br><b>Phone:</b> <a href=\"tel:2028067070\" target=\"_blank\">2028067070</a><br>2455 6TH ST NW WASHINGTON DC 20059", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0715566909997, 
+                    38.9084113100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GEORGETOWN UNIVERSITY ART COLLECT</h4><b>Phone:</b> <a href=\"tel:2026871469\" target=\"_blank\">2026871469</a><br>3700 0 ST WASHINGTON DC 20057", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0474679799997, 
+                    38.9061519070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DIMOCK GALLERY</h4><b>Phone:</b> <a href=\"tel:2029941525\" target=\"_blank\">2029941525</a><br>LOWER LISNER AUDIT., 730 21ST ST. NW WASHINGTON DC 20052", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0394482639996, 
+                    38.8964036370004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CORCORAN GALLERY OF ART</h4>17TH STREET & NEW YORK AVENUE, N.W. WASHINGTON DC 20006", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9606895309997, 
+                    38.9185829680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SMITHSONIAN INSTITUTION, ARTHUR M SACKLER GALLERY</h4><b>Website:</b> <a href=\"http://www.asia.si.edu/\" target=\"_blank\">http://www.asia.si.edu/</a><br>1050 INDEPENDENCE AVE WASHINGTON DC 20560", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0062711749997, 
+                    38.9118225620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BOHEMIA ARTS</h4><b>Phone:</b> <a href=\"tel:2022694259\" target=\"_blank\">2022694259</a><br>111 QUINCY PL NE WASHINGTON DC 20002", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0239757289996, 
+                    38.8992405800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SMITHSONIAN INSTITUTION, ARCHIVES OF AMERICAN ART</h4><b>Website:</b> <a href=\"http://www.aaa.si.edu/\" target=\"_blank\">http://www.aaa.si.edu/</a><br>750 9TH STREET NW WASHINGTON DC 20001", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0509411819996, 
+                    38.9170375170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CARL SCHMITT FOUNDATION INC</h4>2301 WYOMING AVE NW WASHINGTON DC 20008-1642", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0304460499996, 
+                    38.8982543060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ARMENIAN GENOCIDE MUSEUM AND MEMORIAL INC</h4><b>Phone:</b> <a href=\"tel:2023472115\" target=\"_blank\">2023472115</a><br>1334 G ST NW STE 200 WASHINGTON DC 20005-3118", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0443193869996, 
+                    38.9005324990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MT ZION - FEMALE UNION BAND HISTORIC MEMORIAL PARK INC</h4>1919 PENNSYLVANIA AVE NW WASHINGTON DC 20006", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0465496479997, 
+                    38.9013613840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GLENSTONE FOUNDATION</h4>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0081697829996, 
+                    38.8989184200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY&MEDICARE FNDN</h4><b>Website:</b> <a href=\"http://www.ncpssm.org\" target=\"_blank\">http://www.ncpssm.org</a><br><b>Phone:</b> <a href=\"tel:2022160420\" target=\"_blank\">2022160420</a><br>10 G ST NE STE 600 WASHINGTON DC 20002-4253", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0295756169996, 
+                    38.9084410720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CONSTANCE WHITAKER MAFFIN MEMORIAL FUND</h4>1325 13TH ST NW APT 702 WASHINGTON DC 20005-0976", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0354100179997, 
+                    38.9068136940004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL MUSEUM OF CATHOLIC ART AND LIBRARY</h4>1500 MASSACHUSETTS AVE NW STE 122 WASHINGTON DC 20005", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0694015109996, 
+                    38.9136228390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ELLINGTON GALLERY</h4><b>Phone:</b> <a href=\"tel:2022820123\" target=\"_blank\">2022820123</a><br>3500 R. ST. NW WASHINGTON DC 20007", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9795414199996, 
+                    38.8866135890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GREENSEED COMMUNITY GARDEN LAND TRUST</h4>1727 BAY ST SE WASHINGTON DC 20003-1647", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0434047839997, 
+                    38.9066502450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THEARBORETUM COMMUNITY CENTER</h4>1225 19TH STREET NW STE 600 WASHINGTON DC 20036", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0532318289996, 
+                    38.9234676770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DIPLOMACY CENTER FOUNDATION</h4>2401 CALVERT ST NW APT 902 WASHINGTON DC 20008-2678", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0421007489996, 
+                    38.9126575710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>JEWISH WAR VETERANS USA NATIONAL MEMORIAL INC</h4><b>Website:</b> <a href=\"http://www.Nmajmh.org\" target=\"_blank\">http://www.Nmajmh.org</a><br><b>Phone:</b> <a href=\"tel:2022656280\" target=\"_blank\">2022656280</a><br>1811 R ST NW WASHINGTON DC 20009-1603", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0432147119997, 
+                    38.8973721660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE ART MUSEUM OF THE AMERICAS</h4><b>Website:</b> <a href=\"http://www.museum.oas.org/friends.ht\" target=\"_blank\">http://www.museum.oas.org/friends.ht</a><br>1889 F STREET NW WASHINGTON DC 20006", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0288172939997, 
+                    38.9004174510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL MUSEUM OF WOMEN IN THE ARTS INC</h4><b>Website:</b> <a href=\"http://www.nmwa.org\" target=\"_blank\">http://www.nmwa.org</a><br>1250 NEW YORK AVE NW WASHINGTON DC 20005-3970", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0336743729997, 
+                    38.8876619390005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UNITED STATES HOLOCAUST MEMORIAL COUNCIL</h4><b>Website:</b> <a href=\"http://www.ushmm.org\" target=\"_blank\">http://www.ushmm.org</a><br><b>Phone:</b> <a href=\"tel:2024880400\" target=\"_blank\">2024880400</a><br>100 RAOUL WALLENBERG PL SW WASHINGTON DC 20024-2126", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0588475499997, 
+                    38.9342336780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CLEVELAND PARK HISTORICAL SOCIETY</h4><b>Website:</b> <a href=\"http://clevelandparkhistoricalsociety.org\" target=\"_blank\">http://clevelandparkhistoricalsociety.org</a><br><b>Phone:</b> <a href=\"tel:2022372538\" target=\"_blank\">2022372538</a><br>PO BOX 4862 WASHINGTON DC 20008", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0588696189997, 
+                    38.9076427810004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CENTRAL AND EASTERN EUROPEAN ART FOUNDATION</h4>2920 DUMBARTON ST NW WASHINGTON DC 20007-3337", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0345252649997, 
+                    38.9050998540005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL HEALTH MUSEUM</h4>1155 15TH ST NW STE 810 WASHINGTON DC 20005-2733", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0755401839996, 
+                    38.9620983790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ST PETERSBURG CONSERVANCY</h4>3813 LEGATION ST NW WASHINGTON DC 20015-2701", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0760080249997, 
+                    38.9655935720004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>INTERNATIONAL FRIENDS OF THE NATURAL HISTORY MUSEUM LONDON I</h4>5614 CONNECTICUT AVENUE 202 WASHINGTON DC 20015", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0364250579997, 
+                    38.9255107830004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MEXICAN CULTURAL INSTITUTE</h4><b>Website:</b> <a href=\"http://www.instituteofmexicodc.org\" target=\"_blank\">http://www.instituteofmexicodc.org</a><br><b>Phone:</b> <a href=\"tel:2027281628\" target=\"_blank\">2027281628</a><br>2829 16TH ST NW WASHINGTON DC 20009-4204", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0255924479997, 
+                    38.9163742480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AFRICAN AMERICAN CIVIL WAR MEMORIAL FRE</h4><b>Website:</b> <a href=\"http://www.afroamcivilwar.org\" target=\"_blank\">http://www.afroamcivilwar.org</a><br>1925 VERMONT AVENUE, NW WASHINGTON DC 20001-4198", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0100411509997, 
+                    38.8792726190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WASHINGTON PROJECT FOR THE ARTS INC</h4><b>Website:</b> <a href=\"http://www.corcoran.org/home\" target=\"_blank\">http://www.corcoran.org/home</a><br><b>Phone:</b> <a href=\"tel:2026391700\" target=\"_blank\">2026391700</a><br>10 I ST SW STE 434 WASHINGTON DC 20024-4266", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0661703199996, 
+                    38.9126859970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ADDISON/RIPLEY GALLERY LTD</h4><b>Website:</b> <a href=\"http://www.addisonripleyfineart.com\" target=\"_blank\">http://www.addisonripleyfineart.com</a><br><b>Phone:</b> <a href=\"tel:2023385180\" target=\"_blank\">2023385180</a><br>1670 WISCONSIN AVE NW WASHINGTON DC 20007-2760", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0243606619997, 
+                    38.9021269850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FEDERAL CIRCUIT HISTORICAL SOCIETY</h4>901 NEW YORK AVE STE 9181 WASHINGTON DC 20001-4432", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0275135599996, 
+                    38.8949778900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SECURITIES AND EXCHANGE COMMISSION HISTORICAL SOCIETY</h4><b>Phone:</b> <a href=\"tel:2027565015\" target=\"_blank\">2027565015</a><br>1101 PENNSYLVANIA AVENUE NW WASHINGTON DC 20004-2514", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9882681489997, 
+                    38.8603173280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FREDERICK DOUGLAS GARDENS</h4>1395 MORRIS RD SE WASHINGTON DC 20020-5235", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0336641989996, 
+                    38.9027807800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SEGD</h4><b>Phone:</b> <a href=\"tel:2026385555\" target=\"_blank\">2026385555</a><br>1000 VERMONT AVE NW STE 400 WASHINGTON DC 20005-4921", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0388139179997, 
+                    38.9013018550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PETRA NATIONAL FOUNDATION USA</h4>1634 EYE STREET NW SUITE 205 WASHINGTON DC 20006-4020", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0866497019996, 
+                    38.9383938650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AMERICAN UNIVERSITY</h4>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9950038849997, 
+                    38.8751847980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NAVAL HISTORICAL FOUNDATION</h4><b>Website:</b> <a href=\"http://www.navyhistory.org\" target=\"_blank\">http://www.navyhistory.org</a><br><b>Phone:</b> <a href=\"tel:2026784333\" target=\"_blank\">2026784333</a><br>1306 DAHLGREN AVE SE BLDG 57 WASHINGTON NAVY YARD DC 20374-5109", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0394829299997, 
+                    38.8963172820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TRUSTEES OF THE CORCORAN GALLERY OF ART</h4><b>Website:</b> <a href=\"http://www.corcoran.org/home\" target=\"_blank\">http://www.corcoran.org/home</a><br><b>Phone:</b> <a href=\"tel:2026291771\" target=\"_blank\">2026291771</a><br>510 17TH ST NW WASHINGTON DC 20006", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9801970699996, 
+                    38.9049807730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL ACADEMY OF SCIENCES</h4><b>Website:</b> <a href=\"http://www.nationalacademies.org/nas/arts\" target=\"_blank\">http://www.nationalacademies.org/nas/arts</a><br><b>Phone:</b> <a href=\"tel:2023343104\" target=\"_blank\">2023343104</a><br>2101 CONSTITUTION AVE N WASHINGTON DC 20418-0007", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0466614029996, 
+                    38.9117406130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PHILLIPS COLLECTION</h4><b>Website:</b> <a href=\"http://www.phillipscollection.org\" target=\"_blank\">http://www.phillipscollection.org</a><br><b>Phone:</b> <a href=\"tel:2023872151\" target=\"_blank\">2023872151</a><br>1600 21ST ST NW WASHINGTON DC 20009-1003", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0157725089996, 
+                    38.9157488800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ROBERT AND MARY CHURCH TERRELL HOUSE AND LEDROIT PARK MUSEUM</h4><b>Website:</b> <a href=\"http://www.marychurchterrellhouse.org\" target=\"_blank\">http://www.marychurchterrellhouse.org</a><br>1862 3RD ST NW WASHINGTON DC 20001-2000", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0400410599997, 
+                    38.8990072510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VERNISSAGE FOUNDATION</h4>1701 PENNSYLVANIA AVE NW STE 300 WASHINGTON DC 20006-5813", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0446105119997, 
+                    38.9084375190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HEURICH HOUSE FOUNDATION</h4><b>Website:</b> <a href=\"http://heurichhouse.org\" target=\"_blank\">http://heurichhouse.org</a><br><b>Phone:</b> <a href=\"tel:2024291894\" target=\"_blank\">2024291894</a><br>1307 NEW HAMPSHIRE AVENUE NW WASHINGTON DC 20036-1531", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0219482279996, 
+                    38.8997537320005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GREENPEACE FUND</h4>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6176450789997, 
+                    39.3311923770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORY SCIENCE AND TECHNOLOGY</h4><b>Phone:</b> <a href=\"tel:4105167501\" target=\"_blank\">4105167501</a><br>3505 N CHARLES ST BALTIMORE MD 21218", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0327641629996, 
+                    39.0598145280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BROOKSIDE GARDENS</h4><b>Phone:</b> <a href=\"tel:3019498233\" target=\"_blank\">3019498233</a><br>1500 GLENALLAN AVENUE WHEATON MD 20902", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9421971869996, 
+                    38.9874817210004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ART GALLERY</h4><b>Phone:</b> <a href=\"tel:3014052763\" target=\"_blank\">3014052763</a><br>1202 ART-SOCIOLOGY BLDG COLLEGE PARK MD 20742", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3166699419996, 
+                    39.1863720120004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>KING BARN DAIRY MOOSEUM INC</h4><b>Phone:</b> <a href=\"tel:3015286530\" target=\"_blank\">3015286530</a><br>PO BOX 76 BOYDS MD 20841-0076", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6652276309997, 
+                    39.4994904790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>STEPHEN J PONZILLO JR MEMORIAL LIBRARY & MUSEUM OF THE GRAND</h4>304 INTRNTL CIR COCKEYSVILLE MD 21030-1300", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9645894329997, 
+                    39.3057240180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MARYLAND NATIONAL ROAD ASSOCIATION INC</h4>12985 FREDERICK ROAD WEST FRIENDSHIP MD 21794", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3038535319997, 
+                    39.4963594750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>JAMES E LEWIS MUSEUM ART FOUNDATION</h4>2410 PARLIAMENT DRIVE ABINGDON MD 21009", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6898257669997, 
+                    38.1831537160004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AFRICAN-AMERICAN CULTURAL AND HISTORICAL MUSEUM INC</h4>13775 SOMERSET AVENUE PRINCESS ANNE MD 21853", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6121244479996, 
+                    39.2875804780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BALLOON OVER BALTIMORE INC</h4>111 S CALVERT ST STE 2300 BALTIMORE MD 21202-6182", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7550098349997, 
+                    38.4622942460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELAWARE AVIATION MUSEUM FOUNDATION</h4>PO BOX 303 MARDELA SPGS MD 21837-0303", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6040350279997, 
+                    39.4850957400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MARYLAND WOMENS HERITAGE CENTER AND MUSEUM INC</h4>10881 SANDRINGHAM RD COCKEYSVILLE MD 21046", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4322890809997, 
+                    39.5907983710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GLOBAL WILDLIFE TRUST INC</h4>13019 CATOCTIN FURNACE ROAD THURMONT MD 21788-2134", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6084398479996, 
+                    39.2866834500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL AQUARIUM INSTITUTE INC</h4>PIER 3 - 501 EAST PRATT STREET BALTIMORE MD 21202-3103", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.6539998909997, 
+                    39.5369480060004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MARYLAND DAIRY SHRINE INC</h4>20608 MILL POINT RD BOONSBORO MD 21713-2146", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6564273859997, 
+                    39.3629866670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HERMAN MARIL FOUNDATION INC</h4>5602 ROXBURY PL BALTIMORE MD 21209-4502", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4552465569997, 
+                    38.3415726170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ANNS CIRCLE</h4>PO BOX 99 DOWELL MD 20629-0099", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3276367359996, 
+                    39.7025325800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL FIRE HERITAGE CENTER INC</h4>PO BOX 76 EMMITSBURG MD 21727-0076", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4931176549997, 
+                    39.3895133600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>STEAMSHIP TRADE ASSOCIATION OFBALTIMORE CHARITABLE LEGACY IN</h4>8615 RIDGLIES CHOICE DR STE 202 BALTIMORE MD 21236", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3845793349997, 
+                    39.4322864700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ANDREW DORIA-THE FIRST SALUTE INC</h4>11314 REYNOLDS RD BRADSHAW MD 21087-1937", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4323759669996, 
+                    38.1871317070004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BOYDEN GALLERY AT ST. MARY'S COLLEGE OF MARYLAND</h4><b>Website:</b> <a href=\"http://www.smcm.edu/art/gallery.html\" target=\"_blank\">http://www.smcm.edu/art/gallery.html</a><br><b>Phone:</b> <a href=\"tel:2408953220\" target=\"_blank\">2408953220</a><br>18952 E. FISHER RD. ST. MARY'S CITY MD 20686", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.8138181249997, 
+                    39.2781906650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORIC ELLICOTT CITY INC</h4><b>Website:</b> <a href=\"http://www.borail.org/Ellicott-City-Statio\" target=\"_blank\">http://www.borail.org/Ellicott-City-Statio</a><br>PO BOX 244 ELLICOTT CITY MD 21041-0244", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0054285169996, 
+                    38.7871920230004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL CHILDRENS MUSEUM</h4><b>Website:</b> <a href=\"http://www.ccm.org\" target=\"_blank\">http://www.ccm.org</a><br><b>Phone:</b> <a href=\"tel:2026754120\" target=\"_blank\">2026754120</a><br>151 SAINT GEORGE BLVD OXON HILL MD 20745-1577", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.1429624869996, 
+                    39.5991006820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>STEPPING STONE MUSEUM ASSOCIATION INC</h4><b>Website:</b> <a href=\"http://www.steppingstonemuseum.org\" target=\"_blank\">http://www.steppingstonemuseum.org</a><br>461 QUAKER BOTTOM RD HVRE DE GRACE MD 21078-1329", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7922981129997, 
+                    38.5723577540004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DR SAMUEL A MUDD SOCIETY INC</h4>14940 HOFFMAN RD WALDORF MD 20601-4359", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6359075349997, 
+                    38.2917527850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DISCOVER U CHILDRENS MUSEUM INC</h4>PO BOX 1938 LEONARDTOWN MD 20650-1938", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1364591049996, 
+                    39.0739090100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SAMUEL AND HELEN S BOOKATZ FOUNDATION</h4>50 W EDMONSTON DR STE 603 ROCKVILLE MD 20852-1217", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6809233439997, 
+                    39.3655355160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BLACK IS A COLOR</h4>6124 STUART AVE BALTIMORE MD 21209-4022", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1536583749997, 
+                    39.0913728140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ROCKVILLE SCIENCE CENTER INC</h4>PO BOX 1084 ROCKVILLE MD 20849-1084", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6968003539997, 
+                    39.3076131510005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF CARRIE MURRAY NATURE CENTER INC</h4><b>Phone:</b> <a href=\"tel:4103960808\" target=\"_blank\">4103960808</a><br>1901 RIDGETOP RD BALTIMORE MD 21207-2120", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.0877639299997, 
+                    38.5847668120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CHILDRENS MUSEUM OF OF THE EASTERN SHORE INC</h4>8 CHELSEA DRIVE CAMBRIDGE MD 21613-1214", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9821783929996, 
+                    38.5268219210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SOUTHERN MARYLAND CAROUSEL GROUP INC</h4>PO BOX 2335 LA PLATA MD 20646-2335", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3276367359996, 
+                    39.7025325800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FREDERICK COUNTY FIRE AND RESCUE MUSEUM AND PRESERVATION SOC</h4>BOX 382 EMMITSBURG MD 21727-0382", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.1245599809997, 
+                    39.6140945220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PORT DEPOSIT ARTS COUNCIL INC</h4><b>Phone:</b> <a href=\"tel:4103783914\" target=\"_blank\">4103783914</a><br>9 GRANITE AVE PORT DEPOSIT MD 21904-1207", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7120063489996, 
+                    39.6482410500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DOLEMAN BLACK HERITAGE MUSEUM</h4>540 N LOCUST ST HAGERSTOWN MD 21740-3912", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1015048839997, 
+                    38.9891645670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MOCO KIDSCO</h4>7979 OLD GEORGETOWN ROAD 10TH FLOOR BETHESDA MD 20814-2429", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0984034429997, 
+                    38.9813426140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LINCOLN CATHEDRAL FOUNDATION</h4>7141 ARLINGTON ROAD SUITE 420 BETHESDA MD 20814-2908", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5030783259996, 
+                    39.4705275020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BALTIMORE AND CHESAPEAKE STEAMBOAT COMPANY INC</h4>5010 LONG GREEN ROAD GLEN ARM MD 21057-9720", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6034309799996, 
+                    39.2872567040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>STAR SPANGLED BANNER FLAG HOUSE ASSOCIATION INCORPORATED</h4><b>Website:</b> <a href=\"http://www.flaghouse.org\" target=\"_blank\">http://www.flaghouse.org</a><br><b>Phone:</b> <a href=\"tel:4108371793\" target=\"_blank\">4108371793</a><br>844 E PRATT ST BALTIMORE MD 21202-4403", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7204773619997, 
+                    39.6439923230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WASHINGTON COUNTY MUSEUM OF FINE ARTS</h4><b>Website:</b> <a href=\"http://www.washcomuseum.org\" target=\"_blank\">http://www.washcomuseum.org</a><br><b>Phone:</b> <a href=\"tel:3017395727\" target=\"_blank\">3017395727</a><br>PO BOX 423 HAGERSTOWN MD 21741-0423", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6127747869996, 
+                    39.2818226340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MARYLAND SCIENCE CENTER</h4><b>Website:</b> <a href=\"http://www.mdsci.org\" target=\"_blank\">http://www.mdsci.org</a><br><b>Phone:</b> <a href=\"tel:4106852370\" target=\"_blank\">4106852370</a><br>601 LIGHT ST BALTIMORE MD 21230-3803", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6318362649997, 
+                    39.3285101720004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BALTIMORE STREETCAR MUSEUM INC</h4>PO BOX 4881 BALTIMORE MD 21211-0881", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6275699279997, 
+                    39.3012142170004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MARYLAND ZOOLOGICAL SOCIETY INC</h4>DRUID HILL PARK BALTIMORE MD 21217", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3406678859997, 
+                    38.8767239220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TUCKAHOE STEAM & GAS ASSOCIATION</h4>131 OLIVE BRANCH RD STEVENSVILLE MD 21666-3667", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.8292399069996, 
+                    38.8854021790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CAROLINE COUNTY COUNCIL OF ARTS INCORPORATED</h4><b>Website:</b> <a href=\"http://www.carolinearts.org\" target=\"_blank\">http://www.carolinearts.org</a><br><b>Phone:</b> <a href=\"tel:4104791009\" target=\"_blank\">4104791009</a><br>PO BOX 292 DENTON MD 21629-0292", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.6278955039996, 
+                    39.3131028900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BRUNSWICK-POTOMAC FOUNDATION INC</h4><b>Website:</b> <a href=\"http://www.brrm.net\" target=\"_blank\">http://www.brrm.net</a><br><b>Phone:</b> <a href=\"tel:3018347100\" target=\"_blank\">3018347100</a><br>40 W POTOMAC ST BRUNSWICK MD 21716-1111", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.8272333839997, 
+                    39.6089212800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CECIL COUNTY ARTS COUNCIL, INC.</h4><b>Website:</b> <a href=\"http://www.cecilcountyartscouncil.org\" target=\"_blank\">http://www.cecilcountyartscouncil.org</a><br><b>Phone:</b> <a href=\"tel:4103925740\" target=\"_blank\">4103925740</a><br>135 EAST MAIN STREET ELKTON MD 21921", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6084398479996, 
+                    39.2866834500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL AQUARIUM IN BALTIMORE INC</h4><b>Website:</b> <a href=\"http://www.aqua.org\" target=\"_blank\">http://www.aqua.org</a><br>501 E PRATT ST BALTIMORE MD 21202-3103", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5952585169996, 
+                    38.3675102660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE SALISBURY ZOO INC</h4><b>Website:</b> <a href=\"http://www.salisburyzoo.org\" target=\"_blank\">http://www.salisburyzoo.org</a><br>PO BOX 2979 SALISBURY MD 21802", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.8829267929996, 
+                    38.9424738250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ADKINS ARBORETUM LTD</h4><b>Website:</b> <a href=\"http://www.adkinsarboretum.org\" target=\"_blank\">http://www.adkinsarboretum.org</a><br><b>Phone:</b> <a href=\"tel:4106342847\" target=\"_blank\">4106342847</a><br>PO BOX 100 RIDGELY MD 21660-0100", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6157887039997, 
+                    39.2964397120004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TRUSTEES OF THE WALTERS ART GALLERY</h4><b>Website:</b> <a href=\"http://www.thewalters.org\" target=\"_blank\">http://www.thewalters.org</a><br><b>Phone:</b> <a href=\"tel:4105479000\" target=\"_blank\">4105479000</a><br>600 NORTH CHARLES ST. BALTIMORE MD 21201-5185", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6023318469997, 
+                    39.2736667890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BALTIMORE MUSEUM OF INDUSTRY</h4><b>Phone:</b> <a href=\"tel:4107274808\" target=\"_blank\">4107274808</a><br>1415 KEY HWY BALTIMORE MD 21230-5115", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0219914839997, 
+                    39.1490215940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SANDY SPRING MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.sandyspringmuseum.org\" target=\"_blank\">http://www.sandyspringmuseum.org</a><br><b>Phone:</b> <a href=\"tel:3017740022\" target=\"_blank\">3017740022</a><br>17901 BENTLEY RD SANDY SPRING MD 20860-1001", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.9418189959997, 
+                    39.5966708690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UPPER BAY MUSEUM LTD</h4><b>Website:</b> <a href=\"http://www.upperbaymuseum.org\" target=\"_blank\">http://www.upperbaymuseum.org</a><br><b>Phone:</b> <a href=\"tel:4102872675\" target=\"_blank\">4102872675</a><br>WALNUT ST NORTH EAST MD 21901-0275", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.0941806549997, 
+                    39.5553564630005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SUSQUEHANNA MUSEUM OF HAVRE DE GRACE INC</h4><b>Website:</b> <a href=\"http://thelockhousemuseum.org\" target=\"_blank\">http://thelockhousemuseum.org</a><br><b>Phone:</b> <a href=\"tel:4109395780\" target=\"_blank\">4109395780</a><br>817 CONESTEO ST HAVRE DE GRACE MD 21078", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6294291319996, 
+                    39.3218536240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PARKS AND PEOPLE FOUNDATION FOR BALTIMORE RECREATION AND PAR</h4>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6994936809996, 
+                    39.0856222120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORIC SAVAGE MILL INC</h4>8373 PINEY ORCHARD PARKWAY ODENTON MD 21113-1541", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9923283259997, 
+                    38.7311414530005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TANTALLON COMMUNITY PLAYERS INC</h4>PO BOX 441188 FT WASHINGTON MD 20749-1188", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5662452569997, 
+                    38.9317443310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>INSTITUTE FOR LEARNING INNOVATION</h4><b>Website:</b> <a href=\"http://www.ilinet.org\" target=\"_blank\">http://www.ilinet.org</a><br><b>Phone:</b> <a href=\"tel:4109565144\" target=\"_blank\">4109565144</a><br>3168 BRAVERTON ST STE 280 EDGEWATER MD 21037-2676", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.0671066429996, 
+                    39.2094362590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CHESTERTOWN ARTS LEAGUE INC</h4><b>Website:</b> <a href=\"http://www.chestertown.com\" target=\"_blank\">http://www.chestertown.com</a><br><b>Phone:</b> <a href=\"tel:4107785789\" target=\"_blank\">4107785789</a><br>315 HIGH ST STE 106 CHESTERTOWN MD 21620-1307", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.1732687429997, 
+                    38.6899030080004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE OXFORD MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.oxfordmuseums.org\" target=\"_blank\">http://www.oxfordmuseums.org</a><br>PO BOX 131 OXFORD MD 21654-0131", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.0874082309996, 
+                    39.5396234520005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HAVRE DE GRACE DECOY MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.decoymuseum.com\" target=\"_blank\">http://www.decoymuseum.com</a><br>215 GILES STREET HVRE DE GRACE MD 21078-3661", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6320794779996, 
+                    39.2858235690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>B & O RAILROAD MUSEUM</h4><b>Website:</b> <a href=\"http://www.borail.org\" target=\"_blank\">http://www.borail.org</a><br><b>Phone:</b> <a href=\"tel:4104611944\" target=\"_blank\">4104611944</a><br>901 W PRATT ST BALTIMORE MD 21223-2644", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.0017153909997, 
+                    39.7049529490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PLUMPTON PARK ZOO</h4><b>Website:</b> <a href=\"http://www.plumptonparkzoo.org\" target=\"_blank\">http://www.plumptonparkzoo.org</a><br><b>Phone:</b> <a href=\"tel:4106586850\" target=\"_blank\">4106586850</a><br>1416 TELEGRAPH RD RISING SUN MD 21911-2025", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6065945379996, 
+                    39.2802118360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE AMERICAN VISIONARY ART MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.avam.org\" target=\"_blank\">http://www.avam.org</a><br>800 KEY HWY BALTIMORE MD 21230-3940", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9168841409996, 
+                    38.8229352350004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AIRMEN MEMORIAL MUSEUM INC</h4>5211 AUTH RD SUITLAND MD 20746-4339", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6142659589997, 
+                    39.3002176990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CONTEMPORARY MUSEUM INCORPORATED</h4><b>Website:</b> <a href=\"http://www.contemporary.org\" target=\"_blank\">http://www.contemporary.org</a><br>914 SAINT PAUL ST BALTIMORE MD 21202-2408", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4278469519996, 
+                    39.3334808580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GLENN L MARTIN MARYLAND AVIATION MUSEUM INC</h4><b>Website:</b> <a href=\"http://marylandaviationmuseum.org\" target=\"_blank\">http://marylandaviationmuseum.org</a><br>PO BOX 5024 BALTIMORE MD 21220-0024", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4076065589996, 
+                    39.4139807730004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL MUSEUM FOR CIVIL WAR MEDICINE INC</h4>PO BOX 470 FREDERICK MD 21705-0470", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5937058549997, 
+                    38.3675600940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DELMARVA ZOOLOGICAL SOCIETY INC</h4>PO BOX 72 SALISBURY MD 21803-0072", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6066930099997, 
+                    39.2881836640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BALTIMORE CHILDRENS MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.portdiscovery.org\" target=\"_blank\">http://www.portdiscovery.org</a><br>35 MARKET PL BALTIMORE MD 21202-4002", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5084555459997, 
+                    38.9692853760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CHESAPEAKE CHILDRENS MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.theccm.org\" target=\"_blank\">http://www.theccm.org</a><br>25 SILOPANNA RD ANNAPOLIS MD 21403-1117", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6790318419996, 
+                    39.3701274730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL MUSEUM OF CERAMIC ART & GLASS INC</h4>2406 SHELLEYDALE DR BALTIMORE MD 21209-3242", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0273186539997, 
+                    38.5837936310004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AFRICAN AMERICAN HERITAGE SOCIETY OF CHARLES COUNTY INC</h4>PO BOX 85 POMFRET MD 20675-0085", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7229929319997, 
+                    39.6432653460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DISCOVERY STATION AT HAGERSTOWN INC</h4>101 WASHINGTON STREET HAGERSTOWN MD 21740-4709", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5668884819996, 
+                    38.0743634760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>STURGIS 1 ROOM SCHOOL MUSEUM</h4>PO BOX 697 POCOMOKE CITY MD 21851-0697", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6295614229996, 
+                    39.3243749160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>RAILROAD HISTORICAL DISTRICT CORPORATION</h4>3000 CHESTNUT AVENUE SUITE 401 BALTIMORE MD 21211-2775", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9379260049997, 
+                    38.9765600200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL MUSEUM OF LANGUAGE INC</h4><b>Website:</b> <a href=\"http://www.languagemuseum.org\" target=\"_blank\">http://www.languagemuseum.org</a><br>7100 BALTIMORE AVENUE STE 202 COLLEGE PARK MD 20740-3638", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7451045729997, 
+                    39.5153229830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE WASHINGTON COUNTY RURAL HERITAGE MUSEUM</h4><b>Website:</b> <a href=\"http://www.ruralheritagemuseum.org\" target=\"_blank\">http://www.ruralheritagemuseum.org</a><br><b>Phone:</b> <a href=\"tel:2403132839\" target=\"_blank\">2403132839</a><br>7313 SHARPSBURG PIKE BOONSBORO MD 21713-2431", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7755073549997, 
+                    39.2710347070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF BENJAMIN BANNEKER HISTORIC PARK AND MUSEUM</h4><b>Phone:</b> <a href=\"tel:4108871081\" target=\"_blank\">4108871081</a><br>300 OELLA AVE CATIONSVILLE MD 21228", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6902996829996, 
+                    38.1796331590004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>POCOMOKE MARKETING PARTNERSHIP</h4><b>Website:</b> <a href=\"http://delmarvadiscoverycenter.org\" target=\"_blank\">http://delmarvadiscoverycenter.org</a><br>10840 MARKET LANE A-5 PRINCESS ANNE MD 21851-1023", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0582655709997, 
+                    39.0172504100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WASHINGTON ARTS MUSEUM</h4><b>Website:</b> <a href=\"http://www.wamuseum.org\" target=\"_blank\">http://www.wamuseum.org</a><br>9811 CAPITOL VIEW AVE SILVER SPRING MD 20910", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9488735029997, 
+                    38.9438158330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PRINCE GEORGES AFRICAN-AMERICAN MUSEUM AND CULTURAL CTR AT N</h4><b>Website:</b> <a href=\"http://www.pgaamcc.org\" target=\"_blank\">http://www.pgaamcc.org</a><br>4519 RHODE ISLAND AVE NORTH BRENTWO MD 20722-1225", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3148059349996, 
+                    39.5287627800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WOODSBORO HISTORICAL SOCIETY INC</h4>PO BOX 42 WOODSBORO MD 21798-0042", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6448663639997, 
+                    39.3318177460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AMARANTHINE MUSEUM LES HARRIS FOUNDATION</h4><b>Website:</b> <a href=\"http://www.amaranthinemuseum.com\" target=\"_blank\">http://www.amaranthinemuseum.com</a><br><b>Phone:</b> <a href=\"tel:4104561343\" target=\"_blank\">4104561343</a><br>2010 CLIPPER PARK ROAD BALTIMORE MD 21211-1439", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6644422849997, 
+                    39.4973993870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BHA AUTOMOBILE MUSEUM INC</h4>217 INTERNATIONAL CIRCLE HUNT VALLEY MD 21030-1332", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.8312472989996, 
+                    39.6073639270004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE HISTORIC ELK LANDING FOUNDATION INC</h4>PO BOX 277 ELKTON MD 21922-0296", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6121648159997, 
+                    39.3081129730004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CORK FACTORY INC</h4>1601 GUILFORD STE 4 SOUTH BALTIMORE MD 21202-2876", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6042063749996, 
+                    39.2885317780004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CARROLL MUSEUMS INC</h4><b>Phone:</b> <a href=\"tel:4106052964\" target=\"_blank\">4106052964</a><br>PO BOX 119 STEVENSON MD 21202-4511", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4230066169997, 
+                    39.0776034920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HANCOCK S RESOLUTION FOUNDATION INC</h4>PO BOX 233 GIBSON ISLAND MD 21056-0233", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6046191519997, 
+                    39.2912300260004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE H L MENCKEN HOUSE</h4>PO BOX 22501 BALTIMORE MD 21203-4501", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6182455749997, 
+                    39.3259549180005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BALTIMORE MUSEUM OF ART INC</h4><b>Website:</b> <a href=\"http://www.artbma.org/\" target=\"_blank\">http://www.artbma.org/</a><br>10 ART MUSEUM DR BALTIMORE MD 21218-3898", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6348229499997, 
+                    39.3202463780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HOWARD PETERS RAWLINGS CONSERVATORY AND BOTANIC GARDENS</h4><b>Website:</b> <a href=\"http://baltimorecity.gov/Government/AgenciesDepartments/RecreationandParks.aspx\" target=\"_blank\">http://baltimorecity.gov/Government/AgenciesDepartments/RecreationandParks.aspx</a><br><b>Phone:</b> <a href=\"tel:4103967900\" target=\"_blank\">4103967900</a><br>3001 EAST DRIVE, DRUID HILL PARK BALTIMORE MD 21217", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5859339379996, 
+                    39.3458486550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MORGAN STATE UNIVERSITY</h4><b>Website:</b> <a href=\"http://www.morgan.edu\" target=\"_blank\">http://www.morgan.edu</a><br><b>Phone:</b> <a href=\"tel:3014056269\" target=\"_blank\">3014056269</a><br>1700 EAST COLD SPRING LANE BALTIMORE MD 21251-0001", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0299172899997, 
+                    39.0947087920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL CAPITAL HISTORICAL MUSEUM OF TRANSPORTATION INC</h4>1313 BONIFANT RD COLESVILLE MD 20905", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.8966422259996, 
+                    38.9175977430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL GALLERY OF ART</h4>2000 S CLUB DR LANDOVER MD 20785-3228", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.8168201279997, 
+                    38.9116875400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NEGRO LEAGUE LEGENDS HALL OF FAME INC</h4>1506 PEBBLE BEACH DRIVE MITCHELLVILLE MD 20721-2372", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5234557979996, 
+                    39.2587690000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DUNDALK PATAPSCO NECK HISTORICAL SOCIETY & MUSEUM INC</h4><b>Website:</b> <a href=\"http://dundalkhistory.org\" target=\"_blank\">http://dundalkhistory.org</a><br><b>Phone:</b> <a href=\"tel:4102842331\" target=\"_blank\">4102842331</a><br>4 N CENTER PL DUNDALK MD 21222-4300", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.8420054129996, 
+                    39.1587032590004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CATALINA 320 INTERNATIONAL ASSOCIATION</h4>9501 SWEET GRASS RIDGE COLUMBIA MD 21046-2008", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1775167999996, 
+                    40.2101421780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TROUT GALLERY</h4><b>Phone:</b> <a href=\"tel:7172451344\" target=\"_blank\">7172451344</a><br>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.2966132359996, 
+                    40.0465070560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LANCASTER SCIENCE FACTORY</h4><b>Website:</b> <a href=\"http://www.lancastersciencefactory.org\" target=\"_blank\">http://www.lancastersciencefactory.org</a><br><b>Phone:</b> <a href=\"tel:7175096363\" target=\"_blank\">7175096363</a><br>454 NEW HOLLAND AVE LANCASTER PA 17602", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3438842059996, 
+                    39.8846456450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DESCENDANTS AND FRIENDS OF THE 314TH INFANTRY REGIMENT</h4>137 HOUSE ROCK RD PEQUEA PA 17565-9705", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.0978090349997, 
+                    40.0972502480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NEW HOLLAND AREA HISTORICAL SOCIETY</h4>PO BOX 464 NEW HOLLAND PA 17557-0464", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7032681529997, 
+                    39.7386743350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>STEAM INTO HISTORY INC</h4>221 W PHILA ST S YORK PA 17349-0128", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6815889819997, 
+                    39.7670337760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SHREWSBURY AREA PRESERVATION SOCIETY</h4>35 W RAILROAD AVENUE SHREWSBURY PA 17361-1513", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7224120269997, 
+                    39.9640745190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>YORK COUNTY HERITAGE TRUST</h4><b>Website:</b> <a href=\"http://www.yorkheritage.org\" target=\"_blank\">http://www.yorkheritage.org</a><br><b>Phone:</b> <a href=\"tel:7178461977\" target=\"_blank\">7178461977</a><br>250 E MARKET ST YORK PA 17403-2013", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3163758399996, 
+                    40.0492813890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRANKLIN AND MARSHALL COLLEGE</h4><b>Website:</b> <a href=\"http://www.fandm.edu/phillipsmuseum\" target=\"_blank\">http://www.fandm.edu/phillipsmuseum</a><br>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9523890359997, 
+                    40.2056537870005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MESSIAH COLLEGE</h4><b>Website:</b> <a href=\"http://www.messiah.edu\" target=\"_blank\">http://www.messiah.edu</a><br>ONE COLLEGE AVENUE MECHANICSBURG PA 17055-6805", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3018151629997, 
+                    40.0411357590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LANCASTER MUSEUM OF ART</h4><b>Website:</b> <a href=\"http://www.lmapa.org\" target=\"_blank\">http://www.lmapa.org</a><br><b>Phone:</b> <a href=\"tel:7173943497\" target=\"_blank\">7173943497</a><br>135 N LIME ST LANCASTER PA 17602-2952", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0088484499997, 
+                    40.2137776650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MECHANICSBURG MUSEUM</h4>2 W STRAWBERRY AVE MECHANICSBURG PA 17055-6213", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0338240949997, 
+                    40.2105975250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>IRONSTONE RIDGE NATURE CENTER INC</h4>44 STATE ROAD MECHANICSBURG PA 17050", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9936187929997, 
+                    40.2155604000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WILLIAMS GROVE OLD TIMERS</h4>PO BOX 688 MECHANICSBURG PA 17055-0688", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.1766882619996, 
+                    39.9876909380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE RAILROAD MUSEUM</h4>PO BOX 125 STRASBURG PA 17579-0125", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.2839252009996, 
+                    40.0937391650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CHILDRENS MUSEUM OF LANCASTER</h4><b>Website:</b> <a href=\"http://www.handsonhouse.org\" target=\"_blank\">http://www.handsonhouse.org</a><br><b>Phone:</b> <a href=\"tel:7175695437\" target=\"_blank\">7175695437</a><br>721 LANDIS VALLEY RD LANCASTER PA 17601-4888", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4001883449997, 
+                    40.0943550110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AMOS HERR HOUSE FOUNDATION</h4>1756 NISSLEY RD LANDISVILLE PA 17538-1360", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3193337649997, 
+                    40.0445219850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NORTH MUSEUM CORPORATION</h4><b>Website:</b> <a href=\"http://www.northmuseum.org\" target=\"_blank\">http://www.northmuseum.org</a><br>400 COLLEGE AVE LANCASTER PA 17603-3393", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3463389969996, 
+                    39.9405432850004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CONESTOGA AREA HISTORICAL SOCIETY</h4><b>Phone:</b> <a href=\"tel:7178721699\" target=\"_blank\">7178721699</a><br>PO BOX 232 CONESTOGA PA 17516-0232", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9315069399997, 
+                    40.3415134160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CONRAIL HISTORICAL SOCIETY INC</h4>PO BOX 97 MARYSVILLE PA 17053-0097", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6462233549997, 
+                    40.2968239200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PENNSYLVANIA STATE POLICE HISTORICAL EDUCATIONAL & MEMORIAL</h4><b>Website:</b> <a href=\"http://www.psp-hemc.org\" target=\"_blank\">http://www.psp-hemc.org</a><br><b>Phone:</b> <a href=\"tel:7175340565\" target=\"_blank\">7175340565</a><br>187 E HERSHEY PARK DR HERSHEY PA 17033-9528", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2222743149997, 
+                    39.8130196610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GETTYSBURG FOUNDATION</h4><b>Phone:</b> <a href=\"tel:7173381243\" target=\"_blank\">7173381243</a><br>1195 BALTIMORE PIKE GETTYSBURG PA 17325-7034", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3958158279996, 
+                    40.1632353560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORIC MANHEIM PRESERVATION FOUNDATION INC</h4><b>Website:</b> <a href=\"http://www.manheim1762.org\" target=\"_blank\">http://www.manheim1762.org</a><br>27 MARKET SQUARE MANHEIM PA 17545-2413", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3089453079996, 
+                    40.0401053220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HOLE IN THE WALL PUPPET THEATRE INC</h4><b>Website:</b> <a href=\"http://Www.Holeinthewallpuppettheatre.Com\" target=\"_blank\">http://Www.Holeinthewallpuppettheatre.Com</a><br><b>Phone:</b> <a href=\"tel:7173948398\" target=\"_blank\">7173948398</a><br>126 N WATER ST LANCASTER PA 17603-3561", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.2873819479997, 
+                    40.0200970920005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ROCK FORD FOUNDATION</h4><b>Website:</b> <a href=\"http://www.rockfordplantation.org\" target=\"_blank\">http://www.rockfordplantation.org</a><br><b>Phone:</b> <a href=\"tel:7173927223\" target=\"_blank\">7173927223</a><br>881 ROCKFORD RD LANCASTER PA 17602-1225", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7094522169996, 
+                    40.2653077710005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE HUMMELSTOWN AREA HISTORICAL SOCIETY INC</h4><b>Website:</b> <a href=\"http://www.hummelstownhistorical.org\" target=\"_blank\">http://www.hummelstownhistorical.org</a><br>32 W MAIN ST HUMMELSTOWN PA 17036-1515", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1775167999996, 
+                    40.2101421780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MID-ATLANTIC REGIONAL ARCHIVES</h4>PO BOX 1773 CARLISLE PA 17013-2896", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9993484969996, 
+                    39.9310537930004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FULTON COUNTY HISTORICAL SOCIETY INC</h4><b>Website:</b> <a href=\"http://www.fultonhistory.org\" target=\"_blank\">http://www.fultonhistory.org</a><br>PO BOX 115 MCCONELLSBURG PA 17233-0115", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.8394684069996, 
+                    40.2358562430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SUSQUEHANNA ART MUSEUM</h4><b>Phone:</b> <a href=\"tel:7172338668\" target=\"_blank\">7172338668</a><br>15 N 3RD ST HARRISBURG PA 17120-0101", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6900764609996, 
+                    40.2991913600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE MUSEUM OF BUS TRANSPORTATION INC</h4><b>Website:</b> <a href=\"http://www.aacamuseum.org\" target=\"_blank\">http://www.aacamuseum.org</a><br><b>Phone:</b> <a href=\"tel:6168738637\" target=\"_blank\">6168738637</a><br>161 MUSEUM DR HERSHEY PA 17033-2462", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7247991559997, 
+                    39.7839068750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ALLISON-ANTRIM MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.greencastlemuseum.org\" target=\"_blank\">http://www.greencastlemuseum.org</a><br>365 S RIDGE AVE GREENCASTLE PA 17225-1157", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1276274479997, 
+                    40.1501506890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PENNSYLVANIA FLY FISHING MUSEUM ASSOCIATION</h4>PO BOX 205 BOILING SPRINGS PA 17007-0205", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5302800209997, 
+                    39.7666251550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WAYNESBORO AREA INDUSTRIAL HERITAGE TRUST</h4>10774 COUNTRY CLUB ROAD WAYNESBORO PA 17268-9271", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1775167999996, 
+                    40.2101421780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MILITARY HERITAGE FOUNDATION</h4>PO BOX 839 CARLISLE PA 17013-0839", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.8647161609996, 
+                    40.2706924240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL CIVIL WAR MUSEUM</h4><b>Website:</b> <a href=\"http://nationalcivilwarmuseum.org\" target=\"_blank\">http://nationalcivilwarmuseum.org</a><br><b>Phone:</b> <a href=\"tel:7172601861\" target=\"_blank\">7172601861</a><br>RESERVOIR PARK HARRISBURG PA 17103", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.3120389859997, 
+                    40.0337639930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>KEYSTONE NATURAL HISTORY PRESERVATION FOUNDATION</h4><b>Website:</b> <a href=\"https://www.facebook.com/pages/Keyst\" target=\"_blank\">https://www.facebook.com/pages/Keyst</a><br>517 SAINT JOSEPH STREET LANCASTER PA 17603", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.8606468349997, 
+                    40.2010298650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DAUGHTERS OF UNION VETERANS OF THE CIVIL WAR 1861-1865</h4>222 WALNUT LEVEL ROAD NEW CUMBERLAND PA 17070-2858", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9886874589997, 
+                    40.1161321290004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DAUGHTERS OF UNION VETERANS OF THE CIVIL WAR 1861-1865</h4>667 S FILEYS RD DILLSBURG PA 17019-9110", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3046686289997, 
+                    40.0330919940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>APPALACHIAN TRAIL MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.atmuseum.org\" target=\"_blank\">http://www.atmuseum.org</a><br><b>Phone:</b> <a href=\"tel:7174868126\" target=\"_blank\">7174868126</a><br>1120 PINE GROVE RD GARDNERS PA 17324-8837", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6720993139996, 
+                    39.8690824850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LONGWOOD GARDENS</h4><b>Phone:</b> <a href=\"tel:6103881000\" target=\"_blank\">6103881000</a><br>1001 LONGWOOD RD KENNETT SQUAR PA 19348", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.2966132359996, 
+                    40.0465070560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LANCASTER SCIENCE CENTER</h4>454 NEW HOLLAND AVENUE LANCASTER PA 17602-2290", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.6562893539997, 
+                    39.9445980880005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>KLAS OF PA</h4>610 PHILADELPHIA AVE CHAMBERSBURG PA 17201-1265", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.8451802699997, 
+                    39.9809144550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ROAD TO FREEDOM MUSEUM INC</h4><b>Phone:</b> <a href=\"tel:9259624678\" target=\"_blank\">9259624678</a><br>925 W MAIN ST COATESVILLE PA 19320-2636", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3046108869996, 
+                    38.8478277650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ACACIA FOUNDATION INC</h4>3937C UNIVERSITY DRIVE FAIRFAX VA 33040", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.0386680149996, 
+                    39.0656136100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ORLAND E. WHITE ARBORETUM</h4>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.6559434999996, 
+                    38.4467005600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MONROE PARK</h4><b>Phone:</b> <a href=\"tel:5407525330\" target=\"_blank\">5407525330</a><br>14421 GOLD DUST PARKWAY GOLDVEIN VA 22720-0219", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.6322883409997, 
+                    39.2656011780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MORVEN PARK</h4><b>Phone:</b> <a href=\"tel:7037772414\" target=\"_blank\">7037772414</a><br>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.4403217009997, 
+                    38.0252808310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>KLUGE-RUHE ABORIGINAL ART COLLECTION</h4><b>Website:</b> <a href=\"http://www.kluge-ruhe.org\" target=\"_blank\">http://www.kluge-ruhe.org</a><br><b>Phone:</b> <a href=\"tel:4342440234\" target=\"_blank\">4342440234</a><br>400 WORRELL DR CHARLOTTESVILLE VA 22911", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4724464869997, 
+                    38.3241623620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BELMONT GARI MELCHERS MEMORIAL GALLERY</h4><b>Phone:</b> <a href=\"tel:7038994860\" target=\"_blank\">7038994860</a><br>224 WASHINGTON ST. FREDERICKSBURG VA 22405", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7369275519997, 
+                    38.9683917820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MCGHEE FOUNDATION</h4><b>Phone:</b> <a href=\"tel:5406873743\" target=\"_blank\">5406873743</a><br>PO BOX 1829 MIDDLEBURG VA 20118-1829", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2098391999996, 
+                    38.8390642830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF HIDDEN OAKS NATURE CENTER</h4><b>Website:</b> <a href=\"http://www.fairfaxcounty.gov\" target=\"_blank\">http://www.fairfaxcounty.gov</a><br><b>Phone:</b> <a href=\"tel:7039411065\" target=\"_blank\">7039411065</a><br>7701 ROYCE STREET ANNANDALE VA 22003", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5299935259997, 
+                    38.9976305080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL RECREATION AND PARK ASSOCIATION</h4><b>Website:</b> <a href=\"http://www.nrpa.org\" target=\"_blank\">http://www.nrpa.org</a><br>22377 BELMONT RIDGE ROAD ASHBURN VA 20148-4501", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2622285679997, 
+                    38.8648135260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL MUSEUM OF AMERICANS IN WARTIME</h4>PO BOX 30 NOKESVILLE VA 22031", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4439934159997, 
+                    37.5464316680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VIRGINIANS FOR ARTS</h4><b>Website:</b> <a href=\"http://www.vaforarts.org\" target=\"_blank\">http://www.vaforarts.org</a><br><b>Phone:</b> <a href=\"tel:8046442787\" target=\"_blank\">8046442787</a><br>214 N JEFFERSON ST RICHMOND VA 23219-3745", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.9917257279997, 
+                    37.8271500500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TANGIER HISTORY MUSEUM AND INTERPRETIVE CULTURAL CENTER INC</h4>PO BOX 81 TANGIER VA 23440-0081", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.4820004789997, 
+                    38.0314947600004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SECOND STREET GALLERY INC</h4><b>Website:</b> <a href=\"http://www.secondstreetgallery.org\" target=\"_blank\">http://www.secondstreetgallery.org</a><br><b>Phone:</b> <a href=\"tel:4349777284\" target=\"_blank\">4349777284</a><br>115 2ND ST SE CHARLOTTESVLE VA 22902-5270", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3300873179996, 
+                    38.5634242460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORIC DUMFRIES VA INC</h4>PO BOX 26 DUMFRIES VA 22026-0026", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3625415699997, 
+                    38.9587228120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>INITIATIVE FOR PUBLIC ART - RESTON INC</h4><b>Website:</b> <a href=\"http://www.restonarts.org\" target=\"_blank\">http://www.restonarts.org</a><br>12001 MARKET ST STE 103 RESTON VA 20190-6244", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.2936983099996, 
+                    38.0757194280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VIETNAM GRAFFITI PROJECT</h4><b>Website:</b> <a href=\"http://www.vietnamgraffiti.com\" target=\"_blank\">http://www.vietnamgraffiti.com</a><br><b>Phone:</b> <a href=\"tel:4342961288\" target=\"_blank\">4342961288</a><br>6057 GORDONSVILLE ROAD KESWICK VA 22947-0125", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3102771299996, 
+                    38.8392691860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL GRIGSBY PRESERVATION FOUNDATION</h4>10478 COURTNEY DR FAIRFAX VA 22030-8129", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1200763519997, 
+                    38.9197521840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OFGULF BRANCH NATURE CENTER</h4><b>Website:</b> <a href=\"http://site.friendsofgbnc.org\" target=\"_blank\">http://site.friendsofgbnc.org</a><br><b>Phone:</b> <a href=\"tel:7032283403\" target=\"_blank\">7032283403</a><br>3608 MILITARY ROAD ARLINGTON VA 22207", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4812761249997, 
+                    38.7653931310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MANASSAS VOLUNTEER FIRE COMPANY MUSEUM INC</h4>PO BOX 46 MANASSAS VA 20108-0046", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4191634539997, 
+                    38.8719150660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DAUGHTERS OF UNION VETERANS OF THE CIVIL WAR 1861 1865</h4>13606 RIDGE ROCK DR CHANTILLY VA 20151-2486", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0866512259997, 
+                    38.8370299680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF ARLINGTONS DAVID M BROWN PLANETARIUM</h4><b>Website:</b> <a href=\"http://friendsoftheplanetarium.org\" target=\"_blank\">http://friendsoftheplanetarium.org</a><br>4220 32ND STREET SOUTH ARLINGTON VA 22206", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5993607089997, 
+                    38.1569059650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>JOHN J WRIGHT EDUCATIONAL & CULTURAL CENTER MUSEUM INC</h4>7565 COURTHOUSE RD SPOTSYLVANIA VA 22551-2706", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4804375389996, 
+                    38.3057741170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>EXPLORE IT CHILDRENS MUSEUM</h4>PO BOX 518 FREDERICKSBURG VA 22404-0518", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2269953719996, 
+                    38.9159952370005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CSAA ALARM HISTORY MUSEUM</h4><b>Phone:</b> <a href=\"tel:7032424670\" target=\"_blank\">7032424670</a><br>8150 LEESBURG PIKE NO 700 VIENNA VA 22182", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5770618229997, 
+                    37.5795951650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WAR BIRDS ON REVUE INC</h4>215 RIVERWOOD DRIVE RICHMOND VA 23229-7334", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1533876269996, 
+                    39.1851901700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WINCHESTER MASONIC MUSEUM ASSOCIATION</h4>PO BOX 1488 WINCHESTER VA 22604-7988", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4973475129997, 
+                    39.0460813080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF CHINA GARDEN AT US NATIONAL ARBORETUM</h4><b>Website:</b> <a href=\"http://www.uschinagarden.org\" target=\"_blank\">http://www.uschinagarden.org</a><br>20558 WILDBROOK COURT ASHBURN VA 20147", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.7211796229997, 
+                    37.9263812830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SAXIS ISLAND MUSEUM</h4>PO BOX 21 SAXIS VA 23427-0021", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.6507096099996, 
+                    37.9389817980005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BEAVERDAM HERITAGE DAY FOUNDATION</h4>PO BOX 132 BEAVERDAM VA 23015-0132", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1944797009996, 
+                    38.1685023620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORIC PORT ROYAL INC</h4>PO BOX 233 PORT ROYAL VA 22535-0233", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1766871149997, 
+                    38.2287134100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MONTPELIER FOUNDATION</h4><b>Website:</b> <a href=\"http://www.montpelier.org\" target=\"_blank\">http://www.montpelier.org</a><br>11407 CONSTITUTION HWY MONTPELIER VA 22957", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3428862939996, 
+                    38.8494515550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BICYCLE MUSEUM INC</h4>4310 FOREST HILL DRIVE FAIRFAX VA 22030-5680", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.7778387459996, 
+                    38.6302967000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PLAINS DISTRICT MEMORIAL MUSEUM INC</h4>392 S MAIN ST TIMBERVILLE VA 22853-9522", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9702991479996, 
+                    38.2579225730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>COLONIAL BEACH ARTISTS GUILD</h4>PO BOX 243 COLONIAL BEACH VA 22443-0243", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2596678169996, 
+                    38.6834332950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TURNING POINT SUFFRAGIST MEMORIAL ASSOCIATION</h4>BOX 502 OCCOQUAN VA 22125-0502", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7369275519997, 
+                    38.9683917820005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MIDDLEBURG MUSEUM FOUNDATION</h4>PO BOX 185 MIDDLEBURG VA 20118-0185", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0502873869996, 
+                    38.8031683830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>IRAQ MEMORY FOUNDATION INC</h4>911 DUKE ST ALEXANDRIA VA 22309-4221", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.7941180699996, 
+                    38.7131902140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FAUQUIER CHAPTER OF THE VIRGINIA MUSEUM OF FINE ARTS</h4>PO BOX 765 WARRENTON VA 20188", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4741188729997, 
+                    37.5554556850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VIRGINIA MUSEUM OF FINE ARTS FOUNDATION</h4><b>Website:</b> <a href=\"http://www.vmfa.state.va.us\" target=\"_blank\">http://www.vmfa.state.va.us</a><br><b>Phone:</b> <a href=\"tel:8043401580\" target=\"_blank\">8043401580</a><br>200 NORTH BOULEVARD RICHMOND VA 23220-4007", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9963156829996, 
+                    38.4726136330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CULPEPER CAVALRY MUSEUM INC</h4>PO BOX 951 CULPEPER VA 22701-0951", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4681376049996, 
+                    37.5613066680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CHILDRENS MUSEUM OF RICHMOND</h4><b>Website:</b> <a href=\"http://www.c-mor.org\" target=\"_blank\">http://www.c-mor.org</a><br>2626 W BROAD ST RICHMOND VA 23220-1904", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1235312739997, 
+                    38.8275044450004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WINKLER BOTANICAL PRESERVE</h4><b>Phone:</b> <a href=\"tel:7035787888\" target=\"_blank\">7035787888</a><br>5400 ROANOKE AVE ALEXANDRIA VA 22311-5405", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0787297979996, 
+                    38.7724838840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TANGIER AMERICAN LEGATION MUSEUM SOCIETY</h4>6713 BEDDOO ST ALEXANDRIA VA 22306-6607", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0403738799997, 
+                    38.8039086380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE TORPEDO FACTORY ART CENTER INC</h4><b>Website:</b> <a href=\"http://www.torpedofactory.org\" target=\"_blank\">http://www.torpedofactory.org</a><br><b>Phone:</b> <a href=\"tel:7038384565\" target=\"_blank\">7038384565</a><br>105 N UNION STREET ALEXANDRIA VA 22314-3217", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1630443619997, 
+                    38.6599685290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GUNSTON HALL REGENTS FUND</h4><b>Website:</b> <a href=\"http://www.gunstonhall.org\" target=\"_blank\">http://www.gunstonhall.org</a><br>10709 GUNSTON RD LORTON VA 22079-3901", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.6251987259997, 
+                    38.4867522810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE SHENANDOAH HERITAGE CENTER INC</h4>PO BOX 122 SHENANDOAH VA 22849-0122", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9963156829996, 
+                    38.4726136330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WINDMORE FOUNDATION FOR THE ARTS INC</h4>PO BOX 38 CULPEPER VA 22701-0038", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0636329219997, 
+                    38.8623067500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ART SCIENCE & TECHNOLOGY INSTI</h4><b>Phone:</b> <a href=\"tel:7038922226\" target=\"_blank\">7038922226</a><br>1400 S JOYCE ST APT 226 ARLINGTON VA 22202-1808", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2346899229997, 
+                    38.8735817460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>POTOMAC VALLEY AQUARIUM SOCIETY INC GERALD HOFFMAN</h4><b>Website:</b> <a href=\"http://www.pvas.com\" target=\"_blank\">http://www.pvas.com</a><br>PO BOX 684 MERRIFIELD VA 22116", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5119866229996, 
+                    37.5779031610004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL RAILWAY HISTORICAL SOCIETY OLD DOMINION CHAPTER</h4>PO BOX 8583 RICHMOND VA 23226-0583", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4261656829997, 
+                    37.5320458290005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>POE FOUNDATION INC</h4><b>Website:</b> <a href=\"http://www.poemuseum.org/index.php\" target=\"_blank\">http://www.poemuseum.org/index.php</a><br>1914 E MAIN ST RICHMOND VA 23223-6964", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.4783679589996, 
+                    38.0298619310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THOMAS JEFFERSON FOUNDATION INC</h4>PO BOX 316 CHARLOTTESVLE VA 22902-0316", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4309151659996, 
+                    37.5417058740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VALENTINE MUSEUM</h4><b>Website:</b> <a href=\"http://www.fruitlands.org\" target=\"_blank\">http://www.fruitlands.org</a><br><b>Phone:</b> <a href=\"tel:8046490711\" target=\"_blank\">8046490711</a><br>1015 E CLAY ST RICHMOND VA 23219-1527", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0627309369996, 
+                    38.8069028760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GEORGE WASHINGTON MASONIC NATIONAL MEMORIAL ASSOCIATION INC</h4><b>Website:</b> <a href=\"http://www.gwmemorial.org\" target=\"_blank\">http://www.gwmemorial.org</a><br>101 CALLAHAN DR ALEXANDRIA VA 22301-2751", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4524179579997, 
+                    37.7677103760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MARY BALL WASHINGTON MUSEUM & LIBRARY INC</h4>PO BOX 97 LANCASTER VA 22503-0097", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3322254229997, 
+                    38.8084153170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE FAIRFAX STATION INC</h4>5514 SANDY FOLLY CT FAIRFAX STA VA 22039-1032", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4451754569997, 
+                    37.5475355380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>1708 GALLERY</h4><b>Website:</b> <a href=\"http://www.1708gallery.org\" target=\"_blank\">http://www.1708gallery.org</a><br><b>Phone:</b> <a href=\"tel:8046437829\" target=\"_blank\">8046437829</a><br>319 W BROAD STREET RICHMOND VA 23220", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.4783679589996, 
+                    38.0298619310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VIRGINIA DISCOVERY MUSEUM INC</h4>PO BOX 1128 CHARLOTTESVLE VA 22902-1128", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5653553469996, 
+                    39.1143500020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LOUDOUN MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.loudounmuseum.org\" target=\"_blank\">http://www.loudounmuseum.org</a><br>16 LOUDOUN ST SW LEESBURG VA 20175-2907", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.4817849169996, 
+                    38.0680965680004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ALZHEIMERS ASSOCIATION</h4>1160 PEPSI PL STE 306 CHARLOTTESVILLE VA 22901", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.2740598319996, 
+                    37.8501742340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE GREATER REEDVILLE ASSOCIATION</h4><b>Website:</b> <a href=\"http://www.rfmuseum.org\" target=\"_blank\">http://www.rfmuseum.org</a><br>PO BOX 306 REEDVILLE VA 22539-0306", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4804375389996, 
+                    38.3057741170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FREDERICKSBURG AREA MUSEUM AND CULTURAL CENTER INC</h4>PO BOX 922 FREDERICKSBRG VA 22404-0922", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2033510039997, 
+                    38.9569746230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VIRGINIA MUSEUM OF MILITARY VEHICLES</h4>7413 GEORGETOWN CT MCLEAN VA 22102-2123", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1533876269996, 
+                    39.1851901700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SHENANDOAH VALLEY STEAM & GAS ENGINE ASSOCIATION</h4>PO BOX 2366 WINCHESTER VA 22604-1566", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3451817259997, 
+                    38.8930174570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MCLEAN ART SOCIETY</h4>3009 PHYLLMAR PL OAKTON VA 22124-1230", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.7389960349997, 
+                    38.4213514570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ROCKINGHAM SPRINGS ARBORETUM ASSOCIATION</h4>4837 PALMER ROAD MASSANUTTEN VA 22840-3221", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1660296189996, 
+                    39.1829682590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SHENANDOAH VALLEY DISCOVERY MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.discoverymuseum.net\" target=\"_blank\">http://www.discoverymuseum.net</a><br><b>Phone:</b> <a href=\"tel:5407222020\" target=\"_blank\">5407222020</a><br>54 S LOUDOUN ST WINCHESTER VA 22601-4720", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3783119079997, 
+                    37.5406918340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ALLEN E ROBERTS MASONIC LIBRARY AND MUSEUM OF VIRGINIA INC</h4><b>Website:</b> <a href=\"http://www.grandlodgeofvirginia.org\" target=\"_blank\">http://www.grandlodgeofvirginia.org</a><br><b>Phone:</b> <a href=\"tel:8042223110\" target=\"_blank\">8042223110</a><br>4115 NINE MILE RD RICHMOND VA 23223-4926", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5908973569997, 
+                    37.6051140860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SCIENCE PLACE</h4><b>Phone:</b> <a href=\"tel:8043401777\" target=\"_blank\">8043401777</a><br>1324 GASKINS RD RICHMOND VA 23238-4919", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1371751699996, 
+                    38.8124384840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL WOMENS HISTORY MUSEUM</h4><b>Website:</b> <a href=\"http://www.nwhm.org\" target=\"_blank\">http://www.nwhm.org</a><br><b>Phone:</b> <a href=\"tel:7034611920\" target=\"_blank\">7034611920</a><br>205 S WHITING ST STE 254 ALEXANDRIA VA 22304-3693", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.6832493549996, 
+                    38.7443806850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE COLD WAR MUSEUM INC</h4>PO BOX 861526 VINT HILL VA 20187-1526", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1829965359997, 
+                    38.9410855350005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MCLEAN PROJECT FOR THE ARTS</h4>1234 INGLESIDE AVE MC LEAN VA 22101-2817", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1814897169996, 
+                    39.1893842050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GLASS-GLEN BURNIE MUSEUM INC</h4>901 AMHERST ST WINCHESTER VA 22601-3305", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4261550229996, 
+                    37.5307050780005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VIRGINIA HOLOCAUST MUSEUM</h4><b>Website:</b> <a href=\"http://www.va-holocaust.com\" target=\"_blank\">http://www.va-holocaust.com</a><br><b>Phone:</b> <a href=\"tel:8042575400\" target=\"_blank\">8042575400</a><br>2000 E CARY ST RICHMOND VA 23223-7032", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3783119079997, 
+                    37.5406918340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MASONS HALL 1785 A CHARITABLE FOUNDATION</h4>4115 NINE MILE ROAD RICHMOND VA 23223-4916", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.6273668839996, 
+                    38.7607830800005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MT JACKSON MUSEUM INC</h4>PO BOX 112 NEW MARKET VA 22842-0112", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1653363919996, 
+                    39.1846426990004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>OLD COURTHOUSE CIVIL WAR MUSEUM</h4><b>Website:</b> <a href=\"http://www.relicman.com\" target=\"_blank\">http://www.relicman.com</a><br><b>Phone:</b> <a href=\"tel:5406626786\" target=\"_blank\">5406626786</a><br>20 N LONDON ST WINCHESTER VA 22601-4716", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2279357929996, 
+                    38.9131491010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HOMER LAUGHLIN CHINA COLLECTORS ASSOCIATION</h4>1921 GALLOWS RD STE 750 VIENNA VA 22182-3900", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9812776189996, 
+                    39.1513643030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>JOSEPHINE SCHOOL COMMUNITY MUSEUM</h4><b>Website:</b> <a href=\"http://www.jschoolmuseum.org\" target=\"_blank\">http://www.jschoolmuseum.org</a><br><b>Phone:</b> <a href=\"tel:5409555512\" target=\"_blank\">5409555512</a><br>PO BOX 423 BERRYVILLE VA 22611-0423", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0894238319997, 
+                    38.8619139120005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BLACK HERITAGE MUSEUM OF ARLINGTON INC</h4>3108 COLUMBIA PIKJE-MEZZANINE ARLINGTON VA 22204-4300", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7974461449996, 
+                    37.5334103070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ST JOHNS CHURCH RESTORATION ASSOCIATION LIMITED</h4>PO BOX 976 WEST POINT VA 23181-0976", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4449883199997, 
+                    37.5349476330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE AMERICAN CIVIL WAR CENTER AT HISTORIC TREDEGAR</h4><b>Website:</b> <a href=\"http://www.tredegar.org\" target=\"_blank\">http://www.tredegar.org</a><br><b>Phone:</b> <a href=\"tel:8047801865\" target=\"_blank\">8047801865</a><br>490 TERDEGAR ST RICHMOND VA 23219", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4108003379997, 
+                    38.9364168260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FOUNDERS BENEFACTORS SUPERVISORS & FRIENDS OF FRYING PAN FRM</h4>2709 W OX RD HERNDON VA 20171-3807", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.4783679589996, 
+                    38.0298619310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LEWIS AND CLARK EXPLORATORY CENTER OF VIRGINIA INC</h4>PO BOX 281 CHARLOTTESVLE VA 22902-0281", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1065456569996, 
+                    38.7767477590004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ASSOC-PRESERVATION MASON-DORTON SCHOOL INC</h4>4306 MISSION COURT ALEXANDRIA VA 22310-3353", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.4866495389996, 
+                    38.0672941520004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ARTINPLACE FOUNDATION</h4>PO BOX 7885 CHARLOTTESVILLE VA 22906-7885", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4693759489996, 
+                    37.6195806400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LEWIS GINTER BOTANICAL GARDEN FOUNDATION</h4><b>Website:</b> <a href=\"http://www.lewisginter.org\" target=\"_blank\">http://www.lewisginter.org</a><br><b>Phone:</b> <a href=\"tel:8042629887\" target=\"_blank\">8042629887</a><br>1800 LAKESIDE AVE RICHMOND VA 23228-4700", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1413098699996, 
+                    38.8855933600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ARLINGTON ARTIST ALLIANCE</h4>PO BOX 5251 ARLINGTON VA 22205-0351", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4380693919996, 
+                    37.5393108240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FOUNDATION OF THE FLORA OF VIRGINIA PROJECT INC</h4>PO BOX 512 RICHMOND VA 23218-0512", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4749723459997, 
+                    38.3000849990005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UNIVERSITY OF MARY WASHINGTON ART GALLERIES</h4><b>Website:</b> <a href=\"http://www.umw.edu/galleries\" target=\"_blank\">http://www.umw.edu/galleries</a><br><b>Phone:</b> <a href=\"tel:5406541013\" target=\"_blank\">5406541013</a><br>1301 COLLEGE AVENUE FREDERICKSBURG VA 22401", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.4403217009997, 
+                    38.0252808310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UNIVERSITY OF VIRGINIA</h4><b>Website:</b> <a href=\"http://www.kluge-ruhe.org/\" target=\"_blank\">http://www.kluge-ruhe.org/</a><br><b>Phone:</b> <a href=\"tel:4342440234\" target=\"_blank\">4342440234</a><br>400 WORRELL DRIVE CHARLOTTESVILLE VA 22911", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4741188729997, 
+                    37.5554556850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VIRGINIA MUSEUM OF FINE ARTS</h4><b>Website:</b> <a href=\"http://www.vmfa.state.va.us\" target=\"_blank\">http://www.vmfa.state.va.us</a><br><b>Phone:</b> <a href=\"tel:8043401580\" target=\"_blank\">8043401580</a><br>200 N BOULEVARD RICHMOND VA 23220-4007", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9812776189996, 
+                    39.1513643030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CLARKE COUNTY HISTORICAL ASSOCIATION INC</h4><b>Website:</b> <a href=\"http://www.clarkehistory.org\" target=\"_blank\">http://www.clarkehistory.org</a><br>PO BOX 306 BERRYVILLE VA 22611-0306", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4683584249997, 
+                    37.5585635430004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VIRGINIA FOUNDATION FOR ARCHITECTURE</h4>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4331647389997, 
+                    37.5395709020005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VIRGINIA SESQUICENTENNIAL OF THE AMERICAN CIVIL WAR FOUNDATI</h4>910 CAPITOL ST RICHMOND VA 23219-3420", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2555331599996, 
+                    38.6979564070004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LORTON ARTS FOUNDATION INC</h4>9517 WORKHOUSE WAY LORTON VA 22079-2642", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5553326519997, 
+                    38.2845675500005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SPOTSYLVANIA ANIMAL RESCUE ZOO FOUNDATION INC</h4><b>Website:</b> <a href=\"http://www.sarzfoundation.org\" target=\"_blank\">http://www.sarzfoundation.org</a><br>9 KENDALE LANE FREDERICKSBURG VA 22407", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2913128169997, 
+                    38.5212022710004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MARINE CORPS ASSOCIATION FOUNDATION</h4><b>Website:</b> <a href=\"http://www.mcuf.org\" target=\"_blank\">http://www.mcuf.org</a><br><b>Phone:</b> <a href=\"tel:7036406835\" target=\"_blank\">7036406835</a><br>715 BROADWAY ST QUANTICO VA 22134-5176", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.5112791199996, 
+                    38.7261056900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FREEDOM MUSEUM</h4>10600 HARRY PARRISH BLVD 4 MANASSAS VA 20110", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4190959429997, 
+                    38.9635101950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CHILDRENS SCIENCE CENTER</h4>2214 ROCK HILL RD STE 380 HERNDON VA 20170-4229", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.4686533679997, 
+                    38.0410553130005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MCINTIRE BOTANICAL GARDEN</h4>624 DAVIS AVENUE CHARLOTTESVILLE VA 22901-3908", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.9610052339996, 
+                    39.4583488670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GEORGE WASHINGTON HERITAGE TRAIL ASSOCIATION INC</h4>229 EAST MARTIN ST MARTINSBURG WV 25401-4304", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1714758839997, 
+                    39.6350416110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MORGAN COUNTY OBSERVATORY FOUNDATION INC</h4>81 SPARROW TRAIL BERKELEY SPRINGS WV 25411-6474", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.0809582179996, 
+                    39.3597188810004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE FRIENDS OF THE NORWALK FOUNDATION INC</h4>301 GOLDMILLER RD GERRARDSTOWN WV 25420-4269", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

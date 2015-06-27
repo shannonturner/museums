@@ -3,4259 +3,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.4697266059997, 
-                    44.5586781880005
+                    -72.2613170189996, 
+                    43.8841918230005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>WOLCOTT HISTORICAL SOCIETY</h3>PO BOX 100 WOLCOTT VT 5680", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0327958689996, 
-                    43.6566724260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WILSON CASTLE</h3><b><a href=\"http://www.wilsoncastle.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8027733284\" target=\"_blank\">Phone</a><br>W PROCTOR RD PROCTOR VT 5765", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0092039629997, 
-                    43.2394632200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WILSON HOUSE</h3>378 VILLAGE ST EAST DORSET VT 5253", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5396290549996, 
-                    43.6202916950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT INSTITUTE OF NATURAL SCIENCE</h3><a href=\"tel:8023595000\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1698667509996, 
-                    44.0119694830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT FOLKLIFE CENTER</h3><b><a href=\"http://www.vermontfolklifecenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8023884964\" target=\"_blank\">Phone</a><br>88 MAIN ST MIDDLEBURY VT 5753", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1599213359996, 
-                    42.9731862850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHAFTSBURY HISTORICAL MUSEUM</h3><a href=\"tel:8023756376\" target=\"_blank\">Phone</a><br>3542 ROUTE 7 SHAFTSBURY VT 5262", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0733478049996, 
-                    43.1635403720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTHERN VERMONT ARTS CENTER</h3>WEST ROAD MANCHESTER VT 5254", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2557677489996, 
-                    44.6314578520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH HERO BICENTENNIAL MUSEUM</h3><b><a href=\"http://www.bluepaddlebistro.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8023724485\" target=\"_blank\">Phone</a><br>ROUTE 2 SOUTH HERO VT 5486", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5815279429996, 
-                    44.2633916140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>T. W. WOOD ART GALLERY</h3><a href=\"tel:8028288743\" target=\"_blank\">Phone</a><br>VERMONT COLLEGE ARTS CENTER MONTPELIER VT 5602", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6783772759997, 
-                    42.8770513440004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTHERN VERMONT NATURAL HISTORY MUSEUM</h3><b><a href=\"http://www.vermontmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024640048\" target=\"_blank\">Phone</a><br>ROUTE 9 MARLBORO VT 5301", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0212796569996, 
-                    44.4222572460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ST JOHNSBURY HISTORY</h3><a href=\"tel:8024241090\" target=\"_blank\">Phone</a><br>481 SUMMER ST ST JOHNSBURY VT 5819", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2451971139997, 
-                    42.9291428300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE PARK-MCCULLOUGH HOUSE</h3><a href=\"tel:8024425441\" target=\"_blank\">Phone</a><br>WEST STREET AND PARK STREET NORTH BENNINGTON VT 5257", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2098772899997, 
-                    42.9344552550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROBERT FROST STONE HOUSE MUSEUM</h3><b><a href=\"http://www.frostfriends.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024476200\" target=\"_blank\">Phone</a><br>121 VT ROUTE 7A SHAFTSBURY VT 5262", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5453891789996, 
-                    43.8167977380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROYALTON HISTORICAL SOCIETY</h3><a href=\"tel:8028283051\" target=\"_blank\">Phone</a><br>4184 VT ROUTE 14 SOUTH ROYALTON VT 5068", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6865988649997, 
-                    44.4640265880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NOYES HOUSE MUSEUM</h3><a href=\"tel:8028887617\" target=\"_blank\">Phone</a><br>PO BOX 1299 MORRISVILLE VT 5662", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7232272619996, 
-                    43.5270000820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OLD CONSTITUTION HOUSE STATE HISTORIC SITE</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6648794569996, 
-                    43.9227337750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RANDOLPH HISTORICAL SCTY MSM</h3><a href=\"tel:8027289308\" target=\"_blank\">Phone</a><br>SALISBURY ST RANDOLPH VT 5060", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9494528689996, 
-                    43.6122573140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RUTLAND AREA LIFELONG LEARNING</h3><a href=\"tel:8027730184\" target=\"_blank\">Phone</a><br>6 RACHEL DR RUTLAND VT 5701", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5877266219996, 
-                    44.5610389960005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NOYES HOUSE MUSEUMS</h3><a href=\"tel:8028887617\" target=\"_blank\">Phone</a><br>1 MAIN ST MORRISVILLE VT 5661", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3853280709997, 
-                    43.4842392220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OLD CONSTITUTION HOUSE</h3><b><a href=\"http://www.historicvermont.org/constitution\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026723773\" target=\"_blank\">Phone</a><br>16 MAIN ST WINDSOR VT 5089", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0370719349996, 
-                    43.7137931920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NEW ENGLAND MAPLE MUSEUM</h3><b><a href=\"http://maplemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024839414\" target=\"_blank\">Phone</a><br>4578 US ROUTE 7 PITTSFORD VT 5763", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8344081699997, 
-                    43.4103701970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MT HOLLY COMMUNITY MUSEUM</h3><a href=\"tel:8022592460\" target=\"_blank\">Phone</a><br>TARBELVILLE RD BELMONT VT 5730", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0480561489996, 
-                    43.1739665560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MANCHESTER HOT GLASS</h3><b><a href=\"http://ManchesterHotGlass.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8023622227\" target=\"_blank\">Phone</a><br>79 ELM ST MANCHESTR CTR VT 5255", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4720294589997, 
-                    43.3074817140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MILLER ART CENTER</h3><a href=\"tel:8028852415\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.3849069659997, 
-                    43.8181562560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MT INDEPENDENCE STATE HISTORIC</h3><a href=\"tel:8029482000\" target=\"_blank\">Phone</a><br>497 MOUNT INDEPENDENCE RD ORWELL VT 5760", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2342038779997, 
-                    44.3691163420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATIONAL MUSEUM OF  MORGAN HORSE</h3><b><a href=\"http://www.morganmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8029858665\" target=\"_blank\">Phone</a><br>122 BOSTWICK RD SHELBURNE VT 5482", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5658807679997, 
-                    42.8861132520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NAULAKHA-RUDYARD KIPLING HOUSE</h3>RR1  KIPLING ROAD BRATTLEBORO VT 5301", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.3437771599997, 
-                    44.8793647180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ISLE LA MOTTE HISTORICAL SOC</h3><a href=\"tel:8029283422\" target=\"_blank\">Phone</a><br>283 SCHOOL ST ISLE LA MOTTE VT 5463", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5785081629996, 
-                    44.2607715760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JUSTIN S. MORRILL STATE HISTORIC SITE</h3><a href=\"tel:8028283051\" target=\"_blank\">Phone</a><br>VERMONT DIVISION FOR HISTORIC PRESERVATION MONTPELIER VT 05620-0501", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5584863789996, 
-                    42.8520618040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>KIDSPLAYCE</h3><b><a href=\"http://www.kidsplayce.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8022545212\" target=\"_blank\">Phone</a><br>20 ELLIOT ST BRATTLEBORO VT 5301", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0554989789997, 
-                    43.1773456770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LONG AGO AND FAR AWAY</h3><b><a href=\"http://www.longagoandfaraway.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8023623435\" target=\"_blank\">Phone</a><br>4963 MAIN ST MANCHESTER CENTER VT 5255", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2193486799997, 
-                    44.4833662070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FLEMING MUSEUM OF UVM</h3><b><a href=\"http://www.flemingmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026560750\" target=\"_blank\">Phone</a><br>61 COLCHESTER AVE BURLINGTON VT 5405", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2903591049997, 
-                    44.1272234870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAR JOHN STRONG MANSION MUSEUM</h3><a href=\"tel:8027592309\" target=\"_blank\">Phone</a><br>6656 ROUTE 17W VERGENNES VT 5491", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3874868169996, 
-                    43.4775575360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CORNISH COLONY MUSEUM</h3><b><a href=\"http://www.cornishcolonymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026746008\" target=\"_blank\">Phone</a><br>147 MAIN ST WINDSOR VT 5089", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2318189009997, 
-                    44.5082831470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ETHAN ALLEN HOMESTEAD</h3><b><a href=\"http://www.ethanallenhomestead.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8028654556\" target=\"_blank\">Phone</a><br>1 ETHAN ALLEN HOMESTEAD BURLINGTON VT 5408", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4479099039996, 
-                    43.2698456950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EUREKA SCHOOLHOUSE</h3><a href=\"tel:8028283051\" target=\"_blank\">Phone</a><br>470 CHARLESTOWN RD SPRINGFIELD VT 5156", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8596615959996, 
-                    44.8360816550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHESTER A ARTHUR HOME</h3><a href=\"tel:8028283051\" target=\"_blank\">Phone</a><br>4588 CHESTER ARTHUR RD ENOSBURG FALLS VT 5450", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2283220999997, 
-                    42.8824040080005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BENNINGTON CENTER FOR  ARTS</h3><b><a href=\"http://www.benningtoncenterforthearts.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024427158\" target=\"_blank\">Phone</a><br>44 GYPSY LN BENNINGTON VT 5201", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7232272619996, 
-                    43.5270000820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CALVIN COOLIDGE MEMORIAL FOUNDATION</h3><a href=\"tel:8026723389\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1738333389997, 
-                    43.6127026520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CASTLETON HISTORICAL SOCIETY</h3>407 MAIN ST CASTLETON VT 5735", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3891252879997, 
-                    43.4745400930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMERICAN PRECISION MUSEUM ASSOCATION</h3><a href=\"tel:8026745781\" target=\"_blank\">Phone</a><br>196 S. MAIN STREET WINDSOR VT 5089", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6944170069996, 
-                    43.3969343760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLACK RIVER ACADEMY MUSEUM</h3><a href=\"tel:8022285050\" target=\"_blank\">Phone</a><br>HIGH STREET LUDLUM VT 5149", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0942421999997, 
-                    43.8006364700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRANDON MUSEUM</h3><a href=\"tel:8022476401\" target=\"_blank\">Phone</a><br>4 GROVE ST BRANDON VT 5733", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.1779995459996, 
-                    44.6841159870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BREAD AND PUPPET THEATRE</h3><b><a href=\"http://www.breadandpuppet.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8025253031\" target=\"_blank\">Phone</a><br>753 HEIGHTS RD GLOVER VT 5839", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4674074249996, 
-                    43.6311622810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BILLINGS FARM AND MUSEUM</h3><b><a href=\"http://www.billingsfarm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024572355\" target=\"_blank\">Phone</a><br>5302 RIVER RD WOODSTOCK VT 5091", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1562490849997, 
-                    43.0702332760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BATTEN KILL WATERSHED ALLIANCE INC</h3>PO BOX 734 ARLINGTON VT 05250-0734", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2136683309997, 
-                    44.4807480260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE VERMONT MUSIC LIBRARY</h3><b><a href=\"http://www.vmls.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8028651140\" target=\"_blank\">Phone</a><br>P.O. BOX 428 BURLINGTON VT 05402-0428", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5662501839997, 
-                    42.8475563100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ESTEY ORGAN MUSEUM INC</h3><b><a href=\"http://www.esteyorganmuseum.org\" target=\"_blank\">Website</a></b><br>108 BIRGE STREET BRATTLEBORO VT 05301-6460", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5518453949996, 
-                    44.0893185340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT OUTDOOR DISCOVERY CENTER INC</h3>4785 VT RT 14 WILLIAMSTOWN VT 05679-9770", 
-                "marker-color": "#CABA00", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7373775319996, 
-                    43.7639133840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STOCKBRIDGE MEETING HOUSE SOCIETY INC</h3>PO BOX 8 STOCKBRIDGE VT 05772-0008", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0760840169996, 
-                    44.5770868170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>POORE FAMILY FOUNDATION FOR NORTH COUNTRY CONSERVANCY</h3>201 ROLLIN IRISH RD WESTFORD VT 05494-9799", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5565889559996, 
-                    42.8503041400005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE ORGANIC CENTER INC</h3>28 VERNON STREET BRATTLEBORO VT 05301-3666", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1726485609997, 
-                    44.0068103490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MIDDLEBURY COLLEGE MUSEUM OF ART</h3><a href=\"tel:8024432240\" target=\"_blank\">Phone</a><br>CENTER FOR THE ARTS MIDDLEBURY VT 5753", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5009797419996, 
-                    44.1972158760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BARRE MUSEUM C/O ALDRICH LIBRARY</h3>6 WASHINGTON ST BARRE VT 05641-4227", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2254997809997, 
-                    44.3743040840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHELBURNE MUSEUM INCORPORATED</h3><b><a href=\"http://www.shelburnemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8029853346\" target=\"_blank\">Phone</a><br>PO BOX 10 SHELBURNE VT 05482-0010", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9915168959997, 
-                    44.5066572930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JERICHO CENTER PRESERVATION ASSOCIATION</h3>PO BOX 1018 JERICHO VT 05465-1018", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2005891499996, 
-                    44.4778498770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UNIVERSITY OF VERMONT AND STATE AGRICULTURAL COLLEGE</h3><b><a href=\"http://www.flemingmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026560153\" target=\"_blank\">Phone</a><br>85 S PROSPECT ST BURLINGTON VT 05405-1704", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4985753909996, 
-                    44.1956050790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT HISTORICAL SOCIETY</h3><b><a href=\"http://www.vermonthistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024798500\" target=\"_blank\">Phone</a><br>60 WASHINGTON ST BARRE VT 05641-4209", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1937880239997, 
-                    42.8779654520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BENNINGTON FREE LIBRARY</h3><b><a href=\"http://www.benningtonfreelibrary.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024429051\" target=\"_blank\">Phone</a><br>101 SILVER ST BENNINGTON VT 05201-2868", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0209480229997, 
-                    44.4184339720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ST JOHNSBURY ATHENAEUM INC</h3><b><a href=\"http://www.stjathenaeum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8027488291\" target=\"_blank\">Phone</a><br>1171 MAIN ST ST JOHNSBURY VT 05819-2687", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.2101088889996, 
-                    44.9355460010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GOODRICH LIBRARY</h3>202 MAIN ST NEWPORT VT 05855-5000", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0201520999996, 
-                    44.4203006010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FAIRBANKS MUSEUM AND PLANETARIUM</h3><b><a href=\"http://www.fairbanksmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8027482372\" target=\"_blank\">Phone</a><br>1302 MAIN ST ST JOHNSBURY VT 05819-2248", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2097375289997, 
-                    42.8835244590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BENNINGTON MUSEUM INC</h3><b><a href=\"http://www.benningtonmuseum.org\" target=\"_blank\">Website</a></b><br>75 MAIN ST BENNINGTON VT 05201-2827", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1696488189996, 
-                    44.0125095740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHELDON ART MUSEUM ARCHAEOLOGICAL AND HISTORICAL SOCIETY</h3><b><a href=\"http://henrysheldonmuseum.org\" target=\"_blank\">Website</a></b><br>HISTORICAL SOCIETY INC 1 PARK STREE MIDDLEBURY VT 5753", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5748928209997, 
-                    44.2573234770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TRUSTEES OF THE WOOD ART GALLERY</h3>46 BARRE ST MONTPELIER VT 05602-3508", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4826225789997, 
-                    43.3003276590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SPRINGFIELD ART & HISTORICAL SOCIETY</h3>9 ELM HILL SPRINGFIELD VT 5156", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9820187149996, 
-                    43.6077234760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RUTLAND AREA ART ASSOCIATION</h3><b><a href=\"http://www.chaffeeartcenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8027750356\" target=\"_blank\">Phone</a><br>PO BOX 1447 RUTLAND VT 05701-1447", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3857666619996, 
-                    43.4810622240005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMERICAN PRECISION MUSEUM ASSOCIATION</h3><b><a href=\"http://www.americanprecision.org\" target=\"_blank\">Website</a></b><br>PO BOX 679 WINDSOR VT 05089-0679", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0733463829997, 
-                    43.1635335770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMERICAN MUSEUM OF FLY FISHING INC</h3><b><a href=\"http://www.amff.com\" target=\"_blank\">Website</a></b><br>PO BOX 42 MANCHESTER VT 05254-0042", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1185966919996, 
-                    43.4830938010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MIDDLETOWN SPRINGS HISTORICAL SOCIETY INC</h3>PO BOX 1121 MIDDLETOWN SPRINGS VT 05757-5757", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5534475009997, 
-                    44.9669783540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CANAAN  TOWN OF</h3>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3322158719997, 
-                    43.9610704760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERSHIRE HISTORICAL SOCIETY INC</h3>PO BOX 41 VERSHIRE VT 5079", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9951058709996, 
-                    44.4031158150005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RICHMOND HISTORICAL SOCIETY</h3>PO BOX 453 RICHMOND VT 05477-0453", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4178385499997, 
-                    44.9594484600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MISSISQUOI VALLEY HISTORICAL SOCIETY</h3><a href=\"tel:8029882397\" target=\"_blank\">Phone</a><br>PO BOX 237 NORTH TROY VT 5859", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5554796349996, 
-                    42.8869112510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DUMMERSTON HISTORICAL SOCIETY</h3>PO BOX 8064 BRATTLEBORO VT 5304", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7936163509996, 
-                    43.2919526640005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTON HISTORICAL SOCIETY</h3>PO BOX 247 WESTON VT 5161", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0981780879997, 
-                    43.2541312830004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DORSET HISTORICAL SOCIETY</h3><b><a href=\"http://www.dorsetvthistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8028670331\" target=\"_blank\">Phone</a><br>PO BOX 52 DORSET VT 05251-0052", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3014184729997, 
-                    44.5942377130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GREENSBORO HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.greensborohistoricalsociety.org\" target=\"_blank\">Website</a></b><br>PO BOX 151 GREENSBORO VT 5841", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8318697789996, 
-                    44.1876625130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WAITSFIELD HISTORICAL SOCIETY INC</h3><b><a href=\"http://waitsfieldhistoricalsociety.com\" target=\"_blank\">Website</a></b><br>PO BOX 816 WAITSFIELD VT 5673", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3000280709996, 
-                    44.4162184920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CABOT HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.cabothistory.com/\" target=\"_blank\">Website</a></b><br>PO BOX 275 CABOT VT 05647-5647", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8679188739997, 
-                    42.8666741200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LIVING HISTORY ASSOCIATION</h3>PO BOX 1389 WILMINGTON VT 05363-1389", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6395685259997, 
-                    44.9030459440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTGOMERY HISTORICAL SOCIETY</h3><b><a href=\"http://www.montgomeryhistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8023264404\" target=\"_blank\">Phone</a><br>PO BOX 47 MONTGOMERY VT 5470", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6160099059996, 
-                    43.7277132650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BARNARD HISTORICAL SOCIETY</h3>PO BOX 234 BARNARD VT 5031", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4604587089996, 
-                    43.1044613320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTMINSTER HISTORICAL SOCIETY INC</h3>PO BOX 2 WESTMINSTER VT 5158", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1999482299997, 
-                    44.5406594500005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT VETERANS MILITIA MUSEUM AND LIBRARY INC</h3><a href=\"tel:8026540360\" target=\"_blank\">Phone</a><br>C-O CAMP JOHNSON COLCHESTER VT 5446", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3926288279997, 
-                    44.6351285600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CRAFTSBURY HISTORICAL SOCIETY INC</h3>WARRENAWILLIAMS CRAFTSBURY VT 5826", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5404285349996, 
-                    44.1140841900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WILLIAMSTOWN HISTORICAL SOCIETY</h3>PO BOX 338 WILLIAMSTOWN VT 5679", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1108061679997, 
-                    44.6384593670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MILTON HISTORICAL SOCIETY</h3>13 SCHOOL STREET MILTON VT 5468", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3819865069996, 
-                    44.6531665290005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CRAFTSBURY LIBRARY</h3>PO BOX 74 CRAFTSBURY CM VT 05827-0074", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1959497939997, 
-                    43.4421898290005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WELLS HISTORICAL SOCIETY</h3>338 VERMONT ROUTE 30 WELLS VT 5774", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8013045519996, 
-                    42.9529995550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DOVER HISTORICAL SOCIETY INC</h3>90 HOLLAND ROAD EAST DOVER VT 5341", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6616235799996, 
-                    43.9179960600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RANDOLPH HISTORICAL SOCIETY INC</h3>34 HIGHLAND AVE RANDOLPH VT 5060", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4948059779996, 
-                    44.2653816260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EAST MONTPELIER HISTORICAL SOCIETY INC</h3>PO BOX 63 E MONTPELIER VT 5651", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6736898539996, 
-                    44.9759768610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RICHFORD HISTORICAL SOCIETY INC</h3>PO BOX 606 RICHFORD VT 5476", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0066752479996, 
-                    44.3515148310005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BIRDS OF VERMONT MUSEUM INC</h3><b><a href=\"http://www.birdsofvermont.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024342167\" target=\"_blank\">Phone</a><br>900 SHERMAN HOLLOW RD HUNTINGTON VT 05462-9420", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0979375209997, 
-                    44.9549296540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DERBY HISTORICAL SOCIETY</h3>PO BOX 357 DERBY VT 5829", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8613071909996, 
-                    42.8849907590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORICAL SOCIETY OF WILMINGTON VERMONT INC</h3><a href=\"tel:8024640200\" target=\"_blank\">Phone</a><br>PO BOX 1751 WILMINGTON VT 5363", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2125315519996, 
-                    44.4775798320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRESERVATION TRUST OF VERMONT INC</h3><a href=\"tel:8026586647\" target=\"_blank\">Phone</a><br>104 CHURCH ST STE 21 BURLINGTON VT 05401-4449", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5600462469997, 
-                    42.8556742530005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRATTLEBORO HISTORICAL SOCIETY</h3><a href=\"tel:8022584957\" target=\"_blank\">Phone</a><br>230 MAIN ST STE 301 BRATTLEBORO VT 5301", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5781333649996, 
-                    44.2119321650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BERLIN HISTORICAL SOCIETY INC</h3>108 SHED RD BERLIN VT 5602", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3177631009996, 
-                    43.6486736560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NEW ENGLAND TRANSPORTATION INSTITUTE & MUSEUM A NONPRFT CORP</h3><b><a href=\"http://www.newenglandtransportationmuseum.\" target=\"_blank\">Website</a></b><br><a href=\"tel:8022919838\" target=\"_blank\">Phone</a><br>100 RAILROAD ROW WHITE RIV JCT VT 5001", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.1277385179997, 
-                    43.9937728590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRADFORD HISTORICAL SOCIETY</h3>PO BOX 301 BRADFORD VT 05033-0301", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8888066729996, 
-                    44.4288382470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CONCORD HISTORICAL SOCIETY</h3>PO BOX 301 CONCORD VT 05824-0301", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7671291969996, 
-                    44.3421404930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WATERBURY HISTORICAL SOCIETY</h3><b><a href=\"http://waterburyhistoricalsociety.org\" target=\"_blank\">Website</a></b><br>PO BOX 708 WATERBURY VT 5676", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2550459319996, 
-                    44.5446304410005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COLCHESTER HISTORICAL SOCIETY C/O GERALD SWEENEY</h3><b><a href=\"http://colchestervt.gov/historical/\" target=\"_blank\">Website</a></b><br>245 BLUEBIRD DR COLCHESTER VT 5446", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3994360499996, 
-                    43.5402803020005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HARTLAND HISTORICAL SOCIETY</h3>PO BOX 428 HARTLAND VT 05048-0428", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6110870139996, 
-                    43.2757023430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHESTER HISTORICAL SOCIETY INC</h3><a href=\"tel:8028755459\" target=\"_blank\">Phone</a><br>PO BOX 118 CHESTER VT 5143", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0021105339997, 
-                    43.3686467710005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MT TABOR-DANBY HISTORICAL SOCIETY INC</h3>62 RAYMOND ROAD DANBY VT 5739", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5219174049997, 
-                    42.9733700710005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PUTNEY HISTORICAL SOCIETY INC</h3>PO BOX 260 PUTNEY VT 05346-0260", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5848996669997, 
-                    44.0303820040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF THE AMERICAS</h3><a href=\"tel:8022763368\" target=\"_blank\">Phone</a><br>RT 14 PO 222 BROOKFIELD VT 5036", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9677863439996, 
-                    44.0636784360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LINCOLN HISTORICAL SOCIETY INC</h3>2500 SOUTH LINCOLN RD LINCOLN VT 5443", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1789488029996, 
-                    44.4928764810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WINOOSKI HISTORICAL SOCIETY</h3>4 HOOD ST WINOOSKI VT 5404", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1096478149997, 
-                    44.4900919340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ESSEX JUNCTION HISTORICAL SOCIETY</h3>11 MAPLE STREET ESSEX JUNCTION VT 05452-3738", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.4161516899997, 
-                    44.0474851880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ADDISON TOWN HISTORICAL SOCIETY INC</h3>7214 VT RT 17 W ADDISON VT 5491", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7671291969996, 
-                    44.3421404930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>REVITALIZING WATERBURY</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1193961739996, 
-                    44.4941070610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ESSEX COMMUNITY HISTORICAL SOCIETY</h3>PO BOX 8388 ESSWX VT 5453", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2970098789996, 
-                    43.8038700530005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOUNT INDEPENDENCE COALITION</h3>PO BOX 53 ORWELL VT 05760-0053", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5683738309996, 
-                    42.9043333510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LANDMARK TRUST USA INC</h3>707 KIPLING RD DUMMERSTON VT 05301-9558", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5627865259996, 
-                    44.7019174890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EDEN HISTORICAL SOCIETY INC</h3>PO BOX 33 EDEN VT 05652-0033", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3866107859997, 
-                    44.3339654360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT ENTOMOLOGICAL SOCIETY</h3>630 BEAVER MEADOW RD MARSHFIELD VT 05658-7146", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7425542849996, 
-                    43.5343077680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PLYMOUTH VERMONT HISTORICAL SOCIETY</h3>68 TOWN OFFICE ROAD PLYMOUTH VT 05056-9441", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8130066959997, 
-                    43.7725208400005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PITTSFIELD HISTORICAL SOCIETY</h3>PO BOX 574 PITTSFIELD VT 05762-0574", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3794490239997, 
-                    44.7314287660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ALBANY HISTORICAL SOCIETY</h3>PO BOX 317 ALBANY VT 05820-0317", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0116690319996, 
-                    43.9744636550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JEFFERSON LEGACY FOUNDATION</h3><a href=\"tel:8023887676\" target=\"_blank\">Phone</a><br>PO BOX 76 RIPTON VT 05766-0076", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6795898879997, 
-                    44.2925857180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MIDDLESEX HISTORICAL SOCIETY</h3><a href=\"tel:8022290499\" target=\"_blank\">Phone</a><br>5 CHURCH STREET MIDDLESEX VT 05602-8790", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6654841269997, 
-                    43.9242845840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT AGRICULTURAL MUSEUM</h3>22 N MAIN STREET RANDOLPH VT 5060", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2353759789996, 
-                    42.7649923040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>POWNAL HISTORICAL SOCIETY INC</h3>BOX 313 POWNAL VT 05261-0313", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4186684459996, 
-                    43.4844928930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRANKLIN MUSEUM OF NATURE AND THE HUMAN SPIRIT</h3>PO BOX 127 WINDSOR VT 5089", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2203794499997, 
-                    44.4767815400005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LAKE CHAMPLAIN BASIN SCIENCE CENTER INC</h3><b><a href=\"http://www.echovermont.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8028641848\" target=\"_blank\">Phone</a><br>1 COLLEGE ST BURLINGTON VT 05401-5215", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2331651509996, 
-                    44.3772662640005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHAMPLAIN VALLEY HISTORICAL REENACTORS INC</h3>223 STOKES LANE SHELBURNE VT 05482-6601", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8385075319997, 
-                    44.1846923950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HERITAGE MUSEUM OF VERMON</h3>PO BOX 1266 WAITSFIELD VT 05673-1266", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2254997809997, 
-                    44.3743040840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ANTHRPSOPHICAL ARTS COUNCIL VT</h3><a href=\"tel:8029854023\" target=\"_blank\">Phone</a><br>PO BOX 638 SHELBURNE VT 05482-0638", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4432163229997, 
-                    43.1336703540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROCKINGHAM MEETING HOUSE ASSOCIATION</h3>PO BOX 466 BELLOWS FALLS VT 05101-0466", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2136683309997, 
-                    44.4807480260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHAMPLAIN VALLEY CHAPTER OF THE NATIONAL RAILWAY HISTORICAL</h3>PO BOX 816 BURLINGTON VT 05402-5402", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9986183509997, 
-                    42.8927412310005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT MUSEUM OF NATURAL HISTORY INC</h3>7599 VERMONT ROUTE 9 WEST MARLBORO VT 5363", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8045078649997, 
-                    44.9062457120005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE OPERA HOUSE AT ENOSBURG FALLS VT</h3>PO BOX 1250 ENOSBURG FLS VT 05450-1250", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7724606269996, 
-                    43.0991556950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JAMAICA HISTORICAL FOUNDATION INC</h3>3417 VT ROUTE 30 JAMAICA VT 5343", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7909267919997, 
-                    44.9024072270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE ENOSBURGH HISTORICAL SOCIETY INC</h3>PO BOX 98 ENOSBURG FALLS VT 5450", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0455470379997, 
-                    44.9389071170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HIGHGATE HISTORICAL SOCIETY INC</h3>PO BOX 222 HIGHATE VT 05459-0222", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.3006683739997, 
-                    44.9757266930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ALBURGH HISTORICAL SOCIETY INC</h3>PO BOX 453 ALBURGH VT 05440-0453", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1062380729996, 
-                    43.9735903090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EAST MIDDLEBURY HISTORICAL SOCIETY</h3>PO BOX 694 EAST MIDDLEBURY VT 05740-0694", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.1277385179997, 
-                    43.9937728590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRADFORD ACADEMY WOODS SCHOOL BUILDING PRESERVATION FUND INC</h3>PO BOX 0504 BRADFORD VT 05033-0504", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3771287919997, 
-                    43.8649304140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE MORRILL HOMESTEAD INC</h3>PO BOX 98 STRAFFORD VT 05072-0098", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1497554759997, 
-                    44.4758849420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STARBASE VERMONT INCORPORATED</h3><b><a href=\"http://www.starbasevt.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026605201\" target=\"_blank\">Phone</a><br>105 NCO DR S BURLINGTON VT 05403-5843", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2136683309997, 
-                    44.4807480260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRESERVATION BURLINGTON INC</h3>PO BOX 481 BURLINGTON VT 05402-0481", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1186578759996, 
-                    44.7239970370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GEORGIA HISTORICAL SOCIETY INC</h3>2795B BALLARD ROAD ST ALBANS VT 05478-6108", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5175072249996, 
-                    43.6255032380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WOODSTOCK COMMUNITY TRUST INC</h3>PO BOX 539 WOODSTOCK VT 05091-0539", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5983995979997, 
-                    44.5618891460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ELMORE HISTORICAL SOCIETY</h3><b><a href=\"http://www.elmorehistoricalsociety.org\" target=\"_blank\">Website</a></b><br>PO BOX 123 LAKE ELMORE VT 5657", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0909175839997, 
-                    43.7998205090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE BRANDON TOWN HALL INC</h3>PO BOX 181 BRANDON VT 05733-0181", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6720072979996, 
-                    42.7850668620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GREEN RIVER VILLAGE PRESERVATION TRUST INC</h3>1082 GREEN RIVER ROAD GUILFORD VT 05301-8117", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.1142168609996, 
-                    44.6018389800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHEFFIELD HISTORICAL SOCIETY</h3>PO BOX 441 SHEFFIELD VT 05866-0441", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6668276799996, 
-                    43.0452625300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TOWNSHEND HISTORICAL SOCIETY INC</h3>PO BOX 202 TOWNSHEND VT 05353-0202", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9414321039997, 
-                    43.6707589900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MENDON HISTORICAL SOCIETY INC</h3>472 MEADOWLAKE DR MENDON VT 05701-6750", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0321127739996, 
-                    43.4906651690005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TINMOUTH HISTORICAL AND GENEOLOGY SOCIETY</h3>515 NORTH END ROAD TINMOUTH VT 5773", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8385075319997, 
-                    44.1846923950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTHERN FOREST CANOE TRAIL INC</h3>PO BOX 565 WAITSFIELD VT 05673-0565", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8309689479996, 
-                    44.6438073880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CAMBRIDGE HISTORICAL SOCIETY INC</h3>PO BOX 16 JEFFERSONVLLE VT 05464-0016", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8309689479996, 
-                    44.6438073880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT COVERED BRIDGE SOCIETY INC</h3>PO BOX 97 JEFFERSONVILLE VT 05464-0097", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5386587109996, 
-                    43.6659204780005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>POMFRET HISTORICAL SOCIETY INC</h3>PO BOX 141 SOUTH POMFRET VT 05067-0141", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5014393949996, 
-                    44.1964412890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EIGHTEENTH VERMONT REGIMENT INC</h3>PO BOX 104 BARRE VT 05641-0104", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3994360499996, 
-                    43.5402803020005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HARTLAND NATURE CLUB</h3>PO BOX 98 HARTLAND VT 05048-0098", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7986681779997, 
-                    43.2349524300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LANDGROVE HISTORICAL SOCIETY INC</h3>PO BOX 734 LONDONDERRY VT 05148-0734", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8074494339996, 
-                    43.8746501910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROCHESTER HISTORICAL SOCIETY</h3>PO BOX 428 ROCHESTER VT 05767-0428", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4446681739997, 
-                    43.1346216550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROCKINGHAM ARTS AND MUSEUM PROJECT LTE</h3>7 CANAL STREET BELLOWS FALLS VT 05101-1367", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2973589089996, 
-                    44.7148072700004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GRAND ISLE HISTORICAL SOCIETY INC</h3>ATT SHARON CROTEAU GRAND ISLE VT 5458", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7545967889997, 
-                    43.7102221530005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STOCKBRIDGE-GAYSVILLE HISTORICAL SOCIETY</h3>PO BOX 100 GAYSVILLE VT 05746-0100", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4818148109997, 
-                    43.2976876100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GALLERY AT THE VAULT INCORPORATED</h3><b><a href=\"http://www.galleryatthevault.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8028857111\" target=\"_blank\">Phone</a><br>68 MAIN ST SPRINGFIELD VT 05156-2905", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6084481879997, 
-                    43.1725538070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE NATURE MUSEUM AT GRAFTON INCORPORATED</h3>PO BOX 38 GRAFTON VT 05146-0038", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0493372409996, 
-                    44.2967413940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BENS MILL TRUST LIMITED</h3>PO BOX 50 BARNET VT 05821-0050", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5508768669997, 
-                    44.3701328790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WORCESTER VERMONT HISTORICAL SOCIETY INC</h3>PO BOX 329 WORCESTER VT 05682-0329", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4951174119997, 
-                    44.3751513600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORIC KENTS CORNER INC</h3>PO BX 95 CALAIS VT 05648-0095", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.4213642759996, 
-                    44.0350998180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOUNT INDEPENDENCE STATE HISTORIC SITE</h3>C-O 7305 VT ROUTE 125 ADDISON VT 5491", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5785081629996, 
-                    44.2607715760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOUNT INDEPENDENCE STATE HISTORIC SITE</h3><a href=\"tel:8027592412\" target=\"_blank\">Phone</a><br>NATIONAL LIFE BLDG, SECOND FLOOR MONTPELIER VT 5620", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7232272619996, 
-                    43.5270000820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRESIDENT CALVIN COOLIDGE MUSEUM & EDUCATION CENTER</h3><b><a href=\"http://www.HistoricVermont.org/Coolidge\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026723773\" target=\"_blank\">Phone</a><br>P.O. BOX 247 PLYMOUTH VT 5056", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4442974539996, 
-                    43.1308327290005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROCKINGHAM FREE PUBLIC LIBRARY AND MUSEUM</h3><b><a href=\"http://www.youseemore.com/Rockingham\" target=\"_blank\">Website</a></b><br>65 WESTMINSTER STREET BELLOWS FALLS VT 5101", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6556262559997, 
-                    42.9841630640005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORICAL SOCIETY OF WINDHAM COUNTY INC</h3>PO BOX 246 NEWFANE VT 05345-0246", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0733478049996, 
-                    43.1635403720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MANCHESTER HISTORICAL SOCIETY</h3><b><a href=\"http://manchesterhistoricalsocietyVT.org\" target=\"_blank\">Website</a></b><br>PO BOX 363 MANCHESTER VT 5254", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3824658609997, 
-                    43.8779418310005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STRAFFORD HISTORICAL SOCIETY INC</h3>PO BOX 100 STRAFFORD VT 5072", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6010891569996, 
-                    44.5462688520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MORRISTOWN HISTORICAL SOCIETY INC</h3>PO BOX 696 MORRISVILLE VT 5661", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5840263209997, 
-                    43.4075211210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CAVENDISH HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.cavendishhistoricalsocietynews.b\" target=\"_blank\">Website</a></b><br>PO BOX 472 CAVENDISH VT 5142", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7364154909997, 
-                    43.9909402910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRAINTREE HISTORICAL SOCIETY</h3><a href=\"tel:8027285272\" target=\"_blank\">Phone</a><br>273 WOODCHUCK HOLLOW WEST BRAINTREE VT 05669-9521", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5184983439996, 
-                    43.6259313220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WOODSTOCK HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.woodstockhistorical.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024571822\" target=\"_blank\">Phone</a><br>26 ELM ST WOODSTOCK VT 05091-1024", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6865062089997, 
-                    44.4640284450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STOWE HISTORICAL SOCIETY INC</h3>PO BOX 730 STOWE VT 05672-0730", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6084481879997, 
-                    43.1725538070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GRAFTON HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.graftonvermont.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8028432584\" target=\"_blank\">Phone</a><br>PO BOX 202 GRAFTON VT 05146-0202", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5014393949996, 
-                    44.1964412890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BARRE HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.vermonthistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024798500\" target=\"_blank\">Phone</a><br>PO BOX 496 BARRE VT 05641-0496", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.1657811769996, 
-                    44.8357855530005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ORLEANS COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.oldstonehousemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8027542022\" target=\"_blank\">Phone</a><br>109 OLD STONE HOUSE RD BROWNINGTON VT 05860-4420", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0029065759996, 
-                    43.7072004950004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PITTSFORD VT HISTORICAL SOCIETY INCORPORATED</h3>PO BOX 423 PITTSFORD VT 5763", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2388763739996, 
-                    44.2231070690005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROXEBY MUSEUM INC</h3><b><a href=\"http://www.rokeby.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8028773406\" target=\"_blank\">Phone</a><br>4334 ROUTE 7 FERRISBURGH VT 05456-9779", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5848996669997, 
-                    44.0303820040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORICAL SOCIETY OF BROOKFIELD</h3>PO BOX 447 BROOKFIELD VT 5036", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4950884029997, 
-                    43.3802735910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WEATHERSFIELD HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.weathersfield.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8022635230\" target=\"_blank\">Phone</a><br>PO BOX 126 PERKINSVILLE VT 5151", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.2324574929996, 
-                    43.8204940440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THETFORD HISTORICAL SOCIETY INC</h3>PO BOX 33 THETFORD VT 05074-0033", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5247169959997, 
-                    43.1371227380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SAXTONS RIVER HISTORICAL SOCIETY INC</h3>PO BOX 18 SAXTONS RIVER VT 5154", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5566280409997, 
-                    42.8503941550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRATTLEBORO MUSEUM AND ART CENTER INC</h3><b><a href=\"http://www.brattleboromuseum.org\" target=\"_blank\">Website</a></b><br>10 VERNON ST BRATTLEBORO VT 05301-3389", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9026977139997, 
-                    44.5077286530005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORICAL SOCIETY UNDERHILL</h3><b><a href=\"http://www.underhillvt.gov\" target=\"_blank\">Website</a></b><br>PO BOX 32 UNDERHILL VT 05490-5490", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.3396387269996, 
-                    44.8774383270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ISLE LA MTTE HSTORICAL SOCIETY INC</h3><a href=\"tel:8029283077\" target=\"_blank\">Phone</a><br>PO BOX 18 ISLE LA MOTTE VT 05463-0018", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5234889149996, 
-                    43.4662435530005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>READING HISTORICAL SOCIETY INC</h3>PO BOX 44 READING VT 5062", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9758355919997, 
-                    43.4714866850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WALLINGFORD HISTORICAL SOCIETY INC</h3>75 SCHOOL ST WALLINGFORD VT 05773-4421", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3188057079997, 
-                    43.6498694240005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MAIN STREET MUSEUM</h3><a href=\"tel:8023562776\" target=\"_blank\">Phone</a><br>58 BRIDGE ST WHITE RIVER JUNCITON VT 05001-1909", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7857084409997, 
-                    44.7793566720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BAKERSFIELD HISTORICAL SOCIETY CORP</h3>PO BOX 70 BAKERSFIELD VT 5441", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.1616179209997, 
-                    44.3357142300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PEACHAM HISTORICAL ASSOCIATEION</h3><b><a href=\"http://www.peachamhistorical.org-a.g\" target=\"_blank\">Website</a></b><br>PO BOX 101 PEACHAM VT 05862-5862", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0887264049996, 
-                    44.8095508810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRANKLIN GRAND ISLE WORKFORCE INVESTMENT BOARD INC</h3>20 HOUGHTON STREET ST ALBANS VT 05478-2227", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2904185059996, 
-                    44.8162563060005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTH HERO HISTORICAL SOCIETY</h3>PO BOX 175 NORTH HERO VT 05474-0175", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1635976699997, 
-                    44.4715038110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT WOOD PRODUCTS MARKETING COUNCIL INC</h3>26 AIRPORT PARKWAY SOUTH BURLINGTON VT 05403-5901", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5784893749997, 
-                    44.2608516490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTPELIER HISTORICAL SOCIETY</h3>PO BOX 54 MONTPELIER VT 05601-0054", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7815418149996, 
-                    44.2437307490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DUXBURY HISTORICAL SOCIETY</h3><b><a href=\"http://www.DuxburyVT.com\" target=\"_blank\">Website</a></b><br>804 VT ROUTE 100 SOUTH DUXBURY VT 05660-5660", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2625136349997, 
-                    44.3479829220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HAROLD WESTON FOUNDATION</h3>177 TEN STONES CIR CHARLOTTE VT 05445-9097", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1726485609997, 
-                    44.0068103490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHRISTIAN A. JOHNSON MEMORIAL GALLERY</h3><a href=\"tel:8024435235\" target=\"_blank\">Phone</a><br>MIDDLEBURY COLLEGE MIDDLEBURY VT 5753", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5014393949996, 
-                    44.1964412890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHARLES AND RAY EAMES HOUSE PRESERVATION FOUNDATION INC</h3>PO BOX 452 BARRE VT 05641-0452", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2056240749997, 
-                    44.4681933860005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CURTAINS WITHOUT BORDERS INC</h3>429 SOUTH WILLARD STREET BURLINGTON VT 05401-4022", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5591758269996, 
-                    42.8546341090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DEERFIELD HERITAGE INCORPORATED</h3>PO BOX 1280 BRATTLEBORO VT 05302-1280", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1979481019997, 
-                    42.8766328720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT TROPICAL CONSERVATORY INC</h3>PO BOX 4715 BENNINGTON VT 05201-4715", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5767547129997, 
-                    44.2604361050005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTHEASTERN ANTHROPOLOGICAL ASSOC NEAA</h3>45 STATE ST STE 251 MONTPELIER VT 05602-2946", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7443874379996, 
-                    42.7738324830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HALIFAX HISTORICAL SOCIETY</h3><b><a href=\"http://halifaxvthistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8023682312\" target=\"_blank\">Phone</a><br>PO BOX 94 WEST HALIFAX VT 5358", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9759458169996, 
-                    44.3024705930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HUNTINGTON HISTORICAL AND COMMUNITY TRUST</h3><b><a href=\"http://www.huntingtonhistoricalandcommunity\" target=\"_blank\">Website</a></b><br>PO BOX 147 HUNTINGTON VT 5462", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4432163229997, 
-                    43.1336703540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BELLOWS FALLS HISTORICAL SOCIETY INC</h3>PO BOX 466 BELLOWS FALLS VT 05101-0466", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0134033339996, 
-                    44.9744171390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HOLLAND HISTORICAL SOCIETY INC</h3>120 SCHOOL ROAD DERBY LINE VT 5830", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.3567772389997, 
-                    44.1970453210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LAKE CHAMPLAIN MARITIME MUSEUM AT BASIN HARBOR INCORPORATED</h3><b><a href=\"http://www.lcmm.org\" target=\"_blank\">Website</a></b><br>4472 BASIN HARBOR RD VERGENNES VT 05491-9192", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.1602188289996, 
-                    44.7560066120005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CRYSTAL LAKE FALLS HISTORICAL ASSOCIATION</h3>PO BOX 303 BARTON VT 5822", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.2328282339997, 
-                    44.5459214480005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TOWN OF STANNARD HISTORICAL SOCIETY</h3>41 OLD PASTURE ROAD GREENSBORO BEND VT 5842", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1269477929997, 
-                    44.9219380270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SWANTON HISTORICAL SOCIETY INC</h3><a href=\"tel:8028685436\" target=\"_blank\">Phone</a><br>PO BOX 235 SWANTON VT 5488", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0942659909996, 
-                    44.2434002430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE RYEGATE HISTORICAL SOCIETY INC</h3>PO BOX 366 RYEGATE VT 05042-5042", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0554898329996, 
-                    44.6019370620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTFORD HISTORICAL SOCIETY INC</h3>PO BOX 21 WESTFORD VT 5494", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5758997519997, 
-                    44.2595307680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FOOD WORKS-TWO RIVERS CENTER FOR SUSTAINABILITY</h3>", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2485471169996, 
-                    44.2090442850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FERRISBURG HISTORICAL SOCIETY</h3>PO BOX 85 FERRISBURGH VT 5456", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.2219265969997, 
-                    44.2381036810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GROTON HISTORICAL SOCIETY</h3>PO BOX 89 GROTON VT 5046", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2347991879997, 
-                    44.3156141960005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHARLOTTE HISTORICAL SOCIETY INC</h3><a href=\"tel:8024256420\" target=\"_blank\">Phone</a><br>MUSEUM ROAD CHARLOTTE VT 5445", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6865062089997, 
-                    44.4640284450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT SKI MUSEUM INC</h3>PO BOX 1511 STOWE VT 05672-1511", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4477038159997, 
-                    43.7820898010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHARON HISTORICQAL SOCIETY INC</h3><b><a href=\"http://SHARONVT.NET\" target=\"_blank\">Website</a></b><br>4626 VT ROUTE 14 SHARON VT 5065", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2318189009997, 
-                    44.5082831470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE ETHAN ALLEN HOMESTEAD MUSEUM INC</h3>MUSEUM INC 1 ETHAN ALLEN HOMESTEAD BURLINGTON VT 5408", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2215993929996, 
-                    43.2607511800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RUPERT HISTORICAL SOCIETY</h3>PO BOX 84 RUPERT VT 5768", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.2090074979997, 
-                    44.6795059510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GLOVER HISTORICAL SOCIETY INC</h3>PO BOX 208 GLOVER VT 05839-0208", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7516410749997, 
-                    44.2366259200004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MORETOWN HISTORICAL SOCIETY</h3>800 SOUTH HILL ROAD MORETOWN VT 5660", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5014393949996, 
-                    44.1964412890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT GRANITE MUSEUM OF BARRE INC</h3>PO BOX 282 BARRE VT 05641-0282", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2136683309997, 
-                    44.4807480260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHITTENDEN COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://www.cchsvt.org\" target=\"_blank\">Website</a></b><br>PO BOX 1576 BURLINGTON VT 05402-5402", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8931574109997, 
-                    44.8018768350005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ISLAND POND HISTORICAL SOCIETY INC</h3>PO BOX 408 ISLAND POND VT 5846", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3083864619996, 
-                    43.7138241620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORWICH HISTORICAL SOCIETY</h3><b><a href=\"http://norwichhistory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026490124\" target=\"_blank\">Phone</a><br>PO BOX 1680 NORWICH VT 05055-1680", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2362290259996, 
-                    43.5170717440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>POULTNEY HISTORICAL SOCIETY INC</h3><a href=\"tel:8022872333\" target=\"_blank\">Phone</a><br>PO BOX 605 EAST POULTNEY VT 5741", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9737474779997, 
-                    43.6071015790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RUTLAND HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.rutlandhistory.com\" target=\"_blank\">Website</a></b><br>96 CENTER STREET RUTLAND VT 5701", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4665764769996, 
-                    43.9920720910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHELSEA HISTORICAL SOCIETY INC</h3>PO BOX 56 CHELSEA VT 5038", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0576362009996, 
-                    44.0793738100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NEWBURY HISTORICAL SOCIETY</h3>PO BOX 92 NEWBURY VT 05051-0092", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0825099989996, 
-                    44.8153959950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ST ALBANS HISTORICAL MUSEUM INC</h3><a href=\"tel:8025277793\" target=\"_blank\">Phone</a><br>PO BOX 722 ST ALBANS VT 05478-0722", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9915168959997, 
-                    44.5066572930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JERICHO HISTORICAL SOCIETY INC</h3>PO BOX 35 JERICHO VT 05465-0035", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3861968179996, 
-                    43.4805842730005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORIC WINDSOR INC</h3><b><a href=\"http://historicwindsor.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026746752\" target=\"_blank\">Phone</a><br>PO BOX 1777 WINDSOR VT 05089-1321", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6969486679997, 
-                    43.4162719610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLACK RIVER HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.bramvt.org\" target=\"_blank\">Website</a></b><br>PO BOX 73 LUDLOW VT 5149", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.7262991809997, 
-                    42.8594030220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORICAL SOCIETY OF MARLBORO INC</h3>PO BOX 242 MARLBORO VT 5344", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8800512069997, 
-                    43.4863664220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHREWSBURY HISTORICAL SOCIETY INC</h3><b><a href=\"http://WWW.SHREWSBURYHISTORICALSOCIETY.COM\" target=\"_blank\">Website</a></b><br><a href=\"tel:8024922175\" target=\"_blank\">Phone</a><br>5419 ROUTE 103 CUTTINGSVILLE VT 5738", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0493372409996, 
-                    44.2967413940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BARNET HISTORICAL SOCIETY</h3><a href=\"tel:8026332325\" target=\"_blank\">Phone</a><br>BOX 34 BARNET VT 05821-0034", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0329430569997, 
-                    43.6612763100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROCTOR HISTORICAL SOCIETY INC</h3>4 MAIN STREET PROCTOR VT 05765-1111", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8194560989996, 
-                    43.1800340130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LONDONDERRY HISTORICAL SOCIETY INC</h3>PO BOX 114 SO LONDONDERRY VT 5155", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2022094219997, 
-                    44.3786709740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHELBURNE HISTORICAL SITES COMMITTEE INC</h3>6666 SPEAR STREET SHELBURNE VT 5482", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1482774239997, 
-                    43.3531911720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PAWLETT HISTORICAL SOCIETY</h3><a href=\"tel:8023252406\" target=\"_blank\">Phone</a><br>PO BOX 113 PAWLET VT 5761", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4749087919997, 
-                    43.4645729290005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WEST WINDSOR HISTORICAL SOCIETY</h3><a href=\"tel:8024847474\" target=\"_blank\">Phone</a><br>PO BOX 12 BROWNSVILLE VT 05037-0012", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8055564259997, 
-                    42.7790725600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WHITINGHAM HISTORICAL SOCIETY</h3>PO BOX 125 JACKSONVILLE VT 5342", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5467983129997, 
-                    43.5681733540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GREEN MOUNTAIN PERKINS ACADEMY AND HISTORICAL ASSOCIATION IN</h3><b><a href=\"http://GREENMOUNTAINPERKINSACADEMY.ORG\" target=\"_blank\">Website</a></b><br>PO BOX 143 SOUYH WOODSTOCK VT 5071", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.3052041479996, 
-                    43.7047314410005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTSHIRE MUSEUM OF SCIENCE</h3><b><a href=\"http://www.montshire.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8026492200\" target=\"_blank\">Phone</a><br>1 MONTSHIRE RD NORWICH VT 05055-9334", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1160882009996, 
-                    44.4536873320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WILLISTON HISTORICAL SOCIETY</h3>PO BOX 995 WILLISTON VT 05495-0995", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6646174829996, 
-                    44.1449337290005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTHFIELD HISTORICAL SOCIETY INC</h3>PO BOX 422 NORTHFIELD VT 5663", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6409198229996, 
-                    43.8226820510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BETHEL HISTORICAL SOCIETY</h3><b><a href=\"http://bethelvt.com\" target=\"_blank\">Website</a></b><br>PO BOX 25 BETHEL VT 5032", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2095930319996, 
-                    43.9613028110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CORNWALL HISTORICAL SOCIETY INC</h3><a href=\"tel:8024622775\" target=\"_blank\">Phone</a><br>2629 ROUTE 30 CORNWALL VT 5753", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2050478409997, 
-                    43.4183811760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MODERN WOODMEN OF AMERICA</h3><a href=\"tel:8026450323\" target=\"_blank\">Phone</a><br>PO BOX 648 WELLS VT 05774-0648", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.6824667119997, 
-                    44.4629465390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TOP OF THE COMMON COMMITTEE</h3>PO BOX 195 LUNENBURG VT 05906-0195", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8212361359996, 
-                    43.4153700880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOUNT HOLLY COMMUNITY HISTORICAL MUSEUM INC</h3>PO BOX 17 BELMONT VT 05730-0017", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0813025259997, 
-                    44.4834071270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NWV MODEL RAILROAD ASSOCIATION INC</h3>57 RIVER ROAD UNIT 1011 ESSEX JUNCTION VT 05452-3842", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.4304671039997, 
-                    44.3327976070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT FALLEN HEROES GWOT MEMORIAL FUND INC</h3>1700 MAX GRAY ROAD PLAINFIELD VT 05667-9468", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0659016479996, 
-                    44.8095804920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT STATE POLICE ARCHIVE CENTER AND MUSEUM INC</h3>140 FISHER POND RD ST ALBANS VT 05478-6058", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9228498459996, 
-                    44.6769929480005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FLETCHER HISTORICAL SOCIETY INC</h3>629 FAIRFAX ROAD CAMBRIDGE VT 5444", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1103679359996, 
-                    44.3293533440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HINESBURG HISTORICAL SOCIETY</h3>10632 RTE 116 HINESBURG VT 05461-8501", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9423357799997, 
-                    44.5227164330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERMONT ANTIQUE AUTOMOBILE SOCIETY INC</h3>PO BOX 180 UNDERHILL VT 05489-0180", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6219394289997, 
-                    43.5869022100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRIDGEWATER HISTORICAL SOCIETY INC</h3>PO BOX 98 BRIDGEWATER VT 05034-0098", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.5238770029997, 
-                    43.3327628460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTH SCHOOL PRESERVATION SOCIETY INC</h3>PO BOX 114 NORTH SPRINGFIELD VT 05150-0114", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.8236472539996, 
-                    44.1897031660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MADSONIAN CORPORATION</h3>45 BRIDGE STREET WAITSFIELD VT 05673-6035", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2427581429997, 
-                    42.9322532860005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF HILAND HALL GARDEN INC</h3>PO BOX 21 NORTH BENNINGTON VT 05257-0021", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.2060570239997, 
-                    43.9261661170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WEST FAIRLEE HISTORICAL SOCIETY INC</h3>1874 BLOOD BROOK ROAD FAIRLEE VT 05045-9816", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1239578519996, 
-                    44.2539230370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONKTON MUSEUM & HISTORICAL SOCIETY INC</h3>280 MONKTON RIDGE NORTH FERRISBURG VT 05473-6016", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.1406859069996, 
-                    44.4132284920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DANVILLE HISTORICAL SOCIETY</h3><a href=\"tel:8026843840\" target=\"_blank\">Phone</a><br>121 HILL ST BOX 274 DANVILLE VT 05828-0274", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9523466729996, 
-                    43.6976824670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHITTENDEN HISTORICAL SOCIETY</h3>PO BOX 89 CHITTENDEN VT 05737-0089", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.2535808179996, 
-                    44.1672361010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BIXBY LIBRARY</h3><b><a href=\"http://www.bixbylibrary.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8028772211\" target=\"_blank\">Phone</a><br>258 MAIN ST VERGENNES VT 05491-1056", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.9820187149996, 
-                    43.6077234760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WONDERFEET KIDS MUSEUM</h3>PO BOX 6243 RUTLAND VT 05702-6243", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.3105198309996, 
-                    43.8941738010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHOREHAM HISTORICAL SOCIETY INC</h3>PO BOX 156 SHOREHAM VT 5779", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.2324574929996, 
-                    43.8204940440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PARISH PLAYERS INC</h3><a href=\"tel:8027854344\" target=\"_blank\">Phone</a><br>PO BOX 136 THETFORD VT 05074-0136", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0733463829997, 
-                    43.1635335770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF HILDENE INC</h3><b><a href=\"http://www.hildene.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8023621788\" target=\"_blank\">Phone</a><br>PO BOX 377 MANCHESTER VT 05254-0377", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.0145163679996, 
-                    44.9131759950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MORGAN HISTORICAL SOCIETY INC</h3>PO BOX 113 MORGAN VT 05853-0113", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.1518897829997, 
-                    44.4362759170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHITTENDEN PLANETARIUM INC</h3>26 KNOLL CIRCLE SOUTH BURLIN VT 5403", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -72.6937341069997, 
-                    42.8903869280005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TASHA TUDOR MUSEUM INC</h3>535 RAVEN ROAD STE 2 MARLBORO VT 05301-7959", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.0789861999996, 
-                    44.5082475650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CENTRAL VERMONT RAILWAY HISTORICAL SOCIETY INC</h3>PO BOX 8672 ESSEX VT 05451-8672", 
-                "marker-color": "#0058D8", 
+                "": "<h4>PUPPETREE INC</h4><b>Phone:</b> <a href=\"tel:8027853031\" target=\"_blank\">8027853031</a><br>PO BOX 130 POST MILLS VT 05058-0130", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4269,8 +23,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>YOUTH SAFETY COUNCIL OF VERMONT INC</h3>PO BOX 991 MIDDLEBURY VT 05753-0991", 
-                "marker-color": "#B400BF", 
+                "": "<h4>YOUTH SAFETY COUNCIL OF VERMONT INC</h4>PO BOX 991 MIDDLEBURY VT 05753-0991", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4278,14 +31,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.5741632249997, 
-                    42.8998373320005
+                    -73.0789861999996, 
+                    44.5082475650005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>GOODENOUGH FARMSTEAD TRUST INC</h3>125 EAST ORCHARD ROAD DUMMERSTON VT 05301-8893", 
-                "marker-color": "#007321", 
+                "": "<h4>CENTRAL VERMONT RAILWAY HISTORICAL SOCIETY INC</h4>PO BOX 8672 ESSEX VT 05451-8672", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4293,14 +45,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.5990586309997, 
-                    44.0394041050005
+                    -73.1518897829997, 
+                    44.4362759170005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>BROOKFIELD COMMUNITY PARTNERSHIP INC</h3>PO BOX 452 BROOKFIELD VT 05036-0452", 
-                "marker-color": "#0093BF", 
+                "": "<h4>CHITTENDEN PLANETARIUM INC</h4>26 KNOLL CIRCLE SOUTH BURLIN VT 5403", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4308,14 +59,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.0461131729996, 
-                    44.3697393410005
+                    -72.0145163679996, 
+                    44.9131759950005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>ST JOHNSBURY RAILROAD HERITAGE SOCIETY INC</h3>839 TRIPP LANE ST JOHNSBURY VT 05819-8507", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MORGAN HISTORICAL SOCIETY INC</h4>PO BOX 113 MORGAN VT 05853-0113", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4323,14 +73,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.6219394289997, 
-                    43.5869022100005
+                    -73.1239578519996, 
+                    44.2539230370005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>SPRINGFIELD VILLAGE PARK FOUNDATION INC</h3>PO BOX 16838 FERNANDINA VT 05034-0014", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MONKTON MUSEUM & HISTORICAL SOCIETY INC</h4>280 MONKTON RIDGE NORTH FERRISBURG VT 05473-6016", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4338,14 +87,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.0946470219997, 
-                    44.4997077730005
+                    -73.2427581429997, 
+                    42.9322532860005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>FRIENDS OF THE FERRISBURGH GRANGE HALL INC</h3>76 LICOLN ST ESSEX JCT VT 5452", 
-                "marker-color": "#0093BF", 
+                "": "<h4>FRIENDS OF HILAND HALL GARDEN INC</h4>PO BOX 21 NORTH BENNINGTON VT 05257-0021", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4353,14 +101,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.7900172729996, 
-                    43.0404743350005
+                    -72.8236472539996, 
+                    44.1897031660005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>WARDSBORO HISTORY GROUP LIMITED</h3>PO BOX 33 WARDSBORO VT 05355-0033", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MADSONIAN CORPORATION</h4>45 BRIDGE STREET WAITSFIELD VT 05673-6035", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4368,14 +115,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.0434092959997, 
-                    43.5928418330005
+                    -72.5238770029997, 
+                    43.3327628460005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>WEST RUTLAND HISTORICAL SOCIETY INC</h3>PO BOX 385 WEST RUTLAND VT 05777-0385", 
-                "marker-color": "#0093BF", 
+                "": "<h4>NORTH SCHOOL PRESERVATION SOCIETY INC</h4>PO BOX 114 NORTH SPRINGFIELD VT 05150-0114", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4383,14 +129,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.3517470519997, 
-                    43.9596718790005
+                    -73.0659016479996, 
+                    44.8095804920005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>BRIDPORT HISTORICAL SOCIETY INC</h3>3177 CROWN POINT ROAD BRIDPORT VT 5734", 
-                "marker-color": "#0093BF", 
+                "": "<h4>VERMONT STATE POLICE ARCHIVE CENTER AND MUSEUM INC</h4>140 FISHER POND RD ST ALBANS VT 05478-6058", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4398,14 +143,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.5591758269996, 
-                    42.8546341090005
+                    -72.8212361359996, 
+                    43.4153700880005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>FLOW OF HISTORY INC</h3>PO BOX 300 BRATTLEBORO VT 05302-0300", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MOUNT HOLLY COMMUNITY HISTORICAL MUSEUM INC</h4>PO BOX 17 BELMONT VT 05730-0017", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4413,14 +157,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.1262141519996, 
-                    44.3751899940005
+                    -72.3052041479996, 
+                    43.7047314410005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>ST GEORGE HISTORIC AND CONSERVATION TRUST INC</h3>494 HEMLOCK ROAD SAINT GEORGE VT 5495", 
-                "marker-color": "#007321", 
+                "": "<h4>MONTSHIRE MUSEUM OF SCIENCE</h4><b>Website:</b> <a href=\"http://www.montshire.org\" target=\"_blank\">http://www.montshire.org</a><br><b>Phone:</b> <a href=\"tel:8026492200\" target=\"_blank\">8026492200</a><br>1 MONTSHIRE RD NORWICH VT 05055-9334", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4428,14 +171,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.2613170189996, 
-                    43.8841918230005
+                    -73.0825099989996, 
+                    44.8153959950005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>PUPPETREE INC</h3><a href=\"tel:8027853031\" target=\"_blank\">Phone</a><br>PO BOX 130 POST MILLS VT 05058-0130", 
-                "marker-color": "#CABA00", 
+                "": "<h4>ST ALBANS HISTORICAL MUSEUM INC</h4><b>Phone:</b> <a href=\"tel:8025277793\" target=\"_blank\">8025277793</a><br>PO BOX 722 ST ALBANS VT 05478-0722", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4443,14 +185,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.9339714889996, 
-                    43.6492842220005
+                    -72.5014393949996, 
+                    44.1964412890005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>DIMENSIONS OF MARBLE INC</h3>485 ESQUILINE HILL MENDON VT 05701-6867", 
-                "marker-color": "#0093BF", 
+                "": "<h4>VERMONT GRANITE MUSEUM OF BARRE INC</h4>PO BOX 282 BARRE VT 05641-0282", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4458,14 +199,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -72.2010564469996, 
-                    44.9463359720005
+                    -72.5758997519997, 
+                    44.2595307680005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>AHA ABENAKI HELPING ABENAKI</h3>308 UNION ST 1 NEWPORT VT 05860-9639", 
-                "marker-color": "#007321", 
+                "": "<h4>FOOD WORKS-TWO RIVERS CENTER FOR SUSTAINABILITY</h4>", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4473,14 +213,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.0144402379996, 
-                    44.1639327830005
+                    -73.1979481019997, 
+                    42.8766328720005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>STARKSBORO HISTORICAL SOCIETY</h3>170 DAN SARGENT BRISTOL VT 5443", 
-                "marker-color": "#0093BF", 
+                "": "<h4>VERMONT TROPICAL CONSERVATORY INC</h4>PO BOX 4715 BENNINGTON VT 05201-4715", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4488,14 +227,405 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.0870780219997, 
-                    43.2480203130005
+                    -73.1726485609997, 
+                    44.0068103490005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>ROBERT AND DIETRA DAVIS MUSEUM</h3>PO BOX 454 DORSET VT 5251", 
-                "marker-color": "#007321", 
+                "": "<h4>CHRISTIAN A. JOHNSON MEMORIAL GALLERY</h4><b>Phone:</b> <a href=\"tel:8024435235\" target=\"_blank\">8024435235</a><br>MIDDLEBURY COLLEGE MIDDLEBURY VT 5753", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.2625136349997, 
+                    44.3479829220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HAROLD WESTON FOUNDATION</h4>177 TEN STONES CIR CHARLOTTE VT 05445-9097", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.1635976699997, 
+                    44.4715038110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VERMONT WOOD PRODUCTS MARKETING COUNCIL INC</h4>26 AIRPORT PARKWAY SOUTH BURLINGTON VT 05403-5901", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5566280409997, 
+                    42.8503941550005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BRATTLEBORO MUSEUM AND ART CENTER INC</h4><b>Website:</b> <a href=\"http://www.brattleboromuseum.org\" target=\"_blank\">http://www.brattleboromuseum.org</a><br>10 VERNON ST BRATTLEBORO VT 05301-3389", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.4951174119997, 
+                    44.3751513600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORIC KENTS CORNER INC</h4>PO BX 95 CALAIS VT 05648-0095", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.0493372409996, 
+                    44.2967413940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BENS MILL TRUST LIMITED</h4>PO BOX 50 BARNET VT 05821-0050", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.6084481879997, 
+                    43.1725538070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE NATURE MUSEUM AT GRAFTON INCORPORATED</h4>PO BOX 38 GRAFTON VT 05146-0038", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.1497554759997, 
+                    44.4758849420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>STARBASE VERMONT INCORPORATED</h4><b>Website:</b> <a href=\"http://www.starbasevt.org\" target=\"_blank\">http://www.starbasevt.org</a><br><b>Phone:</b> <a href=\"tel:8026605201\" target=\"_blank\">8026605201</a><br>105 NCO DR S BURLINGTON VT 05403-5843", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.0455470379997, 
+                    44.9389071170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HIGHGATE HISTORICAL SOCIETY INC</h4>PO BOX 222 HIGHATE VT 05459-0222", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.9986183509997, 
+                    42.8927412310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VERMONT MUSEUM OF NATURAL HISTORY INC</h4>7599 VERMONT ROUTE 9 WEST MARLBORO VT 5363", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.2254997809997, 
+                    44.3743040840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ANTHRPSOPHICAL ARTS COUNCIL VT</h4><b>Phone:</b> <a href=\"tel:8029854023\" target=\"_blank\">8029854023</a><br>PO BOX 638 SHELBURNE VT 05482-0638", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.2203794499997, 
+                    44.4767815400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LAKE CHAMPLAIN BASIN SCIENCE CENTER INC</h4><b>Website:</b> <a href=\"http://www.echovermont.org\" target=\"_blank\">http://www.echovermont.org</a><br><b>Phone:</b> <a href=\"tel:8028641848\" target=\"_blank\">8028641848</a><br>1 COLLEGE ST BURLINGTON VT 05401-5215", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.3866107859997, 
+                    44.3339654360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VERMONT ENTOMOLOGICAL SOCIETY</h4>630 BEAVER MEADOW RD MARSHFIELD VT 05658-7146", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.8888066729996, 
+                    44.4288382470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CONCORD HISTORICAL SOCIETY</h4>PO BOX 301 CONCORD VT 05824-0301", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.3177631009996, 
+                    43.6486736560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NEW ENGLAND TRANSPORTATION INSTITUTE & MUSEUM A NONPRFT CORP</h4><b>Website:</b> <a href=\"http://www.newenglandtransportationmuseum.\" target=\"_blank\">http://www.newenglandtransportationmuseum.</a><br><b>Phone:</b> <a href=\"tel:8022919838\" target=\"_blank\">8022919838</a><br>100 RAILROAD ROW WHITE RIV JCT VT 5001", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.0066752479996, 
+                    44.3515148310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BIRDS OF VERMONT MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.birdsofvermont.org\" target=\"_blank\">http://www.birdsofvermont.org</a><br><b>Phone:</b> <a href=\"tel:8024342167\" target=\"_blank\">8024342167</a><br>900 SHERMAN HOLLOW RD HUNTINGTON VT 05462-9420", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.3857666619996, 
+                    43.4810622240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AMERICAN PRECISION MUSEUM ASSOCIATION</h4><b>Website:</b> <a href=\"http://www.americanprecision.org\" target=\"_blank\">http://www.americanprecision.org</a><br>PO BOX 679 WINDSOR VT 05089-0679", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.9820187149996, 
+                    43.6077234760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>RUTLAND AREA ART ASSOCIATION</h4><b>Website:</b> <a href=\"http://www.chaffeeartcenter.org\" target=\"_blank\">http://www.chaffeeartcenter.org</a><br><b>Phone:</b> <a href=\"tel:8027750356\" target=\"_blank\">8027750356</a><br>PO BOX 1447 RUTLAND VT 05701-1447", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5748928209997, 
+                    44.2573234770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TRUSTEES OF THE WOOD ART GALLERY</h4>46 BARRE ST MONTPELIER VT 05602-3508", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.1696488189996, 
+                    44.0125095740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SHELDON ART MUSEUM ARCHAEOLOGICAL AND HISTORICAL SOCIETY</h4><b>Website:</b> <a href=\"http://henrysheldonmuseum.org\" target=\"_blank\">http://henrysheldonmuseum.org</a><br>HISTORICAL SOCIETY INC 1 PARK STREE MIDDLEBURY VT 5753", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.2097375289997, 
+                    42.8835244590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BENNINGTON MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.benningtonmuseum.org\" target=\"_blank\">http://www.benningtonmuseum.org</a><br>75 MAIN ST BENNINGTON VT 05201-2827", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.0201520999996, 
+                    44.4203006010005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FAIRBANKS MUSEUM AND PLANETARIUM</h4><b>Website:</b> <a href=\"http://www.fairbanksmuseum.org\" target=\"_blank\">http://www.fairbanksmuseum.org</a><br><b>Phone:</b> <a href=\"tel:8027482372\" target=\"_blank\">8027482372</a><br>1302 MAIN ST ST JOHNSBURY VT 05819-2248", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.0209480229997, 
+                    44.4184339720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ST JOHNSBURY ATHENAEUM INC</h4><b>Website:</b> <a href=\"http://www.stjathenaeum.org\" target=\"_blank\">http://www.stjathenaeum.org</a><br><b>Phone:</b> <a href=\"tel:8027488291\" target=\"_blank\">8027488291</a><br>1171 MAIN ST ST JOHNSBURY VT 05819-2687", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5565889559996, 
+                    42.8503041400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THE ORGANIC CENTER INC</h4>28 VERNON STREET BRATTLEBORO VT 05301-3666", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.0760840169996, 
+                    44.5770868170005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>POORE FAMILY FOUNDATION FOR NORTH COUNTRY CONSERVANCY</h4>201 ROLLIN IRISH RD WESTFORD VT 05494-9799", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5518453949996, 
+                    44.0893185340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VERMONT OUTDOOR DISCOVERY CENTER INC</h4>4785 VT RT 14 WILLIAMSTOWN VT 05679-9770", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5662501839997, 
+                    42.8475563100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ESTEY ORGAN MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.esteyorganmuseum.org\" target=\"_blank\">http://www.esteyorganmuseum.org</a><br>108 BIRGE STREET BRATTLEBORO VT 05301-6460", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5815279429996, 
+                    44.2633916140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>T. W. WOOD ART GALLERY</h4><b>Phone:</b> <a href=\"tel:8028288743\" target=\"_blank\">8028288743</a><br>VERMONT COLLEGE ARTS CENTER MONTPELIER VT 5602", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.5396290549996, 
+                    43.6202916950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>VERMONT INSTITUTE OF NATURAL SCIENCE</h4><b>Phone:</b> <a href=\"tel:8023595000\" target=\"_blank\">8023595000</a><br>", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"

@@ -3,3779 +3,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -113.305296207, 
-                    37.1602504880005
+                    -111.88385072, 
+                    40.7607581340005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>ZION HUMAN HISTORY MUSEUM</h3><a href=\"tel:4357723256\" target=\"_blank\">Phone</a><br>ZION NATIONAL PARK SPRINGDALE UT 84737", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.712318274, 
-                    40.2748666990005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UVSC WOODBURY ART MUSEUM</h3><a href=\"tel:8014266199\" target=\"_blank\">Phone</a><br>800 WEST UNIVERSITY PKWY MAIL STOP 256 OREM UT 84058", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.839955386, 
-                    40.7618739400005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH MUSEUM OF FINE ARTS</h3><b><a href=\"http://www.umfa.utah.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8015817332\" target=\"_blank\">Phone</a><br>410 S CAMPUS CENTER DR SALT LAKE CITY UT 84112", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.456797001, 
-                    40.5866108440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH FIREFIGHTERS MUSEUM</h3><a href=\"tel:4358434040\" target=\"_blank\">Phone</a><br>444 QUIRK ST GRANTSVILLE UT 84029", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.873371065, 
-                    40.7693877430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH ARTS COUNCIL</h3>617 EAST SOUTH TEMPLE SALT LAKE CITY UT 84102", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.904177124, 
-                    40.7627616870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH STATE HISTORICAL SOCIETY</h3><a href=\"tel:8015333500\" target=\"_blank\">Phone</a><br>300 RIO GRANDE SALT LAKE CITY UT 84101-1182", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.509269258, 
-                    37.1302976600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WASHINGTON CITY MUSEUM</h3><a href=\"tel:4359864228\" target=\"_blank\">Phone</a><br>25 E TELEGRAPH ST WASHINGTON UT 84780", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.681649505, 
-                    40.2734979640005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WOODBURY ART MUSEUM</h3><b><a href=\"http://www.uvu.edu/museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:8018636200\" target=\"_blank\">Phone</a><br>575 E UNIVERSITY PKWY OREM UT 84097", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.816606817, 
-                    40.7508373260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH'S HOGLE ZOO</h3><a href=\"tel:8015821631\" target=\"_blank\">Phone</a><br>2600 EAST SUNNYSIDE AVENUE SALT LAKE CITY UT 84108", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.854706594, 
-                    39.6827429010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERN MINING AND RAILROAD MSM</h3><b><a href=\"http://www.wmrrm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4354723009\" target=\"_blank\">Phone</a><br>294 S MAIN ST HELPER UT 84526", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.836836423, 
-                    41.7352414740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH STATE UNIVERSITY'S MUSEUM OF ANTHROPOLOGY</h3><a href=\"tel:4357971496\" target=\"_blank\">Phone</a><br>0730 OLD MAIN HALL LOGAN UT 84322", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.084689865, 
-                    40.6883942630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH SOCIETY SONS-AMER RVLTN</h3><a href=\"tel:8012507733\" target=\"_blank\">Phone</a><br>3844 S DANBURY CIR MAGNA UT 84044", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.017677225, 
-                    37.1621907160005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ZION NATIONAL PARK</h3><b><a href=\"http://www.nps.gov/zion/index.htm\" target=\"_blank\">Website</a></b><br><a href=\"tel:4357723256\" target=\"_blank\">Phone</a><br>HIGHWAY 9 SPRINGDALE UT 84767", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.885230557, 
-                    40.4252279340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERN PALEONTOLOGICAL LABS</h3><b><a href=\"http://www.westernpaleolabs.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014374878\" target=\"_blank\">Phone</a><br>2929 THANKSGIVING WAY LEHI UT 84043", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.884249123, 
-                    40.7607827450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH ARTS-FOLK ARTS PROGRAM</h3><a href=\"tel:8015335760\" target=\"_blank\">Phone</a><br>1150 S CONSTITUTION DR SALT LAKE CITY UT 84111", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.945449493, 
-                    40.6094628420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WEST JORDAN HISTORICAL SOCIETY PUMPKIN WALK</h3><a href=\"tel:8015680938\" target=\"_blank\">Phone</a><br>2053 W 7800 S WEST JORDAN UT 84088", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.061475785, 
-                    41.0887947030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SYRACUSE CITY MUSEUM</h3><a href=\"tel:8018253633\" target=\"_blank\">Phone</a><br>1726 HERITAGE LN SYRACUSE UT 84075", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.972051332, 
-                    41.2269429220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TREE HOUSE CHILDREN'S MUSEUM</h3><b><a href=\"http://www.treehousemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8013949663\" target=\"_blank\">Phone</a><br>347 E 22ND ST OGDEN UT 84401", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.885877246, 
-                    40.5927816180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SANDY MUSEUM</h3><a href=\"tel:8015660878\" target=\"_blank\">Phone</a><br>8744 S CENTER ST SANDY UT 84070", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.583343417, 
-                    37.1069114930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ST. GEORGE ART MUSEUM</h3>86 SOUTH MAIN STREET ST. GEORGE UT 84770", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.824796808, 
-                    40.7627865890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RED BUTTE GARDEN AND ARBORETUM</h3><a href=\"tel:8015813878\" target=\"_blank\">Phone</a><br>300 WAKARA WAY SALT LAKE CITY UT 84108", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.002486779, 
-                    41.2445892950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OGDEN NATURE CENTER</h3><a href=\"tel:8016217595\" target=\"_blank\">Phone</a><br>966 WEST 12TH STREET OGDEN UT 84404", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.723412569, 
-                    40.0435578870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PETEETNEET MUSEUM & CULTURAL ARTS CENTER</h3><b><a href=\"http://www.peteetneetacademy.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014655265\" target=\"_blank\">Phone</a><br>10 NORTH 600 EAST PAYSON UT 84651", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.688958366, 
-                    40.2834843250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OREM HERITAGE MUSEUM</h3><b><a href=\"http://www.scera.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8012252569\" target=\"_blank\">Phone</a><br>745 S STATE ST OREM UT 84058", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.364532042, 
-                    37.2347969310005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PIONEER CORNER MUSEUM</h3><a href=\"tel:4356357153\" target=\"_blank\">Phone</a><br>95 S MAIN ST HURRICANE UT 84737", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.835079711, 
-                    37.8442108380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PAROWAN MEETINGHOUSE</h3>100 SOUTH ST PAROWAN UT 84761", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.583485546, 
-                    37.0755104270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROSENBRUCH WORLD WILDLIFE MSM</h3><b><a href=\"http://www.rosenbruch.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4356560033\" target=\"_blank\">Phone</a><br>1835 S CONVENTION CENTER DR SAINT GEORGE UT 84790", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.66858073, 
-                    40.2270880590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROVO PIONEER MUSEUM</h3><a href=\"tel:8018526609\" target=\"_blank\">Phone</a><br>560 W 500 S PROVO UT 84601", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.939892682, 
-                    41.1951714680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OTT PLANETARIUM</h3><a href=\"tel:8016266871\" target=\"_blank\">Phone</a><br>1551 EDVALSON ST OGDEN UT 84408", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.978914838, 
-                    41.2206847920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OGDEN UNION STATION</h3>2501 WALL AVENUE OGDEN UT 84401", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.197309268, 
-                    37.7017811550004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PAUNSAGAUNT WESTER WILD</h3><b><a href=\"http://www.brycecanyonwildlifemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4358345555\" target=\"_blank\">Phone</a><br>1940 W STATE HIGHWAY 12 BRYCE UT 84764", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.723485055, 
-                    40.0432407080005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PETEETNEET ACADEMY AND MUSEUM</h3><b><a href=\"http://www.historicalutah.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014659427\" target=\"_blank\">Phone</a><br>10 S 600 E PAYSON UT 84651", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.937134843, 
-                    40.5114561060005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RIVERTON ART MUSEUM</h3><a href=\"tel:8012533020\" target=\"_blank\">Phone</a><br>1640 W 13200 S RIVERTON UT 84065", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.398799038, 
-                    40.5033324790004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROCK CLIFF NATURE CENTER</h3><a href=\"tel:4357823030\" target=\"_blank\">Phone</a><br>SR 319 #515 BOX 4 HERBER CITY UT 84032", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.940125894, 
-                    40.7259140760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF CHURCH HISTORY AND ART</h3><b><a href=\"http://lds.org/placestovisit/eng/historical-sites/museum-of-church-history-and-art\" target=\"_blank\">Website</a></b><br><a href=\"tel:8012404615\" target=\"_blank\">Phone</a><br>SALT LK SALT LAKE CITY UT 84150", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.548320615, 
-                    38.5732436920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF MOAB</h3><b><a href=\"http://www.moabmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4352597985\" target=\"_blank\">Phone</a><br>118 E CENTER ST MOAB UT 84532", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.427803877, 
-                    37.0243574520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOQUI CAVE</h3><b><a href=\"http://www.moquicave.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4356448525\" target=\"_blank\">Phone</a><br>4518 N HIGHWAY 89 KANAB UT 84741", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.656720089, 
-                    40.2429957770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF PEOPLES AND CULTURES</h3><b><a href=\"http://mpc.byu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014220020\" target=\"_blank\">Phone</a><br>100 E 700 N PROVO UT 84602", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.886070304, 
-                    40.7563379180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM FOR SPEED</h3><a href=\"tel:8019060157\" target=\"_blank\">Phone</a><br>165 E 600 S SALT LAKE CITY UT 84111", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.647475324, 
-                    40.2529993940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTE L BEAN SCIENCE MUSEUM</h3><b><a href=\"http://mlbean.byu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014225051\" target=\"_blank\">Phone</a><br>645 E 1430 N PROVO UT 84602", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.804587295, 
-                    41.7473219610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORA ECCLES HARRISON MUSEUM OF ART</h3><b><a href=\"http://artmuseum.usu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:4357970163\" target=\"_blank\">Phone</a><br>650 N 1100 E LOGAN UT 84321", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.910254763, 
-                    40.6112418250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MIDVALE CITY MUSEUM</h3><b><a href=\"http://www.midvalecity.info\" target=\"_blank\">Website</a></b><br><a href=\"tel:8015698040\" target=\"_blank\">Phone</a><br>7697 S MAIN ST MIDVALE UT 84047", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.006813752, 
-                    41.2391494470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM ARTS</h3><b><a href=\"http://www.museumarts.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:8013923289\" target=\"_blank\">Phone</a><br>1618 S 1100 W OGDEN UT 84404", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.856468082, 
-                    41.6341094500005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HYRUM MUSEUM</h3><b><a href=\"http://www.hyrumlibrary.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4352450208\" target=\"_blank\">Phone</a><br>50 W MAIN ST HYRUM UT 84319", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.836836423, 
-                    41.7352414740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INTERMOUNTAIN HERBARIUM</h3><b><a href=\"http://www.herbarium.usu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:4357970061\" target=\"_blank\">Phone</a><br>5305 OLD MAIN HL LOGAN UT 84322", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.288741845, 
-                    37.1765504560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HURRICANE VALLEY PIONEER HERITAGE PARK</h3><a href=\"tel:4356353245\" target=\"_blank\">Phone</a><br>35 W STATE ST HURRICANE UT 84737", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.494117576, 
-                    37.5262509910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HUCK'S MUSEUM AND TRADING POST</h3><a href=\"tel:4356782329\" target=\"_blank\">Phone</a><br>S HIGHWAY 191 BLANDING UT 84511", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.526480184, 
-                    37.0477703390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>KANAB HERITAGE MUSEUM</h3><a href=\"tel:4356443966\" target=\"_blank\">Phone</a><br>13 S 100 E KANAB UT 84741", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.528505894, 
-                    37.0419715010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>KANAB HERITAGE COUNCIL</h3><a href=\"tel:4356443506\" target=\"_blank\">Phone</a><br>355 SOUTH MAIN STREET KANAB UT 84741", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.666799219, 
-                    37.1390300890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JACOB HAMBLIN HOUSE</h3>US HIGHWAY 91 SANTA CLARA UT 84765", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.020846674, 
-                    41.1616441470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HILL AEROSPACE MUSEUM</h3><b><a href=\"http://www.hill.af.mil/library/museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:8017740956\" target=\"_blank\">Phone</a><br>7961 WARDLEIGH RD HILL AFB UT 84056", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.061956505, 
-                    37.6883522770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRONTIER HOMESTEAD STATE PARK</h3><a href=\"tel:8015869290\" target=\"_blank\">Phone</a><br>635 NORTH MAIN CEDAR CITY UT 84721", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.478058931, 
-                    38.5885710380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FREMONT INDIAN STATE PARK</h3><a href=\"tel:8015274631\" target=\"_blank\">Phone</a><br>11550 CLEAR CREEK CANYON ROAD SEVIER UT 84766-9999", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.418985484, 
-                    39.5435187800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EAST CARBON CITY MUSEUM</h3><b><a href=\"http://castlecountry.com/Attraction-East-Carbon-City-Museum\" target=\"_blank\">Website</a></b><br><a href=\"tel:4358880262\" target=\"_blank\">Phone</a><br>127 E WHITMORE DR EAST CARBON UT 84520", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.524811271, 
-                    40.4557880700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DINOSAUR GARDENS</h3><a href=\"tel:4357893799\" target=\"_blank\">Phone</a><br>235 E MAIN ST VERNAL UT 84078", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.649736141, 
-                    40.2523128210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EARTH SCIENCE MUSEUM</h3><a href=\"tel:8013782321\" target=\"_blank\">Phone</a><br>BRIGHAM YOUNG UNIVERSITY PROVO UT 84602", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.610535186, 
-                    40.1643107990005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DUP MUSEUM-HISTORICAL SCTY</h3><a href=\"tel:8014912076\" target=\"_blank\">Phone</a><br>175 S MAIN ST SPRINGVILLE UT 84663", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.488119331, 
-                    37.6308974920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EDGE OF CEDARS MUSEUM</h3><b><a href=\"http://stateparks.utah.gov/parks/goosenecks\" target=\"_blank\">Website</a></b><br><a href=\"tel:4356782238\" target=\"_blank\">Phone</a><br>660 W 400 N BLANDING UT 84511", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.873777773, 
-                    40.7416454520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHASE HOME-MUSEUM OF UTAH FOLK ARTS</h3><a href=\"tel:8015335760\" target=\"_blank\">Phone</a><br>600 E 1300 S SALT LAKE CITY UT 84105", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.732306702, 
-                    40.0426506180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FANTASY ACRES MINIATURES</h3><a href=\"tel:8014654450\" target=\"_blank\">Phone</a><br>96 S MAIN ST PAYSON UT 84651", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.969140053, 
-                    41.2269476600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAUGHTERS OF UT PIONEERS MSM</h3><a href=\"tel:8013934460\" target=\"_blank\">Phone</a><br>440 E 22ND ST OGDEN UT 84401", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.899804296, 
-                    40.7880628290005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHILDREN'S MUSEUM OF UTAH</h3><a href=\"tel:8013225268\" target=\"_blank\">Phone</a><br>840 N BECK ST SALT LAKE CITY UT 84103", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.834864578, 
-                    41.7344528190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAUGHTERS OF UTAH</h3><b><a href=\"http://www.dupinternational.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4357525139\" target=\"_blank\">Phone</a><br>160 N MAIN ST LOGAN UT 84321", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.488119331, 
-                    37.6308974920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EDGE OF CEDARS INDIAN RUIN</h3><a href=\"tel:4356782238\" target=\"_blank\">Phone</a><br>660 W 400 N BLANDING UT 84511", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.902681385, 
-                    40.7668744200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CLARK PLANETARIUM</h3><b><a href=\"http://clarkplanetarium.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014567827\" target=\"_blank\">Phone</a><br>110 S 400 W SALT LAKE CITY UT 84101", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.726026962, 
-                    40.7801753440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EMIGRATION CYN HISTORICAL SOC</h3><a href=\"tel:8015834833\" target=\"_blank\">Phone</a><br>6463 E EMIGRATION CANYON RD SALT LAKE CITY UT 84108", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.973120764, 
-                    41.2276298520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAUGHTERS OF UTAH PIONEERS MUSEUM</h3><a href=\"tel:8013934460\" target=\"_blank\">Phone</a><br>2148 GRANT AVE OGDEN UT 84401", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.861261358, 
-                    40.5252483740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DRAPER HISTORICAL SOCIETY</h3><b><a href=\"http://www.draperhistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014953476\" target=\"_blank\">Phone</a><br>1054 E PIONEER RD DRAPER UT 84020", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.42424473, 
-                    37.9110213670004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ANASAZI STATE PARK</h3><a href=\"tel:8013357308\" target=\"_blank\">Phone</a><br>460 NORTH HIGHWAY 12 BOULDER UT 84716-1429", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.901420394, 
-                    40.7541280490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ANTIQUE CLASSIC SPECIAL INTEREST AUTOMOBILE MUSEUMS</h3><a href=\"tel:8013225186\" target=\"_blank\">Phone</a><br>355 W 700 S SALT LAKE CITY UT 84101", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.297805415, 
-                    40.6499554360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BENSON GRIST MILL</h3><b><a href=\"http://www.bensonmill.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4358827678\" target=\"_blank\">Phone</a><br>325 E HIGHWAY 138 TOOELE UT 84074", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.78047427, 
-                    40.4466858820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ALPINE ART CENTER</h3><b><a href=\"http://www.adonisbronze.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8017637173\" target=\"_blank\">Phone</a><br>450 ALPINE HWY ALPINE UT 84004", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.067765906, 
-                    37.6773148300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRAITHWAITE FINE ARTS GALLERY</h3><a href=\"tel:4355865432\" target=\"_blank\">Phone</a><br>351 WEST CENTER ST CEDAR CITY UT 84720", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.646966599, 
-                    40.2518627900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BYU MUSEUM OF ART</h3><b><a href=\"http://moa.byu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014228287\" target=\"_blank\">Phone</a><br>N CAMPUS DR PROVO UT 84602", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.629490477, 
-                    40.1147728690005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WILD WEST PARK INC</h3>1484 E 390 N SPANISH FORK UT 84660-5688", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.260579967, 
-                    37.4376637840004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FORT HARMONY HISTORICAL SOCIETY</h3>2191 S 2200 E NEW HARMONY UT 84757-5128", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.881168514, 
-                    40.6616601350005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE SOCIETY FOR THE PRESERVATION OF OLD MILLS</h3>458 COUNTRY CLUB STANBURY PARK UT 84107", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.80203763, 
-                    40.6736696840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ART J ROBINSON TRANSPORT MUSEUM</h3>4505 WASATCH BLVD SALT LAKE CITY UT 84124-4709", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.886743049, 
-                    40.7747720680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FAMILY TIES RESEARCH</h3>273 N EAST CAPITOL ST SALT LAKE CITY UT 84103-4623", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.897737826, 
-                    40.7650601940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FIDELIA FOUNDATION</h3>PO BOX 718 SALT LAKE CITY UT 84110-0718", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.872464991, 
-                    40.3821213490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DP WORLDWIDE INC</h3>501 S 1430 W LEHI UT 84043-3648", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.900988997, 
-                    40.7638141150005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WOMENS ART CENTER  INC</h3><a href=\"tel:8015214387\" target=\"_blank\">Phone</a><br>345 PIERPONT AVE SALT LAKE CIT UT 84101-1712", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.81171781, 
-                    40.6326974040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STATUE OF RESPONSIBILITY FOUNDATION INC</h3><b><a href=\"http://www.statueofresponsibility.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8019903130\" target=\"_blank\">Phone</a><br>2825 EAST COTTONWOOD PARKWAY SUITE SALT LAKE CITY UT 84121-7060", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.025987547, 
-                    41.1151700830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ALTA HISTORICAL SOCIETY</h3>TOWN OF ALTA PO BOX 8016 TOWN OF ALTA UT 84016", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.79939995, 
-                    40.3790478060005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SIMPLE EARTH FOUNDATION</h3><a href=\"tel:8014921501\" target=\"_blank\">Phone</a><br>26 W 100 N AMERICAN FORK UT 84003-1612", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.857389689, 
-                    41.6340805080005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HYRUM LIBRARY AND MUSEUM FOUNDATION CORPORATION</h3>83 WEST MAIN STREET HYRUM UT 84319", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.809308276, 
-                    40.6988336220004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOVABLE BOOK SOCIETY INC</h3>PO BOX 9190 SALT LAKE CITY UT 84109-0190", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.973364842, 
-                    41.0296155510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JOHN AND LYDIA WORKMAN FAMILY ORGANIZATION</h3>1683 ANGELS WAY KAYSVILLE UT 84037-9563", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.013406176, 
-                    40.6306910140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WASATCH MARINE AQUARIUM SOCIETY</h3><b><a href=\"http://www.utahreefs.com\" target=\"_blank\">Website</a></b><br>6634 SOUTH 5135 WEST WEST JORDAN UT 84081", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.587808641, 
-                    37.0709634790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BENJAMIN CLUFF JR EDUCATIONAL FOUND ATION</h3>195 MOJAVE HEIGHTS SAINT GEORGE UT 84770-0903", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.989350622, 
-                    41.3440781620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OGDEN-WEBER MUSEUM INC</h3>4755 POLE PATCH DR PLEASANT VIEW UT 84414", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.887370786, 
-                    40.7693332600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ALTA CLUB ARTS FOUNDATION</h3><b><a href=\"http://altaclub.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8013221081\" target=\"_blank\">Phone</a><br>100 E SOUTH TEMPLE SALT LAKE CTY UT 84111-1102", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.881086309, 
-                    40.8803704720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BOUNTIFUL HISTORICAL PRESERVATION FOUNDATION</h3><a href=\"tel:8012962060\" target=\"_blank\">Phone</a><br>845 S MAIN ST BOUNTIFUL UT 84010-6482", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.789390505, 
-                    40.4414128910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE JOSEPH SMITH JR AND EMMA HALE SMITH HISTORICAL SOCIETY</h3>595 W 800 S ALPINE UT 84004-1512", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.937977053, 
-                    40.5664308740004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH SPORTS HALL OF FAME FOUNDATION</h3>10182 S CORNERSTONE DR SOUTH JORDAN UT 84095-8897", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.640525787, 
-                    39.2712595050004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORIC DISTRICT IMPROVEMENT COMPANY</h3>194 WEST 400 NORTH MANTI UT 84642", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.94392042, 
-                    40.6812037130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATIONAL RAILWAY HISTORICAL SOCIETY INC PROMONTORY CHAPTER</h3>1965 LINDSAY DR SALT LAKE CTY UT 84129-5401", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.543505683, 
-                    37.1261473880004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BEST FRIENDS ANIMAL SOCIETY</h3><a href=\"tel:4356442001\" target=\"_blank\">Phone</a><br>5001 ANGEL CANYON RD KANAB UT 84741-5000", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.872276094, 
-                    40.5905517430004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>US MORMON BATTALION A COR</h3><a href=\"tel:8012553197\" target=\"_blank\">Phone</a><br>PO BOX 1983 SANDY UT 84091-1983", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.105296932, 
-                    39.9578213830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TINTIC HISTORICAL SOCIETY</h3>PO BOX 218 EUREKA UT 84628", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.18318592, 
-                    37.5367719430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>KANARRA HISTORICAL SOCIETY INC</h3>40 SOUTH MAIN KANARRAVILLE UT 84742", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.851611093, 
-                    40.7738126970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE UTAH NATURAL HISTORY MUSEUM</h3>1266 4TH AVE SALT LAKE CITY UT 84103", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.06546389, 
-                    37.6619791110004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HAPPY CANYON RIM RESEARCH & FIELD FOUNDATION</h3>890 SPRUCE STREET CEDAR CITY UT 84720-3751", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.424313349, 
-                    37.9110896940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BOULDER HERITAGE FOUNDATION</h3>465 N HWY 12 BOULDER UT 84716", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.761946054, 
-                    40.3705532590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WATASU FOUNDATION</h3>3573 N 1550 W PLEASANT GROVE UT 84062", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.853581405, 
-                    39.6901430910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EASTERN UTAH TOURISM AND HISTORY ASSOCIATION</h3>50 A ST HELPER UT 84526-1213", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.95999049, 
-                    41.3210028070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTH OGDEN HISTORICAL MUSEUM INC</h3>645 E 3300 N OGDEN UT 84414-1605", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.683582461, 
-                    40.0524267340004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HERMANNUS THIESSENS FAMILY ASSOCIATION</h3>145 S 500 W SALEM UT 84653-9369", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.804278963, 
-                    41.7052131010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROVIDENCE PIONEER HERITAGE INC</h3>138 SILVER FOX CIRCLE PROVIDENCE UT 84332-9642", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.885155955, 
-                    40.6773089610004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ANCIENT HISTORICAL RESEARCH FOUNDATION INC</h3>204 BILTMORE AVE MURRAY UT 84107", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.821257041, 
-                    39.1536019810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CASINO STAR THEATER FOUNDATION</h3>PO BOX 429 GUNNISON UT 84634-0429", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.470657199, 
-                    37.0266436390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LITTLE HOLLYWOOD MOVIE MUSEUM</h3>PO BOX 94 KANAB UT 84741-0094", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.83678609, 
-                    41.7353129300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GAMMA KAPPA CHAPTER ALUMNI ASSOCIATION INC</h3>PO BOX 3718 LOGAN UT 84323-3718", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.32448414, 
-                    38.9674801610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF TERRITORIAL STATEHOUSE STATE PARK MUSEUM</h3><b><a href=\"http://millardcounty.com/places-to-see/ter\" target=\"_blank\">Website</a></b><br><a href=\"tel:4357435316\" target=\"_blank\">Phone</a><br>50 WEST CAPITOL AVENUE FILLMORE UT 84631", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.455397445, 
-                    39.5446050300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MT PLEASANT HISTORICAL ASSOCIATION</h3>146 S STATE MT PLEASANT UT 84647-1503", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.657526735, 
-                    40.2671423250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF MORMON MEXICAN HISTORY INC</h3>945 E NORTH TEMPLE DR PROVO UT 84604", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.583343417, 
-                    37.1069114930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ST GEORGE CHILDRENS MUSEUM</h3>86 S MAIN ST ST GEORGE UT 84770-3452", 
-                "marker-color": "#CABA00", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.735300889, 
-                    40.0172284510004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RESTORATION STUDIES FOUNDATION</h3>234 W 1650 S PAYSON UT 84651-8613", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.792659475, 
-                    40.6797172790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INTERMOUNTAIN CONCOURS DELEGANCE</h3>4206 FORTUNA WAY SALT LAKE CTY UT 84124-3318", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.82754389, 
-                    40.5758291630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH AUTO MUSEUM A NONPROFIT</h3>9650 BUTTONWOOD DR SANDY UT 84092-3247", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.798784696, 
-                    39.5940010150005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRYNER PIONEER MUSEUM FOUNDATION</h3>391 GIRAUD AVE PRICE UT 84501-3328", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.871300717, 
-                    40.8939828910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH CULTURAL ARTS FOUNDATION</h3>448 E 400 NO BOUNTIFUL UT 84010-3513", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.554945687, 
-                    37.3096903250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTHWEST HERITAGE FOUNDATION INC</h3>PO BOX 46 BLUFF UT 84512-0046", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.671749751, 
-                    40.2962123900004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH VALLEY PAF USERS GROUP INC</h3>PO BOX 970242 OREM UT 84097-5744", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.308156985, 
-                    37.4795930700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HARMONY HERITAGE SERVICE ORGANIZATION</h3>BOX 491 NEW HARMONY UT 84757-0491", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.298606227, 
-                    40.5569107420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TOOELE COUNTY HISTORICAL SOCIETY</h3>PO BOX 502 TOOELE UT 84074", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.654056889, 
-                    40.2213740170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH ANTIQUE MACHINERY ASSOCIATION</h3>PO BOX 51343 PROVO UT 84605-1343", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.066193105, 
-                    37.7030604330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTHERN UTAH SPACE FOUNDATION INC</h3>340 W 1425 N APT 82 CEDAR CITY UT 84721-5015", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.418956848, 
-                    39.5435424890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BOOK CLIFF AREA HISTORICAL SOCIETY AND MUSEUM</h3>PO BOX 237 EAST CARBON UT 84520-8452", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.950959796, 
-                    41.1793043170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OGDEN PIONEER HERITAGE FOUNDATION A NONPROFIT CORPORATION</h3>PO BOX 150092 OGDEN UT 84415-0092", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.988739662, 
-                    41.1761329360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHILD FAMILY HISTORY FOUNDATION</h3>557 W 4800 S ODGEN UT 84405-6010", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.148386227, 
-                    38.6674101740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE FREMONT INDIAN STATE PARK AND MUSEUM</h3>1028 SOUTH BROOKLYN ROAD ELSINORE UT 84724", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.835970964, 
-                    40.5633525930004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DISASTER SAFETY MUSEUM INC</h3>1934 ASHLEY MESA LANE SANDY UT 84092-4310", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.439287619, 
-                    40.8334418890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CLUFF WARD INCORPORATION</h3>PO BOX 722 COALVILLE UT 84017-0722", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.807934805, 
-                    40.6446291460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ARNOLD FRIBERG FOUNDATION</h3>5867 TOLCATE LANE SALT LAKE CITY UT 84093-6333", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.355786934, 
-                    37.2409914450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SILVER REEF FOUNDATION INC</h3>PO BOX 461388 LEEDS UT 84746-1388", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.859938052, 
-                    40.7693903120005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TOWN CLUB PRESERVATION FOUNDATION INC</h3><a href=\"tel:8013221371\" target=\"_blank\">Phone</a><br>1081 E SOUTH TEMPLE SALT LAKE CTY UT 84102-1521", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.885029403, 
-                    40.7585096880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LIBRARY SQUARE FOUNDATION FOR ARTS CULTURE AND SCIENCE</h3><b><a href=\"http://www.theleonardo.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8015319800\" target=\"_blank\">Phone</a><br>209 E 500 S SALT LAKE CTY UT 84111-3203", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.834376777, 
-                    40.7638458810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FORT DOUGLAS MILITARY MUSEUM ASSO</h3><b><a href=\"http://www.fortdouglas.org\" target=\"_blank\">Website</a></b><br>32 POTTER ST SALT LAKE CTY UT 84113-5046", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.853892265, 
-                    40.7809866650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHARLES L LOOMIS PIONEER</h3><a href=\"tel:8013558467\" target=\"_blank\">Phone</a><br>1181 CHANDLER DR SALT LAKE CIT UT 84103-4238", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.165976732, 
-                    41.7104508090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WAGON LAND ADVENTURE FOUNDATION</h3><b><a href=\"http://www.wagonlandadventure.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4352796422\" target=\"_blank\">Phone</a><br>PO BOX 394 TREMONTON UT 84337-0394", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.459342807, 
-                    37.6218475380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTHEASTERN UTAH-MUSEUM OF THE AMERICAN WEST</h3>1106 E FLOURMILL ROAD 100-5 BLANDING UT 84511-2511", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.936238339, 
-                    40.5285641160005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MARRINER S ECCLES MEMORIAL COMMISSION</h3>1599 BIG VAR WAY RIVERTON UT 84065-4003", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.910409921, 
-                    41.0371448430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMASA MASON LYMAN EDUCATIONAL AND HISTORICAL SOCIETY</h3>114 N COUNTRY WAY FRUIT HEIGHTS UT 84037", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.355786934, 
-                    37.2409914450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WELLS FARGO-SILVER REEF MONUMENT</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.975205414, 
-                    41.1611608150005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OGDEN NATIONAL HISTORY MUSEUM FOUNDATION</h3>192 EAST 5575 SOUTH OGDEN UT 84405", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.835041993, 
-                    41.7308252460004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CACHE VALLEY CENTER FOR ARTS</h3><a href=\"tel:4357536518\" target=\"_blank\">Phone</a><br>43 S MAIN ST LOGAN UT 84321-4535", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.16356797, 
-                    38.9955306850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JOHN WESLEY POWELL RIVER HISTORY MUSEUM INC</h3><a href=\"tel:4355643427\" target=\"_blank\">Phone</a><br>PO BOX 611 GREEN RIVER UT 84525-0611", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.626740183, 
-                    37.0919180520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERN SKY AVIATION WARBIRD MUSEUM INC</h3>2050 W CANYON VIEW DR APT 2 ST GEORGE UT 84770-5802", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.866258685, 
-                    40.8613926770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FOUNDATION FOR ANCIENT AMERICAN STUDIES</h3>2625 OAKWOOD DR BOUNTIFUL UT 84010-3242", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.806983724, 
-                    40.4479721510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FAIRBANKS HOMESTEAD PRESERVATION FUND</h3><b><a href=\"http://fairbanksinthewest.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8017566877\" target=\"_blank\">Phone</a><br>6193 WEST ARGO CIRCLE HIGHLAND UT 84003", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.805811318, 
-                    41.7719234100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CLARK AND GLADYS THORNLEY FOUNDATION</h3>1081 EAST 2200 NORTH NORTH LOGAN UT 84341-1824", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.568098289, 
-                    39.3509043300004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TOPAZ MUSEUM</h3><a href=\"tel:4358642098\" target=\"_blank\">Phone</a><br>PO BOX 241 DELTA UT 84624-0241", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.863379386, 
-                    40.7887244130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTHERN UTAH AIR MUSEUM CHARITABLE TRUST</h3>920 LITTLE VALLEY RD SALT LAKE CITY UT 84103", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.886885562, 
-                    40.4266406440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THANKSGIVING POINT INSTITUTE INC</h3><b><a href=\"http://www.thanksgivingpoint.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8017687428\" target=\"_blank\">Phone</a><br>3003 THANKSGIVING WAY LEHI UT 84043-3740", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.653960378, 
-                    40.2337278590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CRANDALL HISTORICAL PRINTING MUSUEM INC</h3><b><a href=\"http://www.crandallhistoricalmuseum.com\" target=\"_blank\">Website</a></b><br>275 E CENTER ST PROVO UT 84606-3133", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.821090042, 
-                    40.7508185700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THIS IS THE PLACE FOUNDATION</h3><a href=\"tel:5082281894\" target=\"_blank\">Phone</a><br>2601 E SUNNYSIDE AVE SALT LAKE CTY UT 84108-1453", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.802110519, 
-                    39.6066884090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COLLEGE OF EASTERN UTAH</h3><b><a href=\"http://www.ceu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:4356372120\" target=\"_blank\">Phone</a><br>451 E 400 N PRICE UT 84501-2626", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.554945687, 
-                    37.3096903250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HOLE IN THE ROCK FOUNDATION INC</h3>PO BOX 476 BLUFF UT 84512-0476", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.290018809, 
-                    37.0280406600004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HARRY AND MIKE GOULDING MUSEUM LTD</h3>PO BOX 360001 MONUMENT VALLEY UT 84536", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.891102507, 
-                    40.7760371720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INTERNATIONAL SOCIETY OF DAUGHTERS OF UTAH PIONNER</h3><b><a href=\"http://www.dupinternational.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8015326479\" target=\"_blank\">Phone</a><br>300 N MAIN ST SALT LAKE CIT UT 84103-1632", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.656720089, 
-                    40.2429957770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRIGHAM YOUNG UNIVERSITY</h3><b><a href=\"http://mpc.byu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:8014220020\" target=\"_blank\">Phone</a><br>100 E 700 N PROVO PROVO UT 84602", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.816606817, 
-                    40.7508373260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH ZOOLOGICAL SOCIETY</h3><a href=\"tel:8015841704\" target=\"_blank\">Phone</a><br>2600 E SUNNYSIDE AVE SALT LAKE CTY UT 84108-1454", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.893996373, 
-                    40.7689317450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SALT LAKE ART CENTER</h3><a href=\"tel:8013284201\" target=\"_blank\">Phone</a><br>20 SOUTH WEST TEMPLE SALT LAKE CITY UT 84101", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.346155227, 
-                    40.4026206240005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INTERMOUNTAIN NATURAL HISTORY ASSOCIATION INC</h3>2430 S 9500 E JENSEN UT 84035", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.897737826, 
-                    40.7650601940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH HERITAGE FOUNDATION</h3>PO BOX 28 SALT LAKE CTY UT 84110-0028", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.43651985, 
-                    39.6380527000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FAIRVIEW MUSEUM CORPORATION</h3>PO BOX 157 FAIRVIEW UT 84629-0157", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.608060954, 
-                    40.1610631490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SPRINGVILLE MUSEUM OF ART</h3><a href=\"tel:8014892727\" target=\"_blank\">Phone</a><br>126 EAST 400 SOUTH SPRINGVILLE UT 84663-1953", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.897080575, 
-                    40.7758984420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH HUMANITIES COUNCIL</h3><a href=\"tel:8013599670\" target=\"_blank\">Phone</a><br>202 W 300 N SALT LAKE CITY UT 84103", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.498094449, 
-                    40.6462387580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>KIMBALL ART CENTER</h3>638 PARK AVE PARK CITY UT 84060", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.985498244, 
-                    41.1961325230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RELIC HALL MUSEUM OF THE WEBER COUNTY DAUGHTERS OF UTAH PION</h3>PO BOX 3226 OGDEN UT 84409-1226", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.55925371, 
-                    37.0537007090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAUGHTERS OF UTAH PIONEERS MCQUARRIE MEMORIAL MUSEUM</h3>3072 BLOOMINGTON HILLS DRIVE ST GEORGE UT 84790", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.026067559, 
-                    41.1744422550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AEROSPACE HRTGE FNDATN OF UTAH</h3><a href=\"tel:8017756437\" target=\"_blank\">Phone</a><br>PO BOX 612 ROY UT 84067-0612", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.230912203, 
-                    41.7102764720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTH BOX ELDER COUNTY MUSEUM INC</h3>8790 W 11200 NORTH BOTHWELL UT 84337", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.874090001, 
-                    40.7693782670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GOVERNORS MANSION FOUNDATION INC</h3><b><a href=\"http://www.utah.gov/governor/mansion/index\" target=\"_blank\">Website</a></b><br><a href=\"tel:8015381005\" target=\"_blank\">Phone</a><br>603 E SOUTH TEMPLE SALT LAKE CTY UT 84102-1101", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.549788166, 
-                    38.5747820900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CANYONLANDS FIELD INSTITUTE INC</h3>PO BOX 68 MOAB UT 84532-0068", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.910254763, 
-                    40.6112418250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MIDVALE HISTORICAL SOCIETY AND MUSEUM</h3>7697 SO MAIN ST MIDVALE UT 84047-7107", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.026067559, 
-                    41.1744422550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROY HISTORICAL MUSEUM INC</h3><a href=\"tel:8017763626\" target=\"_blank\">Phone</a><br>PO BOX 614 ROY UT 84067-0614", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.435547211, 
-                    37.1604326340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HURRICANE VALLEY PIONEER HERITAGE PARK AND MUSEUM FOUNDATION</h3>PO BOX 91 HURRICANE UT 84737", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.061956505, 
-                    37.6883522770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>IRON MISSION MUSEUM FOUNDATION INC</h3>635 N MAIN STREET CEDAR CITY UT 84721-6179", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.568098289, 
-                    39.3509043300004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GREAT BASIN HISTORICAL SOCIETY</h3>PO BOX 550 DELTA UT 84624-0550", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.637956831, 
-                    39.2639240050005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CENTRAL UTAH PIONEER HERITAGE ASSOCIATION</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.583228829, 
-                    37.1111910300004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WASHINGTON COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://wchsutah.org\" target=\"_blank\">Website</a></b><br>PO BOX 404 SAINT GEORGE UT 84771", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.885875408, 
-                    40.5926718180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SANDY MUSEUM FOUNDATION</h3>8744 SOUTH 150 EAST SANDY UT 84070", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.970499285, 
-                    41.2158023620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TREEHOUSE CHILDREN'S MUSEUM</h3><b><a href=\"http://www.treehousemuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8013949663\" target=\"_blank\">Phone</a><br>PO BOX 727 OGDEN UT 84402-0727", 
-                "marker-color": "#CABA00", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.973682264, 
-                    41.0444787070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TOOELE COUNTY MUSEUM ADVISORY BOARD</h3>1713 WEST PHILLIPS STREET KAYSVILLE UT 84037-8403", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.833827183, 
-                    40.7386878470004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE JOSEPH SMITH SR AND LUCY MACK SMITH FAMILY FOUNDATION</h3>1989 ST MARYS DRIVE SALT UT 84108-2245", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.852261333, 
-                    40.5500528580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATIONAL MDEL CAR BLDRS MUSEUM</h3>1348 LONGDALE DR SANDY UT 84092-5079", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.941353805, 
-                    41.1826412670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GOLDEN SPIKE CHAPTER RAILWAY & LOCOMOTIVE HISTORICAL SOCIET</h3>4421 TAYLOR AVE OGDEN UT 84403", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.583228829, 
-                    37.1111910300004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTHWEST INDIAN MUSEUM ASSOCIATION INC</h3>PO BOX 1865 ST GEORGE UT 84771", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.885750513, 
-                    40.7650385910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CENTRAL UTAH ART CENTER</h3>175 E 200 S SALT LAKE CTY UT 84111-1508", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.643125305, 
-                    37.1269599940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SANTA CLARA HISTORICAL SOCIETY</h3>2518 VINEYARD DR SANTA CLARA UT 84765", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.830049974, 
-                    37.8410410320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PAROWAN HERITAGE FOUNDATION</h3><a href=\"tel:4354773734\" target=\"_blank\">Phone</a><br>PO 1354 PAROWAN UT 84761-1354", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.866970516, 
-                    40.7551831190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>B C S PROJECT</h3><a href=\"tel:8013596904\" target=\"_blank\">Phone</a><br>832 SEGO AVE SALT LAKE CIT UT 84102-3426", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.342838026, 
-                    37.8698029200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRONTIER MUSEUM</h3><a href=\"tel:4355873401\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.884368244, 
-                    40.9805203210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CLARK LANE HISTORICAL PRESERVATION ASSOCIATION</h3>PO BOX 917 FARMINGTON UT 84025-0917", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.888284598, 
-                    40.7685330040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SAVE OUR STAGE FOUNDATION</h3>36 S STATE ST STE 1900 SALT LAKE CTY UT 84111-1478", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.544619238, 
-                    40.7240607230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ALF ENGEN SKI MUSEUM FOUNDATION</h3><b><a href=\"http://www.engenmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4356584240\" target=\"_blank\">Phone</a><br>PO BOX 980187 PARK CITY UT 84098-0187", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.415385744, 
-                    38.3024632230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ENTRADA INSTITUTE INC</h3>PO BOX 750217 TORREY UT 84775-0217", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.481547946, 
-                    37.6144019560004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DINOSAUR MUSEUM</h3><b><a href=\"http://www.dinosaur-museum.org\" target=\"_blank\">Website</a></b><br>754 S 200 W BLANDING UT 84511-3909", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.073234256, 
-                    40.7040805840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH ETHNIC AND MINING MUSEUM OF MAGNA</h3>3091 S WHITES WAY MAGNA UT 84044-1539", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.510299671, 
-                    37.1302111880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WASHINGTON CITY HISTORICAL SOCIETY</h3>PO BOX 821 WASHINGTON UT 84780-0821", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.410760826, 
-                    40.4708277030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WASATCH COUNTY DAUGHTERS OF UTAH PIONEERS</h3>175 EAST 3000 SOUTH HEBER CITY UT 84032-3647", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.938141009, 
-                    41.2372829720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OGDEN DINOSAUR PARK & MUSEUM FOUNDATION</h3><b><a href=\"http://www.dinosaurpark.org\" target=\"_blank\">Website</a></b><br>1544 PARK BLVD OGDEN UT 84401-0803", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.952875741, 
-                    41.1757254990005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GOLDEN SPIKE HERITAGE FOUNDATION</h3>1061 EDGEWOOD DR OGDEN UT 84403-0377", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.074338671, 
-                    37.6687977580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CEDAR CITY DAUGHTERS OF UTAH PIONEERS FOUNDATION</h3>453 KAYENTA CIRCLE CEDAR CITY UT 84720-3050", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.061236938, 
-                    41.0891695020005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SYRACUSE MUSEUM FOUNDATION</h3>1891 W 1700 S SYRACUSE UT 84075", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.859549574, 
-                    40.7278408780004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HEART & SOUL</h3>PO BOX 526142 SALT LAKE CTY UT 84152-6142", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.928476904, 
-                    40.4509331750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DESERET HISTORICAL ARCHIVES</h3><a href=\"tel:8012531957\" target=\"_blank\">Phone</a><br>1236 W 16580 S RIVERTON UT 84065-3705", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.925257284, 
-                    41.6439529080005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMERICAN WEST HERITAGE FOUNDATION</h3><b><a href=\"http://www.awhc.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4352456050\" target=\"_blank\">Phone</a><br>4025 SOUTH HIGHWAY 8991 WELLSVILLE UT 84339", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.845995807, 
-                    40.7752280660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRIGHAM YOUNG FAMILY ASSOCIATION</h3>1495 ARLINTON DRIVE SALT LAKE CITY UT 84103-4427", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.015716959, 
-                    41.5151405620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BUGGYTOWNE</h3>205 N MAIN BRIGHAM CITY UT 84302-2119", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.495996811, 
-                    39.4784629970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF HISTORIC SPRING CITY</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.871130162, 
-                    40.5587985380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LIVING PLANET INC</h3><b><a href=\"http://www.thelivingplanet.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8013553474\" target=\"_blank\">Phone</a><br>725 E 10600 S SANDY UT 84094-4409", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.123956185, 
-                    41.1639534130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GREAT BASIN ANTIGUE MACHINERY ASSN</h3>PO BOX 17 HOOPER UT 84315-0017", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.556988213, 
-                    37.0906253060004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH WINDMILL EXHIBIT</h3><a href=\"tel:4356739206\" target=\"_blank\">Phone</a><br>987 S RIVER RD ST GEORGE UT 84790-6868", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.043652238, 
-                    37.1610307350005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GRAFTON HERITAGE PARTNERSHIP PROJECT</h3>43 WEST MAIN ROCKVILLE UT 84763", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.929330864, 
-                    40.5917582870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WEST JORDAN CITY HISTORICAL SOCIETY</h3>1312 W 8780 S WEST JORDAN UT 84088-9109", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.877780621, 
-                    40.7585077560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH MILITARY AND ARMAMENT MUSEUM</h3>455 E 500 S SALT LAKE CITY UT 84111-3331", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.654449569, 
-                    37.1322533400005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROSENBRUCH FOUNDATION INC</h3>PO BOX 471 SANTA CLARA UT 84765-0471", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.161878717, 
-                    41.7170178710005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HOLMGREN HISTORICAL FARM AND GARDENS INC</h3>460 NORTH 300 EAST TREMONTON UT 84337-1321", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.003190644, 
-                    41.0878683670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JEREMIAH SMITH AND ABIGAIL DEMONT SMITH FAMILY FOUNDATION IN</h3>1984 W MARK ST LAYTON UT 84041-4929", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.652295098, 
-                    40.2876042810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAVID H ANDERSON FOUNDATION INC</h3>4068 N CANYON RD PROVO UT 84604-5018", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.872180734, 
-                    40.7693427350005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MASONIC CENTER RESTORATION FUND INC</h3>650 E SOUTH TEMPLE SALT LAKE CITY UT 84102-1141", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.706908528, 
-                    37.1826981970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>XETAVA DESERT ARBORETUM FOUNDATION</h3>811 N KAYENTA PARKWAY IVINS UT 84738", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.462718874, 
-                    40.5998022600004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH MUSEUM OF FIRE SERVICE HISTORY AND FIREFIGHTER MEMORIAL</h3>PO BOX 1128 GRANTSVILLE UT 84029-1128", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.528528794, 
-                    37.0486515720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LEVI STEWART FOUNDATION</h3>28 NORTH MAIN STREET KANAB UT 84741-3246", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.425235871, 
-                    40.3877833780004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RICHARD W ERICKSON FOUNDATION</h3>PO BOX 220 WALLSBURG UT 84082-0220", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.884220256, 
-                    40.7693131250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRICE AUTOMOTIVE MUSEUM</h3>230 E SOUTH TEMPLE SALT LAKE CTY UT 84111-1205", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.338768906, 
-                    38.9710813400005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATIONAL LAPIDARY MUSEUM</h3>PO BOX 884 FILLMORE UT 84631-0884", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.899765631, 
-                    40.7878147870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF UTAH ART ADN HISTORY FOUNDATION</h3><b><a href=\"http://www.muahnet.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8013555554\" target=\"_blank\">Phone</a><br>825 N 300 W STE W109 SALT LAKE CTY UT 84103-8410", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.805519877, 
-                    41.6982896000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CACHE VALLEY HISTORICAL SOCIETY</h3><b><a href=\"http://www.cachevalleyhistory.com\" target=\"_blank\">Website</a></b><br>515 BRINGHURST DRIVE PROVIDENCE UT 84332", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.534574169, 
-                    37.1016657430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ST GEORGE DINOSAUR DISCOVERY SITE AT JOHNSON FARM</h3><b><a href=\"http://www.dinotrax.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4355743466\" target=\"_blank\">Phone</a><br>2180 E RIVERSIDE DR SAINT GEORGE UT 84790", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.470659755, 
-                    37.0266415680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PARIA RIVER NATURAL HISTORY ASSOCIATION</h3>PO BOX 410075 BIG WATER UT 84741-8474", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.836116646, 
-                    40.5526230270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORIC WENDOVER AIRFIELD INC</h3>1940 E 10980 S SANDY UT 84092-4730", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.634902044, 
-                    40.2657175770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GEORGE E FREESTONE BOY SCOUT MUSEUM</h3>1377 CAMBRIDGE COURT PROVO UT 84604", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.029422947, 
-                    41.5105829550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GOLDEN SPIKE ASSOCIATION OF BOX ELDER</h3>833 W FOREST BRIGHAM UT 84302-4418", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.891196429, 
-                    40.7665510810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH SCIENCE CENTER CORPORATION FOUNDATION</h3>120 S MAIN ST SALT LAKE CTY UT 84101-1602", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.470657199, 
-                    37.0266436390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERN LEGENDS ROUND-UP INC</h3>PO BOX 88 KANAB UT 84741-0088", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.020394192, 
-                    41.5109998670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRIGHAM CITY MUSEUM</h3><b><a href=\"http://www.brighamcitymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4352261439\" target=\"_blank\">Phone</a><br>24 N 300 W BRIGHAM CITY UT 84302", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.854706594, 
-                    39.6827429010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERN MINING & RAILROAD MUSEUM</h3><b><a href=\"http://www.wmrrm.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4354723009\" target=\"_blank\">Phone</a><br>294 S MAIN ST HELPER UT 84526", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.568465772, 
-                    37.1042461320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DIXIE COLLEGE</h3><b><a href=\"http://www.dixie.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:4356527909\" target=\"_blank\">Phone</a><br>225 SOUTH 700 EAST ST. GEORGE UT 84770", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.849899709, 
-                    40.7654948260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UNIVERSITY OF UTAH</h3>201 PRESIDENTS CIRCLE SALT LAKE CIT UT 84112", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.836836423, 
-                    41.7352414740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH STATE UNIVERSITY</h3>2400 OLD MAIN HI LOGAN UT 84322", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.964864335, 
-                    41.2188001060005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ECCLES COMMUNITY ART CENTER</h3><b><a href=\"http://www.ogden4arts.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8013926935\" target=\"_blank\">Phone</a><br>2580 JEFFERSON AVE OGDEN UT 84401-2411", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.890664629, 
-                    40.5160709630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FREEDOM FOUNDATION INCORPORATED</h3>12953 MINUTEMAN DR DRAPER UT 84020-9286", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.798496789, 
-                    40.5730365800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTAH MUSEUM OF SCIENCE &</h3><a href=\"tel:8019421783\" target=\"_blank\">Phone</a><br>3400 LITTLE COTTONWOOD SANDY UT 84092-6007", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.415385744, 
-                    38.3024632230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CAPITOL REEF NATURAL HISTORY ASSOCIATION</h3>HC 70 BOX 15 TORREY UT 84775-9602", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.670549172, 
-                    37.2422341160005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THUNDERBIRD FOUNDATION FOR THE ARTS</h3>PO BOX 5555 MOUNT CARMEL UT 84755-5555", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.823966973, 
-                    40.7340011380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE PONY EXPRESS NATIONAL MUSEUM & ARCHIVES</h3>2327 LOGAN WAY SALT LAKE CITY UT 84108-2736", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.865924682, 
-                    40.6355601220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WHEELER FARM FRIENDS INC</h3><b><a href=\"http://www.wheelerfarm.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:8012642241\" target=\"_blank\">Phone</a><br>6351 SOUTH 900 EAST SALT LAKE CITY UT 84121-2438", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.961272852, 
-                    41.0657599060005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HERITAGE MUSEUM OF LAYTON</h3><b><a href=\"http://laytoncity.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8015463524\" target=\"_blank\">Phone</a><br>403 NORTH WASATCH DRIVE LAYTON UT 84041", 
-                "marker-color": "#007321", 
+                "": "<h4>CENTER FOR DOCUMENTARY EXPRESSION AND ART</h4><b>Website:</b> <a href=\"http://cdautah.org\" target=\"_blank\">http://cdautah.org</a><br><b>Phone:</b> <a href=\"tel:8013553903\" target=\"_blank\">8013553903</a><br>243 E 400 S STE 301 SALT LAKE CTY UT 84111-2843", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3789,8 +23,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>DISCOVERY GATEWAY</h3><b><a href=\"http://www.discoverygateway.org\" target=\"_blank\">Website</a></b><br>444 W 100 S SALT LAKE CTY UT 84101-1195", 
-                "marker-color": "#CABA00", 
+                "": "<h4>DISCOVERY GATEWAY</h4><b>Website:</b> <a href=\"http://www.discoverygateway.org\" target=\"_blank\">http://www.discoverygateway.org</a><br>444 W 100 S SALT LAKE CTY UT 84101-1195", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3798,14 +31,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -111.880622981, 
-                    40.8816243200005
+                    -111.836836423, 
+                    41.7352414740005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>BOUNTIFUL DAVIS ART CENTER</h3><b><a href=\"http://www.bdac.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8012920367\" target=\"_blank\">Phone</a><br>745 S MAIN ST BOUNTIFUL UT 84010-6326", 
-                "marker-color": "#007321", 
+                "": "<h4>UTAH STATE UNIVERSITY</h4>2400 OLD MAIN HI LOGAN UT 84322", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3813,14 +45,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -111.580996012, 
-                    40.1501310480004
+                    -111.849899709, 
+                    40.7654948260005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>HYRUM SMITH FAMILY ASSOCIATION</h3>1154 S BROOKWOOD DR SPRINGVILLE UT 84663-5609", 
-                "marker-color": "#0093BF", 
+                "": "<h4>UNIVERSITY OF UTAH</h4>201 PRESIDENTS CIRCLE SALT LAKE CIT UT 84112", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3828,14 +59,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -111.513226575, 
-                    40.6639736440005
+                    -111.891196429, 
+                    40.7665510810005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>PARK CITY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.parkcityhistory.org\" target=\"_blank\">Website</a></b><br>PO BOX 555 PARK CITY UT 84060-0555", 
-                "marker-color": "#0093BF", 
+                "": "<h4>UTAH SCIENCE CENTER CORPORATION FOUNDATION</h4>120 S MAIN ST SALT LAKE CTY UT 84101-1602", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3843,14 +73,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -111.849229285, 
-                    40.3885103430005
+                    -112.470659755, 
+                    37.0266415680005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>JOHN HUTCHINGS MUSEUM OF NATURAL HISTORY</h3><b><a href=\"http://www.hutchingsmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8017687180\" target=\"_blank\">Phone</a><br>55 N CENTER ST LEHI UT 84043-1826", 
-                "marker-color": "#007321", 
+                "": "<h4>PARIA RIVER NATURAL HISTORY ASSOCIATION</h4>PO BOX 410075 BIG WATER UT 84741-8474", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3858,14 +87,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -111.441736383, 
-                    40.9740225800005
+                    -111.899765631, 
+                    40.7878147870005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>ECHO COMMUNITY AND HISTORICAL ORGANIZATION INCORPORATED</h3>PO BOX 46 ECHO UT 84024", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MUSEUM OF UTAH ART ADN HISTORY FOUNDATION</h4><b>Website:</b> <a href=\"http://www.muahnet.org\" target=\"_blank\">http://www.muahnet.org</a><br><b>Phone:</b> <a href=\"tel:8013555554\" target=\"_blank\">8013555554</a><br>825 N 300 W STE W109 SALT LAKE CTY UT 84103-8410", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3873,14 +101,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -111.88385072, 
-                    40.7607581340005
+                    -113.706908528, 
+                    37.1826981970005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>CENTER FOR DOCUMENTARY EXPRESSION AND ART</h3><b><a href=\"http://cdautah.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:8013553903\" target=\"_blank\">Phone</a><br>243 E 400 S STE 301 SALT LAKE CTY UT 84111-2843", 
-                "marker-color": "#0058D8", 
+                "": "<h4>XETAVA DESERT ARBORETUM FOUNDATION</h4>811 N KAYENTA PARKWAY IVINS UT 84738", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3888,14 +115,783 @@
         {
             "geometry": {
                 "coordinates": [
-                    -111.883080854, 
-                    40.7693676080005
+                    -113.654449569, 
+                    37.1322533400005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>FAMILY RECORDS INC</h3>275 EAST SOUTH TEMPLE SALT LAKE CITY UT 84111-1247", 
-                "marker-color": "#0093BF", 
+                "": "<h4>ROSENBRUCH FOUNDATION INC</h4>PO BOX 471 SANTA CLARA UT 84765-0471", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.877780621, 
+                    40.7585077560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UTAH MILITARY AND ARMAMENT MUSEUM</h4>455 E 500 S SALT LAKE CITY UT 84111-3331", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.871130162, 
+                    40.5587985380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LIVING PLANET INC</h4><b>Website:</b> <a href=\"http://www.thelivingplanet.com\" target=\"_blank\">http://www.thelivingplanet.com</a><br><b>Phone:</b> <a href=\"tel:8013553474\" target=\"_blank\">8013553474</a><br>725 E 10600 S SANDY UT 84094-4409", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.015716959, 
+                    41.5151405620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BUGGYTOWNE</h4>205 N MAIN BRIGHAM CITY UT 84302-2119", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.074338671, 
+                    37.6687977580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CEDAR CITY DAUGHTERS OF UTAH PIONEERS FOUNDATION</h4>453 KAYENTA CIRCLE CEDAR CITY UT 84720-3050", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.073234256, 
+                    40.7040805840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UTAH ETHNIC AND MINING MUSEUM OF MAGNA</h4>3091 S WHITES WAY MAGNA UT 84044-1539", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.481547946, 
+                    37.6144019560004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DINOSAUR MUSEUM</h4><b>Website:</b> <a href=\"http://www.dinosaur-museum.org\" target=\"_blank\">http://www.dinosaur-museum.org</a><br>754 S 200 W BLANDING UT 84511-3909", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.415385744, 
+                    38.3024632230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ENTRADA INSTITUTE INC</h4>PO BOX 750217 TORREY UT 84775-0217", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.885750513, 
+                    40.7650385910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CENTRAL UTAH ART CENTER</h4>175 E 200 S SALT LAKE CTY UT 84111-1508", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.970499285, 
+                    41.2158023620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TREEHOUSE CHILDREN'S MUSEUM</h4><b>Website:</b> <a href=\"http://www.treehousemuseum.org\" target=\"_blank\">http://www.treehousemuseum.org</a><br><b>Phone:</b> <a href=\"tel:8013949663\" target=\"_blank\">8013949663</a><br>PO BOX 727 OGDEN UT 84402-0727", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.435547211, 
+                    37.1604326340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HURRICANE VALLEY PIONEER HERITAGE PARK AND MUSEUM FOUNDATION</h4>PO BOX 91 HURRICANE UT 84737", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.985498244, 
+                    41.1961325230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>RELIC HALL MUSEUM OF THE WEBER COUNTY DAUGHTERS OF UTAH PION</h4>PO BOX 3226 OGDEN UT 84409-1226", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.498094449, 
+                    40.6462387580005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>KIMBALL ART CENTER</h4>638 PARK AVE PARK CITY UT 84060", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.897080575, 
+                    40.7758984420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UTAH HUMANITIES COUNCIL</h4><b>Phone:</b> <a href=\"tel:8013599670\" target=\"_blank\">8013599670</a><br>202 W 300 N SALT LAKE CITY UT 84103", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.608060954, 
+                    40.1610631490005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SPRINGVILLE MUSEUM OF ART</h4><b>Phone:</b> <a href=\"tel:8014892727\" target=\"_blank\">8014892727</a><br>126 EAST 400 SOUTH SPRINGVILLE UT 84663-1953", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.43651985, 
+                    39.6380527000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FAIRVIEW MUSEUM CORPORATION</h4>PO BOX 157 FAIRVIEW UT 84629-0157", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.346155227, 
+                    40.4026206240005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>INTERMOUNTAIN NATURAL HISTORY ASSOCIATION INC</h4>2430 S 9500 E JENSEN UT 84035", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.816606817, 
+                    40.7508373260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UTAH ZOOLOGICAL SOCIETY</h4><b>Phone:</b> <a href=\"tel:8015841704\" target=\"_blank\">8015841704</a><br>2600 E SUNNYSIDE AVE SALT LAKE CTY UT 84108-1454", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.656720089, 
+                    40.2429957770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BRIGHAM YOUNG UNIVERSITY</h4><b>Website:</b> <a href=\"http://mpc.byu.edu\" target=\"_blank\">http://mpc.byu.edu</a><br><b>Phone:</b> <a href=\"tel:8014220020\" target=\"_blank\">8014220020</a><br>100 E 700 N PROVO PROVO UT 84602", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.821090042, 
+                    40.7508185700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THIS IS THE PLACE FOUNDATION</h4><b>Phone:</b> <a href=\"tel:5082281894\" target=\"_blank\">5082281894</a><br>2601 E SUNNYSIDE AVE SALT LAKE CTY UT 84108-1453", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.653960378, 
+                    40.2337278590005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CRANDALL HISTORICAL PRINTING MUSUEM INC</h4><b>Website:</b> <a href=\"http://www.crandallhistoricalmuseum.com\" target=\"_blank\">http://www.crandallhistoricalmuseum.com</a><br>275 E CENTER ST PROVO UT 84606-3133", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.886885562, 
+                    40.4266406440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>THANKSGIVING POINT INSTITUTE INC</h4><b>Website:</b> <a href=\"http://www.thanksgivingpoint.com\" target=\"_blank\">http://www.thanksgivingpoint.com</a><br><b>Phone:</b> <a href=\"tel:8017687428\" target=\"_blank\">8017687428</a><br>3003 THANKSGIVING WAY LEHI UT 84043-3740", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.568098289, 
+                    39.3509043300004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TOPAZ MUSEUM</h4><b>Phone:</b> <a href=\"tel:4358642098\" target=\"_blank\">4358642098</a><br>PO BOX 241 DELTA UT 84624-0241", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.16356797, 
+                    38.9955306850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>JOHN WESLEY POWELL RIVER HISTORY MUSEUM INC</h4><b>Phone:</b> <a href=\"tel:4355643427\" target=\"_blank\">4355643427</a><br>PO BOX 611 GREEN RIVER UT 84525-0611", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.975205414, 
+                    41.1611608150005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>OGDEN NATIONAL HISTORY MUSEUM FOUNDATION</h4>192 EAST 5575 SOUTH OGDEN UT 84405", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.165976732, 
+                    41.7104508090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WAGON LAND ADVENTURE FOUNDATION</h4><b>Website:</b> <a href=\"http://www.wagonlandadventure.com\" target=\"_blank\">http://www.wagonlandadventure.com</a><br><b>Phone:</b> <a href=\"tel:4352796422\" target=\"_blank\">4352796422</a><br>PO BOX 394 TREMONTON UT 84337-0394", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.834376777, 
+                    40.7638458810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FORT DOUGLAS MILITARY MUSEUM ASSO</h4><b>Website:</b> <a href=\"http://www.fortdouglas.org\" target=\"_blank\">http://www.fortdouglas.org</a><br>32 POTTER ST SALT LAKE CTY UT 84113-5046", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.807934805, 
+                    40.6446291460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ARNOLD FRIBERG FOUNDATION</h4>5867 TOLCATE LANE SALT LAKE CITY UT 84093-6333", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.835970964, 
+                    40.5633525930004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DISASTER SAFETY MUSEUM INC</h4>1934 ASHLEY MESA LANE SANDY UT 84092-4310", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.148386227, 
+                    38.6674101740005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE FREMONT INDIAN STATE PARK AND MUSEUM</h4>1028 SOUTH BROOKLYN ROAD ELSINORE UT 84724", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.066193105, 
+                    37.7030604330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SOUTHERN UTAH SPACE FOUNDATION INC</h4>340 W 1425 N APT 82 CEDAR CITY UT 84721-5015", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.554945687, 
+                    37.3096903250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SOUTHWEST HERITAGE FOUNDATION INC</h4>PO BOX 46 BLUFF UT 84512-0046", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.871300717, 
+                    40.8939828910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UTAH CULTURAL ARTS FOUNDATION</h4>448 E 400 NO BOUNTIFUL UT 84010-3513", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.583343417, 
+                    37.1069114930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ST GEORGE CHILDRENS MUSEUM</h4>86 S MAIN ST ST GEORGE UT 84770-3452", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.32448414, 
+                    38.9674801610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF TERRITORIAL STATEHOUSE STATE PARK MUSEUM</h4><b>Website:</b> <a href=\"http://millardcounty.com/places-to-see/ter\" target=\"_blank\">http://millardcounty.com/places-to-see/ter</a><br><b>Phone:</b> <a href=\"tel:4357435316\" target=\"_blank\">4357435316</a><br>50 WEST CAPITOL AVENUE FILLMORE UT 84631", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.06546389, 
+                    37.6619791110004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HAPPY CANYON RIM RESEARCH & FIELD FOUNDATION</h4>890 SPRUCE STREET CEDAR CITY UT 84720-3751", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.851611093, 
+                    40.7738126970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE UTAH NATURAL HISTORY MUSEUM</h4>1266 4TH AVE SALT LAKE CITY UT 84103", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.887370786, 
+                    40.7693332600005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ALTA CLUB ARTS FOUNDATION</h4><b>Website:</b> <a href=\"http://altaclub.org\" target=\"_blank\">http://altaclub.org</a><br><b>Phone:</b> <a href=\"tel:8013221081\" target=\"_blank\">8013221081</a><br>100 E SOUTH TEMPLE SALT LAKE CTY UT 84111-1102", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.013406176, 
+                    40.6306910140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WASATCH MARINE AQUARIUM SOCIETY</h4><b>Website:</b> <a href=\"http://www.utahreefs.com\" target=\"_blank\">http://www.utahreefs.com</a><br>6634 SOUTH 5135 WEST WEST JORDAN UT 84081", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.81171781, 
+                    40.6326974040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>STATUE OF RESPONSIBILITY FOUNDATION INC</h4><b>Website:</b> <a href=\"http://www.statueofresponsibility.com\" target=\"_blank\">http://www.statueofresponsibility.com</a><br><b>Phone:</b> <a href=\"tel:8019903130\" target=\"_blank\">8019903130</a><br>2825 EAST COTTONWOOD PARKWAY SUITE SALT LAKE CITY UT 84121-7060", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.629490477, 
+                    40.1147728690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WILD WEST PARK INC</h4>1484 E 390 N SPANISH FORK UT 84660-5688", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.067765906, 
+                    37.6773148300005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BRAITHWAITE FINE ARTS GALLERY</h4><b>Phone:</b> <a href=\"tel:4355865432\" target=\"_blank\">4355865432</a><br>351 WEST CENTER ST CEDAR CITY UT 84720", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.42424473, 
+                    37.9110213670004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ANASAZI STATE PARK</h4><b>Phone:</b> <a href=\"tel:8013357308\" target=\"_blank\">8013357308</a><br>460 NORTH HIGHWAY 12 BOULDER UT 84716-1429", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.902681385, 
+                    40.7668744200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CLARK PLANETARIUM</h4><b>Website:</b> <a href=\"http://clarkplanetarium.org\" target=\"_blank\">http://clarkplanetarium.org</a><br><b>Phone:</b> <a href=\"tel:8014567827\" target=\"_blank\">8014567827</a><br>110 S 400 W SALT LAKE CITY UT 84101", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.524811271, 
+                    40.4557880700005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DINOSAUR GARDENS</h4><b>Phone:</b> <a href=\"tel:4357893799\" target=\"_blank\">4357893799</a><br>235 E MAIN ST VERNAL UT 84078", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.478058931, 
+                    38.5885710380005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FREMONT INDIAN STATE PARK</h4><b>Phone:</b> <a href=\"tel:8015274631\" target=\"_blank\">8015274631</a><br>11550 CLEAR CREEK CANYON ROAD SEVIER UT 84766-9999", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.061956505, 
+                    37.6883522770005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRONTIER HOMESTEAD STATE PARK</h4><b>Phone:</b> <a href=\"tel:8015869290\" target=\"_blank\">8015869290</a><br>635 NORTH MAIN CEDAR CITY UT 84721", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.288741845, 
+                    37.1765504560005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HURRICANE VALLEY PIONEER HERITAGE PARK</h4><b>Phone:</b> <a href=\"tel:4356353245\" target=\"_blank\">4356353245</a><br>35 W STATE ST HURRICANE UT 84737", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.939892682, 
+                    41.1951714680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>OTT PLANETARIUM</h4><b>Phone:</b> <a href=\"tel:8016266871\" target=\"_blank\">8016266871</a><br>1551 EDVALSON ST OGDEN UT 84408", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.583485546, 
+                    37.0755104270005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ROSENBRUCH WORLD WILDLIFE MSM</h4><b>Website:</b> <a href=\"http://www.rosenbruch.org\" target=\"_blank\">http://www.rosenbruch.org</a><br><b>Phone:</b> <a href=\"tel:4356560033\" target=\"_blank\">4356560033</a><br>1835 S CONVENTION CENTER DR SAINT GEORGE UT 84790", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.824796808, 
+                    40.7627865890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>RED BUTTE GARDEN AND ARBORETUM</h4><b>Phone:</b> <a href=\"tel:8015813878\" target=\"_blank\">8015813878</a><br>300 WAKARA WAY SALT LAKE CITY UT 84108", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.884249123, 
+                    40.7607827450005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UTAH ARTS-FOLK ARTS PROGRAM</h4><b>Phone:</b> <a href=\"tel:8015335760\" target=\"_blank\">8015335760</a><br>1150 S CONSTITUTION DR SALT LAKE CITY UT 84111", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.885230557, 
+                    40.4252279340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WESTERN PALEONTOLOGICAL LABS</h4><b>Website:</b> <a href=\"http://www.westernpaleolabs.com\" target=\"_blank\">http://www.westernpaleolabs.com</a><br><b>Phone:</b> <a href=\"tel:8014374878\" target=\"_blank\">8014374878</a><br>2929 THANKSGIVING WAY LEHI UT 84043", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.017677225, 
+                    37.1621907160005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ZION NATIONAL PARK</h4><b>Website:</b> <a href=\"http://www.nps.gov/zion/index.htm\" target=\"_blank\">http://www.nps.gov/zion/index.htm</a><br><b>Phone:</b> <a href=\"tel:4357723256\" target=\"_blank\">4357723256</a><br>HIGHWAY 9 SPRINGDALE UT 84767", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.816606817, 
+                    40.7508373260005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UTAH'S HOGLE ZOO</h4><b>Phone:</b> <a href=\"tel:8015821631\" target=\"_blank\">8015821631</a><br>2600 EAST SUNNYSIDE AVENUE SALT LAKE CITY UT 84108", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.873371065, 
+                    40.7693877430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>UTAH ARTS COUNCIL</h4>617 EAST SOUTH TEMPLE SALT LAKE CITY UT 84102", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"

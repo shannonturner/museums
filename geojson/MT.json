@@ -3,4469 +3,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -108.778940009, 
-                    45.6863669100005
+                    -106.148376947, 
+                    47.8370195970005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>LAUREL MUSEUM INC</h3>605 W 14TH STREET LAUREL MT 59044", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.505707383, 
-                    45.7808330470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERN HERITAGE CENTER</h3><a href=\"tel:4062566809\" target=\"_blank\">Phone</a><br>2822 MONTANA AVE. BILLINGS MT 59101-2305", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.099868293, 
-                    44.6586922150005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>YELLOWSTONE HISTORIC CENTER MUSEUM</h3><b><a href=\"http://yellowstonehistoriccenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4066461100\" target=\"_blank\">Phone</a><br>104 YELLOWSTONE AVE WEST YELLOWSTONE MT 59758", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -106.641308943, 
-                    48.2044173360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VALLEY COUNTY PIONEER MUSEUM</h3><b><a href=\"http://www.valleycountymuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4062288692\" target=\"_blank\">Phone</a><br>816 US HIGHWAY 2 W GLASGOW MT 59230", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.564074992, 
-                    45.6637944330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>YELLOWSTONE GATEWAY MUSEUM OF PARK COUNTY</h3><b><a href=\"http://www.livingstonmuseums.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4062224184\" target=\"_blank\">Phone</a><br>118 WEST CHINOOK STREET LIVINGSTON MT 59047", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.795809036, 
-                    46.9394166570005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UPPER BLACKFOOT HISTORICAL SOCIETY</h3><a href=\"tel:4063624099\" target=\"_blank\">Phone</a><br>2 1/2 W MT HIGHWAY 200 LINCOLN MT 59639", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.335419799, 
-                    48.4134166240005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STUMPTOWN HISTORICAL MUSEUM</h3><b><a href=\"http://stumptownhistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:5003376878\" target=\"_blank\">Phone</a><br>500 DEPOT ST WHITEFISH MT 59937", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.946515462, 
-                    45.2932317670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THOMPSON-HICKMAN MUSEUM</h3><a href=\"tel:4068435238\" target=\"_blank\">Phone</a><br>220 E WALLACE ST VIRGINIA CITY MT 59755", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.275444754, 
-                    46.3605826890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>O'FALLON HISTORICAL MUSEUM</h3><a href=\"tel:4067783265\" target=\"_blank\">Phone</a><br>723 S MAIN ST BAKER MT 59313", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.73574085, 
-                    46.3907163250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>POWELL COUNTY MUSEUM</h3><b><a href=\"http://pcmaf.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4068461694\" target=\"_blank\">Phone</a><br>1119 MAIN ST DEER LODGE MT 59722", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.28248098, 
-                    47.5062714190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PARIS GIBSON SQUARE MUSEUM OF ART</h3><a href=\"tel:4067278255\" target=\"_blank\">Phone</a><br>1400 FIRST AVENUE NORTH GREAT FALLS MT 59401-3299", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.494367076, 
-                    45.7743194820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PETER YEGEN JR. YELLOWSTONE COUNTY MUSEUM</h3><a href=\"tel:4062566811\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.111457048, 
-                    47.6640064440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PEOPLE'S CENTER</h3><a href=\"tel:4068835344\" target=\"_blank\">Phone</a><br>53253 US HIGHWAY 93 POLSON MT 59860", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.536368004, 
-                    46.0136417750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PICCADILLY MUSEUM OF TRANSPORTATION</h3><b><a href=\"http://www.piccadillymuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4067233034\" target=\"_blank\">Phone</a><br>20 W BROADWAY ST BUTTE MT 59701", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.041623531, 
-                    45.6792787990005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PIONEER MUSEUM</h3>314 WEST MAIN ST. BOZEMAN MT 59715", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.858598654, 
-                    46.4035293200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RANGE RIDER'S MUSEUM</h3><a href=\"tel:4062326146\" target=\"_blank\">Phone</a><br>I-94 W MAIN ST MILES CITY MT 59301", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.247031696, 
-                    45.1897309520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PEAKS TO PLAINS MUSEUM</h3><a href=\"tel:4064463667\" target=\"_blank\">Phone</a><br>224 N. BROADWAY RED LODGE MT 59068", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.310315054, 
-                    48.1978754030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTHWEST MT HISTORICAL SOC</h3><a href=\"tel:4067568381\" target=\"_blank\">Phone</a><br>124 2ND AVE E KALISPELL MT 59901", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.310315054, 
-                    48.1978754030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM AT CENTRAL SCHOOL</h3><b><a href=\"http://www.yourmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4067568381\" target=\"_blank\">Phone</a><br>124 2ND AVE E KALISPELL MT 59901", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.048470621, 
-                    46.5911397410005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA MILITARY MUSEUM</h3><a href=\"tel:4064432878\" target=\"_blank\">Phone</a><br>419 HAYES AVE HELENA MT 59601", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.251794207, 
-                    45.6421671130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF  BEARTOOTHS</h3><b><a href=\"http://museumofthebeartooths.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4063224588\" target=\"_blank\">Phone</a><br>440 W 5TH AVE N COLUMBUS MT 59019", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.527236071, 
-                    45.9834185260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MAI WAH SOCIETY, INC</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.995239607, 
-                    46.8702671740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MISSOULA CHILDRENS MUSEUM</h3><a href=\"tel:4065417529\" target=\"_blank\">Phone</a><br>111 N HIGGINS AVE MISSOULA MT 59802", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.022469183, 
-                    46.8560886060005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATIONAL MUSEUM OF FOREST SERVICE</h3><b><a href=\"http://www.nmfs-history.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:4065416374\" target=\"_blank\">Phone</a><br>1615 S CATLIN ST MISSOULA MT 59801", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.94813391, 
-                    46.1295220370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MARCUS DALY HISTORICAL SOCIETY</h3><b><a href=\"http://coppervillageartcenter.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4065632220\" target=\"_blank\">Phone</a><br>401 E COMMERCIAL AVE ANACONDA MT 59711", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.154607071, 
-                    48.7601160160005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF THE PLAINS INDIAN</h3>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.98775753, 
-                    46.8630779250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA MUSEUM OF ART</h3><a href=\"tel:4062432019\" target=\"_blank\">Phone</a><br>6 UNIVERSITY MISSOULA MT 59812", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.730445016, 
-                    45.3488368780005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MADISON VALLEY HISTORY MUSEUM</h3><a href=\"tel:4066824685\" target=\"_blank\">Phone</a><br>121 W MAIN ST ENNIS MT 59729", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.182099166, 
-                    48.3732615860005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA WILDLIFE TAXIDERMY</h3><a href=\"tel:4068922591\" target=\"_blank\">Phone</a><br>28 6TH ST W COLUMBIA FALLS MT 59912", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.096909324, 
-                    47.4401399110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NINEPIPES MUSEUM-EARLY MONTANA</h3><b><a href=\"http://www.ninepipesmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4066443435\" target=\"_blank\">Phone</a><br>69316 US HIGHWAY 93 CHARLO MT 59824", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.090894794, 
-                    46.7568452220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HOLT HERITAGE MUSEUM</h3><b><a href=\"http://www.holtheritagemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4062736743\" target=\"_blank\">Phone</a><br>6800 HIGHWAY 12 W LOLO MT 59847", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.309675473, 
-                    48.1961461650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HOCKADAY CENTER FOR THE ARTS</h3><a href=\"tel:4067555268\" target=\"_blank\">Phone</a><br>302 2ND AVE. E KALISPELL MT 59901", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.197058307, 
-                    45.5897166610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LITTLE BEAR SCHOOL HOUSE MUSEUM</h3><a href=\"tel:4067635889\" target=\"_blank\">Phone</a><br>76200 GALLATIN RD GALLATIN GATEWAY MT 59730", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.562316144, 
-                    45.6618247590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LIVINGSTON DEPOT CENTER</h3><b><a href=\"http://livingstondepot.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4062222300\" target=\"_blank\">Phone</a><br>200 W PARK ST LIVINGSTON MT 59047", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.505739268, 
-                    47.9362499910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LOMA EARTH SCIENCE MUSEUM</h3><a href=\"tel:4067394282\" target=\"_blank\">Phone</a><br>208 BROADWAY AVE LOMA MT 59460", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.426814407, 
-                    47.0649047500005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LEWISTON ART CENTER</h3><a href=\"tel:4065358278\" target=\"_blank\">Phone</a><br>323 W MAIN ST LEWISTOWN MT 59457", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.28367776, 
-                    45.8704570730005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HUNTLEY PROJECT MUSEUM OF IRRIGATED AGRICULTURE</h3><a href=\"tel:4063482533\" target=\"_blank\">Phone</a><br>770 RAILROAD HIGHWAY HUNTLEY MT 59037", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.515231221, 
-                    45.7837810430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LEGACY DOLL MUSEUM</h3><b><a href=\"http://www.legacydollmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4062520041\" target=\"_blank\">Phone</a><br>3206 6TH AVE N BILLINGS MT 59101", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.867859013, 
-                    48.3604367990005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GREAT PLAINS DINOSAUR MUSEUM</h3><b><a href=\"http://www.greatplainsdinosaurs.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4056178783\" target=\"_blank\">Phone</a><br>405 N 1ST ST E MALTA MT 59538", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.73571124, 
-                    46.3911865350005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRONTIER MONTANA MUSEUM</h3><a href=\"tel:4068460026\" target=\"_blank\">Phone</a><br>1107 MAIN ST DEER LODGE MT 59722", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.080738046, 
-                    47.7358088020005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FLATHEAD LAKE BIOLOGICAL STATION, THE UNIVERSITY OF MONTANA</h3>311 BIO STATION LANE POLSON MT 59860-9659", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.692776493, 
-                    47.1248851960005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FOSSIL MUSEUM GLENDIVE DNSR</h3><b><a href=\"http://www.creationtruth.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4063773228\" target=\"_blank\">Phone</a><br>139 STATE ST GLENDIVE MT 59330", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.576048188, 
-                    45.6331975800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FLYFISHING DISCOVERY CENTER</h3><a href=\"tel:4062229369\" target=\"_blank\">Phone</a><br>5237 US HIGHWAY 89 S LIVINGSTON MT 59047", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.707443217, 
-                    48.5563632230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>H EARL CLACK MUSEUM</h3><a href=\"tel:4062654000\" target=\"_blank\">Phone</a><br>1753 US HIGHWAY 2 NW HAVRE MT 59501", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.736373324, 
-                    46.4079317170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GRANT KOHRS RANCH NATL HSTRC</h3><a href=\"tel:4068462070\" target=\"_blank\">Phone</a><br>266 WARREN LN DEER LODGE MT 59722", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.795396164, 
-                    48.5541685620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>H. EARL CLACK MEMORIAL MUSEUM</h3><a href=\"tel:4062654000\" target=\"_blank\">Phone</a><br>1753 HWY 2 NW #1 HAVRE MT 59501", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.273019916, 
-                    47.4897690400005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GALERIE TRINITAS AT UNIVERSITY OF GREAT FALLS</h3>1301 20TH STREET SOUTH GREAT FALLS MT 59405-4996", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.302794053, 
-                    48.1973068860005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CONRAD MANSION</h3><b><a href=\"http://www.conradmansion.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4067552166\" target=\"_blank\">Phone</a><br>330 WOODLAND AVE KALISPELL MT 59901", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.501829532, 
-                    47.9353995840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EARTH SCIENCE MUSEUM</h3><a href=\"tel:4067394224\" target=\"_blank\">Phone</a><br>106 MAIN STREET LOMA MT 59460-0207", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.98775753, 
-                    46.8630779250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ETHNOLOGICAL COLLECTIONS, UNIV OF MONTANA</h3>DEPARTMENT OF ANTHROPOLOGY, SOCIAL SCIENCE BLDGE MISSOULA MT 59812", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.540182988, 
-                    46.0142173970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COPPER KING MANSION</h3><b><a href=\"http://thecopperkingmansion.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4067827580\" target=\"_blank\">Phone</a><br>219 W GRANITE ST BUTTE MT 59701", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -106.628773833, 
-                    48.1952766610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHILDRENS MUSEUM OF NE MONTANA</h3><a href=\"tel:4062284386\" target=\"_blank\">Phone</a><br>98 US HIGHWAY 2 E GLASGOW MT 59230", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.038711726, 
-                    45.6771379900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHILDREN'S MUSEUM OF BOZEMAN</h3><b><a href=\"http://www.cmbozeman.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4065229087\" target=\"_blank\">Phone</a><br>202 S WILLSON AVE BOZEMAN MT 59715", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.948531326, 
-                    48.1691676830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CONRAD TRANSPORTATION AND HSTRCL</h3><a href=\"tel:4062780178\" target=\"_blank\">Phone</a><br>402 S VIRGINIA ST CONRAD MT 59425", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.996977136, 
-                    46.8709043860005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHILDRENS MUSEUM OF MISSOULA</h3><b><a href=\"http://www.familiesfirstmontana.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4065417529\" target=\"_blank\">Phone</a><br>225 W FRONT ST MISSOULA MT 59802", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.33039771, 
-                    48.2025796950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CONRAD MANSION NHS MUSEUM</h3><a href=\"tel:4067552166\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.616128227, 
-                    46.3821489170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHARLES M BAIR FAMILY MUSEUM</h3><b><a href=\"http://www.bairfamilymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4065723314\" target=\"_blank\">Phone</a><br>2751 MT HIGHWAY 294 MARTINSDALE MT 59053", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.158929022, 
-                    46.2371972620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DALY MANSION</h3><a href=\"tel:4063636004\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.247280736, 
-                    45.1899202840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CARBON COUNTY ARTS GUILD AND DEPOT GALLERY</h3><a href=\"tel:4064461370\" target=\"_blank\">Phone</a><br>11 W. 8TH ST. RED LODGE MT 59068", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.246825838, 
-                    45.1958066330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BEARTOOTH NATURE CENTER</h3><b><a href=\"http://www.beartoothnaturecenter.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4064461133\" target=\"_blank\">Phone</a><br>615 E 2ND ST RED LODGE MT 59068", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.54175233, 
-                    46.0132473660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BUTTE-SILVER BOW ARTS FOUNDATION, ARTS CHATEAU MUSEUM</h3><a href=\"tel:4067237600\" target=\"_blank\">Phone</a><br>321 WEST BROADWAY BUTTE MT 59701", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.079863047, 
-                    46.6154977210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ARCHIE BRAY FOUNDATION FOR THE CERAMIC ARTS</h3><a href=\"tel:4064433502\" target=\"_blank\">Phone</a><br>2915 COUNTRY CLUB AVENUE HELENA MT 59602", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.285121028, 
-                    47.5103896110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>C. M. RUSSELL MUSEUM</h3><b><a href=\"http://www.cmrussell.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4067278787\" target=\"_blank\">Phone</a><br>400 13TH STREET NORTH GREAT FALLS MT 59401", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.111255137, 
-                    48.1782208830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BIG SANDY CHAMBER OF COMMERCE</h3><a href=\"tel:4063782418\" target=\"_blank\">Phone</a><br>87 W JOHANNES AVE BIG SANDY MT 59520", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.230991238, 
-                    48.5913966640005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLAINE COUNTY WILDLIFE MUSEUM</h3><b><a href=\"http://www.bcwildlifemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4063573102\" target=\"_blank\">Phone</a><br>417 INDIANA ST CHINOOK MT 59523", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.928528473, 
-                    47.3861734740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BELT MUSEUM</h3><a href=\"tel:4062773574\" target=\"_blank\">Phone</a><br>37 CASTNER ST BELT MT 59412", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.494367076, 
-                    45.7743194820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HIGH PLAINS WOMENS MUSEUM</h3><b><a href=\"http://www.highplainswomensmuseum.com\" target=\"_blank\">Website</a></b><br>PO BOX 1604 BILLINGS MT 59103", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.388847647, 
-                    47.4949373150005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AUGUSTA AREA HISTORICAL SOCIETY</h3>PO BOX 476 AUGUSTA MT 59410", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.668917078, 
-                    47.6090085110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LARUE-HOT SPRINGS MUSEUM</h3>PO BOX 220 HOT SPRINGS MT 59845-0028", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.872086001, 
-                    48.3583394480005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JUDITH RIVER FOUNDATION INC</h3>PO BOX 170 MALTA MT 59538-0170", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.507440456, 
-                    45.7839191160005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WARFIELD EQUESTRIAN COMMUNITY CENTER INC</h3>303 N BROADWAY STE 503 BILLINGS MT 59101-1255", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.713424584, 
-                    47.1044415250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MAKOSHIKA DINOSAUR MUSEUM</h3><a href=\"tel:4063771637\" target=\"_blank\">Phone</a><br>101 N MERRILL AVE GLENDIVE MT 59330-1632", 
-                "marker-color": "#CABA00", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.038831351, 
-                    45.6730387490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRANSHAM MCPHAIL MUSEUMS INC</h3>604 S WILLSON AVE BOZEMAN MT 59715-5239", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.638721125, 
-                    45.2165661200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JOES TOY MUSEUM</h3>126 N MONTANA ST DILLON MT 59725-3308", 
-                "marker-color": "#CABA00", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.004888103, 
-                    45.5063995790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ELIZABETH CUSTER LIBRARY & MUSEUM INCORPORATED</h3>PO BOX 200 GARRYOWEN MT 59031-0200", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.316653474, 
-                    47.5112497440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA MUSEUM OF RAILROAD HISTORY</h3><b><a href=\"http://MMRH.ORG\" target=\"_blank\">Website</a></b><br>400 3RD ST NW GREAT FALLS MT 59404", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.014846039, 
-                    46.8516262790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MISSOULA TRANSPORTATION & RESTORATION MUSEUM</h3>PO BOX 1121 MISSOULA MT 59806-1121", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.128613599, 
-                    46.9448968200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA MUSEUM OF WORK HISTORY INC</h3><b><a href=\"http://www.axmenfire.com\" target=\"_blank\">Website</a></b><br>7655 HY 10 W MISSOULA MT 59808", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.957154373, 
-                    46.1248069030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ANACONDA RAILROAD AND MINING MUSEUMINC</h3>218 W 7TH ST ANACONDA MT 59711-2912", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.534229269, 
-                    45.9947217090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ENVISION BUTTE INC</h3>1000 GEORGE ST BUTTE MT 59701-7901", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.883836705, 
-                    48.7180780880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HUNTS HOUSE HISTORICAL CEMETERY ASSOCIATION</h3>PO BOX 142 TREGO MT 59934", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.806938619, 
-                    45.4445875330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE JAMMER TRUST MONTANA PUBLIC BENEFIT CORPORATION</h3>PO BOX 437 NYE MT 59061-0437", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.031961136, 
-                    46.6509488710005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CREATION ARTS CENTER</h3><a href=\"tel:4064589667\" target=\"_blank\">Phone</a><br>5353 MCHUGH LN HELENA MT 59602-7007", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.312722959, 
-                    48.1958832260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FLATHEAD VALLEY VETERANS MEMORIALINC</h3>241 MAIN ST KALISPELL MT 59901-4453", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.154607071, 
-                    48.7601160160005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE MUSEUM OF THE PLAINS INDIAN</h3><b><a href=\"http://www.fmplainsindian.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4063387404\" target=\"_blank\">Phone</a><br>PO BOX 950 BROWNING MT 59417", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.429495787, 
-                    48.7903659440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DANIELS COUNTY MUSEUM ASSOCIATION</h3>PO BOX 689 SCOBEY MT 59263", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.505707383, 
-                    45.7808330470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>YELLOWSTONE WESTERN HERITAGE CENTER FOUNDATION</h3><b><a href=\"http://www.ywhc.org\" target=\"_blank\">Website</a></b><br>2822 MONTANA AVE BILLINGS MT 59101-2305", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.15872812, 
-                    47.7050281960005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONDAK HERITAGE CENTER</h3><a href=\"tel:4064333500\" target=\"_blank\">Phone</a><br>PO BOX 50120 3RD AVE SE SIDNEY MT 59270", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.922947005, 
-                    46.4281577100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CUSTER COUNTY HISTORICAL SOCIETY INC</h3>246 SUNRISE ROAD MILES CITY MT 59301-8743", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.248379488, 
-                    45.1857077680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CARBON COUNTY ARTS GUILD</h3><a href=\"tel:4064461370\" target=\"_blank\">Phone</a><br>PO BOX 585 RED LODGE MT 59068-0585", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.73577102, 
-                    46.3914672540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>POWELL COUNTY MUSEUM & ARTS FOUNDATION INC</h3><b><a href=\"http://www.pcmaf.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4068463111\" target=\"_blank\">Phone</a><br>1106 MAIN ST DEER LODGE MT 59722-1426", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.543414242, 
-                    46.4461003930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSSELSHELL VALLEY HISTORICAL MUSEUM INC</h3><b><a href=\"http://WWW.MVHM.US\" target=\"_blank\">Website</a></b><br>524 1ST ST W ROUNDUP MT 59072", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.494297914, 
-                    46.3409299240005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BROADWATER COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.broadwatercountymuseum.com\" target=\"_blank\">Website</a></b><br>PO BOX 614 TOWNSEND MT 59644", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.058976515, 
-                    46.5167288460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STEVENSVILLE HISTORICAL SOCIETY INC</h3>PO BOX 221 STEVENSVILLE MT 59870", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.557718229, 
-                    48.7739157540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHERIDAN COUNTY HISTORICAL ASSOCIATION</h3>PO BOX 191 PLENTYWOOD MT 59254", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.306438808, 
-                    45.8972067430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HUNTLEY PROJECT MUSEUM</h3><b><a href=\"http://www.huntleyprojectmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4063482533\" target=\"_blank\">Phone</a><br>PO BOX 353 HUNTLEY MT 59037-0353", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -115.056065748, 
-                    48.8915280930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TOBACCO VALLEY BOARD OF HISTORY</h3>PO BOX 1452 EUREKA MT 59917-1452", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.085779782, 
-                    47.6058696500005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RICHEY HISTORICAL SOCIETY</h3><a href=\"tel:4067735234\" target=\"_blank\">Phone</a><br>BOX 264 RICHEY MT 59259", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.936260843, 
-                    46.6458890730005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BROKEN WHEEL PETTING FARM</h3>3900 WYLIE DR HELENA MT 59602-8808", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.31296908, 
-                    46.7916391340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EVELYN CAMERON HERITAGE INC</h3>PO BOX 441 TERRY MT 59349-0441", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.300116198, 
-                    46.7497771890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MARYSVILLE PIONEER INC</h3>242 GRAND STREET MARYSVILLE MT 59640", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -106.638356485, 
-                    48.1944892950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHILDRENS MUSEUM OF NORTHEAST MONTANA</h3>PO BOX 369 GLASGOW MT 59230-0369", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.560770584, 
-                    45.7925563330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BILLINGS BASEBALL PRESERVATION SOCIETY</h3>1735 MARIPOSA LANE BILLINGS MT 59102-2419", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -115.268492913, 
-                    47.3635251950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DE BORGIA HISTORICAL SCHOOLHOUSE FOUNDATION INC</h3>806 HORSEBACK LANE SAINT REGIS MT 59866", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.026137079, 
-                    46.3900259430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TIZER NATURE CONNECTION</h3>PO BOX 129 JEFFERSON CITY MT 59638-0129", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.248379488, 
-                    45.1857077680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BUSES OF YELLOWSTONE PRESERVATION TRUST INCORPORATED</h3>PO BOX 1522 RED LODGE MT 59068-1522", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.225339825, 
-                    48.0806458090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOMERS COMPANY TOWN PROJECT</h3>PO BOX 130 SOMERS MT 59932-0130", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.745736503, 
-                    45.3204290040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MADISON VALLEY HISTORY ASSOCIATION INC</h3>PO BOX 474 ENNIS MT 59729-0474", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.044809741, 
-                    47.8521593570005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE FAIRVIEW BRIDGE</h3>PO BOX 374 FAIRVIEW MT 59221-0374", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.713818909, 
-                    47.1060567580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FOUNDATION ADVANCING CREATION TRUTH</h3>PO BOX 684 GLENDIVE MT 59330-0684", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.303979806, 
-                    47.5064576940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LEWIS AND CLARK HONOR GUARD OF GREAT FALL INC</h3>PO BOX 125 GREAT FALLS MT 59403-0125", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.336145937, 
-                    48.6345233840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CUT BANK WWII AIRMAN MEMORIAL</h3><a href=\"tel:4068735377\" target=\"_blank\">Phone</a><br>22 2ND ST SW CUT BANK MT 59427-3217", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.188691684, 
-                    47.8189780470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OLD TRAIL MUSEUM</h3><b><a href=\"http://www.oldtrailmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4064665332\" target=\"_blank\">Phone</a><br>823 MAIN AVE N CHOTEAU MT 59422-9272", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.043286104, 
-                    46.5849267710005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA PRESERVATION ALLIANCE INC</h3><b><a href=\"http://preservemontana.org\" target=\"_blank\">Website</a></b><br>120 REEDERS ALLEY 2 HELENA MT 59601-6200", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -106.627643017, 
-                    45.8856856090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SCHOOLHOUSE HISTORY AND ART CENTER</h3><b><a href=\"http://www.schoolhousehistoryandarts.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4067484822\" target=\"_blank\">Phone</a><br>400 WOODROSE COLSTRIP MT 59323", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.992538782, 
-                    46.8717175830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROCKY MOUNTAIN MUSEUM OF MILITARY HISTORY INC</h3>PO BOX 7263 MISSOULA MT 59807-7263", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.944954979, 
-                    45.2927882930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MADISON COUNTY ARCHIVES THOMPSON HICKMAN LIBRARY</h3><a href=\"tel:4068435346\" target=\"_blank\">Phone</a><br>217 IDAHO STREET VIRGINIA CITY MT 59755", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.147377394, 
-                    46.4180295020005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VICTOR HERITAGE MUSEUM</h3><a href=\"tel:4066423997\" target=\"_blank\">Phone</a><br>PO BOX 610 VICTOR MT 59875-0610", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.495100806, 
-                    45.9966999810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BUTTE SPORTS HALL OF FAME CORPORATION</h3>1800 GARFIELD ST BUTTE MT 59701-5734", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.037067311, 
-                    46.5917279860005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LEWIS AND CLARK COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 1864 HELENA MT 59624", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.612159089, 
-                    45.7524398540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTHWESTERN NATIONAL MILITARY MUSEUM & FOUNDATION INC</h3>RR 1 BOX 1245 HARDIN MT 59034-9723", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.014846039, 
-                    46.8516262790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTHERN ROCKIES HERITAGE CENTER INC</h3>PO BOX 1884 MISSOULA MT 59806-1884", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.19140758, 
-                    44.7573361840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WEST YELLOWSTONE HISTORICAL SOCIETY</h3>PO BOX 1225 WEST YELLOWSTONE MT 59758", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.216181286, 
-                    47.4969382720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA INSTITUTE OF THE ARTS</h3>708 56TH ST SO GREAT FALLS MT 59405-5817", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.427177605, 
-                    47.0500164050005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SAINT WENCESLAUS INSTITUTE</h3>1463RED HILL ROAD LEWISTOWN MT 59457", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.090527343, 
-                    48.0665593020005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BIGFORK MUSEUM OF ART & HISTORY</h3>PO BOX 734 BIGFORK MT 59911-0734", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.190095747, 
-                    48.3628999580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COLUMBIA FALLS HISTORICAL SOCIETY</h3><a href=\"tel:4068925953\" target=\"_blank\">Phone</a><br>PO BOX 643 COLUMBIA FALLS MT 59912", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.640741377, 
-                    48.0896924390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA COWBOY HALL OF FAME & WESTERN HERITAGE CENTER INC</h3><b><a href=\"http://www.montanacowboyfame.com\" target=\"_blank\">Website</a></b><br>218 3RD AVE S STE B WOLF POINT MT 59201-1502", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.101259235, 
-                    44.6564079030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERN HERITAGE ARTS CENTER INC</h3>PO BOX 194 WEST YELLOWSTONE MT 59758-0194", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.049529388, 
-                    46.8083924340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OFNORTHERN NEVADA ADULT MENTAL HEALTH SERVICES CEMET</h3>3585 SOUTHPOINTE DR MISSOULA MT 59803-2967", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.735389687, 
-                    46.3977296370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GRANT-KOHRS RANCH FOUNDATION</h3>PO BOX 789 DEER LODGE MT 59722-0789", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.637627066, 
-                    45.2162575010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MEHMKE STEAM TRACTOR MUSEUM</h3>PO BOX 1314 DILLON MT 59725-1314", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.836457228, 
-                    47.0969670070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONARCH-NEIHART HISTORICAL GROUP INC</h3>PO BOX 924 MONARCH MT 59463-0924", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -115.828229688, 
-                    48.0543889420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROCKY MOUNTAIN RANGERS</h3>PO BOX 12 NOXON MT 59853-0012", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -115.516986561, 
-                    48.3500865370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM INC</h3><b><a href=\"http://www.libbyheritagemuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 628 LIBBY MT 59923", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.33039771, 
-                    48.2025796950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CONRAD MANSION DIRECTORS INC</h3>PO BOX 1041 KALISPELL MT 59903-1041", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.63777603, 
-                    45.2174486840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BEAVERHEAD COUNTY MUSEUM ASSOCIATION</h3><b><a href=\"http://www.beaverheadcountymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4066835027\" target=\"_blank\">Phone</a><br>15 SOUTH MONTANA STREET DILLON MT 59725-0265", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.561288037, 
-                    45.6608080360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PARK COUNTY FRIENDS OF THE ARTS INC</h3>PO BOX 1341 LIVINGSTON MT 59047-1341", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.451320931, 
-                    46.3949387440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CANTON CHURCH RESTORATION INC</h3>3597 HWY 284 TOWNSEND MT 59644", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.036219088, 
-                    46.5977617750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COMMUNITYWORKS  INC</h3><a href=\"tel:4064571800\" target=\"_blank\">Phone</a><br>995 CAROUSEL WAY HELENA MT 59601-3396", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.304857497, 
-                    45.7438584680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BAPTIST HISTORY AND HERITAGE SOCIETY</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.470201268, 
-                    47.1510151920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SEELEY LAKE HISTORICAL SOCIETY</h3>2920 HWY 83 SEELEY LAKE MT 59868", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.745736503, 
-                    45.3204290040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MADISON VALLEY VETERANS MEMORIAL INC</h3>PO BOX 411 ENNIS MT 59729-0411", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.958141626, 
-                    46.4913769240005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE JEFFERSON COUNTY MUSEUM</h3>27 MOUNTAINVIEW RD CLANCY MT 59634", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.184999166, 
-                    47.8117899110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF OLD AGENCY ON THE TETON INC</h3>PO BOX 1482 CHOTEAU MT 59422-1482", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.49436898, 
-                    45.7743169560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA PRO RODEO HALL AND WALL OF FAME</h3>PO BOX 930 BILLINGS MT 59103-0930", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.303979806, 
-                    47.5064576940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FIRST SPECIAL SERVICE FORCE MEMORIAL TR</h3>PO BOX 2309 GREAT FALLS MT 59403-2309", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.013228069, 
-                    46.6077585080005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OLD GLORY LANDMARK COMMITEE INC</h3>PO BOX 5421 HELENA MT 59604-5421", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.527237859, 
-                    45.9834073050005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOTHER BOTTEGO HOUSE INC</h3>PO BOX 904 BUTTE MT 59703-0904", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.588681006, 
-                    44.6338614890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LIMA HISTORICAL SOCIETY</h3>117 MAIN ST PO BOX 2 LIMA MT 59739-0002", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.073150802, 
-                    45.6904922080005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BORN INC</h3>2710 GOLDENROD LN BOZEMAN MT 59043-0315", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.748666665, 
-                    47.5702858230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UPPER SWAN VALLEY HISTORICAL SOCIETY INC</h3>PO BOX 1128 CONDON MT 59826-1128", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.013228069, 
-                    46.6077585080005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BENTON AVENUE CEMETERY FOUNDATION INC</h3>PO BOX 4212 HELENA MT 59604-4212", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.605277782, 
-                    45.7305335420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE DEPOT</h3>10 EAST RAILWY HARDIN MT 59034-0925", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.993161595, 
-                    46.8769903690005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ZOOTOWN ARTS COMMUNITY CENTER</h3><b><a href=\"http://www.zootownarts.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4065497555\" target=\"_blank\">Phone</a><br>235 NORTH 1ST ST WEST MISSOULA MT 59802-3661", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.968438338, 
-                    45.6703761970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BOZEMAN ART MUSEUM</h3>10573 KELLY CANYON RD BOZEMAN MT 59715-9687", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.414077267, 
-                    47.0705768870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CENTRAL MONT HISTORICAL ASSOC</h3><a href=\"tel:4065353642\" target=\"_blank\">Phone</a><br>408 NE MAIN ST LEWISTOWN MT 59457-2019", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.829068819, 
-                    46.4040472750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RANGE RIDERS INC</h3>435 L P ANDERSON RD MILES CITY MT 59301-4753", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.60447712, 
-                    45.7333956950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CUSTER BATTLEFIELD HISTORICAL AND MUSEUM ASSOCIATION INC</h3>PO BOX 902 HARDIN MT 59034-0902", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.075884341, 
-                    47.5076897450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MISSION VALLEY HERITAGE ASSOCIATION</h3><a href=\"tel:4066765454\" target=\"_blank\">Phone</a><br>48515 ANDERSON LN RONAN MT 59864-9471", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.013228069, 
-                    46.6077585080005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA HISTORICAL SOCIETY</h3><b><a href=\"http://www.montanahistoricalsociety.org\" target=\"_blank\">Website</a></b><br>225 N. ROBERTS AVE. HELENA MT 59620-1201", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.309675473, 
-                    48.1961461650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HOCKADAY MUSEUM OF ART</h3><a href=\"tel:4067555268\" target=\"_blank\">Phone</a><br>302 2ND AVE E KALISPELL MT 59901-4942", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.432273351, 
-                    47.0622741760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LEWISTOWN ART CENTER</h3><a href=\"tel:4065388278\" target=\"_blank\">Phone</a><br>801 W BROADWAY ST LEWISTOWN MT 59457-2450", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.28248098, 
-                    47.5062714190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PARIS GIBSON SQUARE INCORPORATED</h3><b><a href=\"http://www.the-square.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4067278255\" target=\"_blank\">Phone</a><br>1400 1ST AVE N GREAT FALLS MT 59401-3205", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.270320646, 
-                    47.5062323340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA ART GALLERY DIRECTORS ASSOCIATION</h3><b><a href=\"http://www.artmontana.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4067611797\" target=\"_blank\">Phone</a><br>2112 1ST AVE N GREAT FALLS MT 59401-3304", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.304391372, 
-                    47.4998696850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CASCADE COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://thehistorymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4064523462\" target=\"_blank\">Phone</a><br>422 2ND ST S GREAT FALLS MT 59405-1816", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.872086001, 
-                    48.3583394480005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PHILLIPS COUNTY HISTORICAL SOCIETY</h3>PO BOX 518 MALTA MT 59538-0518", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.966047013, 
-                    48.5133257890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LIBERTY VILLAGE ARTS CENTER AND GALLERY</h3>PO BOX 269 CHESTER MT 59522-0269", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.54175233, 
-                    46.0132473660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BUTTE-SILVER BOW ARTS FOUNDATION</h3><b><a href=\"http://www.bsbarts.org\" target=\"_blank\">Website</a></b><br>321 W BROADWAY ST BUTTE MT 59701-9126", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.15776784, 
-                    46.2448515500005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BITTER ROOT VALLEY HISTORICAL SOCIETY</h3><b><a href=\"http://brvhsmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4063633338\" target=\"_blank\">Phone</a><br>205 BEDFORD HAMILTON MT 59840-2853", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.544681565, 
-                    45.7997421460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>YELLOWSTONE HISTORICAL SOCIETY</h3>3005 LOHOF DRIVE BILLINGS MT 59102", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.75174818, 
-                    47.5117872450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SUN RIVER VALLEY HISTORICAL SOCIETY</h3>PO BOX 155 SUN RIVER MT 59483", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.058545966, 
-                    46.8432978360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE HISTORICAL MUSEUM AT FORT MISSOULA</h3>BLDG 322 FORT MISSOULA MISSOULA MT 59804", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.166107943, 
-                    47.1130678160005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JUDITH BASIN HISTORICAL SOCIETY INC</h3>PO BOX 315 STANFORD MT 59479", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.041646204, 
-                    45.6793327590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GALLATIN HISTORICAL SOCIETY</h3><b><a href=\"http://www.pioneermuseum.org\" target=\"_blank\">Website</a></b><br>317 W MAIN ST BOZEMAN MT 59715-4576", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.606009746, 
-                    45.7310167810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JAILHOUSE GALLERY</h3><b><a href=\"http://www.forevermontana.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4066653239\" target=\"_blank\">Phone</a><br>218 N CENTER AVE HARDIN MT 59034-1908", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.519775697, 
-                    45.9906877210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BUTTE HISTORICAL SOCIETY</h3>PO BOX 3913 BUTTE MT 59701", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.94813391, 
-                    46.1295220370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MARCUS DALY HISTORICAL SOCIETY OF ANACONDA</h3>401 EAST COMMERCIAL AVE ANACONDA MT 59711", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.271028101, 
-                    46.3439862660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OFALLON HISTORICAL SOCIETY</h3><a href=\"tel:4067783523\" target=\"_blank\">Phone</a><br>PO BOX 285 BAKER MT 59313-0285", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.248379488, 
-                    45.1857077680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CARBON COUNTY HISTORICAL SOCIETY</h3>PO BOX 881 RED LODGE MT 59068-0881", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.08465877, 
-                    48.0418388120005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FT PECK TRIBAL MUSEUM</h3>PO BOX 1027 POPLAR MT 59255", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.726869292, 
-                    47.1070760530005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRONTIER GATEWAY MUSEUM ASSOC</h3>PO BOX 1181 GLENDIVE MT 59330", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.332568583, 
-                    48.6358375610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GLACIER COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4068734904\" target=\"_blank\">Phone</a><br>PO BOX 576 CUT BANK MT 59427-0576", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.992538782, 
-                    46.8717175830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MISSOULA CULTURAL COUNCIL</h3>PO BOX 7662 MISSOULA MT 59807-7662", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.004929262, 
-                    46.8541817070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERN MONTANA GENEALOGICAL SOCIETY</h3>375 STRAND AVE MISSOULA MT 59802-4721", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.406708225, 
-                    45.4447482980005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>POWDER RIVER HISTORICAL SOCIETY</h3><a href=\"tel:4064362977\" target=\"_blank\">Phone</a><br>PO BOX 573 BROADUS MT 59317-0573", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.035549991, 
-                    46.8929081750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SIGMA CHI BUILDING FOUNDATION</h3>PO BOX 16894 MISSOULA MT 59808-6894", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.509196938, 
-                    45.9033357290005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THREE FORKS HISTORICAL SOCIETY</h3>PO BOX 116 THREE FORKS MT 59752", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.552971247, 
-                    45.7930016710005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CUSTER BATTLEFIELD PRESERVATION COMMITTEE INC</h3>18 HEATHERWOOD LN BILLINGS MT 59102-2449", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.335419799, 
-                    48.4134166240005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STUMPTOWN HISTORICAL SOCIETY OF FLATHEAD COUNTY INC</h3>500 DEPOT ST STE 101 WHITEFISH MT 59937-2572", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.617520384, 
-                    45.7333299330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ZOOMONTANA INC</h3>2100 S SHILOH RD BILLINGS MT 59106-3908", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.035549991, 
-                    46.8929081750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GARNET PRESERVATION ASSOCIATION INC</h3>PO BOX 18295 MISSOULA MT 59808-8295", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.597299899, 
-                    46.8976163730005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRAIRIE COUNTY MUSEUM AND EVELYN CAMERON GALLERY INC</h3>PO BOX 368 TERRY MT 59349", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.251846803, 
-                    45.6381879380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STILLWATER HISTORICAL SOCIETY</h3><b><a href=\"http://www.museumofthebeartooths.com/\" target=\"_blank\">Website</a></b><br><a href=\"tel:4063224588\" target=\"_blank\">Phone</a><br>PO BOX 1 COLUMBUS MT 59019-0001", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.831057744, 
-                    46.4347490840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UPPER MUSSELSHELL HISTORIC SOCIETY INC</h3>PO BOX 364 HARLOWTON MT 59036-0364", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.8525657, 
-                    47.1573260420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MINERAL COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://mineralmtmuseum.com\" target=\"_blank\">Website</a></b><br>PO BOX 533 SUPERIOR MT 59872", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.87014118, 
-                    48.5082665100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MARIAS MUSEUM OF HISTORY AND ART</h3>1129 1ST STREET N SHELBY MT 59474", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.268070268, 
-                    47.4952564100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MALMSTROM HISTORICAL FOUNDATION</h3>2225 9TH AVE S GREAT FALLS MT 59405", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -115.354248725, 
-                    47.6269385820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SANDERS COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 774 THOMPSON FALLS MT 59873", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.17241766, 
-                    47.4373286580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FORT CONNAH RESTORATION SOCIETY C/O GEORGE KNAPP</h3>PO BOX 82 CHARLO MT 59824-0082", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.517329076, 
-                    48.1463596700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CULBERTSON MUSEUM INC</h3>PO BOX 539 CULBERTSON MT 59218-0539", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.627317811, 
-                    45.7294974730005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORICAL MUSEUM OF BIG HORN COUNTY</h3>RR1 1 BOX 1206 HARDIN MT 59034", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.561288037, 
-                    45.6608080360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LIVINGSTON DEPOT FOUNDATION INC</h3>PO BOX 1319 LIVINGSTON MT 59047-1319", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -106.628076202, 
-                    45.8903981190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SCHOOLHOUSE MUSEUM HISTR/ARTS</h3><a href=\"tel:4067484822\" target=\"_blank\">Phone</a><br>PO BOX 430 COLSTRIP MT 59323-0430", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.002490657, 
-                    46.6026190390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA HISTORY FOUNDATION</h3><a href=\"tel:4064493770\" target=\"_blank\">Phone</a><br>1750 N WASHINGTON ST HELENA MT 59601-1204", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.945479116, 
-                    45.8364983280005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SWEET GRASS COUNTY MUSEUM SOCIETY</h3><b><a href=\"http://www.crazymountainmuseum.shutterfly.\" target=\"_blank\">Website</a></b><br>PO BOX 83 BIG TIMBER MT 59011-0083", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.26612073, 
-                    47.5050917470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>URSULINE HISTORICAL FOUNDATION INC</h3><b><a href=\"http://ursulinecentre.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4064528585\" target=\"_blank\">Phone</a><br>2300 CENTRAL AVE GREAT FALLS MT 59401-3913", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.116050567, 
-                    47.6797957110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MIRACLE OF AMERICA STORY INC</h3>36094 MEMORY LN POLSON MT 59860-8446", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.310315054, 
-                    48.1978754030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTHWEST MONTANA HISTORICAL SOCIETY INC</h3>124 2ND AVE E KALISPELL MT 59901-4569", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.160077844, 
-                    46.2473881060005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DALY MANSION PRESERVATION TRUST INC</h3>PO BOX 223 HAMILTON MT 59840-0223", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.060307059, 
-                    48.1348262740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BIG SANDY HISTORICAL SOCIETY INC</h3>PO BOX 301 BIG SANDY MT 59520", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.894159722, 
-                    45.3930191790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CLARKS FORK VALLEY MUSEUM INC</h3>PO BOX 274 FROMMBERG MT 59029", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.686675691, 
-                    48.5441779320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>H EARL AND MARGARET TURNER CLACK MEMORIAL MUSEUM FOUNDATION</h3>PO BOX 1496 HAVRE MT 59501", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.014846039, 
-                    46.8516262790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATIONAL MUSEUM OF FOREST SERVICE HISTORY INC</h3>PO BOX 2772 MISSOULA MT 59806-2772", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.955083028, 
-                    48.1682732430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PONDERA HISTORY ASSOCIATION</h3><a href=\"tel:4062783700\" target=\"_blank\">Phone</a><br>419 6TH AVE SW CONRAD MT 59425-2205", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.321416313, 
-                    45.7955379630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MANHATTAN AREA HISTORICAL SOCIETY INC</h3>PO BOX 800 MANHATTAN MT 59741-0800", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.055060131, 
-                    45.6926194070004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMERICAN COMPUTER MUSEUM LTD</h3><a href=\"tel:4065821288\" target=\"_blank\">Phone</a><br>1283 N 14TH ST STE 201 BOZEMAN MT 59715-3270", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.03667942, 
-                    45.6782097830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA GHOST TOWN PRESERVATION SOCIETY</h3>PO BOX 1861 BOZEMAN MT 59771-1861", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.199568115, 
-                    46.9611490440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WIBAUX HISTORICAL SOCIETY</h3>PO BOX 199 WIBAUX MT 59353", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.081215997, 
-                    46.7582868730005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TIMBER HERITAGE FOUNDATION</h3>PO BOX 129 LOLO MT 59847-0129", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -115.985279907, 
-                    48.0582690320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CABINET WILDERNESS HISTORICAL SOCIETY</h3>PO BOX 333 HERON MT 59844-0333", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.058976515, 
-                    46.5167288460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STEVENSVILLE HISTORICAL MUSEUM INC</h3>PO BOX 750 STEVENSVILLE MT 59870", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.275729416, 
-                    45.1964772000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM ASSOCIATION OF MONTANA</h3><b><a href=\"http://www.montanamuseums.org\" target=\"_blank\">Website</a></b><br>PO BOX 881 RED LODGE MT 59068", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.074297005, 
-                    47.1599982200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ARLEE HISTORICAL SOCIETY INC</h3>PO BOX 512 ARLEE MT 59821", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.681728599, 
-                    48.5518181920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HAVRE BENEATH THE STREETS INC</h3><b><a href=\"http://www.havremt.com/attractions/beneath\" target=\"_blank\">Website</a></b><br><a href=\"tel:4062658888\" target=\"_blank\">Phone</a><br>PO BOX 1605 HAVRE MT 59501-1605", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.414355844, 
-                    46.3737390610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GRANITE COUNTY MUSEUM AND CULTURAL CENTER INC</h3>PO BOX 502 PHILIPSBURG MT 59858", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.303979806, 
-                    47.5064576940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA LAW ENFORCEMENT MUSEUM INC</h3>PO BOX 0521 GREAT FALLS MT 59403-0521", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.0993678, 
-                    45.8699157650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JEFFERSON VALLEY MUSEUM INC</h3><a href=\"tel:4062877813\" target=\"_blank\">Phone</a><br>PO BOX 902 WHITEHALL MT 59759-0902", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.038908882, 
-                    46.5879832900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NORTHERN ROCKIES CHILDRENS MUSEUM OF SCIENCE & TECHNOLOGY IN</h3>111 N LAST CHANCE GULCH ST HELENA MT 59601", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.131289197, 
-                    47.0194694910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OVANDO HISTORICAL AND ARTS SOCIETY INC</h3>PO BOX 21 OVANDO MT 59854-0021", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.093216902, 
-                    46.5036261090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORIC ST MARYS MISSION INC</h3><a href=\"tel:4067775734\" target=\"_blank\">Phone</a><br>PO BOX 211 STEVENSVILLE MT 59870-0211", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.292849531, 
-                    46.3318680460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GRANITE COUNTY HISTORIAL SOCIETY INCORPORATED</h3>PO BOX 460 PHILIPSBURG MT 59858-0460", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.527237859, 
-                    45.9834073050005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MAI WAH SOCIETY INC</h3>PO BOX 404 BUTTE MT 59703-0404", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.036530588, 
-                    46.5904966070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HOLTER MUSEUM OF ART INC</h3><b><a href=\"http://www.holtermuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4064426400\" target=\"_blank\">Phone</a><br>12 E LAWRENCE ST HELENA MT 59601-4019", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.553856449, 
-                    45.7772585240005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UNITED VETERANS COUNCIL VICTOR H LEIKAM</h3>PO BOX 23004 BILLINGS MT 59104-3004", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.03438034, 
-                    45.6833786440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EMERSON CULTURAL CENTER INC</h3><a href=\"tel:4065863970\" target=\"_blank\">Phone</a><br>409 N BOZEMAN AVE BOZEMAN MT 59715-3675", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -106.638356485, 
-                    48.1944892950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE PIONEER MUSEUM</h3><a href=\"tel:4062282082\" target=\"_blank\">Phone</a><br>PO BOX 975 GLASGOW MT 59230-0975", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.687029777, 
-                    46.9550374070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UPPER BLACKFOOT VALLEY HISTORICAL SOCIETY</h3>PO BOX 922 LINCOLN MT 59639-0922", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.540032677, 
-                    45.8023702070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>YELLOWSTONE COUNTY MUSEUM FOUNDATION</h3><b><a href=\"http://www.yellowstonecountymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4062566811\" target=\"_blank\">Phone</a><br>1950 TERMINAL CIR BILLINGS MT 59105-1988", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.553749453, 
-                    48.5592568420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RUDYARD HISTORICAL SOCIETY INC</h3>PO BOX 44 RUDYARD MT 59540-0044", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.94565889, 
-                    45.2934465210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VIRGINIA CITY PRESERVATION ALLIANCE</h3>PO BOX 55 VIRGINIA CITY MT 59755-0055", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.561288037, 
-                    45.6608080360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LINCOLN SCHOOL FOUNDATION INC</h3>PO BOX 1066 LIVINGSTON MT 59047-1066", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.085898902, 
-                    46.9233209950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF MOUNTAIN FLYING</h3><a href=\"tel:4067213644\" target=\"_blank\">Phone</a><br>5525 HWY 10 W MISSOULA MT 59808", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.992188568, 
-                    46.8724381970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MISSOULA ART MUSEUM</h3><b><a href=\"http://www.missoulaartmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4067230447\" target=\"_blank\">Phone</a><br>335 N PATTEE ST MISSOULA MT 59802-4520", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.101909628, 
-                    46.6177476740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FORT WILLIAM HENRY HARRISON MUSEUM FOUNDATION</h3>PO BOX 125 FORT HARRISON MT 59636-0125", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.004888103, 
-                    45.5063995790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CUSTER BATTLEFIELD MUSEUM INC</h3><a href=\"tel:4066382000\" target=\"_blank\">Phone</a><br>PO BOX 200 GARRYOWEN MT 59031-0200", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.515380456, 
-                    45.7796391620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOSS MANSION</h3><b><a href=\"http://www.mossmansion.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4062565100\" target=\"_blank\">Phone</a><br>914 DIVISION ST BILLINGS MT 59101-1921", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.499488049, 
-                    45.7838438160005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BILLINGS DEPOT INC</h3>2310 MONTANA AVE BILLINGS MT 59101-2420", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.127848471, 
-                    48.3715607740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RAILWAY MEMORIAL PROJECT</h3>1415 BERNE ROAD COLUMBIA FALLS MT 59912-9182", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.140146535, 
-                    47.6261173760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE GERALDINE HISTORICAL COMMITTEE</h3>BOX 336 GERALDINE MT 59446", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.507688242, 
-                    45.7836338660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF WOMENS HISTORY</h3><a href=\"tel:4062482015\" target=\"_blank\">Phone</a><br>2822 3RD AVENUE NORTH B-3 BILLINGS MT 59101-1934", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.13610217, 
-                    45.7332565000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE COUNTRY GRAIN ELEVATOR HISTORICAL SOCIETY</h3>155 PROSPECTOR TRAIL BOZEMAN MT 59718-7988", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.735389687, 
-                    46.3977296370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RIALTO COMMUNITY THEATER</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.019372265, 
-                    47.0406272180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UTICA MUSEUM AND HISTORICAL SOCIETY</h3>5443 INDIANA RD MOCCASIN MT 59462-9533", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.338266514, 
-                    48.4083678400005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STUMP TOWN ART STUDIO</h3><b><a href=\"http://www.stumptownartstudio.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4068625929\" target=\"_blank\">Phone</a><br>PO BOX 4938 WHITEFISH MT 59937-4938", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.440989232, 
-                    45.5199994470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COBBLESTONE PRESERVATION COMMITTEE</h3>PO BOX 176 ABSAROKEE MT 59001-0176", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.360426966, 
-                    45.4730585250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TWIN BRIDGES HISTORICAL ASSOCIATION</h3>PO BOX 227 TWIN BRIDGES MT 59754", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.037056077, 
-                    46.5917297820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA CAPITOL RESTORATION FOUNDATION</h3>PO BOX 1915 HELENA MT 59624-1915", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.666767387, 
-                    47.8184464600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF THE UPPER MISSOURI</h3><a href=\"tel:4066225316\" target=\"_blank\">Phone</a><br>PO BOX 313 FORT BENTON MT 59442-0313", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.560197235, 
-                    45.6629037570005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATURAL HISTORY EXHIBIT HALL</h3><a href=\"tel:4062225335\" target=\"_blank\">Phone</a><br>120 E PARK ST LIVINGSTON MT 59047-2625", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.119337445, 
-                    46.2360389520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BOULDER RIVER CAROUSEL AND AMUSEMENTS INC</h3>PO BOX 773 BOULDER MT 59632-0773", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.096909324, 
-                    47.4401399110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NINEPIPES MUSEUM OF EARLY MONTANA</h3>69316 US HIGHWAY 93 CHARLO MT 59824-9789", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.481288069, 
-                    47.1763372200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SEELEY LAKE HISTORICAL MUSEUM AND VISITORS CENTER</h3>BOX 905 SEELEY LAKE MT 59868-0905", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.101259235, 
-                    44.6564079030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>YELLOWSTONE HISTORIC CENTER INC</h3>PO BOX 1299 W YELLOWSTONE MT 59758-1299", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.386058586, 
-                    48.5183573050005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INTERNATIONAL TRADITIONAL GAMES SOCIETY</h3><a href=\"tel:4062269141\" target=\"_blank\">Phone</a><br>PO BOX 408 EAST GLACIER MT 59434-0408", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.740996053, 
-                    45.8901446370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SKY CENTER INC % SHIRLE NORQUIST</h3>1058 LOWER SWEET GRASS ROAD BIG TIMBER MT 59011-7782", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.536516722, 
-                    46.0153170460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE BUTTE ARHIVES</h3>27 WEST QUARTZ BUTTE MT 59701-9207", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.013717696, 
-                    48.5582096950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF MONTANA WILDLIFE, HALL OF BRONZE</h3>PO BOX 172 BROWNING MT 59417-0172", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.57053671, 
-                    45.6467370850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE YELLOWSTONE GATEWAY MUSEUM OF PARK COUNTY INC</h3>PO BOX 815 LIVINGSTON MT 59047", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.996388579, 
-                    46.5883350600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BROADWATER CUPOLA PARK CORPORATION</h3>2401 COLONIAL DRIVE HELENA MT 59601-4909", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.303979806, 
-                    47.5064576940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA VETERANS MEMORIAL COMMITTEE INC</h3>PO BOX 3524 GREAT FALLS MT 59403-3524", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.338630511, 
-                    46.2663072110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOUNTAIN MUSEUM</h3><a href=\"tel:4068593901\" target=\"_blank\">Phone</a><br>43 METESH LN PHILIPSBURG MT 59858-9706", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.03667942, 
-                    45.6782097830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE ELLEN</h3>POB 393 BOZEMAN MT 59771-0393", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.25026267, 
-                    45.6708866770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PINE BUTTE SCHOOL PRESERVATION SOCIETY INC</h3>25971 NORRIS ROAD BOZEMAN MT 59718-9470", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.093216902, 
-                    46.5036261090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STEVENSVILLE MAIN STREET ASSOCIATION</h3>PO BOX 18 STEVENSVILLE MT 59870-0018", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.831057744, 
-                    46.4347490840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CITY COUNTY PRESERVATION COMMITTEE</h3>PO BOX 144 HARLOWTON MT 59036-0144", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.025429034, 
-                    46.7545727720005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORIC HILGER HOMESTEAD</h3>8840 JACK PINE DR HELENA MT 59602-9303", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.081215997, 
-                    46.7582868730005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TRAVELERS REST PRESERVATION AND HERITAGE ASSOCIATION</h3>PO BOX 995 LOLO MT 59847-0995", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.03667942, 
-                    45.6782097830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHILDRENS MUSEUM OF BOZEMAN INC</h3>PO BOX 341 BOZEMAN MT 59771-0341", 
-                "marker-color": "#CABA00", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.078326297, 
-                    45.6894894160005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MISSOURI HEADWATER PRESERVATION TRUST</h3>OB 393 BOZEMAN MT 59718-9448", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.344352303, 
-                    47.4538465440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA AGATE MUSEUM INC</h3>124 4TH AVE N SAVAGE MT 59262", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -110.551676593, 
-                    45.6658932060005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROCKY MOUNTAIN FRONT INSTITUTE OF NATURAL HISTORY</h3>806 EAST CALLENDER STREET LIVINGSTON MT 59047", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.069306066, 
-                    45.7003258600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRIDGER CANYON HISTORICAL PRESERVATION ASSOCIATION</h3>PO BOX 3311 BOZEMAN MT 59772-3311", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.03667942, 
-                    45.6782097830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MONTANA STATE UNIVERSITY</h3><a href=\"tel:4069943983\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#CABA00", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.556910404, 
-                    46.0123223420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MINERAL MUSEUM</h3><b><a href=\"http://www.mbmg.mtech/edu/museum/museum.asp\" target=\"_blank\">Website</a></b><br><a href=\"tel:4064964152\" target=\"_blank\">Phone</a><br>1300 WEST PARK STREET BUTTE MT 59701", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -113.98775753, 
-                    46.8630779250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE MONTANA MUSEUM OF ART & CULTURE</h3><b><a href=\"http://www.umt.edu/montanamuseum\" target=\"_blank\">Website</a></b><br>THE UNIVERSITY OF MONTANA  MAIN HALL 006 MISSOULA MT 59812", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.285121028, 
-                    47.5103896110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TRIGG-C M RUSSELL FOUNDATION INC</h3><b><a href=\"http://www.cmrussell.org\" target=\"_blank\">Website</a></b><br>400 13TH ST N GREAT FALLS MT 59401-1426", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.043285394, 
-                    46.5847834920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PIONEER CABIN</h3>212 S PARK AVE HELENA MT 59601-6279", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -104.54655797, 
-                    45.8912242130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CARTER COUNTY GEOLOGICAL SOCIETY</h3><a href=\"tel:4067756886\" target=\"_blank\">Phone</a><br>306 N MAIN ST EKALAKA MT 59324", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -109.436547886, 
-                    47.0574749490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CENTRAL MONTANA HISTORICAL ASSOCIATION INC</h3>114 14TH AVE S LEWISTOWN MT 59457", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -112.527237859, 
-                    45.9834073050005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WORLD MUSEUM OF MINING INC</h3><b><a href=\"http://www.miningmuseum.com\" target=\"_blank\">Website</a></b><br>PO BOX 33 BUTTE MT 59703-0033", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -108.507307521, 
-                    45.7855221250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>YELLOWSTONE ART MUSEUM</h3><b><a href=\"http://www.yellowstone.artmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4062566804\" target=\"_blank\">Phone</a><br>401 N 27TH ST BILLINGS MT 59101-1241", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.872086001, 
-                    48.3583394480005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PHILLIPS COUNTY MUSEUM</h3><b><a href=\"http://www.phillipscountymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4066541037\" target=\"_blank\">Phone</a><br>PO BOX 518 MALTA MT 59538-0518", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -111.045041994, 
-                    45.6602575640005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF THE ROCKIES</h3><b><a href=\"http://www.museumoftherockies.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4069942251\" target=\"_blank\">Phone</a><br>600 W KAGY BLVD BOZEMAN MT 59717-2730", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -114.151898803, 
-                    47.6931173600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>POLSON-FLATHEAD HISTORICAL MUSEUM INC</h3><b><a href=\"http://www.polsonflatheadmuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 206 POLSON MT 59860", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -106.63683812, 
-                    48.2033861170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VALLEY COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://VALLEYCOUNTYMUSEUM.COM\" target=\"_blank\">Website</a></b><br>PO BOX 44 GLASGOW MT 59230", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -107.612159089, 
-                    45.7524398540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BIG HORN COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:4066651671\" target=\"_blank\">Phone</a><br>1007 E RAILWAY ST HARDIN MT 59034-9720", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -105.632884364, 
-                    48.0995141310005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WOLF POINT AREA MUSEUM INC</h3>209 E INDIAN ST WOLF POINT MT 59201-1920", 
-                "marker-color": "#007321", 
+                "": "<h4>FORT PECK PALEONTOLOGY INC</h4><b>Phone:</b> <a href=\"tel:4065263539\" target=\"_blank\">4065263539</a><br>643 REMUDA CREEK RD FORT PECK MT 59223", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4479,8 +23,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>CHILDRENS MUSEUM OF MONTANA INC</h3><b><a href=\"http://www.childrensmuseumofmontana.org\" target=\"_blank\">Website</a></b><br>22 RAILROAD SQ GREAT FALLS MT 59401-4003", 
-                "marker-color": "#CABA00", 
+                "": "<h4>CHILDRENS MUSEUM OF MONTANA INC</h4><b>Website:</b> <a href=\"http://www.childrensmuseumofmontana.org\" target=\"_blank\">http://www.childrensmuseumofmontana.org</a><br>22 RAILROAD SQ GREAT FALLS MT 59401-4003", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4488,14 +31,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -106.148376947, 
-                    47.8370195970005
+                    -108.507307521, 
+                    45.7855221250005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>FORT PECK PALEONTOLOGY INC</h3><a href=\"tel:4065263539\" target=\"_blank\">Phone</a><br>643 REMUDA CREEK RD FORT PECK MT 59223", 
-                "marker-color": "#14008C", 
+                "": "<h4>YELLOWSTONE ART MUSEUM</h4><b>Website:</b> <a href=\"http://www.yellowstone.artmuseum.org\" target=\"_blank\">http://www.yellowstone.artmuseum.org</a><br><b>Phone:</b> <a href=\"tel:4062566804\" target=\"_blank\">4062566804</a><br>401 N 27TH ST BILLINGS MT 59101-1241", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4509,8 +51,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>BUTTE CITIZENS PRES & REVITAL</h3><a href=\"tel:4067239639\" target=\"_blank\">Phone</a><br>PO BOX 164 BUTTE MT 59703-0164", 
-                "marker-color": "#007321", 
+                "": "<h4>WORLD MUSEUM OF MINING INC</h4><b>Website:</b> <a href=\"http://www.miningmuseum.com\" target=\"_blank\">http://www.miningmuseum.com</a><br>PO BOX 33 BUTTE MT 59703-0033", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4518,14 +59,615 @@
         {
             "geometry": {
                 "coordinates": [
-                    -112.034784769, 
-                    46.5837904800005
+                    -111.285121028, 
+                    47.5103896110005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>THE STEWARD</h3>30 S DAVIS ST HELENA MT 59601-5719", 
-                "marker-color": "#0093BF", 
+                "": "<h4>TRIGG-C M RUSSELL FOUNDATION INC</h4><b>Website:</b> <a href=\"http://www.cmrussell.org\" target=\"_blank\">http://www.cmrussell.org</a><br>400 13TH ST N GREAT FALLS MT 59401-1426", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.03667942, 
+                    45.6782097830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MONTANA STATE UNIVERSITY</h4><b>Phone:</b> <a href=\"tel:4069943983\" target=\"_blank\">4069943983</a><br>", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.551676593, 
+                    45.6658932060005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ROCKY MOUNTAIN FRONT INSTITUTE OF NATURAL HISTORY</h4>806 EAST CALLENDER STREET LIVINGSTON MT 59047", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.03667942, 
+                    45.6782097830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CHILDRENS MUSEUM OF BOZEMAN INC</h4>PO BOX 341 BOZEMAN MT 59771-0341", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.025429034, 
+                    46.7545727720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HISTORIC HILGER HOMESTEAD</h4>8840 JACK PINE DR HELENA MT 59602-9303", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.57053671, 
+                    45.6467370850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE YELLOWSTONE GATEWAY MUSEUM OF PARK COUNTY INC</h4>PO BOX 815 LIVINGSTON MT 59047", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.013717696, 
+                    48.5582096950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MUSEUM OF MONTANA WILDLIFE, HALL OF BRONZE</h4>PO BOX 172 BROWNING MT 59417-0172", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.096909324, 
+                    47.4401399110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NINEPIPES MUSEUM OF EARLY MONTANA</h4>69316 US HIGHWAY 93 CHARLO MT 59824-9789", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.560197235, 
+                    45.6629037570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATURAL HISTORY EXHIBIT HALL</h4><b>Phone:</b> <a href=\"tel:4062225335\" target=\"_blank\">4062225335</a><br>120 E PARK ST LIVINGSTON MT 59047-2625", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.338266514, 
+                    48.4083678400005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>STUMP TOWN ART STUDIO</h4><b>Website:</b> <a href=\"http://www.stumptownartstudio.org\" target=\"_blank\">http://www.stumptownartstudio.org</a><br><b>Phone:</b> <a href=\"tel:4068625929\" target=\"_blank\">4068625929</a><br>PO BOX 4938 WHITEFISH MT 59937-4938", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.004888103, 
+                    45.5063995790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CUSTER BATTLEFIELD MUSEUM INC</h4><b>Phone:</b> <a href=\"tel:4066382000\" target=\"_blank\">4066382000</a><br>PO BOX 200 GARRYOWEN MT 59031-0200", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.992188568, 
+                    46.8724381970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MISSOULA ART MUSEUM</h4><b>Website:</b> <a href=\"http://www.missoulaartmuseum.org\" target=\"_blank\">http://www.missoulaartmuseum.org</a><br><b>Phone:</b> <a href=\"tel:4067230447\" target=\"_blank\">4067230447</a><br>335 N PATTEE ST MISSOULA MT 59802-4520", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.085898902, 
+                    46.9233209950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MUSEUM OF MOUNTAIN FLYING</h4><b>Phone:</b> <a href=\"tel:4067213644\" target=\"_blank\">4067213644</a><br>5525 HWY 10 W MISSOULA MT 59808", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.553749453, 
+                    48.5592568420005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>RUDYARD HISTORICAL SOCIETY INC</h4>PO BOX 44 RUDYARD MT 59540-0044", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.036530588, 
+                    46.5904966070005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HOLTER MUSEUM OF ART INC</h4><b>Website:</b> <a href=\"http://www.holtermuseum.org\" target=\"_blank\">http://www.holtermuseum.org</a><br><b>Phone:</b> <a href=\"tel:4064426400\" target=\"_blank\">4064426400</a><br>12 E LAWRENCE ST HELENA MT 59601-4019", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.292849531, 
+                    46.3318680460005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GRANITE COUNTY HISTORIAL SOCIETY INCORPORATED</h4>PO BOX 460 PHILIPSBURG MT 59858-0460", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.131289197, 
+                    47.0194694910005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>OVANDO HISTORICAL AND ARTS SOCIETY INC</h4>PO BOX 21 OVANDO MT 59854-0021", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.038908882, 
+                    46.5879832900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NORTHERN ROCKIES CHILDRENS MUSEUM OF SCIENCE & TECHNOLOGY IN</h4>111 N LAST CHANCE GULCH ST HELENA MT 59601", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.055060131, 
+                    45.6926194070004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>AMERICAN COMPUTER MUSEUM LTD</h4><b>Phone:</b> <a href=\"tel:4065821288\" target=\"_blank\">4065821288</a><br>1283 N 14TH ST STE 201 BOZEMAN MT 59715-3270", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.014846039, 
+                    46.8516262790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NATIONAL MUSEUM OF FOREST SERVICE HISTORY INC</h4>PO BOX 2772 MISSOULA MT 59806-2772", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.310315054, 
+                    48.1978754030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NORTHWEST MONTANA HISTORICAL SOCIETY INC</h4>124 2ND AVE E KALISPELL MT 59901-4569", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.116050567, 
+                    47.6797957110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MIRACLE OF AMERICA STORY INC</h4>36094 MEMORY LN POLSON MT 59860-8446", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.26612073, 
+                    47.5050917470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>URSULINE HISTORICAL FOUNDATION INC</h4><b>Website:</b> <a href=\"http://ursulinecentre.com\" target=\"_blank\">http://ursulinecentre.com</a><br><b>Phone:</b> <a href=\"tel:4064528585\" target=\"_blank\">4064528585</a><br>2300 CENTRAL AVE GREAT FALLS MT 59401-3913", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.945479116, 
+                    45.8364983280005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SWEET GRASS COUNTY MUSEUM SOCIETY</h4><b>Website:</b> <a href=\"http://www.crazymountainmuseum.shutterfly.\" target=\"_blank\">http://www.crazymountainmuseum.shutterfly.</a><br>PO BOX 83 BIG TIMBER MT 59011-0083", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.561288037, 
+                    45.6608080360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LIVINGSTON DEPOT FOUNDATION INC</h4>PO BOX 1319 LIVINGSTON MT 59047-1319", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.87014118, 
+                    48.5082665100005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MARIAS MUSEUM OF HISTORY AND ART</h4>1129 1ST STREET N SHELBY MT 59474", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.597299899, 
+                    46.8976163730005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PRAIRIE COUNTY MUSEUM AND EVELYN CAMERON GALLERY INC</h4>PO BOX 368 TERRY MT 59349", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.617520384, 
+                    45.7333299330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ZOOMONTANA INC</h4>2100 S SHILOH RD BILLINGS MT 59106-3908", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.606009746, 
+                    45.7310167810005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>JAILHOUSE GALLERY</h4><b>Website:</b> <a href=\"http://www.forevermontana.com\" target=\"_blank\">http://www.forevermontana.com</a><br><b>Phone:</b> <a href=\"tel:4066653239\" target=\"_blank\">4066653239</a><br>218 N CENTER AVE HARDIN MT 59034-1908", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.058545966, 
+                    46.8432978360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>FRIENDS OF THE HISTORICAL MUSEUM AT FORT MISSOULA</h4>BLDG 322 FORT MISSOULA MISSOULA MT 59804", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.54175233, 
+                    46.0132473660005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BUTTE-SILVER BOW ARTS FOUNDATION</h4><b>Website:</b> <a href=\"http://www.bsbarts.org\" target=\"_blank\">http://www.bsbarts.org</a><br>321 W BROADWAY ST BUTTE MT 59701-9126", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.270320646, 
+                    47.5062323340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MONTANA ART GALLERY DIRECTORS ASSOCIATION</h4><b>Website:</b> <a href=\"http://www.artmontana.com\" target=\"_blank\">http://www.artmontana.com</a><br><b>Phone:</b> <a href=\"tel:4067611797\" target=\"_blank\">4067611797</a><br>2112 1ST AVE N GREAT FALLS MT 59401-3304", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.28248098, 
+                    47.5062714190005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PARIS GIBSON SQUARE INCORPORATED</h4><b>Website:</b> <a href=\"http://www.the-square.org\" target=\"_blank\">http://www.the-square.org</a><br><b>Phone:</b> <a href=\"tel:4067278255\" target=\"_blank\">4067278255</a><br>1400 1ST AVE N GREAT FALLS MT 59401-3205", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.309675473, 
+                    48.1961461650005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HOCKADAY MUSEUM OF ART</h4><b>Phone:</b> <a href=\"tel:4067555268\" target=\"_blank\">4067555268</a><br>302 2ND AVE E KALISPELL MT 59901-4942", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.829068819, 
+                    46.4040472750005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>RANGE RIDERS INC</h4>435 L P ANDERSON RD MILES CITY MT 59301-4753", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.968438338, 
+                    45.6703761970005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BOZEMAN ART MUSEUM</h4>10573 KELLY CANYON RD BOZEMAN MT 59715-9687", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.993161595, 
+                    46.8769903690005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ZOOTOWN ARTS COMMUNITY CENTER</h4><b>Website:</b> <a href=\"http://www.zootownarts.com\" target=\"_blank\">http://www.zootownarts.com</a><br><b>Phone:</b> <a href=\"tel:4065497555\" target=\"_blank\">4065497555</a><br>235 NORTH 1ST ST WEST MISSOULA MT 59802-3661", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.073150802, 
+                    45.6904922080005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BORN INC</h4>2710 GOLDENROD LN BOZEMAN MT 59043-0315", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.588681006, 
+                    44.6338614890005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LIMA HISTORICAL SOCIETY</h4>117 MAIN ST PO BOX 2 LIMA MT 59739-0002", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.527237859, 
+                    45.9834073050005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MOTHER BOTTEGO HOUSE INC</h4>PO BOX 904 BUTTE MT 59703-0904", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.451320931, 
+                    46.3949387440005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CANTON CHURCH RESTORATION INC</h4>3597 HWY 284 TOWNSEND MT 59644", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.561288037, 
+                    45.6608080360005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PARK COUNTY FRIENDS OF THE ARTS INC</h4>PO BOX 1341 LIVINGSTON MT 59047-1341", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.63777603, 
+                    45.2174486840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BEAVERHEAD COUNTY MUSEUM ASSOCIATION</h4><b>Website:</b> <a href=\"http://www.beaverheadcountymuseum.org\" target=\"_blank\">http://www.beaverheadcountymuseum.org</a><br><b>Phone:</b> <a href=\"tel:4066835027\" target=\"_blank\">4066835027</a><br>15 SOUTH MONTANA STREET DILLON MT 59725-0265", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.33039771, 
+                    48.2025796950005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CONRAD MANSION DIRECTORS INC</h4>PO BOX 1041 KALISPELL MT 59903-1041", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4539,8 +681,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>CENTENNIAL VALLEY HISTORICAL SOCIETY</h3>PO BOX 882 DILLON MT 59725-0882", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MEHMKE STEAM TRACTOR MUSEUM</h4>PO BOX 1314 DILLON MT 59725-1314", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -4548,14 +689,293 @@
         {
             "geometry": {
                 "coordinates": [
-                    -115.10910786, 
-                    47.3036571370005
+                    -114.090527343, 
+                    48.0665593020005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>SPRAG POLE MUSEUM INC</h3>BOX 722 SAINT REGIS MT 59866", 
-                "marker-color": "#007321", 
+                "": "<h4>BIGFORK MUSEUM OF ART & HISTORY</h4>PO BOX 734 BIGFORK MT 59911-0734", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.216181286, 
+                    47.4969382720005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MONTANA INSTITUTE OF THE ARTS</h4>708 56TH ST SO GREAT FALLS MT 59405-5817", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.992538782, 
+                    46.8717175830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ROCKY MOUNTAIN MUSEUM OF MILITARY HISTORY INC</h4>PO BOX 7263 MISSOULA MT 59807-7263", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.026137079, 
+                    46.3900259430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TIZER NATURE CONNECTION</h4>PO BOX 129 JEFFERSON CITY MT 59638-0129", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.560770584, 
+                    45.7925563330005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BILLINGS BASEBALL PRESERVATION SOCIETY</h4>1735 MARIPOSA LANE BILLINGS MT 59102-2419", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.31296908, 
+                    46.7916391340005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>EVELYN CAMERON HERITAGE INC</h4>PO BOX 441 TERRY MT 59349-0441", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.056065748, 
+                    48.8915280930005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>TOBACCO VALLEY BOARD OF HISTORY</h4>PO BOX 1452 EUREKA MT 59917-1452", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.306438808, 
+                    45.8972067430005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HUNTLEY PROJECT MUSEUM</h4><b>Website:</b> <a href=\"http://www.huntleyprojectmuseum.org\" target=\"_blank\">http://www.huntleyprojectmuseum.org</a><br><b>Phone:</b> <a href=\"tel:4063482533\" target=\"_blank\">4063482533</a><br>PO BOX 353 HUNTLEY MT 59037-0353", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.248379488, 
+                    45.1857077680005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CARBON COUNTY ARTS GUILD</h4><b>Phone:</b> <a href=\"tel:4064461370\" target=\"_blank\">4064461370</a><br>PO BOX 585 RED LODGE MT 59068-0585", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.505707383, 
+                    45.7808330470005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>YELLOWSTONE WESTERN HERITAGE CENTER FOUNDATION</h4><b>Website:</b> <a href=\"http://www.ywhc.org\" target=\"_blank\">http://www.ywhc.org</a><br>2822 MONTANA AVE BILLINGS MT 59101-2305", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.534229269, 
+                    45.9947217090005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ENVISION BUTTE INC</h4>1000 GEORGE ST BUTTE MT 59701-7901", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.957154373, 
+                    46.1248069030005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ANACONDA RAILROAD AND MINING MUSEUMINC</h4>218 W 7TH ST ANACONDA MT 59711-2912", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.004888103, 
+                    45.5063995790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ELIZABETH CUSTER LIBRARY & MUSEUM INCORPORATED</h4>PO BOX 200 GARRYOWEN MT 59031-0200", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.638721125, 
+                    45.2165661200005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>JOES TOY MUSEUM</h4>126 N MONTANA ST DILLON MT 59725-3308", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.713424584, 
+                    47.1044415250005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MAKOSHIKA DINOSAUR MUSEUM</h4><b>Phone:</b> <a href=\"tel:4063771637\" target=\"_blank\">4063771637</a><br>101 N MERRILL AVE GLENDIVE MT 59330-1632", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.872086001, 
+                    48.3583394480005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>JUDITH RIVER FOUNDATION INC</h4>PO BOX 170 MALTA MT 59538-0170", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.668917078, 
+                    47.6090085110005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>LARUE-HOT SPRINGS MUSEUM</h4>PO BOX 220 HOT SPRINGS MT 59845-0028", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.230991238, 
+                    48.5913966640005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BLAINE COUNTY WILDLIFE MUSEUM</h4><b>Website:</b> <a href=\"http://www.bcwildlifemuseum.com\" target=\"_blank\">http://www.bcwildlifemuseum.com</a><br><b>Phone:</b> <a href=\"tel:4063573102\" target=\"_blank\">4063573102</a><br>417 INDIANA ST CHINOOK MT 59523", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.079863047, 
+                    46.6154977210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ARCHIE BRAY FOUNDATION FOR THE CERAMIC ARTS</h4><b>Phone:</b> <a href=\"tel:4064433502\" target=\"_blank\">4064433502</a><br>2915 COUNTRY CLUB AVENUE HELENA MT 59602", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.247280736, 
+                    45.1899202840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CARBON COUNTY ARTS GUILD AND DEPOT GALLERY</h4><b>Phone:</b> <a href=\"tel:4064461370\" target=\"_blank\">4064461370</a><br>11 W. 8TH ST. RED LODGE MT 59068", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.182099166, 
+                    48.3732615860005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MONTANA WILDLIFE TAXIDERMY</h4><b>Phone:</b> <a href=\"tel:4068922591\" target=\"_blank\">4068922591</a><br>28 6TH ST W COLUMBIA FALLS MT 59912", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"

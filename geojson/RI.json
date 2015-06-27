@@ -3,2774 +3,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.7924519079996, 
-                    41.8168605220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FOSTER FREEWILL SOCIETY</h3>34 SHIPPEE SCHOOLHOUSE ROAD FOSTER RI 02825-1627", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4511284529996, 
-                    41.6620846250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VARNUM HOUSE MUSEUM</h3><b><a href=\"http://www.varnumcontinentals.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018841776\" target=\"_blank\">Phone</a><br>57 PIERCE ST EAST GREENWICH RI 2818", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2842511989996, 
-                    41.7304223970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WARREN FIRE MUSEUM</h3><a href=\"tel:4012453790\" target=\"_blank\">Phone</a><br>38 BAKER ST WARREN RI 2885", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3830805999996, 
-                    41.8776785380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SLATER MILL</h3><b><a href=\"http://www.slatermill.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4017258638\" target=\"_blank\">Phone</a><br>67 ROOSEVELT AVE PAWTUCKET RI 2860", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4572211869997, 
-                    41.5837237980004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SMITH'S CASTLE</h3><a href=\"tel:4012943521\" target=\"_blank\">Phone</a><br>55 RICHARD SMITH DRIVE NORTH KINGSTOWN RI 2852", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4072746239996, 
-                    41.8267550680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RISD MUSEUM</h3><b><a href=\"http://www.risdmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4014546500\" target=\"_blank\">Phone</a><br>224 BENEFIT ST PROVIDENCE RI 2903", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3969155209996, 
-                    41.8230133720004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND HISTORICAL SOCIETY LIBRARY</h3><b><a href=\"http://www.rihs.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012738107\" target=\"_blank\">Phone</a><br>121 HOPE ST PROVIDENCE RI 2906", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3144665329996, 
-                    41.4819712460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SAMUEL WHITEHORNE HOUSE</h3><b><a href=\"http://www.newportrestoration.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018472448\" target=\"_blank\">Phone</a><br>416 THAMES ST NEWPORT RI 2840", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4169976389996, 
-                    41.8214270930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROVIDENCE FIRE MUSEUM</h3><a href=\"tel:4012723473\" target=\"_blank\">Phone</a><br>234 WASHINGTON ST PROVIDENCE RI 2903", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3119564399996, 
-                    41.4874414650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROYAL ARTS FOUNDATION</h3><a href=\"tel:4018460669\" target=\"_blank\">Phone</a><br>BELCOURT CASTLE, BELLEVUE NEWPORT RI 2840", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4095220379996, 
-                    41.8166434210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROVIDENCE CHILDREN'S MUSEUM</h3><a href=\"tel:4017262591\" target=\"_blank\">Phone</a><br>100 SOUTH ST. PROVIDENCE RI 2903", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2701661779997, 
-                    41.7258215010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MASSASOIT HISTORICAL ASSOCIATION'S MAXWELL HOUSE</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4181383109997, 
-                    41.7795624640005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF NATURAL HISTORY</h3><a href=\"tel:4017859450\" target=\"_blank\">Phone</a><br>ROGER WILLIAMS PARK PROVIDENCE RI 02907-3600", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2965500359996, 
-                    41.4857399500005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NEWPORT EXPLORATION CENTER AQUARIUM</h3><a href=\"tel:4018498430\" target=\"_blank\">Phone</a><br>175 MEMORIAL BLVD NEWPORT RI 2840", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5440139199997, 
-                    41.6936460860005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATHANAEL GREENE HOMESTEAD</h3><b><a href=\"http://gmierka.tripod.com/index.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018218630\" target=\"_blank\">Phone</a><br>50 TAFT ST COVENTRY RI 2816", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3152496979997, 
-                    41.4896260500005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF NEWPORT HISTORY</h3><b><a href=\"http://www.newporthistorical.org/museum_newhist.htm\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018418770\" target=\"_blank\">Phone</a><br>127 THAMES ST NEWPORT RI 2840", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4968276589996, 
-                    41.4518997140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM-PRIMITIVE ART AND CULTURE</h3><b><a href=\"http://www.primitiveartmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4017835711\" target=\"_blank\">Phone</a><br>1058 KINGSTOWN RD WAKEFIELD RI 2879", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3157119519997, 
-                    41.4939805880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MILLS HISTORICAL PROPERTY</h3><a href=\"tel:4018468556\" target=\"_blank\">Phone</a><br>57 FAREWELL ST NEWPORT RI 2840", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2690375559997, 
-                    41.4879627820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MIDDLETOWN HISTORICAL SOCIETY</h3><a href=\"tel:4018491870\" target=\"_blank\">Phone</a><br>PARADISE AVE MIDDLETOWN RI 2842", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3144370609996, 
-                    41.4808068980005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF YACHTING</h3><a href=\"tel:4018471018\" target=\"_blank\">Phone</a><br>449 THAMES STREET NEWPORT RI 2840", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2766840099997, 
-                    41.6708723560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LINDEN PLACE</h3>500 HOPE STREET BRISTOL RI 2809", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4135079089996, 
-                    41.8395433310005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JOHN CARTER BROWN LIBRARY</h3>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4135079089996, 
-                    41.8395433310005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JOHN NICHOLAS BROWN CENTER</h3><a href=\"tel:4012720357\" target=\"_blank\">Phone</a><br>BROWN UNIVERSITY PROVIDENCE RI 2912", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3734957319996, 
-                    41.4962119850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JAMESTOWN MUSEUM</h3><a href=\"tel:4014230784\" target=\"_blank\">Phone</a><br>92 NARRAGANSETT AVE JAMESTOWN RI 2835", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3208861699997, 
-                    41.4924460900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HUNTER HOUSE</h3><b><a href=\"http://newportmansions.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018471000\" target=\"_blank\">Phone</a><br>54 WASHINGTON ST NEWPORT RI 2840", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2757180629997, 
-                    41.6008573670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GREEN ANIMALS TOPIARY GARDENS</h3><b><a href=\"http://tickets.newportmansions.org/mansion.aspx?id=1003\" target=\"_blank\">Website</a></b><br><a href=\"tel:4016831267\" target=\"_blank\">Phone</a><br>380 CORYS LN PORTSMOUTH RI 2871", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2392589389996, 
-                    41.6770028530005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HAFFENREFFER MUSEUM OF ANTHROPOLOGY</h3><b><a href=\"http://brown.edu/Facilities/Haffenreffer\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012538388\" target=\"_blank\">Phone</a><br>300 TOWER ST BRISTOL RI 2809", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4088822099997, 
-                    41.8189265800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HERITAGE HARBOR MUSEUM</h3><b><a href=\"http://www.heritageharbor.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4017517979\" target=\"_blank\">Phone</a><br>222 RICHMOND ST PROVIDENCE RI 2903", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5200754329996, 
-                    41.4802976020005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FAYERWEATHER HOUSE</h3><b><a href=\"http://www.fayerweatherhouse.8m.net\" target=\"_blank\">Website</a></b><br><a href=\"tel:4017899072\" target=\"_blank\">Phone</a><br>1859 MOORESFIELD RD KINGSTON RI 2881", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3561339569997, 
-                    41.8743452700004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAGGETT HOUSE</h3><a href=\"tel:4017280500\" target=\"_blank\">Phone</a><br>16 2ND ST PAWTUCKET RI 2861", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4135079089996, 
-                    41.8395433310005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAVID WINTON BELL GALLERY OF BROWN UNIVERSITY</h3><a href=\"tel:4018633993\" target=\"_blank\">Phone</a><br>LIST ART CENTER, 64 COLLEGE STREET PROVIDENCE RI 2912", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3908067029997, 
-                    41.7866673580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CULINARY ARTS MUSEUM</h3><b><a href=\"http://www.culinary.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4015982805\" target=\"_blank\">Phone</a><br>315 HARBORSIDE BLVD PROVIDENCE RI 2905", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3066140359996, 
-                    41.4631544580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BEECHWOOD MANSION</h3><b><a href=\"http://www.newportmansions.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018463772\" target=\"_blank\">Phone</a><br>580 BELLEVUE AVE NEWPORT RI 2840", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2649652189996, 
-                    41.6547762840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLITHEWOLD MANSION, GARDENS AND ARBORETUM</h3><b><a href=\"http://www.blithewold.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012532707\" target=\"_blank\">Phone</a><br>101 FERRY ROAD BRISTOL RI 2809", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3072441409997, 
-                    41.5080080480005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BEECHWOOD FOUNDATION INC</h3>50 DUDLEY AVENUE NEWPORT RI 02840-1208", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4074052179997, 
-                    41.8251633690004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GOVERNOR HENRY LIPPITT HOUSE MUSEUM</h3><a href=\"tel:4012725101\" target=\"_blank\">Phone</a><br>50 SOUTH MAIN STREET PROVIDENCE RI 2903", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3278777399996, 
-                    41.7755649830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND HERITAGE HALL OF FAME</h3><a href=\"tel:4014330044\" target=\"_blank\">Phone</a><br>1445 WAMPANOAG TRL UNIT 203 EAST PROVIDENCE RI 02915-1019", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4776426329997, 
-                    41.6974495220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CUTTYHUNK HISTORICAL SOCIETY INC</h3>501 CENTERVILLE RD STE 103 WARWICK RI 02886-4367", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3490372169996, 
-                    41.8490481210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSLIM HERITAGE COUNCIL OF NEW ENGLAND</h3>98 TRYON AVE RUMFORD RI 02916-1840", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4085940409997, 
-                    41.8285433730005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHAKESPEARES HEAD ASSOCIATION</h3><b><a href=\"http://www.ppsri.org/\" target=\"_blank\">Website</a></b><br>21 MEETING STREET PROVIDENCE RI 2903", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3077640969996, 
-                    41.4748445800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRESERVATION SOCIETY OF NEWPORT COUNTY</h3><b><a href=\"http://www.newportmansions.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4014230005\" target=\"_blank\">Phone</a><br>424 BELLEVUE AVE NEWPORT RI 02840-6924", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3086843839997, 
-                    41.4857553610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NEWPORT ART MUSEUM AND ART ASSOCIATION</h3><b><a href=\"http://www.newportartmuseum.org\" target=\"_blank\">Website</a></b><br>76 BELLEVUE AVE NEWPORT RI 02840-7405", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4072975219996, 
-                    41.8259410520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HANDICRAFT CLUB</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3894960349996, 
-                    41.8350003880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COMMUNITY CHURCH OF PROVIDENCE</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3919028549997, 
-                    41.8208248700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BOYS AND GIRLS CLUBS OF PROVIDENCE</h3>90 IVES ST #2 PROVIDENCE RI 02906-3827", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4072746239996, 
-                    41.8267550680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF ART, RHODE ISLAND SCHOOL OF D</h3><b><a href=\"http://www.risdmuseum.org\" target=\"_blank\">Website</a></b><br>224 BENEFIT STREET PROVIDENCE RI 02903-2723", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8300844369996, 
-                    41.3773573410004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERLY PUBLIC LIBRARY</h3><b><a href=\"http://www.westerlylibrary.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4015962877\" target=\"_blank\">Phone</a><br>44 BROAD ST WESTERLY RI 02891-1856", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3955370189997, 
-                    41.8251193530004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND HISTORICAL SOCIETY</h3><b><a href=\"http://www.rihs.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4013318575\" target=\"_blank\">Phone</a><br>110 BENEVOLENT ST PROVIDENCE RI 02906-3152", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3088822609997, 
-                    41.4863782040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>REDWOOD LIBRARY AND ATHENAEUM</h3><b><a href=\"http://www.redwoodlibrary.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018470292\" target=\"_blank\">Phone</a><br>50 BELLEVUE AVE NEWPORT RI 02840-3229", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4442341349996, 
-                    41.5200961320004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GILBERT STUART MEMORIAL INC</h3><b><a href=\"http://www.gilbertstuartmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012943001\" target=\"_blank\">Phone</a><br>815 GILBERT STUART RD SAUNDERSTOWN RI 02874-2911", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3117650329996, 
-                    41.4891356660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NEWPORT HISTORICAL SOCIETY</h3><a href=\"tel:4018460813\" target=\"_blank\">Phone</a><br>82 TOURO ST NEWPORT RI 02840-2931", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5310857039996, 
-                    41.8684120330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AUDUBON SOCIETY OF RHODE ISLAND</h3><b><a href=\"http://www.asri.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4019495454\" target=\"_blank\">Phone</a><br>12 SANDERSON RD SMITHFIELD RI 02917-2606", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3851597199996, 
-                    41.8803622440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OLD SLATER MILL ASSOCIATION</h3><b><a href=\"http://www.slatermill.org\" target=\"_blank\">Website</a></b><br>PO BOX 696 PAWTUCKET RI 02862-0696", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4085940409997, 
-                    41.8285433730005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROVIDENCE PRESERVATION SOCIETY</h3><b><a href=\"http://www.ppsri.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018317440\" target=\"_blank\">Phone</a><br>21 MEETING ST PROVIDENCE RI 02903-1214", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4668711429997, 
-                    41.6522236240005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VARNUM CONTINENTALS</h3>120 MIDDLE RD E GREENWICH RI 02818-2804", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4572211869997, 
-                    41.5837237980004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COCUMSCUSSOC ASSOCIATION</h3>55 RICHARD SMITH DR N KINGSTOWN RI 02852-4414", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4571564589996, 
-                    41.4310104790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH COUNTY MUSEUM INC</h3><b><a href=\"http://www.southcountymuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 709 NARRAGANSETT RI 02882-0709", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3132727859996, 
-                    41.4897231330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NEWPORT RESTORATION FOUNDATION</h3><b><a href=\"http://www.newportrestoration.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018497300\" target=\"_blank\">Phone</a><br>51 TOURO ST NEWPORT RI 02840-2932", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3062371469996, 
-                    41.4572815320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BELCOURT CASTLE</h3><b><a href=\"http://www.belcourtcastle.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018460669\" target=\"_blank\">Phone</a><br>657 BELLEVUE AVE NEWPORT RI 02840-4280", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5858699319996, 
-                    41.5595033810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TOMAQUAG INDIAN MEMORIAL MUSEUM THE</h3><b><a href=\"http://www.tomaquagmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4014919063\" target=\"_blank\">Phone</a><br>390 A SMMMIT RD EXETER RI 2822", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4578261809996, 
-                    41.6990498220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WARWICK MUSEUM INC</h3>3259 POST RD WARWICK RI 02886-7145", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5231525289997, 
-                    41.6859122860005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PAWTUXET VALLEY PRESERVATION AND HISTORICAL SOCIETY</h3><a href=\"tel:4018219726\" target=\"_blank\">Phone</a><br>1679 MAIN STREET WEST WARWICK RI 02893-5305", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4510377629996, 
-                    41.6610733450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>KENTISH GUARDS HOME CORPORATION</h3>100 PIERCE STREET EAST GREENWIC RI 2818", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4095220379996, 
-                    41.8166434210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROVIDENCE CHILDREN'S MUSEUM</h3><b><a href=\"http://providencechildrensmuseum.blogspot.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012735437\" target=\"_blank\">Phone</a><br>100 SOUTH ST PROVIDENCE RI 02903-4749", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.6794874209996, 
-                    41.5220624690004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RICHMOND HISTORICAL SCOIETY</h3>PO BOX 408 WYOMING RI 2898", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3119564399996, 
-                    41.4874414650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATIONAL RAILROAD FOUNDATION & MUSEUM</h3><b><a href=\"http://www.ocnrr.com\" target=\"_blank\">Website</a></b><br>32 OCEAN VIEW AVE TIVERTON RI 2840", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3547359919996, 
-                    41.8406619300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EAST PROVIDENCE HISTORICAL SOCIETY</h3><a href=\"tel:4014381750\" target=\"_blank\">Phone</a><br>PO BOX 4774 RUMFORD RI 02916-0774", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.7124519709997, 
-                    41.9647661200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BURRILLVILLE HISTORICAL & PRESERVATION SOCIETY</h3>16 LAUREL HILL AVENUE PASCOAG RI 02859-3122", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4037068039996, 
-                    41.8083705180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HERITAGE HARBOR CORPORATION</h3>200 ALLENS AVE 3RD FLOOR PROVIDENCE RI 2903", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4624144539997, 
-                    41.8644251040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ITALIAN AMERICAN HISTORICAL SOCIETY INC OF RHODE ISLAND</h3><b><a href=\"http://iahsofri.org\" target=\"_blank\">Website</a></b><br>127 FORESTWOOD DRIVE NORTH PROVIDENCE RI 2904", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4220709639997, 
-                    41.8189694140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROVIDENCE REVOLVING FUND INC</h3><a href=\"tel:4012722760\" target=\"_blank\">Phone</a><br>372 W FOUNTAIN ST PROVIDENCE RI 02903-3514", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2554120099996, 
-                    41.5583241350005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PORTSMOUTH HISTORICAL SOCIETY</h3>870 EAST MAIN ROAD PORTSMOUTH RI 2871", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.7632091909996, 
-                    41.3791831130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERLY HISTORICAL SOCIETY</h3><b><a href=\"http://www.westerlyhistoricalsociety.com\" target=\"_blank\">Website</a></b><br>PO BOX 91 WESTERLY RI 2891", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3093784809997, 
-                    41.6168941530005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRUDENCE ISLAND HISTORICAL AND PRESERVATION SOCIETY INCORPOR</h3>PO BOX 193 PRUDENCE ISL RI 02872-0193", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3146967669996, 
-                    41.4848320590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE ROSE ISLAND LIGHTHOUSE FOUNDATION INC</h3>PO BOX 1419 NEWPORT RI 02840-0014", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4219713659996, 
-                    41.8617587950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROVIDENCE JEWELRY MUSEUM</h3><b><a href=\"http://www.providencejewelrymuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012740999\" target=\"_blank\">Phone</a><br>4 EDWARD ST PROVIDENCE RI 2904", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4097993639996, 
-                    41.8339438670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PROVIDENCE MARINE CORPS OF ARTILLERY MUSEUM OF RHODE ISLAND</h3>17 BENEFIT STREET PROVIDENCE RI 02904-2701", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8104097399997, 
-                    41.3595612100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WATCH HILL PRESERVATION SOCIETY</h3>PO BOX 1274 WESTERLY RI 02891-0900", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2808187609996, 
-                    41.7301727880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WARREN PRESERVATION SOCIETY</h3>PO BOX 624 WARREN RI 02885-0624", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3084640829996, 
-                    41.4843459140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DEBLOIS GALLERY</h3>138 BELLEVUE AVE NEWPORT RI 02842-5610", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8104067809996, 
-                    41.3595636080005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE OLD TOWN HALL MUSEUM CORPORATION INCORPORATED</h3>PO BOX 713 WESTERLY RI 02891-2891", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8104097399997, 
-                    41.3595612100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERLY ARMORY RESTORATION</h3><b><a href=\"http://www.westerlyarmory.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4015968554\" target=\"_blank\">Phone</a><br>PO BOX 614 WESTERLY RI 02891-0614", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3144370609996, 
-                    41.4808068980005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INTERNATIONAL YACHT RESTORATION SCHOOL INC</h3>449 THAMES ST UNIT 111 NEWPORT RI 02840-6750", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.6628359779996, 
-                    41.4537913410005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CAROLINA PRESERVATION & BAND SOCIETY INC</h3>BOX 487 CAROLINA RI 02812-0487", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4155269619997, 
-                    41.7527841960004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PHOTOGRAPCHIC SOCIETY OF RHODE ISLAND</h3>PO BOX 8284 WARWICK RI 02888-0284", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3119564399996, 
-                    41.4874414650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FORT ADAMS TRUST INC</h3>EISENHOWER HOUSE FORT ADAMS STATE P NEWPORT RI 2840", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3744579709996, 
-                    41.4961030040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BEAVERTAIL LIGHTHOUSE MUSEUM ASSN</h3>PO BOX 83 JAMESTOWN RI 02835-0083", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5250384769997, 
-                    41.4830810230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND NATURAL HISTORY SURVEY</h3><b><a href=\"http://www.rinhs.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018745800\" target=\"_blank\">Phone</a><br>PO BOX 1858 KINGSTON RI 02881-0498", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3925399159996, 
-                    41.8414021940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HOLICAUST EDUCATION AND RESOURCE CENTER OF RHODE ISLAND</h3><a href=\"tel:4014537860\" target=\"_blank\">Phone</a><br>401 ELMGROVE AVE PROVIDENCE RI 02906-3451", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5143109119996, 
-                    41.7527129850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CRANSTON VOLUNTEER FIREFIGHTER</h3><a href=\"tel:4018284333\" target=\"_blank\">Phone</a><br>470 HOPE RD CRANSTON RI 02921-2745", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3123202799997, 
-                    41.4858662290005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LA FARGE HERITAGE FOUNDATION OF NEWPORT</h3>67 PELHAM STREET NEWPORT RI 2840", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4667876019997, 
-                    41.7318428850004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PONTIAC VILLAGE ASSOCIATION INC</h3>159 WELLSPRING DRIVE WARWICK RI 02886-1275", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4139467549996, 
-                    41.8389002700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMERICAN DINER MUSEUM INC</h3><b><a href=\"http://americandinermuseum.org\" target=\"_blank\">Website</a></b><br>PO BOX 6022 PROVIDENCE RI 2940", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3146967669996, 
-                    41.4848320590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF NEWPORT IRISH HISTORY INC</h3><a href=\"tel:4018480661\" target=\"_blank\">Phone</a><br>PO BOX 1378 NEWPORT RI 02840-0997", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4074052179997, 
-                    41.8251633690004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF BELLEVUE AVENUE</h3>50 S MAIN STREET SUITE 201 PROVIDENCE RI 02903-2919", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4113261719996, 
-                    41.7040597430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OAKLAND BEACH CAROUSEL FOUNDATION</h3>2438 WEST SHORE RD WARWICK RI 02889-8855", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.6736459769996, 
-                    41.9669892560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND BRASSWORKS</h3>64 STEERE STREET HARRISVILLE RI 02830-1216", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.6066421029997, 
-                    41.8312248090004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND STATE POLICE MUSEUM FOUNDATION INC</h3><a href=\"tel:4014441000\" target=\"_blank\">Phone</a><br>311 DANIELSON PIKE N SCITUATE RI 02857-1958", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2768865309997, 
-                    41.6711111300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOUNT HOPE TRUST IN BRISTOL</h3>PO BOX 66 BRISTOL RI 02809-0066", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4154828029996, 
-                    41.8211646960005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TSE TSE GALLERY</h3><b><a href=\"http://www.tsetsegallery.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4014533337\" target=\"_blank\">Phone</a><br>51 EMPIRE ST PROVIDENCE RI 02903-3216", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4216968689997, 
-                    41.8122021450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TRINITY RESTORATION</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5161585899996, 
-                    41.9019853060005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORICAL SOCIETY OF SMITHFIELD</h3>220 STILLWATER RD SMITHFIELD RI 02917-1849", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2649652189996, 
-                    41.6547762840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLITHEWOLD INC</h3><b><a href=\"http://www.blithewold.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012532707\" target=\"_blank\">Phone</a><br>101 FERRY RD BRISTOL RI 02809-2902", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3072346659997, 
-                    41.4695431630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMERICAN CIVILIZATION FOUNDATION</h3><b><a href=\"http://www.americanillustration.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018518949\" target=\"_blank\">Phone</a><br>492 BELLEVUE AVE NEWPORT RI 02840-4127", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3146967669996, 
-                    41.4848320590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FOUNDATION FOR THE PRESERVATION OF CAPTAIN COOKS SHIPS</h3>BOX 1492 NEWPORT RI 02840-0996", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4318920839996, 
-                    41.8220075750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INDIA MUSEUM & HERITAGE SOCIETY</h3><a href=\"tel:4013690177\" target=\"_blank\">Phone</a><br>58 TELL ST APT 1F PROVIDENCE RI 02909-1593", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4953935219996, 
-                    41.9084450760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LAOTIAN COMMUNITY CENTER OF RHODE ISLAN</h3><b><a href=\"http://www.lccnational.org\" target=\"_blank\">Website</a></b><br>88 LIMEROCK ROAD SMITHFIELD RI 2917", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4732988599997, 
-                    41.4483236660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH COUNTY HERITAGE COUNCIL INC</h3>4808 TOWER HILL ROAD WAKEFIELD RI 02879-2392", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4084438499996, 
-                    41.8169319800004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JEWELRY DIST FOUNDATION HISTORIC & ARCHITECTURAL PRES & REVI</h3>222 CHESTNUT STREET PROVIDENCE RI 02903-4725", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4611378589996, 
-                    41.5891232840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SEABEE MUSEUM AND MEMORIAL PARK</h3><b><a href=\"http://www.seabeesmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012947233\" target=\"_blank\">Phone</a><br>21 LAFRATE WAY NORTH KINGSTOWN RI 2852", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2535738059996, 
-                    41.5897382300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE LEONARD BROWN HOUSE AT GLEN FARM INC</h3>2200 EAST MAIN RD PORTSMOUTH RI 02871-1268", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2731492189997, 
-                    41.6711365220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRISTOL TRAIN OF ARTILLERY ARMORY MUSEUM</h3>135 STATE ST BRISTOL RI 02809-2205", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.7433069719996, 
-                    41.7867702030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BORDERS FARM PRESERVATION INC</h3>31 NORTH RD FOSTER RI 02825-1617", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5791118929997, 
-                    41.8691196970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SMITHFIELD VETERANS MEMORIAL COMMITTEE</h3>3 JAMES STREET GREENVILLE RI 02828-1503", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4516108129997, 
-                    41.6626889830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE ALLEN-MADISON HOUSE</h3>50 MONTROSE STREET EAST GREENWICH RI 02818-3336", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4083851099996, 
-                    41.8233301520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PAWTUCKET ARMORY ASSOCIATION PAA</h3>123 DYER STREET PROVIDENCE RI 02903-3907", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4138468189997, 
-                    41.8219243330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FOX POINT FUNDATION FOR HISTORIC & ARCHITECTIURAL PRESERVATI</h3>PO BOX 603177 PROVIDENCE RI 2903", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.7524992269996, 
-                    41.4015675290005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BORN TO BE WILD NATURE CENTER</h3>45 VARS LANE BRADFORD RI 2808", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3125964209996, 
-                    41.4837780680004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRESERVE HISTORIC SAINT MARYS INC</h3><a href=\"tel:4018470475\" target=\"_blank\">Phone</a><br>12 WILLIAM ST NEWPORT RI 02840-3307", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.6588790589997, 
-                    41.3848819550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>QUONOCHOUTAUG HISTORICAL SOCIETY</h3><b><a href=\"http://www.quonochontaughistoricalsociety.o\" target=\"_blank\">Website</a></b><br>PO BOX 46 CHARLESTOWN RI 2813", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5787079839997, 
-                    41.1762932280005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLOCK ISLAND NORTH LIGHT ASSOCIATION</h3>PO BOX 1662 BLOCK ISLAND RI 02807-1662", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4869892649996, 
-                    41.4394224090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WILLOW DELL HISTORICAL ASSOCIATION</h3>PO BOX 774 WAKEFIELD RI 02880-0774", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5971959819997, 
-                    41.8877009580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF HARMONY VILLAGE INC</h3>PO BOX 120 HARMONY RI 02829-0120", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3801429239996, 
-                    41.8738436540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ELIZABETH J JOHNSON PAWTUCKET HISTORY RESEARCH CENTER</h3>30 FRUIT ST PAWTUCKET RI 02860-4304", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5257262509996, 
-                    41.4824034820004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND LABOR HISTORY SOCIETY</h3>36 UPPER COLLEGE ROAD URI KINGSTON RI 02881-1328", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4336135309997, 
-                    41.9099807570005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF HEARTHSIDE INC</h3>757 GREAT RD LINCOLN RI 02865-3820", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2438438819996, 
-                    41.6089386930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WORLD WAR II MEMORIAL COMMISSION OF RHODE ISLAND</h3>43 CANONCHET DR PORTSMOUTH RI 02871-4201", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     -71.3763176339996, 
                     41.8191628430005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>EAST PROVIDENCE BATTLE MONUMENTS FOUNDATION</h3>PO BOX 14157 EAST PROVIDENCE RI 02914-0157", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5289762159996, 
-                    41.4853046410005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UNIVERSITY OF RHODE ISLAND</h3><b><a href=\"http://www.uri.edu\" target=\"_blank\">Website</a></b><br>70 LOWER COLLEGE RD. KINGSTON RI 2881", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2742273869997, 
-                    41.6717411560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FIRST CONGREGATIONAL CHURCH IN BRISTOL</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4562736589996, 
-                    41.7905264450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CRANSTON HISTORICAL SOCIETY</h3><b><a href=\"http://www.cranstonhistoricalsociety.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4019449226\" target=\"_blank\">Phone</a><br>1351 CRANSTON ST CRANSTON RI 02920-6721", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.1707380489996, 
-                    41.5085210300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LITTLE COMPTON HISTORICAL SOCIETY INC</h3><b><a href=\"http://littlecompton.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4016354035\" target=\"_blank\">Phone</a><br>PO BOX 577 L COMPTON RI 02837-0577", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2768865309997, 
-                    41.6711111300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRISTOL HISTORICAL AND PRESERVATION SOCIETY</h3><a href=\"tel:4012537223\" target=\"_blank\">Phone</a><br>PO BOX 356 BRISTOL RI 02809-0356", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3196021949997, 
-                    41.4914594770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE NATIONAL SOCIETY OF COLONIAL DAMES IN THE STATE OF RHODE</h3>27 MARSH ST NEWPORT RI 02840-2441", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5926163459997, 
-                    41.6751606750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WESTERN RHODE ISLAND CIVIC HISTORICAL SOCIETY</h3><b><a href=\"http://www.westernrihistory.org\" target=\"_blank\">Website</a></b><br>PO BOX 2 COVENTRY RI 02816-0001", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5262651569997, 
-                    41.4804231490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PETTAQUAMSCUTT HISTORICAL SOCIETY</h3><b><a href=\"http://www.freewebs.com/pettaquamscutt\" target=\"_blank\">Website</a></b><br><a href=\"tel:4017831328\" target=\"_blank\">Phone</a><br>2636 KINGSTOWN RD KINGSTON RI 02881-1624", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4049661369996, 
-                    41.8468337610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRESERVE RHODE ISLAND</h3>957 N MAIN ST PROVIDENCE RI 02904-5715", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5787093629996, 
-                    41.1762912760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FIRST BAPTIST CHURCH</h3>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5440139199997, 
-                    41.6936460860005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATHANAEL GREENE HOMESTEAD ASSOCIATION</h3>50 TAFT ST NORTH PROVIDENC RI 2816", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4188231869996, 
-                    41.7845997680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND ZOOLOGICAL SOCIETY</h3><b><a href=\"http://www.avzmt.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4017859457\" target=\"_blank\">Phone</a><br>1000 ELMWOOD AVE PROVIDENCE RI 02907-3655", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2768865309997, 
-                    41.6711111300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRISTOL ART MUSEUM</h3>PO BOX 42 BRISTOL RI 02809-0042", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3744579709996, 
-                    41.4961030040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JAMESTOWN HISTORICAL SOCIETY</h3><b><a href=\"http://www.jamestownhistoricalsociety.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4014230784\" target=\"_blank\">Phone</a><br>PO BOX 156 JAMESTOWN RI 02835-0156", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5113982899996, 
-                    41.6229879450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NEW ENGLAND WIRELESS & STEAM MUSEUM</h3><a href=\"tel:4018841710\" target=\"_blank\">Phone</a><br>697 TILLINGHAST RD E GREENWICH RI 02818-1424", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5787079839997, 
-                    41.1762932280005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLOCK ISLAND HISTORICAL SOCIETY</h3><a href=\"tel:4014662481\" target=\"_blank\">Phone</a><br>PO BOX 79 BLOCK ISLAND RI 02807-0079", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4141973899996, 
-                    41.8252806110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EDWARD L & ELEANOR L SCHMIDT TR</h3>PO BOX 1802 PROVIDENCE RI 02901-1802", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3184703549996, 
-                    41.4895185510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THAMES MUSEUM</h3><a href=\"tel:4018496966\" target=\"_blank\">Phone</a><br>77 LONG WHARF NEWPORT RI 02840-2406", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4848133549996, 
-                    41.6411503540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND STATE HOUSE RESTORATION SOCIETY</h3>150 TAMARACK DR E GREENWICH RI 02818-2204", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4940386519996, 
-                    41.8628786070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JOHNSTON HISTORICAL SOCIETY</h3><b><a href=\"http://www.johnstonhistorical.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012313380\" target=\"_blank\">Phone</a><br>101 PUTNAM PIKE JOHNSTON RI 02919-2075", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2735805829997, 
-                    41.6702061170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRISTOL STATE HOUSE FOUNDATION</h3><a href=\"tel:4012530015\" target=\"_blank\">Phone</a><br>240 HIGH ST BRISTOL RI 02809-2211", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4391464109996, 
-                    41.8424042780005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE RHODE ISLAND IRISH FAMINE MEMORIAL COMMITTEEINC</h3>PO BOX 28077 PROVIDENCE RI 02908-0077", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8298342529997, 
-                    41.3799476100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ARTISTS COOPERATIVE GALLERY OF WESTERLY INC</h3>C/O ARDIE HARRISON 7 CANAL STREET WESTERLY RI 2891", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3084150219996, 
-                    41.4827733700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INTERNATIONAL TENNIS HALL OF FAME</h3><b><a href=\"http://www.tennisfame.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018493990\" target=\"_blank\">Phone</a><br>194 BELLEVUE AVENUE NEWPORT RI 2840", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3084150219996, 
-                    41.4827733700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INTERNATIONAL TENNIS HALL OF FAME INCORPORATED</h3><b><a href=\"http://www.tennisfame.com\" target=\"_blank\">Website</a></b><br>194 BELLEVUE AVE NEWPORT RI 02840-3515", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5213249849996, 
-                    41.4751513420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TAVERN HALL PRESERVATION SOCIETY</h3><a href=\"tel:4017890937\" target=\"_blank\">Phone</a><br>119 CHERRY RD KINGSTON RI 2881", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4391464109996, 
-                    41.8424042780005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND AVIATION HALL OF FAME INC</h3>PO BOX 28701 PROVIDENCE RI 02908-0701", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4571564589996, 
-                    41.4310104790005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF CANONCHET FARM</h3>PO BOX 418 NARRAGANSETT RI 02882-0418", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4968276589996, 
-                    41.4518997140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF PRIMITIVE ART AND CULTURE</h3>1058 KINGSTOWN RD UNIT 5 PEACE DALE RI 02879-2536", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.1656992099997, 
-                    41.5122036520005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SAKONNET LIGHTHOUSE, FRIENDS OF</h3>PO BOX 154 LITTLE COMPTO RI 2837", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4342075149996, 
-                    41.9078120570005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLACKSTONE VALLEY HISTORICAL SOCIETY</h3><b><a href=\"http://bvhsri.org\" target=\"_blank\">Website</a></b><br>PO BOX 125 LINCOLN RI 2865", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3851597199996, 
-                    41.8803622440005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRESERVATION SOCIETY OF PAWTUCKET INC</h3>PO BOX 735 PAWTUCKET RI 02862-0735", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.6622136219996, 
-                    41.5927425640004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MATTESON HISTORICAL CONGRESS OF AMERICA</h3><b><a href=\"http://www.mhcoa.org\" target=\"_blank\">Website</a></b><br>220 AUSTIN FARM RD EXETER RI 2822", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8104097399997, 
-                    41.3595612100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WATCH HILL LIGHTHOUSE KEEPERS ASSOCIATION</h3>PO BOX 1511 WESTERLY RI 02891-0908", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5787079839997, 
-                    41.1762932280005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTHEAST LIGHTHOUSE FOUNDATION</h3><a href=\"tel:4014665009\" target=\"_blank\">Phone</a><br>PO BOX 949 BLOCK ISLAND RI 02807-0949", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4632060819997, 
-                    41.4317211150005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NARRAGANSETT FIREMENS MUSEUM INCORPORATED</h3>PO BOX 283 NARRAGANSETT RI 2882", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4581297399997, 
-                    41.5881128370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF PLUM BEACH LIGHTHOUSE INC</h3>PO BOX 1041 N KINGSTOWN RI 02852-0615", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3135984469997, 
-                    41.4894236800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ARTILLERY COMPANY OF NEWPORT</h3><b><a href=\"http://www.newportartillery.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4018468488\" target=\"_blank\">Phone</a><br>23 CLARKE ST NEWPORT RI 02840-3023", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3155145129996, 
-                    41.4869793420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE IS FSHRMN WHLE MSM</h3><a href=\"tel:4018491340\" target=\"_blank\">Phone</a><br>18 MARKET SQ NEWPORT RI 02840-3035", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4581297399997, 
-                    41.5881128370005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>QUONSET AIR MUSEUM</h3><a href=\"tel:4012949540\" target=\"_blank\">Phone</a><br>PO BOX 1571 N KINGSTOWN RI 02852-0629", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4010059539996, 
-                    41.8304642030005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THOMAS BECKETT FOUNDATION</h3>PO BOX 603364 PROVIDENCE RI 02906-0764", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4449032609996, 
-                    41.5661148890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WICKFORD ART ASSOCIATION</h3><b><a href=\"http://www.wickfordart.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012946840\" target=\"_blank\">Phone</a><br>36 BEACH ST N KINGSTOWN RI 02852-5745", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.6588790589997, 
-                    41.3848819550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHARLESTOWN HISTORICAL SOCIETY</h3>PO BOX 100 CHARLESTOWN RI 2813", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2768865309997, 
-                    41.6711111300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HERRESHOFF MARINE MUSEUM</h3><b><a href=\"http://www.herreshoff.org\" target=\"_blank\">Website</a></b><br>PO BOX 450 BRISTOL RI 02809-0450", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.6691362359996, 
-                    41.9129410940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GLOCESTER HERITAGE SOCIETY</h3><a href=\"tel:4015681866\" target=\"_blank\">Phone</a><br>PO BOX 269 CHEPACHET RI 02814-0269", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.1707380489996, 
-                    41.5085210300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SAKONNET PRESERVATION ASSOC INC</h3><a href=\"tel:4016358800\" target=\"_blank\">Phone</a><br>PO BOX 945 L COMPTON RI 02837-0945", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3976220849996, 
-                    41.7549619270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WARWICK HISTORICAL SOCIETY</h3><b><a href=\"http://warwickhistoricalsocietyonline.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4014677647\" target=\"_blank\">Phone</a><br>25 ROGER WILLIAMS CIRCLE WARWICK RI 2888", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8104097399997, 
-                    41.3595612100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WATCH HILL IMPROVEMENT SOCIETY</h3>PO BOX 1451 WESTERLY RI 02891-0907", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.8202524989997, 
-                    41.3713056820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TRUST U/WILL OF ORLANDO R SMITH</h3>124 GRANITE ST WESTERLY RI 02891-2435", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2961310759997, 
-                    41.6841425390004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COGGESHALL FARM MUSEUM INC COGGESHALL LANE</h3><b><a href=\"http://www.coggeshallfarm.org\" target=\"_blank\">Website</a></b><br>1 COLT DR BRISTOL RI 02809-1019", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4138468189997, 
-                    41.8219243330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM CONCERTS INC</h3><b><a href=\"http://museumconcerts.org\" target=\"_blank\">Website</a></b><br>PO BOX 23055 PROVIDENCE RI 2903", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4745682719997, 
-                    41.6509831270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CLOUDS HILL VICTORIAN HOUSE MUSEUM</h3><b><a href=\"http://www.cloudshill.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4157767873\" target=\"_blank\">Phone</a><br>PO BOX 522 EAST GREENWICH RI 2818", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4063589999997, 
-                    41.7916024740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISPANIC HERITAGE COMMITTEE OF RHODE ISLAND</h3>PO BOX 25118 PROVIDENCE RI 02905-0596", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5266348069997, 
-                    41.4884609450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MASTER GARDENER ASSOCIATION OF RHODE ISLAND INC</h3>3 E ALUMNI AVE KINGSTON RI 02881-2019", 
-                "marker-color": "#CC430A", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3876837639996, 
-                    41.8770156170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PAWTUCKET LAND TRUST</h3>67 PARK PLACE PAWTUCKET RI 02860-4009", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4210315519996, 
-                    41.5167181960005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND MUSEUM OF SCIENCE AND ART</h3>60 CHARLOTTE AVE SAUNDERSTOWN RI 02874-3410", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.2701661779997, 
-                    41.7258215010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORIC WARREN ARMORY INC</h3><b><a href=\"http://historicwarrenarmory.org\" target=\"_blank\">Website</a></b><br>PO BOX 564 WARREN RI 2885", 
-                "marker-color": "#0093BF", 
+                "": "<h4>CAPE VERDEAN MUSEUM EXHIBIT</h4><b>Website:</b> <a href=\"http://www.capeverdeanmuseum.org\" target=\"_blank\">http://www.capeverdeanmuseum.org</a><br><b>Phone:</b> <a href=\"tel:4012287292\" target=\"_blank\">4012287292</a><br>PO BOX 14187 E PROVIDENCE RI 02914-0187", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2784,8 +23,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>OCEANS AQUARIUM RESEARCH & SCIENCE CENTER</h3>1260 MAIN ST COVENTRY RI 02816-8434", 
-                "marker-color": "#B400BF", 
+                "": "<h4>OCEANS AQUARIUM RESEARCH & SCIENCE CENTER</h4>1260 MAIN ST COVENTRY RI 02816-8434", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2793,14 +31,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.4243386329996, 
-                    41.5079301080005
+                    -71.5266348069997, 
+                    41.4884609450005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>DUTCH ISLAND LIGHTHOUSE SOCIETY</h3>PO BOX 435 SAUNDERSTOWN RI 02874-0435", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MASTER GARDENER ASSOCIATION OF RHODE ISLAND INC</h4>3 E ALUMNI AVE KINGSTON RI 02881-2019", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2808,14 +45,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.4514393289996, 
-                    41.7419242640005
+                    -71.2768865309997, 
+                    41.6711111300005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>STEAMSHIP HISTORICAL SOCIETY OF AMERICA</h3><a href=\"tel:4012740805\" target=\"_blank\">Phone</a><br>30C KENNEY DRIVE CRANSTON RI 2920", 
-                "marker-color": "#0093BF", 
+                "": "<h4>HERRESHOFF MARINE MUSEUM</h4><b>Website:</b> <a href=\"http://www.herreshoff.org\" target=\"_blank\">http://www.herreshoff.org</a><br>PO BOX 450 BRISTOL RI 02809-0450", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2823,14 +59,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.5419348959996, 
-                    41.4690516330004
+                    -71.4449032609996, 
+                    41.5661148890005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>WW II FOUNDATION</h3>333 WHITE HORN DR KINGSTON RI 02881-1835", 
-                "marker-color": "#0093BF", 
+                "": "<h4>WICKFORD ART ASSOCIATION</h4><b>Website:</b> <a href=\"http://www.wickfordart.org\" target=\"_blank\">http://www.wickfordart.org</a><br><b>Phone:</b> <a href=\"tel:4012946840\" target=\"_blank\">4012946840</a><br>36 BEACH ST N KINGSTOWN RI 02852-5745", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2838,14 +73,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.3310557119996, 
-                    41.7443809560005
+                    -71.4581297399997, 
+                    41.5881128370005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>RHODE ISLAND REDS HERITAGE SOCIETY</h3>PO BOX 167 BARRINGTON RI 02806-0167", 
-                "marker-color": "#0093BF", 
+                "": "<h4>QUONSET AIR MUSEUM</h4><b>Phone:</b> <a href=\"tel:4012949540\" target=\"_blank\">4012949540</a><br>PO BOX 1571 N KINGSTOWN RI 02852-0629", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2853,14 +87,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.5163516489997, 
-                    41.9993757520004
+                    -71.8104097399997, 
+                    41.3595612100005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>THE WOONSOCKET HISTORICAL AND PRESERVATION SOCIETY</h3>42 SOUTH MAIN ST GARDEN LEVEL WOONSOCKET RI 2895", 
-                "marker-color": "#0093BF", 
+                "": "<h4>WATCH HILL LIGHTHOUSE KEEPERS ASSOCIATION</h4>PO BOX 1511 WESTERLY RI 02891-0908", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2868,14 +101,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.4687663119997, 
-                    41.6385540050005
+                    -71.4968276589996, 
+                    41.4518997140005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>ORIGAMI POEMS PROJECT</h3>PO BOX 1623 EAST GREENWICH RI 02818-0698", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MUSEUM OF PRIMITIVE ART AND CULTURE</h4>1058 KINGSTOWN RD UNIT 5 PEACE DALE RI 02879-2536", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2883,14 +115,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.5316648799997, 
-                    41.9131898200005
+                    -71.8298342529997, 
+                    41.3799476100005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>SMITHFIELD PRESERVATION SOCIETY</h3>7 JOHN MOWRY ROAD SMITHFIELD RI 02917-1207", 
-                "marker-color": "#0093BF", 
+                "": "<h4>ARTISTS COOPERATIVE GALLERY OF WESTERLY INC</h4>C/O ARDIE HARRISON 7 CANAL STREET WESTERLY RI 2891", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2898,14 +129,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.3016312249997, 
-                    41.7438453110005
+                    -71.4188231869996, 
+                    41.7845997680005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>WARREN COUSINS INCORPORATED</h3>145 NEW MEADOW ROAD BARRINGTON RI 02806-3704", 
-                "marker-color": "#0093BF", 
+                "": "<h4>RHODE ISLAND ZOOLOGICAL SOCIETY</h4><b>Website:</b> <a href=\"http://www.avzmt.org\" target=\"_blank\">http://www.avzmt.org</a><br><b>Phone:</b> <a href=\"tel:4017859457\" target=\"_blank\">4017859457</a><br>1000 ELMWOOD AVE PROVIDENCE RI 02907-3655", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2913,14 +143,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.6688917569996, 
-                    41.4572454380005
+                    -71.4049661369996, 
+                    41.8468337610005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>POINT JUDITH FISHERMEN S MEMORIAL FOUNDATION</h3>88 HILLTOP DRIVE CHARLESTOWN RI 02813-4002", 
-                "marker-color": "#0093BF", 
+                "": "<h4>PRESERVE RHODE ISLAND</h4>957 N MAIN ST PROVIDENCE RI 02904-5715", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2928,14 +157,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.3838287299997, 
-                    41.8769804480005
+                    -71.3125964209996, 
+                    41.4837780680004
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>RHODE ISLAND MUSIC HALL OF FAME</h3>175 MAIN STREET PAWTUCKET RI 02860-4132", 
-                "marker-color": "#007321", 
+                "": "<h4>PRESERVE HISTORIC SAINT MARYS INC</h4><b>Phone:</b> <a href=\"tel:4018470475\" target=\"_blank\">4018470475</a><br>12 WILLIAM ST NEWPORT RI 02840-3307", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2943,14 +171,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.2701661779997, 
-                    41.7258215010005
+                    -71.7524992269996, 
+                    41.4015675290005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>MASSASOIT HISTORICAL ASSOCIATION OF WARREN RHODE ISLAND</h3>PO BOX 203 WARREN RI 2885", 
-                "marker-color": "#0093BF", 
+                "": "<h4>BORN TO BE WILD NATURE CENTER</h4>45 VARS LANE BRADFORD RI 2808", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2958,14 +185,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.4094844849997, 
-                    41.8283530680005
+                    -71.2731492189997, 
+                    41.6711365220005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>RHODE ISLAND BLACK HERITAGE SOCIETY</h3><a href=\"tel:4014210606\" target=\"_blank\">Phone</a><br>123 N MAIN ST 2ND FL PROVIDENCE RI 02903-1309", 
-                "marker-color": "#0093BF", 
+                "": "<h4>BRISTOL TRAIN OF ARTILLERY ARMORY MUSEUM</h4>135 STATE ST BRISTOL RI 02809-2205", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2973,14 +199,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.3007362649997, 
-                    41.5158727790005
+                    -71.3072346659997, 
+                    41.4695431630005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>MIDDLETOWN HISTORICAL SOCIETY STATE OF RHODE ISLAND</h3>PO BOX 4196 MIDDLETOWN RI 02842-0196", 
-                "marker-color": "#0093BF", 
+                "": "<h4>AMERICAN CIVILIZATION FOUNDATION</h4><b>Website:</b> <a href=\"http://www.americanillustration.org\" target=\"_blank\">http://www.americanillustration.org</a><br><b>Phone:</b> <a href=\"tel:4018518949\" target=\"_blank\">4018518949</a><br>492 BELLEVUE AVE NEWPORT RI 02840-4127", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2988,14 +213,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.5163516489997, 
-                    41.9993757520004
+                    -71.6066421029997, 
+                    41.8312248090004
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>MUSEUM OF WORK AND CULTURE PRESERVATION FOUNDATION</h3><b><a href=\"http://www.rihs.org\" target=\"_blank\">Website</a></b><br>42 S MAIN ST WOONSOCKET RI 02895-4274", 
-                "marker-color": "#007321", 
+                "": "<h4>RHODE ISLAND STATE POLICE MUSEUM FOUNDATION INC</h4><b>Phone:</b> <a href=\"tel:4014441000\" target=\"_blank\">4014441000</a><br>311 DANIELSON PIKE N SCITUATE RI 02857-1958", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3003,14 +227,223 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.4093104269996, 
-                    41.8242410040005
+                    -71.3146967669996, 
+                    41.4848320590005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>INDEPENDENCE TRAIL EDUCATIONAL FOUNDATION INC</h3>44 CUSTOM HOUSE STREET PROVIDENCE RI 02903-2614", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MUSEUM OF NEWPORT IRISH HISTORY INC</h4><b>Phone:</b> <a href=\"tel:4018480661\" target=\"_blank\">4018480661</a><br>PO BOX 1378 NEWPORT RI 02840-0997", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3925399159996, 
+                    41.8414021940005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HOLICAUST EDUCATION AND RESOURCE CENTER OF RHODE ISLAND</h4><b>Phone:</b> <a href=\"tel:4014537860\" target=\"_blank\">4014537860</a><br>401 ELMGROVE AVE PROVIDENCE RI 02906-3451", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.5250384769997, 
+                    41.4830810230005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>RHODE ISLAND NATURAL HISTORY SURVEY</h4><b>Website:</b> <a href=\"http://www.rinhs.org\" target=\"_blank\">http://www.rinhs.org</a><br><b>Phone:</b> <a href=\"tel:4018745800\" target=\"_blank\">4018745800</a><br>PO BOX 1858 KINGSTON RI 02881-0498", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3744579709996, 
+                    41.4961030040005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BEAVERTAIL LIGHTHOUSE MUSEUM ASSN</h4>PO BOX 83 JAMESTOWN RI 02835-0083", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.4155269619997, 
+                    41.7527841960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PHOTOGRAPCHIC SOCIETY OF RHODE ISLAND</h4>PO BOX 8284 WARWICK RI 02888-0284", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3084640829996, 
+                    41.4843459140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DEBLOIS GALLERY</h4>138 BELLEVUE AVE NEWPORT RI 02842-5610", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.4097993639996, 
+                    41.8339438670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PROVIDENCE MARINE CORPS OF ARTILLERY MUSEUM OF RHODE ISLAND</h4>17 BENEFIT STREET PROVIDENCE RI 02904-2701", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.4578261809996, 
+                    41.6990498220005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WARWICK MUSEUM INC</h4>3259 POST RD WARWICK RI 02886-7145", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.4571564589996, 
+                    41.4310104790005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SOUTH COUNTY MUSEUM INC</h4><b>Website:</b> <a href=\"http://www.southcountymuseum.org\" target=\"_blank\">http://www.southcountymuseum.org</a><br>PO BOX 709 NARRAGANSETT RI 02882-0709", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.4572211869997, 
+                    41.5837237980004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>COCUMSCUSSOC ASSOCIATION</h4>55 RICHARD SMITH DR N KINGSTOWN RI 02852-4414", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3086843839997, 
+                    41.4857553610005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>NEWPORT ART MUSEUM AND ART ASSOCIATION</h4><b>Website:</b> <a href=\"http://www.newportartmuseum.org\" target=\"_blank\">http://www.newportartmuseum.org</a><br>76 BELLEVUE AVE NEWPORT RI 02840-7405", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3490372169996, 
+                    41.8490481210005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MUSLIM HERITAGE COUNCIL OF NEW ENGLAND</h4>98 TRYON AVE RUMFORD RI 02916-1840", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3278777399996, 
+                    41.7755649830005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>RHODE ISLAND HERITAGE HALL OF FAME</h4><b>Phone:</b> <a href=\"tel:4014330044\" target=\"_blank\">4014330044</a><br>1445 WAMPANOAG TRL UNIT 203 EAST PROVIDENCE RI 02915-1019", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.2649652189996, 
+                    41.6547762840005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>BLITHEWOLD MANSION, GARDENS AND ARBORETUM</h4><b>Website:</b> <a href=\"http://www.blithewold.org\" target=\"_blank\">http://www.blithewold.org</a><br><b>Phone:</b> <a href=\"tel:4012532707\" target=\"_blank\">4012532707</a><br>101 FERRY ROAD BRISTOL RI 2809", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.4135079089996, 
+                    41.8395433310005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DAVID WINTON BELL GALLERY OF BROWN UNIVERSITY</h4><b>Phone:</b> <a href=\"tel:4018633993\" target=\"_blank\">4018633993</a><br>LIST ART CENTER, 64 COLLEGE STREET PROVIDENCE RI 2912", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.2757180629997, 
+                    41.6008573670005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>GREEN ANIMALS TOPIARY GARDENS</h4><b>Website:</b> <a href=\"http://tickets.newportmansions.org/mansion.aspx?id=1003\" target=\"_blank\">http://tickets.newportmansions.org/mansion.aspx?id=1003</a><br><b>Phone:</b> <a href=\"tel:4016831267\" target=\"_blank\">4016831267</a><br>380 CORYS LN PORTSMOUTH RI 2871", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3024,113 +457,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>CCN HISTORIC BUILDING PRESERVATION FOUNDATION</h3>PO BOX 734 NEWPORT RI 2840", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4570376029997, 
-                    41.4665335780005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BREAKWATER PRESERVATION CONSERVANCY</h3>122 TORREY RD WAKEFIELD RI 02879-1928", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4499337389997, 
-                    41.8435242660005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>USS SARATOGA MUSEUM FOUNDATION INC</h3><a href=\"tel:4018851290\" target=\"_blank\">Phone</a><br>37 CATHEDRAL AVE PROVIDENCE RI 02908-1901", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.7673998249996, 
-                    41.5882059170005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EXETER HISTORICAL ASSOCIATION</h3>159 OLD VOLUNTOWN RD EXETER RI 02822-1002", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.4687663119997, 
-                    41.6385540050005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RHODE ISLAND ANTIQUE FIRE APPARATUS SOCIETY INC</h3>PO BOX 2132 E GREENWICH RI 02818-0619", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.5557359409996, 
-                    41.7352434100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HOPE HISTORICAL SOCIETY</h3>PO BOX 75 HOPE RI 02831-0075", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.1735984309997, 
-                    41.6328123140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TIVERTON HISTORICAL SOCIETY</h3><a href=\"tel:4016255174\" target=\"_blank\">Phone</a><br>PO BOX 95 TIVERTON RI 2878", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.3763176339996, 
-                    41.8191628430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CAPE VERDEAN MUSEUM EXHIBIT</h3><b><a href=\"http://www.capeverdeanmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:4012287292\" target=\"_blank\">Phone</a><br>PO BOX 14187 E PROVIDENCE RI 02914-0187", 
-                "marker-color": "#0058D8", 
+                "": "<h4>ROYAL ARTS FOUNDATION</h4><b>Phone:</b> <a href=\"tel:4018460669\" target=\"_blank\">4018460669</a><br>BELCOURT CASTLE, BELLEVUE NEWPORT RI 2840", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"

@@ -3,1919 +3,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -97.7133688819997, 
-                    43.1475302820005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SCOTLAND HISTORICAL SOCIETY</h3>811 SIXTH STREET SCOTLAND SD 57059", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.582340695, 
-                    43.9419353460005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WADES GOLD MILL</h3><b><a href=\"http://www.wadesgoldmill.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6055742680\" target=\"_blank\">Phone</a><br>12401 DEERFIELD RD HILL CITY SD 57745", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -102.241847968, 
-                    43.9929759600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WILD LIFE MUSEUM</h3><a href=\"tel:6052792418\" target=\"_blank\">Phone</a><br>531 MAIN ST WALL SD 57790", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.1148696229997, 
-                    44.8900903620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WATERTOWN WORLD WILDLIFE MUSEUM</h3>200 9TH AVENUE, SE WATERTOWN SD 57201", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.9243476409997, 
-                    42.7929301680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>W H OVER MUSEUM</h3><b><a href=\"http://www.whovermuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056775228\" target=\"_blank\">Phone</a><br>1110 RATINGEN STRASSE VERMILLION SD 57069", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.9257182169997, 
-                    42.7825226630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>W.H. OVER MUSEUM</h3><a href=\"tel:6056775228\" target=\"_blank\">Phone</a><br>414 E. CLARK STREET VERMILLION SD 57069", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7283390489997, 
-                    43.5445185620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WASHINGTON PAVILION OF ARTS AND SCIENCE'S VISUAL ARTS CENTER</h3>301 S. MAIN AVE. SIOUX FALLS SD 57101-0984", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.9257182169997, 
-                    42.7825226630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>UNIVERSITY OF SOUTH DAKOTA</h3>414 E CLARK STREET VERMILLION SD 57069", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -102.241854881, 
-                    43.9920329510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WILD WEST WAX MUSEUM</h3><a href=\"tel:6052792915\" target=\"_blank\">Phone</a><br>601 MAIN ST WALL SD 57790", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7413805819997, 
-                    43.5366623740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SIOUX EMPIRE MEDICAL MUSEUM</h3><b><a href=\"http://www.sdmuseums.org/museums/museum_page.php\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053336397\" target=\"_blank\">Phone</a><br>1305 W 18TH ST SIOUX FALLS SD 57105", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7985898969997, 
-                    44.3103133280005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STATE AGRICULTURAL HERITAGE MUSEUM</h3><a href=\"tel:6056886226\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.0521932249997, 
-                    45.6612136870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STAVIG HOUSE MUSEUM</h3><b><a href=\"http://www.sissetonmuseums.org/stavig_house.asp\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056984561\" target=\"_blank\">Phone</a><br>112 1ST AVE W SISSETON SD 57262", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.1121646679997, 
-                    44.0133785630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SMITH-ZIMMERMANN STATE MUSEUM</h3><a href=\"tel:6057733458\" target=\"_blank\">Phone</a><br>221 NE 8TH ST., DSU MADISON SD 57042-1799", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.9114865319997, 
-                    43.3429804090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TRIPP COUNTY HISTORICAL</h3><a href=\"tel:6058420704\" target=\"_blank\">Phone</a><br>E HWY WINNER SD 57580", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.0226787299997, 
-                    43.6987193040005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TELSTAR MUSTANG-SHELBY-COBRA RESTORATIONS AND MUSEUM</h3><b><a href=\"http://www.telstarmotors.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6059966550\" target=\"_blank\">Phone</a><br>1330 S KIMBALL ST MITCHELL SD 57301", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.070915892, 
-                    44.1332301510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA AIR AND SPACE MUSEUM</h3><a href=\"tel:6053855189\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.47308754, 
-                    44.4107177150005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OLD FORT MEADE MUSEUM AND HISTORIC RESEARCH ASSOCIATION</h3><a href=\"tel:6053479822\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7342385919997, 
-                    43.5482991980004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PETTIGREW HOME AND MUSEUM</h3><b><a href=\"http://www.siouxlandmuseums.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053677097\" target=\"_blank\">Phone</a><br>131 N DULUTH AVE SIOUX FALLS SD 57104", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.2091250639997, 
-                    44.3623452450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PYLE HOUSE MUSEUM</h3><b><a href=\"http://www.dakotalandmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053522528\" target=\"_blank\">Phone</a><br>376 IDAHO AVE SE HURON SD 57350", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.707481397, 
-                    43.8866194000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PIONEER AUTO MUSEUM</h3><b><a href=\"http://www.pioneerautoshow.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056692691\" target=\"_blank\">Phone</a><br>503 5TH ST MURDO SD 57559", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -101.686586389, 
-                    44.0670625410005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRAIRIE HOMESTEAD</h3><b><a href=\"http://prairiehomestead.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6054335400\" target=\"_blank\">Phone</a><br>21141 SD HIGHWAY 240 PHILIP SD 57567", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.426919574, 
-                    43.8912108490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RUSHMORE BORGLUM STORY</h3><b><a href=\"http://www.rushmoreborglum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056664448\" target=\"_blank\">Phone</a><br>342 WINTER ST KEYSTONE SD 57751", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.5147144319997, 
-                    44.8745638180005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF SPINK COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:6054720758\" target=\"_blank\">Phone</a><br>225 E 8TH AVE REDFIELD SD 57469", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.8447085099997, 
-                    43.3901168260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MELCHER MUSEUM</h3><b><a href=\"http://sdmuseums.org/museums/museum_page.php%3Fmuseumid=56\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053372432\" target=\"_blank\">Phone</a><br>109 MAIN AVE PLATTE SD 57369", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.7505111909997, 
-                    45.7900979550005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MARSHALL CTY PRAYER ROCK MUSEUM</h3><a href=\"tel:6054482620\" target=\"_blank\">Phone</a><br>723 MAIN ST BRITTON SD 57430", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.748438557, 
-                    43.5650504230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MELLETTE COUNTY HISTORICAL</h3><a href=\"tel:6052593494\" target=\"_blank\">Phone</a><br>102 N MAIN ST WHITE RIVER SD 57579", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.482598758, 
-                    43.4350728000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MAMMOTH SITE OF HOT SPRINGS, SD INC</h3><a href=\"tel:6057456017\" target=\"_blank\">Phone</a><br>PO BOX 692 HOT SPRINGS SD 57747", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.420790106, 
-                    44.7147359110005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NEWELL MUSEUM</h3><b><a href=\"http://www.cityofnewell.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6054562804\" target=\"_blank\">Phone</a><br>108  3RD ST NEWELL SD 57760", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.5201008969997, 
-                    45.3302631280005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>INTERNATIONAL VINEGAR MUSEUM</h3><b><a href=\"http://www.internationalvinegarmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6054860075\" target=\"_blank\">Phone</a><br>502 MAIN ST WEBSTER SD 57274", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.776504314, 
-                    44.4743611250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LANTIS ENTERPRISES</h3><b><a href=\"http://www.lantisnet.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056427736\" target=\"_blank\">Phone</a><br>4755 E COLORADO BLVD SPEARFISH SD 57783", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.8848081989997, 
-                    45.5218485920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>JAVA DEPOT COMMITTEE</h3>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.673277939, 
-                    43.7336534430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FOUR MILE OLD WEST TOWN MUSEUM</h3><b><a href=\"http://www.fourmilesd.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056733905\" target=\"_blank\">Phone</a><br>11921 US HIGHWAY 16 CUSTER SD 57730", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7612383929997, 
-                    43.5568802450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GREAT PLAINS ZOO & DELBRIDGE MUSEUM</h3><a href=\"tel:6053397003\" target=\"_blank\">Phone</a><br>805 S. KIWANIS AVENUE SIOUX FALLS SD 57104-3714", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.854809309, 
-                    44.4923082280005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HIGH PLAINS HERITAGE CENTER</h3><a href=\"tel:6056429378\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.809439385, 
-                    44.4689691740004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HIGH PLAINS WESTERN HERITAGE</h3><b><a href=\"http://www.westernheritagecenter.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056429378\" target=\"_blank\">Phone</a><br>825 HERITAGE DR SPEARFISH SD 57783", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.4810162139997, 
-                    44.2397359500005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ELKTON COMMUNITY MUSEUM</h3><a href=\"tel:6055422451\" target=\"_blank\">Phone</a><br>105 N ELK ST ELKTON SD 57026", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.5488377499997, 
-                    44.3871759990005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DE SMET DEPOT MUSEUM</h3><a href=\"tel:6058543991\" target=\"_blank\">Phone</a><br>104 CALUMET AVE SE DE SMET SD 57231", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.482598758, 
-                    43.4350728000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FALL RIVER COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:6057456602\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.0297240889997, 
-                    43.6979514090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAKOTA DISCOVERY MUSEUM</h3><a href=\"tel:6059962122\" target=\"_blank\">Phone</a><br>1300 E. UNIVERSITY AVE MITCHELL SD 57301", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.229624777, 
-                    44.0790464890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAHL ARTS CENTER</h3><a href=\"tel:6053944101\" target=\"_blank\">Phone</a><br>713 7TH ST. RAPID CITY SD 57701-3695", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.4880202099997, 
-                    45.4648501360005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DACOTAH PRAIRIE MUSEUM</h3><a href=\"tel:6056227117\" target=\"_blank\">Phone</a><br>21 SOUTH MAIN STREET ABERDEEN SD 57401", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.3174365609997, 
-                    43.0886039590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COMMUNITY HISTORICAL CENTER AND MUSEUM</h3><a href=\"tel:4027752275\" target=\"_blank\">Phone</a><br>39355 W HWY 46 WAGNER SD 57380-7128", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.5989610789997, 
-                    43.3009008800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CANTON DEPOT MUSEUM</h3><a href=\"tel:6057640176\" target=\"_blank\">Phone</a><br>600 W 5TH ST CANTON SD 57013", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.729195637, 
-                    44.3756791560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ADAMS MUSEUM</h3><b><a href=\"http://www.adamsmuseumandhouse.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6055781714\" target=\"_blank\">Phone</a><br>54 SHERMAN ST DEADWOOD SD 96793", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7897365889997, 
-                    44.3188384940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AGRICULTURAL HERITAGE MUSEUM</h3><b><a href=\"http://www.agmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056886226\" target=\"_blank\">Phone</a><br>925 11TH ST BROOKINGS SD 57006", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.9237760869997, 
-                    45.2750193540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMERICAN INDIAN CULTURE RESEARCH CENTER, INC.</h3><a href=\"tel:6053989200\" target=\"_blank\">Phone</a><br>PO BOX 98 MARVIN SD 57251-0098", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.3377687699997, 
-                    43.7997081740005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AKTA LAKOTA MUSEUM</h3><b><a href=\"http://aktalakota.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6057344355\" target=\"_blank\">Phone</a><br>1301 N MAIN ST CHAMBERLAIN SD 57325", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.615579695, 
-                    43.7626924380005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>1881 COURTHOUSE MUSEUM</h3><b><a href=\"http://www.1881courthousemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056732443\" target=\"_blank\">Phone</a><br>411 W MT CUSTER SD 57730-1542", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.9580598089997, 
-                    43.7434223390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DEKOTA TRACTOR MUSEUM</h3><a href=\"tel:5017937878\" target=\"_blank\">Phone</a><br>BOX 24 KIMBALL SD 57355-0024", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.4835344989997, 
-                    43.7152468760005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PLANKINTON PRESERVATION SOCIETY INC</h3>208 E 2ND ST PLANKINTON SD 57368-2239", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.451179151, 
-                    45.5498270620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>KLEIN MUSEUM</h3><a href=\"tel:6058457243\" target=\"_blank\">Phone</a><br>1820 WEST GRAND CROSSIN MOBRIDGE SD 57601", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.215556775, 
-                    44.0791913190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WEST RIVER HISTORY CONFERENCE</h3>PO BOX 9276 RAPID CITY SD 57709-9276", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.729327591, 
-                    44.3751730850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAYS OF 76 MUSEUM INC</h3>PO BOX 391 DEADWOOD SD 57732-0391", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.4131821769997, 
-                    42.8814244200005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TRI-STATE OLD IRON ASSOCIATION INC</h3>1211 WEST 12TH STREET YANKTON SD 57078-2642", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -101.654357239, 
-                    45.0200066430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ZIEBACH COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 452 DUPREE SD 57623-0452", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.8040862029997, 
-                    44.2825348420005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAKOTA TERRITORY LIVING HISTORY MUSEUM FOUNDATION INC</h3>103 WEST 20TH STREET SOUTH BROOKINGS SD 57006-3708", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.4723406709997, 
-                    45.4747366090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>NATIVE AMERICAN CULTURAL CENTER & MUSEUM INC</h3>1017 9TH AVENUE NE ABERDEEN SD 57401", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7283331269997, 
-                    43.5527691590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE MUSEUM OF VISUAL MATERIALS</h3><b><a href=\"http://www.sfmvm.com\" target=\"_blank\">Website</a></b><br>500 N MAIN AVE SIOUX FALLS SD 57104-5902", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.8003065729997, 
-                    44.3106164950005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SCIENCE VISIONS INC</h3>521 3RD AVE BROOKINGS SD 57006", 
-                "marker-color": "#45008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -101.73472905, 
-                    43.3891417470005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>QUIVER HILL WILDLIFE HISTORIC PRESERVATION SOCIETY</h3>PO BOX 232 - 22752 SD HWY 44 WANBLEE SD 57577", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.4875587099997, 
-                    45.8361880140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FREDERICK AREA HISTORICAL SOCIETY</h3>PO BOX 523 FREDERICK SD 57441", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7239129099997, 
-                    43.5497583900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WEGNER ARBORETUM SOCIETY</h3><b><a href=\"http://cortrustbank.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6054444000\" target=\"_blank\">Phone</a><br>300 CHERAPA PL STE 601 SIOUX FALLS SD 57103-2277", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.9270869809997, 
-                    44.3224203750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BROOKINGS COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:6056279149\" target=\"_blank\">Phone</a><br>BOX 608 VOLGA SD 57071-0608", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.9353856729997, 
-                    42.7791747330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORICAL SOCIETY INC CLAY COUNTY</h3>15 AUSTIN ST VERMILLION SD 57069-3055", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.2020154719997, 
-                    44.5805204650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LAKE NORDEN HISTORICAL SOCIETY</h3>1103 MAIN AVE LAKE NORDEN SD 57248", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.9114865319997, 
-                    43.3429804090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TRIPP COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 164 WINNER SD 57580", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.4880202019997, 
-                    45.4759354980005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BROWN COUNTY HISTORICAL SOCIETY INCORPORATED</h3>1002 NORTH MAIN ABERDEEN SD 57401", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.2884271079997, 
-                    43.0588909140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHARLES MIX COUNTY HISTORICAL SOCIETY INC</h3>510 EAST HWY 50/46 WAGNER SD 57380", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.1317821079997, 
-                    44.8917299540005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LAKE AREA ZOOLOGICAL SOCIETY</h3><a href=\"tel:6058826269\" target=\"_blank\">Phone</a><br>800 10TH ST NW #1 WATERTOWN SD 57201", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.597786898, 
-                    43.7669939930005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CUSTER COUNTY HISTORICAL SOCIETY</h3>PO BOX 826 CUSTER SD 57730-0826", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.5489789109997, 
-                    44.3870827450005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LAURA INGALLS WILDER MEMORIAL SOCIETY</h3><a href=\"tel:6058543383\" target=\"_blank\">Phone</a><br>PO BOX 426 DE SMET SD 57231-0426", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.9023899699997, 
-                    44.5759079890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ESTELLINE HISTORICAL SOCIETY</h3>PO BOX 2 ESTELLINE SD 57234-0002", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.626049115, 
-                    43.9664930430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLACK HILLS HISTORIC PRESERVATION TRUST INC</h3>PO BOX 927 HILL CITY SD 57745", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7642123619997, 
-                    44.3026159190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHILDRENS MUSEUM OF SOUTH DAKOTA</h3>2333 EASTBROOK M BROOKINGS SD 57006", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     -103.573528733, 
                     43.9344418100005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>CIVILIAN CONSERVATION CORPS MUSEUM OF SOUTH DAKOTA</h3>PO BOX 209 HILL CITY SD 57745-0209", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.1136875819997, 
-                    44.0050133870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA HIGH SCHOOL BOYS & GIRLS BASKETBALL HALL OF FAM</h3>PO BOX 421 MADISON SD 57042-0421", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.364434613, 
-                    44.1176151230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORIC MADISON RANCH</h3>8800 NEMO RD RAPID CITY SD 57702-6165", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7237471769997, 
-                    43.5444105190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA AFRICAN AMERICAN HISTORY MUSEUM</h3>PO BOX 2266 SIOUX FALLS SD 57101-5710", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.5940142299997, 
-                    43.2981047810005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CANTON AREA HISTORICAL SOCIETY INC</h3>415 S CEDAR CANTON SD 57013", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7860304539997, 
-                    43.5147815910005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA TENNIS HALL OF FAME INC</h3>4809 WEST 41ST STREET SIOUX FALLS SD 57106-1568", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.19136813, 
-                    43.8339635610005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HERMOSA ARTS & HISTORY ASSOCIATION</h3>PO BOX 175 HERMOSA SD 57744-0175", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.7505958499997, 
-                    45.7923878340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MARSHALL COUNTY PRAYER ROCK MUSEUM INC</h3>PO BOX 194 BRITTON SD 57430-0194", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.266199281, 
-                    44.0683094780005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LITTLE SPEARFISH CONSERVATION & HISTORIC PRESERVATION ASSOC</h3><b><a href=\"http://littlespearfish.org\" target=\"_blank\">Website</a></b><br>1805 CENTRAL BLVD RAPID CITY SD 57702", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -101.512505849, 
-                    43.8380522100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SAVE THE PEARL HOTEL INCORPORATED</h3>PO BOX 504 KADOKA SD 57543-0504", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.727578918, 
-                    44.3722799000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DEADWOOD HISTORY INC</h3>150 SHERMAN ST DEADWOOD SD 57732-1338", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.956308637, 
-                    43.6254405270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EDGEMONT AREA HISTORICAL SOCIETY INC</h3>PO BOX 193 EDGEMONT SD 57735", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.3874359549997, 
-                    43.7265810980005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA PATRIOT GUARD RIDERS</h3>PO BOX 512 SALEM SD 57058-0512", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.4750600759997, 
-                    45.4491071710005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WWII PHEASANT CANTEEN TEAM</h3>825 15TH AVE SE ABERDEEN SD 57401-7667", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.3740242459997, 
-                    44.3623312970005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LAKE PRESTON MUSEUM INC</h3>201 FREEMONT AVE N LAKE PRESTON SD 57249", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.391818558, 
-                    43.8941400120005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>KEYSTONE AREA HISTORICAL SOCIETY</h3><b><a href=\"http://www.keystonehistory.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056664494\" target=\"_blank\">Phone</a><br>PO BOX 459 KEYSTONE SD 57751", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.215567754, 
-                    44.0792024850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>AMERICAN INDIAN ART MUSEUM INCORPORATED</h3>PO BOX 725 RAPID CITY SD 57709", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.5281167549997, 
-                    45.3409927390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF WILDLIFE SCIENCE & INDUSTRY</h3><b><a href=\"http://www.sdmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053454751\" target=\"_blank\">Phone</a><br>760 W HIGHWAY 12 WEBSTER SD 57274", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.362970028, 
-                    44.3719917830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE SOUTH DAKOTA DISCOVERY CENTER</h3><b><a href=\"http://www.sd-discovery.com\" target=\"_blank\">Website</a></b><br>805 W SIOUX AVE PIERRE SD 57501-1858", 
-                "marker-color": "#B400BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7245607819997, 
-                    43.5512365330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SIOUXLAND HERITAGE MUSEUMS ALLIANCE</h3>200 W 6TH STREET SIOUX FALLS SD 57104", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.3291189219997, 
-                    43.8106743320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHAMBERLAIN AREA HISTORICAL PRESERVATION ASSOCIATION INC</h3>PO BOX 522 CHAMBERLAIN SD 57325-0522", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.0255402089997, 
-                    43.7155738850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUKUP & THOMAS INTERNATIONAL BALLOON & AIRSHIP MUSEUM, INC.</h3><a href=\"tel:6059962311\" target=\"_blank\">Phone</a><br>700 NORTH MAIN STREET MITCHELL SD 57301-2051", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.5694077679997, 
-                    44.0791304890005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SHAKESPEARE GARDEN SOCIETY OF WESSINGTON SPRINGS</h3>PO BOX 44 WESSINGTON SPRINGS SD 57382-0044", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.9304774519996, 
-                    42.9153911560005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RUNNING WATER HISTORICAL SOCIETY</h3>5609 MAIN ST RUNNING WATE SD 57062", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -102.305899485, 
-                    43.5426135710005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WOLAKOTA WALDORF SOCIETY</h3><b><a href=\"http://www.lakotawaldorfschool.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6054552487\" target=\"_blank\">Phone</a><br>PO BOX 527 KYLE SD 57752-0527", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.169419451, 
-                    43.6698204120005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FAIRBURN COMMUNITY AND HISTORICAL SOCIETY</h3>PO BOX 116 FAIRBURN SD 57738", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.778126346, 
-                    44.3448623270005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORIC HOMESTAKE OPERA HOUSE SOCIETY</h3>PO BOX 412 LEAD SD 57754-0412", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7237363839997, 
-                    43.5444037130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SIOUX VALLEY MODEL ENGINEERS SOCIETY INCORPORATED</h3>PO BOX 1963 SIOUX FALLS SD 57101-1963", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.861437479, 
-                    44.5066963980005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SPEARFISH VETERANS MONUMENT</h3>PO BOX 1072 SPEARFISH SD 57783-7072", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.228270933, 
-                    44.1188221770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MUSEUM OF THE AMERICAN BUFFALO</h3>825 SAGEWOOD ST RAPID CITY SD 57701-7058", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.352344377, 
-                    44.3640853830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA NATIONAL GUARD</h3><b><a href=\"http://mva.sd.gov/natl_guard_museum.html\" target=\"_blank\">Website</a></b><br><a href=\"tel:6052249991\" target=\"_blank\">Phone</a><br>301 EAST DAKOTA AVE PIERRE SD 57501", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.0269990219997, 
-                    43.7135113220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE MIDDLE BORDER</h3>PO BOX 1071 MITCHELL SD 57301-7071", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.632726663, 
-                    43.8276789090005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CRAZY HORSE MEMORIAL FOUNDATION</h3><a href=\"tel:6056734681\" target=\"_blank\">Phone</a><br>12151 AVENUE OF THE CHIEFS CUSTER SD 57730", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7362982809997, 
-                    43.5266091050005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EIDE-DALRYMPLE GALLERY</h3><b><a href=\"http://www.augie.edu/cws\" target=\"_blank\">Website</a></b><br><a href=\"tel:6052745451\" target=\"_blank\">Phone</a><br>2001 S. SUMMIT AVENUE SIOUX FALLS SD 57197", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.1215191989997, 
-                    44.9070573980005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MELLETTE HOUSE MEMORIAL ASSOC</h3><b><a href=\"http://www.mellettehouse.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6058864730\" target=\"_blank\">Phone</a><br>421 5TH AVE NW WATERTOWN SD 57201-2343", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.215556775, 
-                    44.0791913190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOUNT RUSHMORE NATIONAL MEMORIAL SOCIETY OF BLACK HILLS</h3>PO BOX 1524 RAPID CITY SD 57709-1524", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7283390489997, 
-                    43.5445185620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CIVIC FINE ARTS ASSOCIATION</h3><a href=\"tel:6053361167\" target=\"_blank\">Phone</a><br>301 S MAIN AVE SIOUX FALLS SD 57104-6311", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -102.715105676, 
-                    43.3213031770005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RED CLOUD INDIAN SCHOOL</h3><b><a href=\"http://www.redcloudschool.org/museum/index.htm\" target=\"_blank\">Website</a></b><br>100 MISSION DRIVE PINE RIDGE SD 57770", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.9257182169997, 
-                    42.7825226630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRIENDS OF THE MUSEUM WH OVER MUSEUM</h3><b><a href=\"http://www.usd.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056775228\" target=\"_blank\">Phone</a><br>414 E CLARK ST VERMILLION SD 57069-2307", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.732865216, 
-                    44.3741983100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BROKEN BOOT MINE INC</h3><a href=\"tel:6055781876\" target=\"_blank\">Phone</a><br>767 MAIN ST DEADWOOD SD 57732-1015", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.473089589, 
-                    44.4107065390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OLD FT MEADE MUSEUM AND HISTORIC RESERACH ASSOCIATION</h3>PO BOX 164 FORT MEADE SD 57741-0164", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.37350614, 
-                    44.3574237390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>VERENDRYE MUSEUM INCORPORATED</h3><a href=\"tel:6052232646\" target=\"_blank\">Phone</a><br>PO BOX 665 FORT PIERRE SD 57532-0665", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.451179151, 
-                    45.5498270620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>KLEIN FOUNDATION INC</h3>1820 W GRAND XING MOBRIDGE SD 57601-1114", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.3416811339997, 
-                    43.7963155010005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA HALL OF FAME</h3><b><a href=\"http://www.sdhalloffame.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6057344216\" target=\"_blank\">Phone</a><br>1480 S MAIN ST CHAMBERLAIN SD 57325-1732", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.6955172039997, 
-                    43.2533231130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHARLES MIX COUNTY HISTORICAL RESTORATION SOCIETY</h3>PO BOX 97 GEDDES SD 57342-0097", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.476370962, 
-                    43.4340037840005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FALL RIVER COUNTY HISTORICAL SOCIETY ROUTE NO 1</h3><b><a href=\"http://www.pioneer-museum.com\" target=\"_blank\">Website</a></b><br>300 N CHICAGO ST HOT SPRINGS SD 57747-1657", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7963944469997, 
-                    44.3090679220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BROOKINGS ARTS COUNCIL</h3><b><a href=\"http://www.brookingsartscouncil.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056924177\" target=\"_blank\">Phone</a><br>524 4TH ST BROOKINGS SD 57006-2045", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.1139527059997, 
-                    44.8991323490005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CODINGTON COUNTY HISTORICAL SOCIETY INC</h3><b><a href=\"http://www.cchsmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6058867335\" target=\"_blank\">Phone</a><br>27 1ST AVE SE WATERTOWN SD 57201-3679", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.475809562, 
-                    43.4326327940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MAMMOTH SITE OF HOT SPRINGS SOUTH DAKOTA INC</h3><b><a href=\"http://www.mammothsite.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6057456017\" target=\"_blank\">Phone</a><br>1800 US 18 BYPASS HOT SPRINGS SD 57747-0692", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.2107158969997, 
-                    44.5804789340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA AMATEUR BASEBALL HALL OF FAME</h3><a href=\"tel:6057853553\" target=\"_blank\">Phone</a><br>PO BOX 80 LAKE NORDEN SD 57248-0080", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.5900579489997, 
-                    43.3007705710005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>RURAL SCHOOL HISTORICAL SOCIETY INC</h3><a href=\"tel:6053623974\" target=\"_blank\">Phone</a><br>PO BOX 151 CANTON SD 57013-0151", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.7333038419997, 
-                    44.8812973300005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CLARK COUNTY HISTORICAL SOCIETY INC</h3>402 N COMMERCIAL S CLARK SD 57225", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7245607819997, 
-                    43.5512365330005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COUNTY OF MINNEHAHA</h3><a href=\"tel:6053677097\" target=\"_blank\">Phone</a><br>200 W 6TH ST SIOUX FALLS SD 57104-6001", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.0269990219997, 
-                    43.7135113220005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MITCHELL PREHISTORIC INDIAN VILLAGE PRESERVATION SOCIETY</h3>PO BOX 621 MITCHELL SD 57301-0621", 
-                "marker-color": "#0093BF", 
+                "": "<h4>SOUTH DAKOTA STATE RAILROAD MUSEUM LTD</h4>PO BOX 1070 HILL CITY SD 57745-1070", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -1929,8 +23,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>PRESERVE SOUTH DAKOTA</h3>PO BOX 267 PIERRE SD 57301-2811", 
-                "marker-color": "#B400BF", 
+                "": "<h4>PRESERVE SOUTH DAKOTA</h4>PO BOX 267 PIERRE SD 57301-2811", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -1938,269 +31,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -96.6272967449997, 
-                    45.2181066380004
+                    -96.5900579489997, 
+                    43.3007705710005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>GRANT COUNTY HISTORICAL SOCIETY INC</h3>PO BOX 201 MILBANK SD 57252", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.352344377, 
-                    44.3640853830005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA NATIONAL GUARD MUSEUM</h3><a href=\"tel:6052249991\" target=\"_blank\">Phone</a><br>301 E DAKOTA AVE PIERRE SD 57501", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.2140471579997, 
-                    44.3618817140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HURON AREA ARTS COUNCIL</h3><a href=\"tel:6053528307\" target=\"_blank\">Phone</a><br>PO BOX 774 HURON SD 57350-0774", 
-                "marker-color": "#BF0000", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.8956277839997, 
-                    42.8541518140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SPRINGFIELD HISTORICAL SOCIETY</h3><a href=\"tel:6053692381\" target=\"_blank\">Phone</a><br>PO BOX 531 SPRINGFIELD SD 57062-0531", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.729327591, 
-                    44.3751730850005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ADAMS MUSEUM AND HOUSE INC</h3><b><a href=\"http://www.adamsmuseumandhouse.org\" target=\"_blank\">Website</a></b><br>PO BOX 252 DEADWOOD SD 57732-0252", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.0238464879997, 
-                    43.7135019690005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ENCHANTED WORLD DOLL MUSEUM</h3><a href=\"tel:6059969896\" target=\"_blank\">Phone</a><br>212 E 5TH AVE MITCHELL SD 57301-2609", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.9807068149997, 
-                    45.0007260120005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FRANK D DUCHENEAUX CHAPEL AND MUSEUM CORPORATION</h3>HC 3 BOX 86 GETTYSBURG SD 57442", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.0274495439997, 
-                    45.4443485580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>J W PARMLEY HISTORICAL HOME SOCIETY</h3>PO BOX 111 IPSWICH SD 57451-0111", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.1121646679997, 
-                    44.0133785630005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SMITH-ZIMMERMANN MUSEUM</h3><b><a href=\"http://www.smith-zimmermann.dsu.edu\" target=\"_blank\">Website</a></b><br><a href=\"tel:6052565308\" target=\"_blank\">Phone</a><br>221 NE 8TH ST MADISON SD 57042", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.070915892, 
-                    44.1332301510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ELLSWORTH HERITAGE FOUNDATION INC</h3>PO BOX 871 BOX ELDER SD 57719-0871", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.340027463, 
-                    44.3748706920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA HISTORICAL SOCIETY FOUNDATION</h3><b><a href=\"http://www.sd.statelibrary.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6057733458\" target=\"_blank\">Phone</a><br>900 GOVERNORS DR PIERRE SD 57501-2200", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -101.028346245, 
-                    45.3449478700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TIMBER LAKE AND AREA HISTORICAL SOCIETY INC</h3>PO BOX 181 TIMBER LAKE SD 57656-0181", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.1242888509997, 
-                    45.0485471430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FAULK COUNTY HISTORICAL SOCIETY</h3>PO BOX 584 FAULKTON SD 57438", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.6120561519997, 
-                    44.0782813450004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DUNHAM HISTORICAL SOCIETY</h3>PO BOX 363 WESSINGTON SPRINGS SD 57382", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.6499972989997, 
-                    44.4346779340005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WHITE AREA HISTORICAL SOCIETY INC</h3>PO BOX 27 WHITE SD 57276-0027", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.8917943019997, 
-                    43.3531475600005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LENNOX AREA HISTORICAL SOCIETY</h3><a href=\"tel:6056472260\" target=\"_blank\">Phone</a><br>305 S MAIN LENNOX SD 57039", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.5872488289997, 
-                    44.0537103390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MOODY COUNTY HISTORICAL SOCIETY</h3>PO BOX 25 FLANDREAU SD 57028", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.9572829039997, 
-                    45.0114751960005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DAKOTA SUNSET MUSEUM INC</h3>205 W COMMERCIAL AVE STE 104 GETTYSBURG SD 57442-1103", 
-                "marker-color": "#0058D8", 
+                "": "<h4>RURAL SCHOOL HISTORICAL SOCIETY INC</h4><b>Phone:</b> <a href=\"tel:6053623974\" target=\"_blank\">6053623974</a><br>PO BOX 151 CANTON SD 57013-0151", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2214,8 +51,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>GREAT PLAINS NATIVE PLANT SOCIETY</h3>PO BOX 461 HOT SPRINGS SD 57747-0461", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MAMMOTH SITE OF HOT SPRINGS SOUTH DAKOTA INC</h4><b>Website:</b> <a href=\"http://www.mammothsite.org\" target=\"_blank\">http://www.mammothsite.org</a><br><b>Phone:</b> <a href=\"tel:6057456017\" target=\"_blank\">6057456017</a><br>1800 US 18 BYPASS HOT SPRINGS SD 57747-0692", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2223,14 +59,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -98.9924344519997, 
-                    44.5206459480005
+                    -96.7963944469997, 
+                    44.3090679220005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>HAND COUNTY HISTORICAL SOCIETY</h3>325 W 5TH ST MILLER SD 57362-5736", 
-                "marker-color": "#0093BF", 
+                "": "<h4>BROOKINGS ARTS COUNCIL</h4><b>Website:</b> <a href=\"http://www.brookingsartscouncil.org\" target=\"_blank\">http://www.brookingsartscouncil.org</a><br><b>Phone:</b> <a href=\"tel:6056924177\" target=\"_blank\">6056924177</a><br>524 4TH ST BROOKINGS SD 57006-2045", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2238,14 +73,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -97.1220277609997, 
-                    43.2800125890005
+                    -103.473089589, 
+                    44.4107065390005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>HURLEY HISTORICAL SOCIETY</h3>POST OFFICE BOX 67 HURLEY SD 57036", 
-                "marker-color": "#0093BF", 
+                "": "<h4>OLD FT MEADE MUSEUM AND HISTORIC RESERACH ASSOCIATION</h4>PO BOX 164 FORT MEADE SD 57741-0164", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2253,14 +87,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -98.4880202099997, 
-                    45.4648501360005
+                    -96.9257182169997, 
+                    42.7825226630005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>DACOTAH PRAIRIE MUSEUM FOUNDATION INC</h3><b><a href=\"http://www.dacotahprairiemuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056267117\" target=\"_blank\">Phone</a><br>21 S MAIN ST ABERDEEN SD 57401-4218", 
-                "marker-color": "#007321", 
+                "": "<h4>FRIENDS OF THE MUSEUM WH OVER MUSEUM</h4><b>Website:</b> <a href=\"http://www.usd.edu\" target=\"_blank\">http://www.usd.edu</a><br><b>Phone:</b> <a href=\"tel:6056775228\" target=\"_blank\">6056775228</a><br>414 E CLARK ST VERMILLION SD 57069-2307", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2268,14 +101,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -97.2093884419997, 
-                    44.6799863960005
+                    -96.7283390489997, 
+                    43.5445185620005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>HAYTI HISTORICAL SOCIETY</h3>PO BOX176 HAYTI SD 57241", 
-                "marker-color": "#0093BF", 
+                "": "<h4>CIVIC FINE ARTS ASSOCIATION</h4><b>Phone:</b> <a href=\"tel:6053361167\" target=\"_blank\">6053361167</a><br>301 S MAIN AVE SIOUX FALLS SD 57104-6311", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2283,14 +115,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -98.2151485899997, 
-                    44.3588731090005
+                    -96.7362982809997, 
+                    43.5266091050005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>DAKOTALAND MUSEUM</h3><b><a href=\"http://www.dakotalandmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053522528\" target=\"_blank\">Phone</a><br>PO BOX 1254 HURON SD 57350", 
-                "marker-color": "#007321", 
+                "": "<h4>EIDE-DALRYMPLE GALLERY</h4><b>Website:</b> <a href=\"http://www.augie.edu/cws\" target=\"_blank\">http://www.augie.edu/cws</a><br><b>Phone:</b> <a href=\"tel:6052745451\" target=\"_blank\">6052745451</a><br>2001 S. SUMMIT AVENUE SIOUX FALLS SD 57197", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2298,14 +129,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -103.767179651, 
-                    44.3519317430005
+                    -100.362970028, 
+                    44.3719917830005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>BLACK HILLS MINING MUSEUM</h3><b><a href=\"http://www.mining-museum.blackhills.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6055841605\" target=\"_blank\">Phone</a><br>323 W MAIN ST LEAD SD 57754-1604", 
-                "marker-color": "#007321", 
+                "": "<h4>THE SOUTH DAKOTA DISCOVERY CENTER</h4><b>Website:</b> <a href=\"http://www.sd-discovery.com\" target=\"_blank\">http://www.sd-discovery.com</a><br>805 W SIOUX AVE PIERRE SD 57501-1858", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2313,599 +143,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -103.861894515, 
-                    44.4874163530005
+                    -97.5281167549997, 
+                    45.3409927390005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>BUTTE COUNTY HISTORICAL SOCIETY INC</h3>324 W GRANT ST SPEARFISH SD 57717-8601", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.4981822139997, 
-                    43.7174802590005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GARRETSON AREA HISTORICAL SOCIETY</h3>700 EASTERN AVENUE GARRETSON SD 57030", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.0238262919997, 
-                    44.7202993580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CASTLEWOOD HISTORICAL SOCIETY</h3>PO BOX 45 CASTLEWOOD SD 57223", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.4618170049997, 
-                    44.5904861250005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRYANT HISTORICAL SOCIETY</h3>STEPHANIE SAUDER BRYANT SD 57221", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.640792492, 
-                    44.3354566070005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>THE GALENA HISTORICAL SOCIETY C/O JOHN FAHRNI</h3><b><a href=\"http://galenaschoolhouse.org\" target=\"_blank\">Website</a></b><br>21157 BUTCHER GULCH LANE DEADWOOD SD 57732", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.8482711759997, 
-                    43.5727773900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CHAPTER 289 OF THE EXPERIMENTAL AIRCRAFT ASSOCIATION</h3>46818 263RD STREET SIOUX FALLS SD 57107-7012", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.0391185999997, 
-                    45.6623461680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HERITAGE MUSEUM OF ROBERTS COUNTY</h3>PO BOX 215 SISSETON SD 57262-0215", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.37350614, 
-                    44.3574237390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CASEY TIBBS FOUNDATION</h3>PO BOX 911 FORT PIERRE SD 57532-0037", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.3137652289997, 
-                    43.7459467400005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MCCOOK COUNTY HISTORICAL SOCIETY AND MUSEUM, INC.</h3><a href=\"tel:6054252340\" target=\"_blank\">Phone</a><br>44476 251ST ST SALEM SD 57058-5609", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -100.37350614, 
-                    44.3574237390005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WAKPA SICA HISTORICAL SOCIETY</h3><a href=\"tel:6052239099\" target=\"_blank\">Phone</a><br>PO BOX 1 FORT PIERRE SD 57532-0001", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.5230174949997, 
-                    45.3268190880005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BUFFALO PLAINS HISTORICAL FOUNDATION INC</h3>133 W 2ND ST WEBSTER SD 57274", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.0258544809997, 
-                    43.7114237700005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MITCHELL AREA HISTORICAL SOCIETY</h3>119 W 3RD AVE MITCHELL SD 57301-3410", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7343562889997, 
-                    45.8655473430005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ROSHOLT AREA THRESHERMENS ASSOCIATION INC</h3>2ND STREET EAST ROSHOLT SD 57260", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.573528733, 
-                    43.9344418100005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BLACK HILLS MUSEUM OF NATURAL HISTORY FOUNDATION INC</h3>PO BOX 614 HILL CITY SD 57745-0614", 
-                "marker-color": "#14008C", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.8444379179997, 
-                    43.3861238570005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CECIL AND PHYLLIS MELCHER MUSEUM INC</h3>PO BOX 373 PLATTE SD 57369-0373", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.4588799869996, 
-                    44.7977186650005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GARY HISTORICAL ASSN</h3>PO BOX 83 GARY SD 57237", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.6365973019997, 
-                    45.2198986150005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SOUTH DAKOTA AMERICAN LEGION BASEBALL HALL OF FAME INC</h3>PO BOX 586 MILBANK SD 57252-0586", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7169559339997, 
-                    43.8292343190005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DELL RAPIDS SOCIETY OF HISTORIC PRESERVATION</h3>PO BOX 143 DELL RAPIDS SD 57022", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.591916796, 
-                    43.6079407260005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>COLD SPRINGS HISTORICAL SOCIETY INC</h3>PO BOX7 PRINGLE SD 57773-0007", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.0464500349997, 
-                    44.2445117000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HETLAND HISTORICAL SOCIETY</h3>106 MAIN AVE HETLAND SD 57212-7700", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.1625197389997, 
-                    43.2674921750005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HISTORICAL SOCIETY OF DELMONT C/O EARLA STRID</h3>PO BOX 213 DELMONT SD 57330-0213", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.0616848149997, 
-                    44.8864903140005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>REDLIN ART CENTER INC</h3><b><a href=\"http://www.redlinart.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6058823877\" target=\"_blank\">Phone</a><br>1200 MICKELSON DR STE 3 WATERTOWN SD 57201-7261", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.3974294679997, 
-                    42.8980537480005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LEWIS AND CLARK RECREATION AREA VISITOR CENTER</h3>PO BOX 710 YANKTON SD 57078-0710", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -102.161203974, 
-                    45.9349003940005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GRAND RIVER MUSEUM</h3><b><a href=\"http://www.grandrivermuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053743911\" target=\"_blank\">Phone</a><br>114 10TH ST W LEMMON SD 57638-2202", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.868772232, 
-                    44.4879387000005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SPEARFISH AREA HISTORICAL SOCIETY</h3>540 ST JOE SPEARFISH SD 57783-1954", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.6850788709997, 
-                    42.6864041920005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ELK POINT COMMUNITY PRIDE</h3>PO BOX 280 ELK POINT SD 57025-0280", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.295399714, 
-                    44.0439260380004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CITY OF PRESIDENTS FOUNDATION</h3>4121 PENROSE PL RAPID CITY SD 57702-6827", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.5757368109997, 
-                    43.5946623900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BRANDON HISTORICAL SOCIETY</h3>PO BOX 606 BRANDON SD 57005-0606", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.4810159909997, 
-                    44.2397181130005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>ELKTON COMMUNITY MUSEUM HISTORICAL SOCIETY</h3><a href=\"tel:6055422451\" target=\"_blank\">Phone</a><br>109 ELK ST ELKTON SD 57026", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.6914906389997, 
-                    43.9063501580005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>LITTLE VILLAGE FARM INC</h3>47582 240TH ST DELL RAPIDS SD 57022-6113", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7386679259997, 
-                    43.4862004800005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>TEA HISTORICAL SOCIETY</h3>403EAST57THSTREET SIOUXFALLS SD 57108", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.504816818, 
-                    44.4061095230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>STURGIS MOTORCYCLE MUSEUM AND HALL OF FAME</h3><b><a href=\"http://www.sturgismuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053472001\" target=\"_blank\">Phone</a><br>PO BOX 602 STURGIS SD 57785-0602", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.5267585519996, 
-                    44.0111441900005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>MINER COUNTY HISTORICAL SOCIETY</h3><a href=\"tel:6057724567\" target=\"_blank\">Phone</a><br>PO BOX 245 HOWARD SD 57349-0245", 
-                "marker-color": "#0058D8", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.6372797969997, 
-                    44.6252669230005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>WILLOW LAKE COMMUNITY MUSEUM- LIBRARY</h3>203 GARFIELD AVENUE WILLOW LAKE SD 57278", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.7144157009997, 
-                    44.1712526690005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>CARTHAGE MUSEUM AND HISTORICAL SOCIETY</h3>250 MAIN STREET EAST CARTHAGE SD 57323", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.4810873099997, 
-                    45.2837075310005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>BIG STONE CITY HISTORICAL SOCIETY</h3>PO BOX 185 BIG STONE CITY SD 57216", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.0789849859997, 
-                    43.1741307210005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DANEVILLE HERITAGE ASSOCIATION INC</h3>305 N ELMWOOD STREET VIBORG SD 57070-2007", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -98.5312269009997, 
-                    43.0634213320005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PICKSTOWN AND FORT RANDALL MUSEUM FOUNDATION</h3>108 LEWIS AVE PICKSTOWN SD 57367", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.728520091, 
-                    44.3737191870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>DEADWOOD HISTORIC PRESERVATION</h3><a href=\"tel:6055782082\" target=\"_blank\">Phone</a><br>108 SHERMAN ST. DEADWOOD SD 57732", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.3715788079997, 
-                    45.7039086670005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>FORT SISSETON HISTORICAL STATE PARK</h3><b><a href=\"http://gfp.sd.gov/fort-sisseton\" target=\"_blank\">Website</a></b><br><a href=\"tel:6054485474\" target=\"_blank\">Phone</a><br>11907 434TH AVENUE LAKE CITY SD 57247", 
-                "marker-color": "#0093BF", 
+                "": "<h4>MUSEUM OF WILDLIFE SCIENCE & INDUSTRY</h4><b>Website:</b> <a href=\"http://www.sdmuseum.org\" target=\"_blank\">http://www.sdmuseum.org</a><br><b>Phone:</b> <a href=\"tel:6053454751\" target=\"_blank\">6053454751</a><br>760 W HIGHWAY 12 WEBSTER SD 57274", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2919,8 +163,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>MUSEUM OF GEOLOGY</h3><b><a href=\"http://museum.sdsmt.edu/\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053942487\" target=\"_blank\">Phone</a><br>501 EAST ST. JOSEPH RAPID CITY SD 57709", 
-                "marker-color": "#007321", 
+                "": "<h4>AMERICAN INDIAN ART MUSEUM INCORPORATED</h4>PO BOX 725 RAPID CITY SD 57709", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2928,14 +171,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -96.7985898969997, 
-                    44.3103133280005
+                    -103.727578918, 
+                    44.3722799000005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>SOUTH DAKOTA ART MUSEUM</h3><b><a href=\"http://www.southdakotaartmuseum.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056885423\" target=\"_blank\">Phone</a><br>", 
-                "marker-color": "#007321", 
+                "": "<h4>DEADWOOD HISTORY INC</h4>150 SHERMAN ST DEADWOOD SD 57732-1338", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2943,14 +185,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -100.905306421, 
-                    43.1397008380005
+                    -101.512505849, 
+                    43.8380522100005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>BUECHEL MEMORIAL LAKOTA MUSEUM</h3><b><a href=\"http://www.sfmission.org/museum/\" target=\"_blank\">Website</a></b><br>350 OAK ST ST. FRANCIS SD 57572", 
-                "marker-color": "#007321", 
+                "": "<h4>SAVE THE PEARL HOTEL INCORPORATED</h4>PO BOX 504 KADOKA SD 57543-0504", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2958,14 +199,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -97.1303920029997, 
-                    44.9080855010005
+                    -96.7860304539997, 
+                    43.5147815910005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>BRAMBLE PARK ZOO</h3><b><a href=\"http://www.brambleparkzoo.com\" target=\"_blank\">Website</a></b><br><a href=\"tel:6058826269\" target=\"_blank\">Phone</a><br>901 6TH AVE NW WATERTOWN SD 57201-0910", 
-                "marker-color": "#CC430A", 
+                "": "<h4>SOUTH DAKOTA TENNIS HALL OF FAME INC</h4>4809 WEST 41ST STREET SIOUX FALLS SD 57106-1568", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2973,14 +213,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -103.218504356, 
-                    44.0853654620005
+                    -96.7237471769997, 
+                    43.5444105190005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>MINNILUSA HISTORICAL ASSOCIATION</h3><b><a href=\"http://www.journeymuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053946923\" target=\"_blank\">Phone</a><br>222 NEW YORK ST RAPID CITY SD 57701-1199", 
-                "marker-color": "#0093BF", 
+                "": "<h4>SOUTH DAKOTA AFRICAN AMERICAN HISTORY MUSEUM</h4>PO BOX 2266 SIOUX FALLS SD 57101-5710", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -2988,14 +227,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -97.4073195009997, 
-                    42.8741201410005
+                    -101.73472905, 
+                    43.3891417470005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>YANKTON COUNTY HISTORICAL SOCIETY</h3><b><a href=\"http://dakotaterritorialmuseum.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6056653898\" target=\"_blank\">Phone</a><br>610 SUMMIT ST YANKTON SD 57078-3858", 
-                "marker-color": "#0093BF", 
+                "": "<h4>QUIVER HILL WILDLIFE HISTORIC PRESERVATION SOCIETY</h4>PO BOX 232 - 22752 SD HWY 44 WANBLEE SD 57577", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3003,14 +241,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -96.7612383929997, 
-                    43.5568802450005
+                    -96.8003065729997, 
+                    44.3106164950005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>ZOOLOGICAL SOCIETY OF SIOUX FALLS GREAT PLAINS ZOO & MUSEUM</h3><b><a href=\"http://www.greatzoo.org\" target=\"_blank\">Website</a></b><br>805 S KIWANIS AVE SIOUX FALLS SD 57104-3716", 
-                "marker-color": "#B400BF", 
+                "": "<h4>SCIENCE VISIONS INC</h4>521 3RD AVE BROOKINGS SD 57006", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3018,104 +255,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -97.1190470879997, 
-                    44.0027434240005
+                    -96.8040862029997, 
+                    44.2825348420005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>KARL E MUNDT HISTORICAL & EDUCATIONAL FOUNDATION</h3>PO BOX 483 MADISON SD 57042", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.1136875819997, 
-                    44.0050133870005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>PRAIRIE HISTORICAL SOCIETY</h3>PO BOX 256 MADISON SD 57042-0256", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.4946071759997, 
-                    43.2268919680005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>GREGORY COUNTY HISTORICAL SOCIETY INC COUNTY HEADQUARTERS</h3>29587 334TH AVE DALLAS SD 57529", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -99.6350572829997, 
-                    45.7779562510005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>EUREKA PIONEER MUSEUM INC</h3>PO BOX 902 EUREKA SD 57437", 
-                "marker-color": "#007321", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -103.861437479, 
-                    44.5066963980005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>HIGH PLAINS HERITAGE SOCIETY</h3>PO BOX 524 SPEARFISH SD 57783-0524", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -97.3125562519997, 
-                    44.2281709990005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>OLDHAM LIBRARY AND HISTORICAL ASSOCIATION</h3>PO BOX 243 OLDHAM SD 57051", 
-                "marker-color": "#0093BF", 
-                "marker-symbol": "museum"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -96.7658840079997, 
-                    43.5064782620005
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "": "<h3>SERTOMA BUTTERFLY HOUSE</h3><b><a href=\"http://sertomabutterflyhouse.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6053349466\" target=\"_blank\">Phone</a><br>4320 S OXBOW AVE SIOUX FALLS SD 57106-4110", 
-                "marker-color": "#CC430A", 
+                "": "<h4>DAKOTA TERRITORY LIVING HISTORY MUSEUM FOUNDATION INC</h4>103 WEST 20TH STREET SOUTH BROOKINGS SD 57006-3708", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3129,8 +275,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>TATANKA FOUNDATION</h3>PO BOX 503 DEADWOOD SD 57732-0503", 
-                "marker-color": "#0058D8", 
+                "": "<h4>TATANKA FOUNDATION</h4>PO BOX 503 DEADWOOD SD 57732-0503", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3138,14 +283,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -96.7931878399997, 
-                    43.5206538940005
+                    -96.7658840079997, 
+                    43.5064782620005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>SOUTH DAKOTA ROCK AND ROLL MUSIC ASSOCIATION</h3>5329 W PRITCHARD DR SIOUX FALLS SD 57106-0853", 
-                "marker-color": "#007321", 
+                "": "<h4>SERTOMA BUTTERFLY HOUSE</h4><b>Website:</b> <a href=\"http://sertomabutterflyhouse.org\" target=\"_blank\">http://sertomabutterflyhouse.org</a><br><b>Phone:</b> <a href=\"tel:6053349466\" target=\"_blank\">6053349466</a><br>4320 S OXBOW AVE SIOUX FALLS SD 57106-4110", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3153,14 +297,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -103.847291393, 
-                    44.6641309210005
+                    -96.7612383929997, 
+                    43.5568802450005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>TRI-STATE MUSEUM</h3><a href=\"tel:6058923067\" target=\"_blank\">Phone</a><br>1222 9TH AVE BELLE FOURCHE SD 57717-1905", 
-                "marker-color": "#007321", 
+                "": "<h4>ZOOLOGICAL SOCIETY OF SIOUX FALLS GREAT PLAINS ZOO & MUSEUM</h4><b>Website:</b> <a href=\"http://www.greatzoo.org\" target=\"_blank\">http://www.greatzoo.org</a><br>805 S KIWANIS AVE SIOUX FALLS SD 57104-3716", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3168,14 +311,55 @@
         {
             "geometry": {
                 "coordinates": [
-                    -99.4356063149997, 
-                    43.2412135820005
+                    -97.1303920029997, 
+                    44.9080855010005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>IONA COMMUNITY CENTER</h3>26510 335TH AVE IONA SD 57533-8003", 
-                "marker-color": "#0093BF", 
+                "": "<h4>BRAMBLE PARK ZOO</h4><b>Website:</b> <a href=\"http://www.brambleparkzoo.com\" target=\"_blank\">http://www.brambleparkzoo.com</a><br><b>Phone:</b> <a href=\"tel:6058826269\" target=\"_blank\">6058826269</a><br>901 6TH AVE NW WATERTOWN SD 57201-0910", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5267585519996, 
+                    44.0111441900005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>MINER COUNTY HISTORICAL SOCIETY</h4><b>Phone:</b> <a href=\"tel:6057724567\" target=\"_blank\">6057724567</a><br>PO BOX 245 HOWARD SD 57349-0245", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.868772232, 
+                    44.4879387000005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>SPEARFISH AREA HISTORICAL SOCIETY</h4>540 ST JOE SPEARFISH SD 57783-1954", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.8444379179997, 
+                    43.3861238570005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>CECIL AND PHYLLIS MELCHER MUSEUM INC</h4>PO BOX 373 PLATTE SD 57369-0373", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3189,8 +373,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>SOUTH DAKOTA STATE RAILROAD MUSEUM LTD</h3>PO BOX 1070 HILL CITY SD 57745-1070", 
-                "marker-color": "#0058D8", 
+                "": "<h4>BLACK HILLS MUSEUM OF NATURAL HISTORY FOUNDATION INC</h4>PO BOX 614 HILL CITY SD 57745-0614", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
@@ -3198,14 +381,97 @@
         {
             "geometry": {
                 "coordinates": [
-                    -103.764022016, 
-                    44.3516261660005
+                    -97.0391185999997, 
+                    45.6623461680005
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "": "<h3>HOMESTAKE VISITOR CENTER INC</h3><b><a href=\"http://www.leadmethere.org\" target=\"_blank\">Website</a></b><br><a href=\"tel:6055843110\" target=\"_blank\">Phone</a><br>160 W MAIN ST LEAD SD 57754-1362", 
-                "marker-color": "#0093BF", 
+                "": "<h4>HERITAGE MUSEUM OF ROBERTS COUNTY</h4>PO BOX 215 SISSETON SD 57262-0215", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.9572829039997, 
+                    45.0114751960005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DAKOTA SUNSET MUSEUM INC</h4>205 W COMMERCIAL AVE STE 104 GETTYSBURG SD 57442-1103", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.729327591, 
+                    44.3751730850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>ADAMS MUSEUM AND HOUSE INC</h4><b>Website:</b> <a href=\"http://www.adamsmuseumandhouse.org\" target=\"_blank\">http://www.adamsmuseumandhouse.org</a><br>PO BOX 252 DEADWOOD SD 57732-0252", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.2140471579997, 
+                    44.3618817140005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>HURON AREA ARTS COUNCIL</h4><b>Phone:</b> <a href=\"tel:6053528307\" target=\"_blank\">6053528307</a><br>PO BOX 774 HURON SD 57350-0774", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.729327591, 
+                    44.3751730850005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>DAYS OF 76 MUSEUM INC</h4>PO BOX 391 DEADWOOD SD 57732-0391", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4835344989997, 
+                    43.7152468760005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>PLANKINTON PRESERVATION SOCIETY INC</h4>208 E 2ND ST PLANKINTON SD 57368-2239", 
+                "marker-symbol": "museum"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.1148696229997, 
+                    44.8900903620005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "": "<h4>WATERTOWN WORLD WILDLIFE MUSEUM</h4>200 9TH AVENUE, SE WATERTOWN SD 57201", 
                 "marker-symbol": "museum"
             }, 
             "type": "Feature"
