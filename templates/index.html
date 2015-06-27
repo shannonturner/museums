@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+{% load staticfiles %}
+
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Let's go!</title>
+    {% include "header.html" %}
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDwAJNgrVKvQmN_oHe6TxNx0nFdxLdUZag"></script>
+
+  </head>
+  <body>
+  <div id="main-container" class="container-fluid">
+
+    <div id="letsgo" class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h1>Let's go!</h1>
+            <h4><i>Search {{ count_museums }} museums from all over the US</i></h4>
+            {% if map %}
+                <br><h4>Click a point on the map to see information about that museum.</h4>
+            {% endif %}
+        </div>
+    </div>
+
+            <div id="map-canvas"></div>
+            <div id="failed-map"><h2>Sorry, I couldn't load a map for that. Please try again.</h2></div>
+
+    <div class="row" id="search-div">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <form action="/" method="POST">
+                {% csrf_token %}
+                <input type="text" id="location" name="location" placeholder="Your location"> <button class="cat-lightblue" id="search">Let's go!</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="row" id="browse-div">
+        <div class="col-lg-2 col-lg-offset-5 text-center">
+            <h6>
+                <s>&nbsp; &nbsp; &nbsp; &nbsp;</s>  
+                or browse by category 
+                <s>&nbsp; &nbsp; &nbsp; &nbsp;</s>
+            </h6>
+        </div>
+    </div>
+
+    <div class="row" id="categories-div">
+        {% if messages %}
+          {% for message in messages %}
+                <br>
+                <div id="message" class="col-lg-6 col-lg-offset-3 text-center alert alert-{% if 'error' in message.tags %}danger{% else %}{{ message.tags }}{% endif %}">
+                {{ message }}
+                </div>
+          {% endfor %}
+        {% endif %}
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <form action="/" method="POST">
+            {% csrf_token %}
+            {% for category in categories %}
+                <button class="categories
+                {% cycle 'cat-red' 'cat-orange' 'cat-yellow' 'cat-green' 'cat-lightblue' 'cat-blue' 'cat-indigo' 'cat-violet' 'cat-pink' %}" 
+                name="category" value="{{ category.code }}">{{ category.name }}</button>
+            {% endfor %}
+            </form>
+        </div>
+    </div>
+
+  </div>
+    {% include "footer.html" %}
+    <script type="text/javascript">
+        function initialize() {
+            var mapOptions = {
+                // TODO: Would love to find way to autocenter / autozoom
+              center: new google.maps.LatLng(39.045753, -76.641273),
+              zoom: 8
+            };
+
+            try {
+                var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+                {% if map and jsonfile %}
+                    map.data.loadGeoJson('{% static ""|add:geojson_path|add:jsonfile|add:".json" %}');
+                {% else %}
+                    throw "Bad location, probably.";
+                {% endif %}
+            } catch (e) {
+                {% if map %}
+                var line_height = $("#map-canvas").height() / 2;
+                $("#map-canvas").remove();
+                $("#failed-map").show();
+                $("#failed-map").css({"line_height": line_height});
+                {% endif %}
+            }
+
+            infoWindow = new google.maps.InfoWindow({
+                content: " " // Placeholder
+            });
+
+            map.data.addListener('click', function(event) {
+                // Show an InfoWindow on click
+                infoWindow.setContent('<div class="infowindow">' + event.feature.A[""] + "</div>");
+                var anchor = new google.maps.MVCObject();
+                anchor.set("position",event.latLng);
+                infoWindow.open(map,anchor);
+            });
+
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </body>
+</html>
