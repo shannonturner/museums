@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 
-{% load staticfiles %}
-
 <html lang="en">
   <head>
     
@@ -84,7 +82,7 @@
             try {
                 var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
                 {% if map and jsonfile %}
-                    map.data.loadGeoJson('{% static ""|add:geojson_path|add:jsonfile|add:".json" %}');
+                    map.data.loadGeoJson('{{ "http://shannonvturner.com/museums_geojson/"|add:jsonfile|add:".json" }}');
                 {% else %}
                     throw "Bad location, probably.";
                 {% endif %}
