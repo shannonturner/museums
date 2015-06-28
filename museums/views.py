@@ -7,7 +7,7 @@ from django.core.exceptions import ObjectDoesNotExist
 from geopy.distance import vincenty
 from geopy.geocoders import GoogleV3
 
-from localflavor.us.us_states import STATES_NORMALIZED
+from localflavor.us.us_states import STATES_NORMALIZED, US_STATES
 
 import hashlib
 import json
@@ -49,11 +49,13 @@ class HomeView(TemplateView):
             if location.lower() in self.states_and_abbrevs:
                 if len(location) != 2:
                     location = STATES_NORMALIZED.get(location.lower())
-                    # TEMPORARY: EXCLUDE 11K GENERAL MUSEUMS FOR NOW -- Can always add them back later
                 context["jsonfile"] = location
+                # TEMPORARY: EXCLUDE 11K GENERAL MUSEUMS FOR NOW -- Can always add them back later
                 museums = Museum.objects.filter(state=location).exclude(types__code='GMU')
                 if museums.count() > 0:
                     geojson = self.get_geojson(**{'name': location, 'museums': museums})
+                    # By this point, location is always a two-letter abbreviation
+                    address, (latitude, longitude) = self.geolocator.geocode([state_tuple[1] for state_tuple in US_STATES if state_tuple[0] == location])
             else:
                 try:
                     museums = []
@@ -75,6 +77,8 @@ class HomeView(TemplateView):
 
                         context["jsonfile"] = hashlib.sha256(location).hexdigest()[:8]
                         geojson = self.get_geojson(**{'name': context["jsonfile"], 'museums': museums})
+                        context["latitude"] = latitude
+                        context["longitude"] = longitude
 
         # context["geojson_path"] = PATH_PREFIX
         context['museums'] = museums
