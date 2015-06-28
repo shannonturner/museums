@@ -166,7 +166,7 @@ class HomeView(TemplateView):
     def save_geojson(self, **kwargs):
         geojson = kwargs.get('geojson')
         name = kwargs.get('name')
-        with open("{0}geojson/{1}.json".format(PATH_PREFIX, name), 'w') as json_file:
+        with open("{0}{1}.json".format(PATH_PREFIX, name), 'w') as json_file:
             json_file.write(geojson)
 
     def get_within_radius(self, **kwargs):
