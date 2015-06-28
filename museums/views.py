@@ -55,7 +55,7 @@ class HomeView(TemplateView):
                 if museums.count() > 0:
                     geojson = self.get_geojson(**{'name': location, 'museums': museums})
                     # By this point, location is always a two-letter abbreviation
-                    address, (latitude, longitude) = self.geolocator.geocode([state_tuple[1] for state_tuple in US_STATES if state_tuple[0] == location])
+                    address, (latitude, longitude) = self.geolocator.geocode(''.join([state_tuple[1] for state_tuple in US_STATES if state_tuple[0] == location]))
             else:
                 try:
                     museums = []
