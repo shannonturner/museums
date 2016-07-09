@@ -100,15 +100,7 @@
 
             map.data.addListener('click', function(event) {
                 // Show an InfoWindow on click
-                infoWindow.setContent('<div class="infowindow">' + event.feature.A[""] + "</div>");
-                var anchor = new google.maps.MVCObject();
-                anchor.set("position",event.latLng);
-                infoWindow.open(map,anchor);
-            });
-            // Adding "touchstart" so you can expand the infowindow on phones too
-            map.data.addListener('touchstart', function(event) {
-                // Show an InfoWindow on click
-                infoWindow.setContent('<div class="infowindow">' + event.feature.A[""] + "</div>");
+                infoWindow.setContent('<div class="infowindow">' + event.feature.f[""] + "</div>");
                 var anchor = new google.maps.MVCObject();
                 anchor.set("position",event.latLng);
                 infoWindow.open(map,anchor);
