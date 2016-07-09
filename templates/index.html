@@ -74,7 +74,6 @@
     <script type="text/javascript">
         function initialize() {
             var mapOptions = {
-                // TODO: Would love to find way to autocenter / autozoom
               center: new google.maps.LatLng(39.045753, -76.641273),
               zoom: 8
             };
@@ -106,12 +105,20 @@
                 anchor.set("position",event.latLng);
                 infoWindow.open(map,anchor);
             });
+            // Adding "touchstart" so you can expand the infowindow on phones too
+            map.data.addListener('touchstart', function(event) {
+                // Show an InfoWindow on click
+                infoWindow.setContent('<div class="infowindow">' + event.feature.A[""] + "</div>");
+                var anchor = new google.maps.MVCObject();
+                anchor.set("position",event.latLng);
+                infoWindow.open(map,anchor);
+            });
 
             {% if latitude and longitude %}
                 initialLocation = new google.maps.LatLng({{ latitude }}, {{ longitude}});
                 map.setCenter(initialLocation);
             {% else %}
-                // Try to get user's geolocation from Google
+                // Try to get user's geolocation
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function (position) {
                         initialLocation = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
