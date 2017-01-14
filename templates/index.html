@@ -81,7 +81,7 @@
             try {
                 var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
                 {% if map and jsonfile %}
-                    map.data.loadGeoJson('{{ "http://shannonvturner.com/museums_geojson/"|add:jsonfile|add:".json" }}');
+                    map.data.loadGeoJson('{{ "https://shannonvturner.com/museums_geojson/"|add:jsonfile|add:".json" }}');
                 {% else %}
                     throw "Bad location, probably.";
                 {% endif %}
