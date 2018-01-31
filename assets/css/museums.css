@@ -1,0 +1,172 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#main-container {
+    overflow: hidden; 
+    height: 1%;
+    background-repeat: no-repeat;
+    /*background-position: 50%;*/
+    background-position: top;
+    /*background-size: 100% auto;*/
+    background-size: cover;
+    background-image: url(https://shannonvturner.com/images/uspo-1920-o.png);
+    background-attachment: fixed;
+    min-height: 900px;
+    padding-bottom: 6em;
+}
+
+#letsgo {
+    background: white;
+}
+
+#footer {
+    background: black;
+    color: white;
+}
+
+#search-div, #browse-div, #categories-div {
+    margin: 1em;
+}
+
+#browse-div div {
+    background: white;
+}
+
+#location {
+    width: 40%;
+    text-align: center;
+    padding: .3em;
+    border-radius: 3%;
+}
+
+#search {
+    color: white;
+    margin: .2em;
+    color: white;
+    padding: .3em;
+    border-radius: 15%;
+}
+
+.categories {
+    padding: 0;
+    color: white;
+    width: 12%;
+    height: 5em;
+    /*line-height: 4em;*/
+    vertical-align: bottom;
+    display: inline-block;
+}
+
+.cat-red {
+    background: #BF0000;
+}
+
+.cat-orange {
+    background: #CC430A;
+}
+
+.cat-yellow {
+    background: #CABA00;
+}
+
+.cat-green {
+    background: #007321;
+}
+
+.cat-lightblue {
+    background: #0093BF;
+}
+
+.cat-blue {
+    background: #0058D8;
+}
+
+.cat-indigo {
+    background: #14008C;
+}
+
+.cat-violet {
+    background: #45008C;
+}
+
+.cat-pink {
+    background: #B400BF;
+}
+
+html, body, #map-canvas { 
+    height: 100%; 
+    margin: 0; 
+    padding: 0;
+}
+
+#map-canvas {
+    width: 80%;
+    margin: auto;
+    margin-top: 2em;
+    height: 50%;
+}
+
+#failed-map {
+    display: none;
+    background: #ccc;
+    text-align: center;
+}
+
+.infowindow {
+    line-height: 1.35;
+}
+
+@media screen and (max-width: 1440px) {
+    #main-container {
+        background-image: url(https://shannonvturner.com/images/uspo-1440-o.png);
+        min-height: 675px;
+    }
+    #location {
+        width: 65%;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    #main-container {
+        background-image: url(https://shannonvturner.com/images/uspo-1080-o.png);
+        min-height: 640px;
+    }
+}
+
+@media screen and (min-width: 901px) {
+    #categories-div div {
+        display: flex;
+    }
+    .categories {
+        flex: 1;
+        padding: 5px;
+        height: 100%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .categories {
+        display: block;
+        width: 100%;
+    }
+    #map-canvas {
+        height: 35%;
+    }
+    #main-container {
+        min-height: 1080px;
+        padding-bottom: 10em;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #main-container {
+        background-image: url(https://shannonvturner.com/images/uspo-768-o.png);
+    }
+}
+
+@media screen and (max-width: 640px) {
+    #main-container {
+        background-image: url(https://shannonvturner.com/images/uspo-640-o.png);
+    }
+}
