@@ -10,7 +10,7 @@
     background-position: top;
     /*background-size: 100% auto;*/
     background-size: cover;
-    background-image: url(https://shannonvturner.com/images/uspo-1920-o.png);
+    background-image: url(https://shannonvturner.com/images/uspo-1920-o2.png);
     background-attachment: fixed;
     min-height: 900px;
     padding-bottom: 6em;
@@ -119,7 +119,7 @@ html, body, #map-canvas {
 
 @media screen and (max-width: 1440px) {
     #main-container {
-        background-image: url(https://shannonvturner.com/images/uspo-1440-o.png);
+        background-image: url(https://shannonvturner.com/images/uspo-1440-o2.png);
         min-height: 675px;
     }
     #location {
@@ -129,7 +129,7 @@ html, body, #map-canvas {
 
 @media screen and (max-width: 1080px) {
     #main-container {
-        background-image: url(https://shannonvturner.com/images/uspo-1080-o.png);
+        background-image: url(https://shannonvturner.com/images/uspo-1080-o2.png);
         min-height: 640px;
     }
 }
@@ -161,12 +161,12 @@ html, body, #map-canvas {
 
 @media screen and (max-width: 768px) {
     #main-container {
-        background-image: url(https://shannonvturner.com/images/uspo-768-o.png);
+        background-image: url(https://shannonvturner.com/images/uspo-768-o2.png);
     }
 }
 
 @media screen and (max-width: 640px) {
     #main-container {
-        background-image: url(https://shannonvturner.com/images/uspo-640-o.png);
+        background-image: url(https://shannonvturner.com/images/uspo-640-o2.png);
     }
 }
