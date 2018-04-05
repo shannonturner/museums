@@ -31,8 +31,7 @@
 
     <div class="row" id="search-div">
         <div class="col-lg-8 col-lg-offset-2 text-center">
-            <form action="/" method="POST">
-                {% csrf_token %}
+            <form method="POST">
                 <input type="text" id="location" name="location" placeholder="Your location"> <button class="cat-lightblue" id="search">Let's go!</button>
             </form>
         </div>
@@ -58,8 +57,7 @@
           {% endfor %}
         {% endif %}
         <div class="col-lg-10 col-lg-offset-1 text-center">
-            <form action="./" method="POST">
-            {% csrf_token %}
+            <form method="POST">
             {% for category in categories %}
                 <button class="categories
                 {% cycle 'cat-red' 'cat-orange' 'cat-yellow' 'cat-green' 'cat-lightblue' 'cat-blue' 'cat-indigo' 'cat-violet' 'cat-pink' %}" 
