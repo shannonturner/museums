@@ -13,15 +13,15 @@
     background-image: url(https://shannonvturner.com/images/uspo-1920-o2.png);
     background-attachment: fixed;
     min-height: 900px;
-    padding-bottom: 12em;
 }
 
 #letsgo {
-    background: white;
+    background: #333;
+    color: white;
 }
 
 #footer {
-    background: black;
+    background: #333;
     color: white;
 }
 
@@ -44,8 +44,7 @@
     color: white;
     margin: .2em;
     color: white;
-    padding: .3em;
-    border-radius: 15%;
+    padding: .3em 1em;
 }
 
 .categories {
@@ -131,7 +130,6 @@ html, body, #map-canvas {
     #main-container {
         background-image: url(https://shannonvturner.com/images/uspo-1080-o2.png);
         min-height: 640px;
-        padding-bottom: 14em;
     }
 }
 
@@ -156,7 +154,6 @@ html, body, #map-canvas {
     }
     #main-container {
         min-height: 1080px;
-        padding-bottom: 20em;
     }
 }
 
@@ -169,6 +166,5 @@ html, body, #map-canvas {
 @media screen and (max-width: 640px) {
     #main-container {
         background-image: url(https://shannonvturner.com/images/uspo-640-o2.png);
-        padding-bottom: 24em;
     }
 }
