@@ -31,9 +31,9 @@
 
     <div class="row" id="search-div">
         <div class="col-lg-8 col-lg-offset-2 text-center">
-            <form method="POST">
-                <input type="text" id="location" name="location" placeholder="Your location"> <button class="cat-red" id="search">Let's go!</button>
-            </form>
+            <!-- <form method="POST"> -->
+                <!-- <input type="text" id="location" name="location" placeholder="Your location"> <button class="cat-red" id="search">Let's go!</button> -->
+            <!-- </form> -->
         </div>
     </div>
 
@@ -88,7 +88,7 @@
 
             map.data.addListener('click', function(event) {
                 // Show an InfoWindow on click
-                infoWindow.setContent('<div class="infowindow">' + event.feature.f[""] + "</div>");
+                infoWindow.setContent('<div class="infowindow">' + event.feature.j[""] + "</div>");
                 var anchor = new google.maps.MVCObject();
                 anchor.set("position",event.latLng);
                 infoWindow.open(map,anchor);
@@ -99,12 +99,12 @@
                 map.setCenter(initialLocation);
             {% else %}
                 // Try to get user's geolocation
-                if (navigator.geolocation) {
-                    navigator.geolocation.getCurrentPosition(function (position) {
-                        initialLocation = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-                        map.setCenter(initialLocation);
-                    });
-                }
+                // if (navigator.geolocation) {
+                //     navigator.geolocation.getCurrentPosition(function (position) {
+                //         initialLocation = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                //         map.setCenter(initialLocation);
+                //     });
+                // }
             {% endif %}
 
         }
