@@ -15,7 +15,7 @@ import json
 from .models import Museum, MuseumType, Search, GeoJSON
 
 RADIUS = 100  # miles
-PATH_PREFIX = '/home/sturner/apps/shannonvturner-com/museums_geojson/'
+PATH_PREFIX = '/home/sturner/apps/shannonvturner-com/_museums_geojson/'
 # PATH_PREFIX = ''
 
 class HomeView(TemplateView):
