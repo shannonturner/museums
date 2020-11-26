@@ -1,4 +1,4 @@
-Django==1.11
+Django==1.11.29
 django-localflavor==1.0
 geopy==1.9.1
 psycopg2==2.6
