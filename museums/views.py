@@ -12,10 +12,10 @@ from localflavor.us.us_states import STATES_NORMALIZED, US_STATES
 import hashlib
 import json
 
-from models import Museum, MuseumType, Search, GeoJSON
+from .models import Museum, MuseumType, Search, GeoJSON
 
 RADIUS = 100  # miles
-PATH_PREFIX = '/home/sturner/webapps/shannonvturner_static/museums_geojson/'
+PATH_PREFIX = '/home/sturner/apps/shannonvturner-com/museums_geojson/'
 # PATH_PREFIX = ''
 
 class HomeView(TemplateView):
